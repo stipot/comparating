@@ -11,6 +11,11 @@ export class DashboardsService {
     return this.http.get('/assets/data/compare/dbindex.json');
   }
 
+getRatingData(DataFileName: string): Observable<any>{
+  return this.http.get('/assets/data/compare/' + DataFileName);
+}
+
+
   // ecommerce dashboard
   getRecentOrdersTableData(): Observable<any> {
     return this.http.get('/assets/data/ecommerce-dashboard/recent-orders-table.json');
