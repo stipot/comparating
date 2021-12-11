@@ -5,7 +5,11 @@ import { Observable } from 'rxjs';
 @Injectable()
 export class DashboardsService {
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
+
+  getSourcesListTableData(): Observable<any> {
+    return this.http.get('/assets/data/compare/dbindex.json');
+  }
 
   // ecommerce dashboard
   getRecentOrdersTableData(): Observable<any> {
