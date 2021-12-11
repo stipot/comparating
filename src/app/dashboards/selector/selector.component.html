@@ -2,21 +2,19 @@
   <h1 class="page-title">Выберите источники для анализа</h1>
 
   <div class="table-wrapper table-responsive">
-    <table mat-table #table class="table table-borderless" [dataSource]="dataSource"  matSort #sort="matSort">
+    <table mat-table #table class="table table-borderless" [dataSource]="dataSource" matSort #sort="matSort">
 
       <ng-container matColumnDef="select">
         <th mat-header-cell *matHeaderCellDef>
-          <mat-checkbox (change)="$event ? masterToggle() : null"
-                        [checked]="selection.hasValue() && isAllSelected()"
-                        [indeterminate]="selection.hasValue() && !isAllSelected()">
+          <mat-checkbox (change)="$event ? masterToggle() : null" [checked]="selection.hasValue() && isAllSelected()"
+            [indeterminate]="selection.hasValue() && !isAllSelected()">
           </mat-checkbox>
-         </th>
-         <td mat-cell *matCellDef="let row">
+        </th>
+        <td mat-cell *matCellDef="let row">
           <mat-checkbox (click)="$event.stopPropagation()"
-                        (change)="$event ? selection.toggle(row) : null"
-                        [checked]="selection.isSelected(row)">
+            (change)="$event ? showSelected() && selection.toggle(row)  : null" [checked]="selection.isSelected(row)">
           </mat-checkbox>
-         </td>
+        </td>
       </ng-container>
 
       <ng-container matColumnDef="url">
@@ -26,7 +24,7 @@
 
       <ng-container matColumnDef="rating">
         <th mat-header-cell *matHeaderCellDef mat-sort-header> Rating </th>
-        <td mat-cell *matCellDef="let row"> {{row.rating}} </td>
+        <td mat-cell *matCellDef="let row"><a target="_blank" href="{{row.url}}">{{row.rating}}</a></td>
       </ng-container>
 
       <ng-container matColumnDef="year">
@@ -38,5 +36,19 @@
       <tr mat-row *matRowDef="let row; columns: displayedColumns;" (click)="selection.toggle(row)">
       </tr>
     </table>
+    <button type="button" class="open-button" (click)="nextStep()"
+      *ngIf="selection.selected.length > 2; else elseBlock">Далее</button>
+    <ng-template #elseBlock>
+      <div class="callout-message-wrapper">
+        <div class="callout-icon">
+          <i class="fas fa-info-circle"></i>
+        </div>
+        <div class="callout-message">
+          <span>
+            Выберите по крайней мере три источника для сравнения
+          </span>
+        </div>
+      </div>
+    </ng-template>
   </div>
 </div>

@@ -3,7 +3,8 @@ import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource, MatTable } from '@angular/material/table';
 import { SelectionModel } from '@angular/cdk/collections';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
+import { Udm } from '../unified.data.model'
 
 export interface RowData {
   rating: string;
@@ -27,16 +28,21 @@ export interface RowData {
   ]
 })
 export class SelectorComponent implements OnInit {
-  displayedColumns: string[] = ['select', 'rating', 'year', 'url'];
+  displayedColumns: string[] = ['select', 'rating', 'year'];
   dataSource: MatTableDataSource<RowData>;
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
   @ViewChild(MatSort, { static: true }) sort: MatSort;
   @ViewChild('table', { static: true }) table: MatTable<RowData>;
   selection = new SelectionModel<RowData>(true, []);
+  selectedCount: number
+  udm: Udm
 
   // Data from the resolver
   originalData = [];
-  constructor(private route: ActivatedRoute) {
+  constructor(
+    private route: ActivatedRoute,
+    private router: Router
+    ) {
     // tslint:disable-next-line:no-string-literal
     this.originalData = route.snapshot.data['tableData'];
     this.dataSource = new MatTableDataSource(this.originalData);
@@ -61,5 +67,27 @@ export class SelectorComponent implements OnInit {
     this.isAllSelected() ?
       this.selection.clear() :
       this.dataSource.data.forEach(row => this.selection.select(row));
+  }
+  showSelected(){
+    this.selectedCount = this.selection.selected.length
+    return true
+  }
+  nextStep(){
+    //this.router.navigate(['/description']);
+    this.selection.selected.forEach(rank =>{
+      /**
+       * TODO
+       * Для каждого университета в рейтинге ищем приведенное имя, добавляем данные в приведую модель данных Udm
+       * Ключем является hash имени университета.
+       * Таким образом у нас проиндексированная унифицированная информация. Возможно стоит при формировании хэша 
+       * добавлять название страны для исключения неопреденности.
+       * Список сохраняем именным образом, чтобы потом сравнивать перечни по годам.
+       * Котвертируем объект в массив и отображаем.
+       * Реализуем поиск по названию университета, фильтрацию по стране, вхождение минимум в три рейтинга, 
+       * страны с соглашением и Россию
+       * 
+      */
+    })
+
   }
 }
