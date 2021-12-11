@@ -1,0 +1,46 @@
+<div class="side-menu-branding">
+  <mat-icon class="brand-logo" svgIcon="angular-logo"></mat-icon>
+  <span class="menu-item-title">Comparating</span>
+</div>
+
+<ul class="side-menu-navigation nav flex-column">
+  <li class="menu-item expandable-item nav-item" [routerLinkActive]="['active']">
+    <mat-expansion-panel [expanded]="true">
+      <mat-expansion-panel-header class="menu-link">
+        <div class="item-header-content">
+          <mat-panel-title>
+            <mat-icon class="menu-item-icon" svgIcon="dashboards"></mat-icon>
+            <span class="menu-item-title">
+              Материалы</span>
+          </mat-panel-title>
+        </div>
+      </mat-expansion-panel-header>
+      <ul class="menu-sub-navigation nav flex-column">
+        <li class="menu-item nav-item" [routerLinkActive]="['active']">
+          <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/comparator']">
+            <i class="menu-item-icon"></i>
+            <span class="menu-item-title">Обзор</span>
+          </a>
+        </li>
+        <li class="menu-item nav-item" [routerLinkActive]="['active']">
+          <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/description']">
+            <i class="menu-item-icon"></i>
+            <span class="menu-item-title">Описание</span>
+          </a>
+        </li>
+        <li class="menu-item nav-item" [routerLinkActive]="['active']">
+          <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/comparator']">
+            <i class="menu-item-icon"></i>
+            <span class="menu-item-title">Таблицы</span>
+          </a>
+        </li>
+        <li class="menu-item nav-item" [routerLinkActive]="['active']">
+          <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/comparator']">
+            <i class="menu-item-icon"></i>
+            <span class="menu-item-title">Графики</span>
+          </a>
+        </li>
+      </ul>
+    </mat-expansion-panel>
+  </li>
+</ul>

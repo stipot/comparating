@@ -1,0 +1,24 @@
+@import "../mixins/bouncing-lines-background";
+
+$max-lines-count: 6;
+
+// Bouncing line loading animation
+:host([animation="bouncing"]) {
+  // Default one line text-shell
+  @include bouncing-lines-background(1);
+
+  // Support for [lines] attribute
+  @for $i from 1 through $max-lines-count {
+    &[lines="#{ $i }"] {
+      @include bouncing-lines-background($i);
+    }
+  }
+
+  &.text-loaded {
+    background: none;
+    min-height: inherit;
+    color: inherit;
+    // 0 is the default value (see: https://stackoverflow.com/a/15963044/1116959)
+    animation: 0;
+  }
+}

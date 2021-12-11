@@ -1,0 +1,38 @@
+@import "./mixins/masked-lines-background";
+
+$max-lines-count: 6;
+
+:host {
+  --text-shell-background: transparent;
+  --text-shell-line-color: #EEE;
+  --text-shell-line-height: 16px;
+  --text-shell-line-gutter: 3px;
+
+  display: block;
+  position: relative;
+  color: transparent;
+  background-color: var(--text-shell-background);
+  transform-style: preserve-3d;
+  // To fix 1px line misalignment in chrome: https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip
+  // (I also noticed that if I set the color to a solid color instead of having opacity, the issue doesn't happen)
+  background-clip: content-box;
+}
+
+// Default styles. When no animation attribute is provided
+:host(:not([animation])) {
+  // Default one line text-shell
+  @include masked-lines-background(1);
+
+  // Support for [lines] attribute
+  @for $i from 1 through $max-lines-count {
+    &[lines="#{ $i }"] {
+      @include masked-lines-background($i);
+    }
+  }
+
+  &.text-loaded {
+    background: none;
+    min-height: inherit;
+    color: inherit;
+  }
+}

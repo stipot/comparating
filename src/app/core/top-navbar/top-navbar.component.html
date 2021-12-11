@@ -1,0 +1,37 @@
+<!-- Conditional template Outlet (see: https://stackoverflow.com/a/52448001/1116959) -->
+<ng-container *ngTemplateOutlet="(_mode === 'condensed') ? condensedToolbar : expandedToolbar;">
+</ng-container>
+
+<ng-template #condensedToolbar>
+  <mat-toolbar class="top-navbar-toolbar" *transloco="let t">
+    <mat-toolbar-row>
+      <div class="navbar-branding">
+        <button class="btn toggle-sidenav-btn" type="button" (click)="toggleMainMenu()">
+          <i class="fa fa-bars"></i>
+        </button>
+      </div>
+      <span class="navbar-title">Comparating</span>
+    </mat-toolbar-row>
+  </mat-toolbar>
+</ng-template>
+
+<ng-template #expandedToolbar>
+  <mat-toolbar class="top-navbar-toolbar">
+    <mat-toolbar-row>
+      <div class="navbar-branding">
+        <mat-icon class="brand-logo" svgIcon="angular-logo-2"></mat-icon>
+        <button class="btn toggle-sidenav-btn" type="button" (click)="toggleMainMenu()">
+          <i class="fa fa-bars"></i>
+        </button>
+        <span class="navbar-title">{{ 'title' | transloco}}</span>
+      </div>
+
+      <button type="button" class="action-button btn btn-link" (click)="toggleNotificationsMenu()"></button>
+      <div class="navbar-controls">
+        <div class="navbar-search d-none d-md-block">
+          <button type="button" class="action-button btn btn-link" (click)="toggleNotificationsMenu()"></button>
+        </div>
+      </div>
+    </mat-toolbar-row>
+  </mat-toolbar>
+</ng-template>

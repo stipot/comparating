@@ -1,0 +1,29 @@
+@import 'shared';
+
+// styles for layout-c for the overlap
+:host-context(.layout-c) {
+  --overlap-padding: 80px;
+
+  .highlighted-section {
+    --highlighted-background: #{palette-color('primary')};
+    --heading-color: #{palette-color('primary-contrast')};
+
+    padding-bottom: var(--overlap-padding);
+
+    // Next sibling
+    & + * {
+      margin-top: calc(var(--overlap-padding) * -1);
+    }
+
+    .highlighted-stats-visualization {
+      padding-bottom: 30px;
+    }
+
+    .visualization-heading {
+      --visualization-heading-color: #{palette-color('primary-contrast')};
+      --visualization-heading-action-color: #{palette-color('primary-contrast', 0.8)};
+      --visualization-heading-action-active-color: #{palette-color('primary-contrast')};
+      --visualization-heading-action-active-border-color: #{palette-color('primary-contrast')};
+    }
+  }
+}

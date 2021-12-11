@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="41.33" viewBox="0 0 38.975 41.33" width="38.975" xmlns="http://www.w3.org/2000/svg">
+  <g fill-rule="evenodd">
+    <path d="M -0.097 41.263 L 6.835 0.134 L 39.109 -0.127 L 32.518 41.308 L -0.097 41.263 Z" style="fill: rgb(59, 134, 255);"/>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 0.9px;" x="7.078" y="15.704">C</text>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 1px;" x="43.205" y="19.912">Enter your text here.</text>
+    <path d="M 32.544 41.33 L 6.799 0.04 L 39.151 -0.222 L 32.544 41.33 Z" style="fill: rgb(116, 168, 252);"/>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 48px; white-space: pre;" transform="matrix(0.988775, 0, 0, 1, 4.229444, 0.720312)" x="-2.43" y="37.242">C</text>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" transform="matrix(1.172574, 0, 0, 1.329246, -3.447843, -5.863847)" x="11.727" y="27.461">O</text>
+  </g>
+</svg>
