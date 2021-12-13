@@ -12,6 +12,7 @@ import { TranslocoRootModule } from '../transloco-root.module';
 import { DescriptionComponent } from './description/description.component'
 import { SelectorComponent } from './selector/selector.component'
 import { DisambComponent } from './disamb/disamb.component'
+import {AnalysisComponent} from './analysis/analysis.component'
 
 export const dashboardRoutes = [
   {
@@ -45,11 +46,18 @@ export const dashboardRoutes = [
     resolve: {
       tableData: DisambDashboardResolver
     }
+  },
+  {
+    path: 'analysis',
+    component: AnalysisComponent,
+    resolve: {
+      tableData: DisambDashboardResolver
+    }
   }
 ];
 
 @NgModule({
-  declarations: [ComparatorDashboardComponent, DescriptionComponent, SelectorComponent, DisambComponent],
+  declarations: [ComparatorDashboardComponent, DescriptionComponent, SelectorComponent, DisambComponent, AnalysisComponent],
   imports: [
     CommonModule,
     TranslocoRootModule,

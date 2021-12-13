@@ -43,6 +43,7 @@ export class DisambComponent implements OnInit {
   toDisambNamesList = []
   apiKey: string = ''
   disambjson: string = ''
+  analysejson: string = ''
 
 
   // Data from the resolver
@@ -69,17 +70,19 @@ export class DisambComponent implements OnInit {
     this.service.getDisambiguationData().toPromise().then(responce => {
       this.service.disambData = responce
       let disambDataKeys = Object.keys(this.service.disambData)
-      console.log(disambDataKeys, this.service.rankData)
+      console.log(this.service.rankData, disambDataKeys,)
       this.toDisambNamesList = Object.keys(this.service.rankData).filter(key => { return disambDataKeys.indexOf(key) == -1 })
+      console.log(this.toDisambNamesList, this.service.rankData)
       this.unDisambCount = this.toDisambNamesList.length
     })
   }
+
   prepare() {
     localStorage.setItem('apiKey', this.apiKey)
-    const testString = ['AU University of Western Australia', 'AU The University of Western AU']
-    let counter = testString.length
-    testString.forEach(item => {
-      this.service.getGoogleData(item, this.apiKey).toPromise().then(e => {
+    let counter = this.unDisambCount
+    this.toDisambNamesList.forEach(item => {
+      console.log(item, this.apiKey, this.service.rankData[item].country)
+      this.service.getGoogleData(item, this.apiKey, this.service.rankData[item].country).toPromise().then(e => {
         console.log(e)
         this.disambData[item] = {
           origName: item,
@@ -87,17 +90,19 @@ export class DisambComponent implements OnInit {
           site: e['items'][0].displayLink,
           destUrl: e['items'][0].link
         }
-        counter--
-        if (counter == 0) {
-          this.service.disambData = Object.assign(this.service.disambData, this.disambData)
-          this.disambjson = JSON.stringify(this.disambData, null, 2)
-          console.log('result', this.disambData)
-          let disambDataKeys = Object.keys(this.service.disambData)
-          this.toDisambNamesList = Object.keys(this.service.rankData).filter(key => { return disambDataKeys.indexOf(key) == -1 })
-          this.unDisambCount = this.toDisambNamesList.length
-          console.log(disambDataKeys, this.unDisambCount)
-        }
       })
+        .finally(() => {
+          counter--
+          if (counter == 0) {
+            this.service.disambData = Object.assign(this.service.disambData, this.disambData)
+            this.disambjson = JSON.stringify(this.disambData, null, 2)
+            console.log('result', this.disambData)
+            let disambDataKeys = Object.keys(this.service.disambData)
+            this.toDisambNamesList = Object.keys(this.service.rankData).filter(key => { return disambDataKeys.indexOf(key) == -1 })
+            this.unDisambCount = this.toDisambNamesList.length
+            console.log(disambDataKeys, this.unDisambCount)
+          }
+        })
     })
     console.log(this.apiKey)
   }
@@ -109,26 +114,7 @@ export class DisambComponent implements OnInit {
     inputElement.setSelectionRange(0, 0);
   }
 
-
-
-  /** Whether the number of selected elements matches the total number of rows. */
-  isAllSelected() {
-    const numSelected = this.selection.selected.length;
-    const numRows = this.dataSource.data.length;
-    return numSelected === numRows;
-  }
-  /** Selects all rows if they are not all selected; otherwise clear selection. */
-  masterToggle() {
-    this.isAllSelected() ?
-      this.selection.clear() :
-      this.dataSource.data.forEach(row => this.selection.select(row));
-  }
-  showSelected() {
-    this.selectedCount = this.selection.selected.length
-    return true
-  }
-
-  nextStep() {
+  unify() {
     //Purify
     let skipedList = []
     let updatedList = []
@@ -158,7 +144,11 @@ export class DisambComponent implements OnInit {
       }
     })
     console.log('skiped', skipedList, updatedList, this.service.unifiedRankData)
-    //this.router.navigate(['/description']);
+    //prepare Analysis data
+    const data = this.service.unifiedRankData
+    this.service.analysisData = Object.keys(data).map(key => { return { country: data[key].country, orgName: data[key].orgName, ranks: data[key].ranks, rcount: data[key].rcount, url: key } })
+    this.analysejson = JSON.stringify(this.service.analysisData, null, 2)
+    //
     /**
      * TODO
      * Add stepper component
@@ -177,5 +167,8 @@ export class DisambComponent implements OnInit {
      * Благодарности.
      * 
     */
+  }
+  nextStep(){
+    this.router.navigate(['/analysis']);
   }
 }
