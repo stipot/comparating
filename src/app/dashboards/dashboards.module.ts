@@ -7,10 +7,11 @@ import { ComparatorDashboardComponent } from './comparator/comparator.component'
 // echarts - lib: https://github.com/xieziyu/ngx-echarts
 import { NgxEchartsModule } from 'ngx-echarts';
 import { DashboardsService } from './dashboards.service';
-import { SourcesDashboardResolver, CrmDashboardResolver } from './dashboards.resolver';
+import { SourcesDashboardResolver, CrmDashboardResolver, DisambDashboardResolver } from './dashboards.resolver';
 import { TranslocoRootModule } from '../transloco-root.module';
 import { DescriptionComponent } from './description/description.component'
 import { SelectorComponent } from './selector/selector.component'
+import { DisambComponent } from './disamb/disamb.component'
 
 export const dashboardRoutes = [
   {
@@ -37,11 +38,18 @@ export const dashboardRoutes = [
     resolve: {
       tableData: SourcesDashboardResolver
     }
+  },
+  {
+    path: 'disamb',
+    component: DisambComponent,
+    resolve: {
+      tableData: DisambDashboardResolver
+    }
   }
 ];
 
 @NgModule({
-  declarations: [ComparatorDashboardComponent, DescriptionComponent, SelectorComponent],
+  declarations: [ComparatorDashboardComponent, DescriptionComponent, SelectorComponent, DisambComponent],
   imports: [
     CommonModule,
     TranslocoRootModule,
@@ -60,7 +68,8 @@ export const dashboardRoutes = [
   providers: [
     DashboardsService,
     SourcesDashboardResolver,
-    CrmDashboardResolver
+    CrmDashboardResolver,
+    DisambDashboardResolver
   ],
   exports: [
     DescriptionComponent

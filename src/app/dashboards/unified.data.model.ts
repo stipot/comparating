@@ -5,6 +5,14 @@ export interface RankDataRecord {
     rating: string,
     year: number
 }
+export interface DisambData {
+    [origName: string]: {
+        origName: string
+        uName: string
+        site: string
+        destUrl: string
+    }
+}
 export interface Udm {
     [name_hash: string]: {
         country: string
@@ -13,5 +21,6 @@ export interface Udm {
             [rid: string]: string
         }
         rcount: number
+        syns?: string[]
     }
 }
