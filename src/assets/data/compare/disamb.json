@@ -1,0 +1,26 @@
+{
+  "AE Khalifa University": {
+    "origName": "Khalifa University",
+    "uName": "Khalifa University: Top Ranked, Research-Intensive University in UAE",
+    "site": "www.ku.ac.ae",
+    "destUrl": "https://www.ku.ac.ae/"
+  },
+  "AR University of Buenos Aires": {
+    "origName": "University of Buenos Aires",
+    "uName": "University of Buenos Aires",
+    "site": "www.uba.ar",
+    "destUrl": "https://www.uba.ar/internacionales/contenido.php?id=455&lang=en"
+  },
+  "AT University of Natural Resources and Life Sciences, Vienna": {
+    "origName": "AT University of Natural Resources and Life Sciences, Vienna",
+    "uName": "BOKU Vienna",
+    "site": "boku.ac.at",
+    "destUrl": "https://boku.ac.at/en/"
+  },
+  "AT University of Innsbruck": {
+    "origName": "AT University of Innsbruck",
+    "uName": "University of Innsbruck",
+    "site": "www.uibk.ac.at",
+    "destUrl": "https://www.uibk.ac.at/index.html.en"
+  }
+}
