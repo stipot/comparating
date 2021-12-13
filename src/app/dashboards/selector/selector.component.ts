@@ -4,7 +4,7 @@ import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource, MatTable } from '@angular/material/table';
 import { SelectionModel } from '@angular/cdk/collections';
 import { ActivatedRoute, Router } from '@angular/router';
-import { Udm, RankDataRecord } from '../unified.data.model'
+import { Udm, RankDataRecord, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
 
 export interface RowData {
@@ -37,6 +37,8 @@ export class SelectorComponent implements OnInit {
   selection = new SelectionModel<RowData>(true, []);
   selectedCount: number
   udm: Udm = {}
+  countryList = []
+  countryListString = ''
 
   // Data from the resolver
   originalData = [];
@@ -55,7 +57,13 @@ export class SelectorComponent implements OnInit {
     // define a custom sort for the date field
     this.dataSource.sortingDataAccessor = (item, property) => item[property];
     this.dataSource.sort = this.sort;
-    console.log(this)
+    //Load exclusion list
+    this.service.getCountryExclList().toPromise().then(list => {
+      this.service.countryExclusion = list
+      this.countryList = Object.keys(list)
+      this.countryListString = this.countryList.map(item => CountriesList.plain[item]).join(', ')
+      console.log(CountriesList.plain, this.countryListString)
+    })
   }
 
   /** Whether the number of selected elements matches the total number of rows. */
@@ -80,7 +88,7 @@ export class SelectorComponent implements OnInit {
     this.selection.selected.forEach(rank => {
       this.service.getRatingData(rank.fname).toPromise().then(data => {
         data.forEach(record => {
-          const key = record.country.trim() + ' ' + record.name.trim()
+          const key = CountriesList.plain[record.country.trim()] + ' ' + record.name.trim()
           if (this.udm[key]) {
             this.udm[key].ranks[record.rating.trim()] = typeof record.rank == "string" ? record.rank.trim() : record.rank
             this.udm[key].rcount++
@@ -94,15 +102,17 @@ export class SelectorComponent implements OnInit {
               rcount: 1
             }
           }
-          counter--
-          if (counter == 0) {
-            console.log(this.udm)
-            this.service.rankData = this.udm
-            this.service.rankDataCount = Object.keys(this.udm).length
-            console.log(this.service.rankDataCount)
-            this.router.navigate(['/disamb']);
-          }
         })
+        counter--
+        if (counter == 0) {
+          //filter countries
+          Object.keys(this.udm).forEach(key => {
+            if (this.countryList.indexOf(this.udm[key].country) == -1)
+              this.service.rankData[key] = this.udm[key]
+          })
+          this.service.rankDataCount = Object.keys(this.service.rankData).length
+          this.router.navigate(['/disamb']);
+        }
       })
     })
     /**

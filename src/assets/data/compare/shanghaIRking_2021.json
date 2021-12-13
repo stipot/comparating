@@ -2534,6 +2534,20 @@
    "year": 2021
  },
  {
+  "rank": "401-500",
+  "country": "TW",
+  "name": "National Cheng Kung University",
+  "rating": "shanghaIRking",
+  "year": 2021
+},
+{
+  "rank": "401-500",
+  "country": "TW",
+  "name": "National Tsing Hua University",
+  "rating": "shanghaIRking",
+  "year": 2021
+},
+ {
    "rank": "201-300",
    "country": "TW",
    "name": "CN Medical University (Taichung)",
@@ -2551,20 +2565,6 @@
    "rank": "401-500",
    "country": "TW",
    "name": "National Yang Ming Chiao Tung University",
-   "rating": "shanghaIRking",
-   "year": 2021
- },
- {
-   "rank": "401-500",
-   "country": "TW",
-   "name": "",
-   "rating": "shanghaIRking",
-   "year": 2021
- },
- {
-   "rank": "401-500",
-   "country": "TW",
-   "name": "",
    "rating": "shanghaIRking",
    "year": 2021
  },

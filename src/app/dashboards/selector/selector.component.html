@@ -1,4 +1,15 @@
 <div class="container-fluid content-wrapper">
+  <div class="callout-message-wrapper">
+    <div class="callout-icon">
+      <i class="fas fa-info-circle"></i>
+    </div>
+    <div class="callout-message">
+      <span>
+        Страны исключения (указано в exclude.json) в соответствии с <a href="https://nic.gov.ru/ru/docs/foreign/confirmation"
+          target="_blank">международными договорами</a>: {{countryListString}}
+      </span>
+    </div>
+  </div>
   <h1 class="page-title">Выберите источники для анализа</h1>
 
   <div class="table-wrapper table-responsive">
@@ -36,19 +47,19 @@
       <tr mat-row *matRowDef="let row; columns: displayedColumns;" (click)="selection.toggle(row)">
       </tr>
     </table>
-    <button type="button" class="open-button" (click)="nextStep()"
-      *ngIf="selection.selected.length > 2; else elseBlock">Далее</button>
-    <ng-template #elseBlock>
-      <div class="callout-message-wrapper">
-        <div class="callout-icon">
-          <i class="fas fa-info-circle"></i>
-        </div>
-        <div class="callout-message">
-          <span>
-            Выберите по крайней мере три источника для сравнения
-          </span>
-        </div>
-      </div>
-    </ng-template>
   </div>
+  <button type="button" class="open-button" (click)="nextStep()"
+    *ngIf="selection.selected.length > 2; else elseBlock">Далее</button>
+  <ng-template #elseBlock>
+    <div class="callout-message-wrapper">
+      <div class="callout-icon">
+        <i class="fas fa-info-circle"></i>
+      </div>
+      <div class="callout-message">
+        <span>
+          Выберите по крайней мере три источника для сравнения
+        </span>
+      </div>
+    </div>
+  </ng-template>
 </div>

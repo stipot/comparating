@@ -1,0 +1,3983 @@
+[
+    {
+      "country": "AR",
+      "orgName": "University of Buenos Aires",
+      "ranks": {
+        "mosiur": "451-500",
+        "QS": 69,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 3,
+      "url": "www.uba.ar"
+    },
+    {
+      "country": "AT",
+      "orgName": "TU Graz: Home",
+      "ranks": {
+        "mosiur": "351-400",
+        "QS": 277
+      },
+      "rcount": 2,
+      "url": "www.tugraz.at"
+    },
+    {
+      "country": "AT",
+      "orgName": "Home | MedUni Vienna",
+      "ranks": {
+        "mosiur": "221",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.meduniwien.ac.at"
+    },
+    {
+      "country": "AT",
+      "orgName": "University of Innsbruck",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 281,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.uibk.ac.at"
+    },
+    {
+      "country": "AT",
+      "orgName": "BOKU Vienna",
+      "ranks": {
+        "mosiur": "401-450",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "boku.ac.at"
+    },
+    {
+      "country": "AT",
+      "orgName": "University of Veterinary Medicine, Vienna",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.vetmeduni.ac.at"
+    },
+    {
+      "country": "AT",
+      "orgName": "University of Vienna",
+      "ranks": {
+        "mosiur": "293",
+        "usnews": "137",
+        "timeshighereducation": "137",
+        "QS": 151,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.univie.ac.at"
+    },
+    {
+      "country": "AT",
+      "orgName": "TU Wien, TUW | TU Wien",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 180,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.tuwien.at"
+    },
+    {
+      "country": "AU",
+      "orgName": "ANU",
+      "ranks": {
+        "mosiur": "73",
+        "usnews": "54",
+        "timeshighereducation": "54",
+        "QS": 27,
+        "shanghaIRking": "76"
+      },
+      "rcount": 5,
+      "url": "www.anu.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "Bond University | Gold Coast, Queensland, Australia",
+      "ranks": {
+        "mosiur": "451-500",
+        "QS": 451
+      },
+      "rcount": 2,
+      "url": "bond.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "Macquarie University | Tertiary Education",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "192",
+        "timeshighereducation": "192",
+        "QS": 200,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.mq.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "Monash University - one of the top universities in Australia",
+      "ranks": {
+        "mosiur": "185",
+        "usnews": "57",
+        "timeshighereducation": "57",
+        "QS": 58,
+        "shanghaIRking": "80"
+      },
+      "rcount": 5,
+      "url": "www.monash.edu"
+    },
+    {
+      "country": "AU",
+      "orgName": "QUT - Home",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "193",
+        "timeshighereducation": "193",
+        "shanghaIRking": "201-300",
+        "QS": 213
+      },
+      "rcount": 5,
+      "url": "www.qut.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "The University of Adelaide",
+      "ranks": {
+        "mosiur": "155",
+        "usnews": "111",
+        "timeshighereducation": "111",
+        "QS": 108,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.adelaide.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "The University of Melbourne, Australia - Australia's best university ...",
+      "ranks": {
+        "mosiur": "40",
+        "QS": 37,
+        "shanghaIRking": "33"
+      },
+      "rcount": 3,
+      "url": "www.unimelb.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "UNSW Sydney | One of the best universities in Australia",
+      "ranks": {
+        "mosiur": "156",
+        "QS": 43
+      },
+      "rcount": 2,
+      "url": "www.unsw.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "The University of Queensland, Australia",
+      "ranks": {
+        "mosiur": "84",
+        "usnews": "54",
+        "timeshighereducation": "54",
+        "QS": 47,
+        "shanghaIRking": "51"
+      },
+      "rcount": 5,
+      "url": "www.uq.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "University of Western Australia",
+      "ranks": {
+        "mosiur": "172"
+      },
+      "rcount": 1,
+      "url": "www.uwa.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "The University of Sydney - One of the top universities in Australia",
+      "ranks": {
+        "mosiur": "63",
+        "usnews": "58",
+        "timeshighereducation": "58",
+        "QS": 38,
+        "shanghaIRking": "69"
+      },
+      "rcount": 5,
+      "url": "www.sydney.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "University of Tasmania | University of Tasmania",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 303,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.utas.edu.au"
+    },
+    {
+      "country": "BE",
+      "orgName": "UCLouvain: Université catholique de Louvain",
+      "ranks": {
+        "mosiur": "217",
+        "usnews": "158",
+        "timeshighereducation": "158",
+        "QS": 188,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "uclouvain.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "Ghent University",
+      "ranks": {
+        "mosiur": "189",
+        "usnews": "96",
+        "timeshighereducation": "96",
+        "QS": 141,
+        "shanghaIRking": "71"
+      },
+      "rcount": 5,
+      "url": "www.ugent.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "Top 50 university - KU Leuven - Inspiring the outstanding",
+      "ranks": {
+        "mosiur": "64",
+        "usnews": "42",
+        "timeshighereducation": "42",
+        "QS": 70,
+        "shanghaIRking": "87"
+      },
+      "rcount": 5,
+      "url": "www.kuleuven.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "ULiège",
+      "ranks": {
+        "mosiur": "202",
+        "QS": 480,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 3,
+      "url": "www.uliege.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "ULB English website",
+      "ranks": {
+        "mosiur": "279",
+        "QS": 207
+      },
+      "rcount": 2,
+      "url": "www.ulb.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "University of Antwerp: UAntwerp",
+      "ranks": {
+        "mosiur": "285",
+        "usnews": "143",
+        "timeshighereducation": "143",
+        "QS": 233,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.uantwerpen.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "Université de Mons: Home",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "web.umons.ac.be"
+    },
+    {
+      "country": "BE",
+      "orgName": "Vrije Universiteit Brussel | Redelijk eigenzinnig",
+      "ranks": {
+        "mosiur": "252",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300"
+      },
+      "rcount": 3,
+      "url": "www.vub.be"
+    },
+    {
+      "country": "BR",
+      "orgName": "University of São Paulo",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 121,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.fearp.usp.br"
+    },
+    {
+      "country": "CA",
+      "orgName": "Carleton University - Canada's Capital University",
+      "ranks": {
+        "mosiur": "401-450",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "carleton.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Concordia University",
+      "ranks": {
+        "mosiur": "351-400"
+      },
+      "rcount": 1,
+      "url": "www.concordia.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Dalhousie University ‑ Nova Scotia, Canada",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 272,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.dal.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "McGill University",
+      "ranks": {
+        "mosiur": "78",
+        "usnews": "44",
+        "timeshighereducation": "44",
+        "QS": 27,
+        "shanghaIRking": "67"
+      },
+      "rcount": 5,
+      "url": "www.mcgill.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "McMaster University",
+      "ranks": {
+        "mosiur": "187",
+        "usnews": "80",
+        "timeshighereducation": "80",
+        "QS": 140,
+        "shanghaIRking": "92"
+      },
+      "rcount": 5,
+      "url": "www.mcmaster.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Memorial University of Newfoundland",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "www.mun.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Queen's University: Home",
+      "ranks": {
+        "mosiur": "144",
+        "shanghaIRking": "201-300",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300"
+      },
+      "rcount": 4,
+      "url": "www.queensu.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Simon Fraser University",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 298,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.sfu.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Université de Montréal",
+      "ranks": {
+        "mosiur": "215",
+        "usnews": "88",
+        "timeshighereducation": "88",
+        "QS": 111
+      },
+      "rcount": 4,
+      "url": "www.umontreal.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Université de Sherbrooke",
+      "ranks": {
+        "mosiur": "351-400"
+      },
+      "rcount": 1,
+      "url": "www.usherbrooke.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Welcome to Université Laval | ULaval | Quebec City, Canada",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 414,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.ulaval.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Alberta",
+      "ranks": {
+        "mosiur": "91",
+        "usnews": "125",
+        "timeshighereducation": "125",
+        "QS": 126,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.ualberta.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "The University of British Columbia",
+      "ranks": {
+        "mosiur": "83",
+        "usnews": "37",
+        "timeshighereducation": "37",
+        "QS": 46,
+        "shanghaIRking": "42"
+      },
+      "rcount": 5,
+      "url": "www.ubc.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Calgary",
+      "ranks": {
+        "mosiur": "290",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 235,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.ucalgary.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Manitoba",
+      "ranks": {
+        "mosiur": "253",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "umanitoba.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Ottawa: Home",
+      "ranks": {
+        "mosiur": "177",
+        "usnews": "162",
+        "timeshighereducation": "162",
+        "QS": 230,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www2.uottawa.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Toronto",
+      "ranks": {
+        "mosiur": "27",
+        "usnews": "18",
+        "timeshighereducation": "18",
+        "QS": 26,
+        "shanghaIRking": "22"
+      },
+      "rcount": 5,
+      "url": "www.utoronto.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Victoria: Home",
+      "ranks": {
+        "mosiur": "224",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "shanghaIRking": "301-400",
+        "QS": 334
+      },
+      "rcount": 5,
+      "url": "www.uvic.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Home | University of Waterloo | University of Waterloo",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 149,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "uwaterloo.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Windsor",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "www.uwindsor.ca"
+    },
+    {
+      "country": "CA",
+      "orgName": "Western University",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 170,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.uwo.ca"
+    },
+    {
+      "country": "CL",
+      "orgName": "Pontificia Universidad Católica de Chile: Inicio",
+      "ranks": {
+        "mosiur": "176",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 135
+      },
+      "rcount": 4,
+      "url": "www.uc.cl"
+    },
+    {
+      "country": "CL",
+      "orgName": "English version - Universidad de Chile",
+      "ranks": {
+        "mosiur": "301-350",
+        "QS": 183,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.uchile.cl"
+    },
+    {
+      "country": "CO",
+      "orgName": "Pontifical Xavierian University - Wikipedia",
+      "ranks": {
+        "mosiur": "451-500",
+        "QS": 412
+      },
+      "rcount": 2,
+      "url": "en.wikipedia.org"
+    },
+    {
+      "country": "CO",
+      "orgName": "Universidad de los Andes – Colombia – Sitio oficial",
+      "ranks": {
+        "mosiur": "295",
+        "QS": 236
+      },
+      "rcount": 3,
+      "url": "uniandes.edu.co"
+    },
+    {
+      "country": "CR",
+      "orgName": "Universidad de Costa Rica",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "www.ucr.ac.cr"
+    },
+    {
+      "country": "CZ",
+      "orgName": "rector of Charles University",
+      "ranks": {
+        "mosiur": "150",
+        "QS": 266,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 3,
+      "url": "cuni.cz"
+    },
+    {
+      "country": "CZ",
+      "orgName": "Czech technical university in Prague: Home - Public web",
+      "ranks": {
+        "mosiur": "269",
+        "QS": 403
+      },
+      "rcount": 2,
+      "url": "www.cvut.cz"
+    },
+    {
+      "country": "CZ",
+      "orgName": "Masaryk University",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "www.muni.cz"
+    },
+    {
+      "country": "CZ",
+      "orgName": "Palacký University Olomouc",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "www.upol.cz"
+    },
+    {
+      "country": "CZ",
+      "orgName": "University of Chemistry and Technology, Prague - University of ...",
+      "ranks": {
+        "mosiur": "351-400",
+        "QS": 373
+      },
+      "rcount": 2,
+      "url": "www.vscht.cz"
+    },
+    {
+      "country": "DE",
+      "orgName": "TU Chemnitz",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.tu-chemnitz.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Technische Universität Dresden — TU Dresden",
+      "ranks": {
+        "mosiur": "260",
+        "usnews": "172",
+        "timeshighereducation": "172",
+        "QS": 194,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "tu-dresden.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Freie Universität Berlin: Homepage",
+      "ranks": {
+        "mosiur": "223",
+        "usnews": "83",
+        "timeshighereducation": "83",
+        "QS": 127
+      },
+      "rcount": 4,
+      "url": "www.fu-berlin.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Latest News from the Friedrich Schiller University Jena",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 344,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.uni-jena.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Goethe-Universität — Welcome to Goethe University Frankfurt",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 340,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.goethe-university-frankfurt.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Hannover Medical School | Universities | Study | Science & Education",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "www.hannover.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Universität Heidelberg",
+      "ranks": {
+        "mosiur": "75",
+        "usnews": "42",
+        "timeshighereducation": "42",
+        "QS": 63,
+        "shanghaIRking": "57"
+      },
+      "rcount": 5,
+      "url": "uni-heidelberg.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Humboldt-Universität zu Berlin",
+      "ranks": {
+        "mosiur": "196",
+        "usnews": "74",
+        "timeshighereducation": "74",
+        "QS": 128
+      },
+      "rcount": 4,
+      "url": "www.hu-berlin.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "International | Technische Universität Ilmenau",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.tu-ilmenau.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Jacobs University - Inspiration is a Place |",
+      "ranks": {
+        "mosiur": "298",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.jacobs-university.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Welcome to JGU!",
+      "ranks": {
+        "mosiur": "286",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 427,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.uni-mainz.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Karlsruhe Institute of Technology - KIT",
+      "ranks": {
+        "mosiur": "147",
+        "usnews": "180",
+        "timeshighereducation": "180",
+        "QS": 136,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.kit.edu"
+    },
+    {
+      "country": "DE",
+      "orgName": "Leibniz University Hannover – Leibniz Universität Hannover",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.uni-hannover.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Home - LMU Munich",
+      "ranks": {
+        "mosiur": "92",
+        "usnews": "32",
+        "timeshighereducation": "32",
+        "QS": 64
+      },
+      "rcount": 4,
+      "url": "www.lmu.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Welcome at Ruhr-Universität Bochum | Ruhr-Universit..t Bochum ...",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 393,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.ruhr-uni-bochum.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "RWTH AACHEN UNIVERSITY - Rheinisch-Westfaelische ...",
+      "ranks": {
+        "mosiur": "101",
+        "usnews": "108",
+        "timeshighereducation": "108",
+        "QS": 165,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.rwth-aachen.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Saarland University | Saarland University",
+      "ranks": {
+        "mosiur": "299",
+        "QS": 447
+      },
+      "rcount": 2,
+      "url": "www.uni-saarland.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University | TU Bergakademie Freiberg",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "tu-freiberg.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Technische Universität Berlin - We've Got the Brains for the Future",
+      "ranks": {
+        "mosiur": "262",
+        "usnews": "139",
+        "timeshighereducation": "139",
+        "QS": 159,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.tu.berlin"
+    },
+    {
+      "country": "DE",
+      "orgName": "TU Braunschweig",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "www.tu-braunschweig.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Home – TU Darmstadt",
+      "ranks": {
+        "mosiur": "277",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 269
+      },
+      "rcount": 4,
+      "url": "www.tu-darmstadt.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "TUM: The Entrepreneurial University",
+      "ranks": {
+        "mosiur": "35",
+        "usnews": "38",
+        "timeshighereducation": "38",
+        "QS": 50,
+        "shanghaIRking": "52"
+      },
+      "rcount": 5,
+      "url": "www.tum.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Ulm University: Research, Study, Knowledge transfer",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "146",
+        "timeshighereducation": "146",
+        "QS": 365,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.uni-ulm.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Bayreuth",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 3,
+      "url": "uni-bayreuth.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University — University of Bonn",
+      "ranks": {
+        "mosiur": "96",
+        "usnews": "112",
+        "timeshighereducation": "112",
+        "QS": 226,
+        "shanghaIRking": "84"
+      },
+      "rcount": 5,
+      "url": "www.uni-bonn.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Homepage - Universität Bremen",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 3,
+      "url": "www.uni-bremen.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Cologne",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "172",
+        "timeshighereducation": "172",
+        "QS": 311,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "portal.uni-koeln.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Duisburg-Essen",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.uni-due.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Friedrich-Alexander-Universität Erlangen-Nürnberg › Friedrich ...",
+      "ranks": {
+        "mosiur": "288",
+        "usnews": "197",
+        "timeshighereducation": "197",
+        "QS": 322,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.fau.eu"
+    },
+    {
+      "country": "DE",
+      "orgName": "Uni Freiburg",
+      "ranks": {
+        "mosiur": "108",
+        "usnews": "108",
+        "timeshighereducation": "108",
+        "QS": 172,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "uni-freiburg.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Göttingen - Georg-August-Universität Göttingen",
+      "ranks": {
+        "mosiur": "103",
+        "usnews": "119",
+        "timeshighereducation": "119",
+        "QS": 204
+      },
+      "rcount": 4,
+      "url": "www.uni-goettingen.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Universität Hamburg",
+      "ranks": {
+        "mosiur": "220",
+        "usnews": "132",
+        "timeshighereducation": "132",
+        "shanghaIRking": "201-300",
+        "QS": 214
+      },
+      "rcount": 5,
+      "url": "www.uni-hamburg.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Konstanz",
+      "ranks": {
+        "mosiur": "198",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250"
+      },
+      "rcount": 3,
+      "url": "www.uni-konstanz.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Philipps-Universität Marburg: University of Marburg",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 4,
+      "url": "www.uni-marburg.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Münster",
+      "ranks": {
+        "mosiur": "284",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 411
+      },
+      "rcount": 4,
+      "url": "www.uni-muenster.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Stuttgart",
+      "ranks": {
+        "mosiur": "204",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 347,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.uni-stuttgart.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University | University of Tübingen",
+      "ranks": {
+        "mosiur": "173",
+        "usnews": "78",
+        "timeshighereducation": "78",
+        "QS": 177,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "uni-tuebingen.de"
+    },
+    {
+      "country": "DK",
+      "orgName": "Aalborg University - Knowledge for the World",
+      "ranks": {
+        "mosiur": "275",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 326,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.en.aau.dk"
+    },
+    {
+      "country": "DK",
+      "orgName": "Aarhus University – a top 100 research-intensive university",
+      "ranks": {
+        "mosiur": "142",
+        "usnews": "104",
+        "timeshighereducation": "104",
+        "QS": 155,
+        "shanghaIRking": "71"
+      },
+      "rcount": 5,
+      "url": "international.au.dk"
+    },
+    {
+      "country": "DK",
+      "orgName": "Technical University of Denmark - DTU",
+      "ranks": {
+        "mosiur": "109",
+        "usnews": "185",
+        "timeshighereducation": "185",
+        "QS": 99,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.dtu.dk"
+    },
+    {
+      "country": "DK",
+      "orgName": "University of Southern Denmark, SDU",
+      "ranks": {
+        "mosiur": "294",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "shanghaIRking": "301-400",
+        "QS": 309
+      },
+      "rcount": 5,
+      "url": "www.sdu.dk"
+    },
+    {
+      "country": "EE",
+      "orgName": "University of Tartu",
+      "ranks": {
+        "mosiur": "201",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 300,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.ut.ee"
+    },
+    {
+      "country": "FI",
+      "orgName": "Aalto University",
+      "ranks": {
+        "mosiur": "134",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 112,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.aalto.fi"
+    },
+    {
+      "country": "FI",
+      "orgName": "University of Helsinki",
+      "ranks": {
+        "mosiur": "136",
+        "usnews": "101",
+        "timeshighereducation": "101",
+        "QS": 104,
+        "shanghaIRking": "82"
+      },
+      "rcount": 5,
+      "url": "www.helsinki.fi"
+    },
+    {
+      "country": "FI",
+      "orgName": "University of Turku",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 295,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.utu.fi"
+    },
+    {
+      "country": "GB",
+      "orgName": "Bangor University Open Days",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.bangor.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Cardiff University",
+      "ranks": {
+        "mosiur": "140",
+        "usnews": "189",
+        "timeshighereducation": "189",
+        "QS": 151,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.cardiff.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Durham University",
+      "ranks": {
+        "mosiur": "206",
+        "usnews": "162",
+        "timeshighereducation": "162",
+        "QS": 82,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.durham.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Goldsmiths, University of London",
+      "ranks": {
+        "mosiur": "451-500",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 461
+      },
+      "rcount": 4,
+      "url": "www.gold.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Heriot-Watt University",
+      "ranks": {
+        "mosiur": "401-450",
+        "QS": 270
+      },
+      "rcount": 2,
+      "url": "www.hw.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Imperial College London",
+      "ranks": {
+        "mosiur": "24",
+        "usnews": "12",
+        "timeshighereducation": "12",
+        "QS": 7,
+        "shanghaIRking": "25"
+      },
+      "rcount": 5,
+      "url": "www.imperial.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Lancaster University: Home",
+      "ranks": {
+        "mosiur": "171",
+        "usnews": "122",
+        "timeshighereducation": "122",
+        "QS": 132,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.lancaster.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Loughborough University: Top 10 in all national league tables",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 231
+      },
+      "rcount": 4,
+      "url": "www.lboro.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Newcastle University: The things we do here make a difference out ...",
+      "ranks": {
+        "mosiur": "179",
+        "usnews": "146",
+        "timeshighereducation": "146",
+        "QS": 134,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.ncl.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Queen Mary University of London",
+      "ranks": {
+        "mosiur": "121",
+        "usnews": "117",
+        "timeshighereducation": "117",
+        "QS": 117,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.qmul.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Queen's University Belfast: Shaping a Better World since 1845",
+      "ranks": {
+        "mosiur": "301-350",
+        "QS": 216,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.qub.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Royal Holloway, University of London",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 334
+      },
+      "rcount": 4,
+      "url": "www.royalholloway.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "SOAS University of London",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 391
+      },
+      "rcount": 4,
+      "url": "www.soas.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Birmingham - A leading global university",
+      "ranks": {
+        "mosiur": "106",
+        "usnews": "105",
+        "timeshighereducation": "105",
+        "QS": 90,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.birmingham.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Bristol: Homepage",
+      "ranks": {
+        "mosiur": "61",
+        "usnews": "92",
+        "timeshighereducation": "92",
+        "QS": 62,
+        "shanghaIRking": "78"
+      },
+      "rcount": 5,
+      "url": "www.bristol.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Cambridge",
+      "ranks": {
+        "mosiur": "3",
+        "usnews": "5",
+        "timeshighereducation": "5",
+        "QS": 3,
+        "shanghaIRking": "3"
+      },
+      "rcount": 5,
+      "url": "www.cam.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "UEA: University of East Anglia | Norwich, UK - UEA",
+      "ranks": {
+        "mosiur": "166",
+        "usnews": "182",
+        "timeshighereducation": "182",
+        "QS": 307,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.uea.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "The University of Edinburgh | The University of Edinburgh",
+      "ranks": {
+        "mosiur": "21",
+        "usnews": "30",
+        "timeshighereducation": "30",
+        "QS": 16,
+        "shanghaIRking": "38"
+      },
+      "rcount": 5,
+      "url": "www.ed.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Exeter: Home",
+      "ranks": {
+        "mosiur": "211",
+        "usnews": "143",
+        "timeshighereducation": "143",
+        "QS": 149,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.exeter.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Glasgow: Committed to net zero emissions by 2030",
+      "ranks": {
+        "mosiur": "69",
+        "usnews": "86",
+        "timeshighereducation": "86",
+        "QS": 73,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.gla.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Kent: Join our world",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 383
+      },
+      "rcount": 4,
+      "url": "www.kent.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Leeds",
+      "ranks": {
+        "mosiur": "90",
+        "usnews": "127",
+        "timeshighereducation": "127",
+        "QS": 92,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.leeds.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Leicester: A Leading UK University",
+      "ranks": {
+        "mosiur": "243",
+        "usnews": "185",
+        "timeshighereducation": "185",
+        "QS": 236,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "le.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "The University of Liverpool",
+      "ranks": {
+        "mosiur": "143",
+        "usnews": "178",
+        "timeshighereducation": "178",
+        "QS": 189,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.liverpool.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Nottingham",
+      "ranks": {
+        "mosiur": "114",
+        "usnews": "141",
+        "timeshighereducation": "141",
+        "QS": 103,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.nottingham.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Oxford",
+      "ranks": {
+        "mosiur": "4",
+        "usnews": "1",
+        "timeshighereducation": "1",
+        "QS": 2,
+        "shanghaIRking": "7"
+      },
+      "rcount": 5,
+      "url": "www.ox.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Reading",
+      "ranks": {
+        "mosiur": "209",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 202,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.reading.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Home | The University of Sheffield",
+      "ranks": {
+        "mosiur": "127",
+        "usnews": "110",
+        "timeshighereducation": "110",
+        "QS": 95,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.sheffield.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of St Andrews - Scotland's first university, founded 1413",
+      "ranks": {
+        "mosiur": "239",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 91,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.st-andrews.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Strathclyde, Glasgow",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 302,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.strath.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of Surrey",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 272,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.surrey.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Welcome to the University of Warwick",
+      "ranks": {
+        "mosiur": "50",
+        "usnews": "78",
+        "timeshighereducation": "78",
+        "QS": 61,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "warwick.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "University of York",
+      "ranks": {
+        "mosiur": "162",
+        "usnews": "169",
+        "timeshighereducation": "169",
+        "QS": 151,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.york.ac.uk"
+    },
+    {
+      "country": "HU",
+      "orgName": "Central European University",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.ceu.edu"
+    },
+    {
+      "country": "IE",
+      "orgName": "Trinity College Dublin, the University of Dublin, Ireland",
+      "ranks": {
+        "mosiur": "125",
+        "usnews": "146",
+        "timeshighereducation": "146",
+        "QS": 101,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.tcd.ie"
+    },
+    {
+      "country": "IE",
+      "orgName": "University College Cork",
+      "ranks": {
+        "mosiur": "282",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 298,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.ucc.ie"
+    },
+    {
+      "country": "IL",
+      "orgName": "Technion - Israel Institute of Technology",
+      "ranks": {
+        "mosiur": "218",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 330
+      },
+      "rcount": 4,
+      "url": "www.technion.ac.il"
+    },
+    {
+      "country": "IL",
+      "orgName": "Tel Aviv University",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 255,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "english.tau.ac.il"
+    },
+    {
+      "country": "IT",
+      "orgName": "Home | Sapienza Università di Roma",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "197",
+        "timeshighereducation": "197",
+        "QS": 171,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.uniroma1.it"
+    },
+    {
+      "country": "JP",
+      "orgName": "Chiba University",
+      "ranks": {
+        "mosiur": "451-500",
+        "QS": 477
+      },
+      "rcount": 2,
+      "url": "www.chiba-u.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "Hiroshima University | Hiroshima University",
+      "ranks": {
+        "mosiur": "351-400",
+        "QS": 343
+      },
+      "rcount": 2,
+      "url": "www.hiroshima-u.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "Hokkaido University",
+      "ranks": {
+        "mosiur": "219",
+        "QS": 145,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 3,
+      "url": "www.global.hokudai.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "Undergraduate Admissions | Admissions | KYUSHU UNIVERSITY",
+      "ranks": {
+        "mosiur": "159",
+        "QS": 137,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 3,
+      "url": "www.kyushu-u.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "NAGASAKI UNIVERSITY",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "www.nagasaki-u.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "Top page － Osaka University",
+      "ranks": {
+        "mosiur": "104",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 75,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.osaka-u.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "The University of Tokyo",
+      "ranks": {
+        "mosiur": "12"
+      },
+      "rcount": 1,
+      "url": "www.u-tokyo.ac.jp"
+    },
+    {
+      "country": "JP",
+      "orgName": "Waseda University",
+      "ranks": {
+        "mosiur": "274",
+        "QS": 203
+      },
+      "rcount": 2,
+      "url": "www.waseda.jp"
+    },
+    {
+      "country": "LB",
+      "orgName": "American University of Beirut",
+      "ranks": {
+        "mosiur": "152",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 242
+      },
+      "rcount": 4,
+      "url": "www.aub.edu.lb"
+    },
+    {
+      "country": "NL",
+      "orgName": "Delft University of Technology",
+      "ranks": {
+        "mosiur": "37",
+        "usnews": "75",
+        "timeshighereducation": "75",
+        "QS": 57,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.tudelft.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "Eindhoven University of Technology",
+      "ranks": {
+        "mosiur": "163",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 125,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.tue.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "Erasmus Universiteit Rotterdam | Erasmus University Rotterdam",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "72",
+        "timeshighereducation": "72",
+        "QS": 179,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.eur.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "Leiden University: Home",
+      "ranks": {
+        "mosiur": "102",
+        "usnews": "71",
+        "timeshighereducation": "71",
+        "QS": 112,
+        "shanghaIRking": "83"
+      },
+      "rcount": 5,
+      "url": "www.universiteitleiden.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "Maastricht University",
+      "ranks": {
+        "mosiur": "278",
+        "usnews": "127",
+        "timeshighereducation": "127",
+        "QS": 233,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.maastrichtuniversity.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "Radboud University - Radboud University",
+      "ranks": {
+        "mosiur": "124",
+        "usnews": "139",
+        "timeshighereducation": "139",
+        "QS": 220,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.ru.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "University of Amsterdam",
+      "ranks": {
+        "mosiur": "46",
+        "usnews": "65",
+        "timeshighereducation": "65",
+        "QS": 55,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.uva.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "University of Groningen: Top 100 University",
+      "ranks": {
+        "mosiur": "111",
+        "usnews": "80",
+        "timeshighereducation": "80",
+        "QS": 128,
+        "shanghaIRking": "64"
+      },
+      "rcount": 5,
+      "url": "www.rug.nl"
+    },
+    {
+      "country": "NL",
+      "orgName": "Utrecht University: International Research University",
+      "ranks": {
+        "mosiur": "87",
+        "usnews": "69",
+        "timeshighereducation": "69",
+        "QS": 110,
+        "shanghaIRking": "50"
+      },
+      "rcount": 5,
+      "url": "www.uu.nl"
+    },
+    {
+      "country": "NO",
+      "orgName": "Norwegian University of Life Sciences: NMBU",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.nmbu.no"
+    },
+    {
+      "country": "NO",
+      "orgName": "NTNU: Norwegian University of Science and Technology",
+      "ranks": {
+        "mosiur": "128",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 369,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.ntnu.edu"
+    },
+    {
+      "country": "NO",
+      "orgName": "UiT Norges arktiske universitet | UiT",
+      "ranks": {
+        "mosiur": "401-450",
+        "QS": 440,
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 4,
+      "url": "uit.no"
+    },
+    {
+      "country": "NZ",
+      "orgName": "Lincoln University: Home",
+      "ranks": {
+        "mosiur": "451-500",
+        "QS": 372
+      },
+      "rcount": 2,
+      "url": "www.lincoln.ac.nz"
+    },
+    {
+      "country": "NZ",
+      "orgName": "The University of Auckland: Welcome",
+      "ranks": {
+        "mosiur": "169",
+        "usnews": "137",
+        "timeshighereducation": "137",
+        "QS": 85,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.auckland.ac.nz"
+    },
+    {
+      "country": "PL",
+      "orgName": "Jagiellonian University - Jagiellonian University",
+      "ranks": {
+        "mosiur": "401-450",
+        "QS": 309,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 3,
+      "url": "en.uj.edu.pl"
+    },
+    {
+      "country": "SE",
+      "orgName": "Chalmers University of Technology | Chalmers",
+      "ranks": {
+        "mosiur": "149",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 121,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.chalmers.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "Karolinska Institutet - a medical university",
+      "ranks": {
+        "mosiur": "107",
+        "usnews": "39",
+        "timeshighereducation": "39",
+        "shanghaIRking": "42"
+      },
+      "rcount": 4,
+      "url": "ki.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "Linköping University start page - Linköping University",
+      "ranks": {
+        "mosiur": "276",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 329
+      },
+      "rcount": 4,
+      "url": "liu.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "Lund University: Home",
+      "ranks": {
+        "mosiur": "85",
+        "usnews": "116",
+        "timeshighereducation": "116",
+        "QS": 87,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.lunduniversity.lu.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "Swedish University of Agricultural Sciences | Externwebben",
+      "ranks": {
+        "mosiur": "241",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.slu.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "University of Gothenburg",
+      "ranks": {
+        "mosiur": "123",
+        "usnews": "185",
+        "timeshighereducation": "185",
+        "QS": 180,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.gu.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "Top ranked research and education - Uppsala University, Sweden",
+      "ranks": {
+        "mosiur": "62",
+        "usnews": "131",
+        "timeshighereducation": "131",
+        "QS": 124,
+        "shanghaIRking": "78"
+      },
+      "rcount": 5,
+      "url": "www.uu.se"
+    },
+    {
+      "country": "SG",
+      "orgName": "Nanyang Technological University - NTU Singapore",
+      "ranks": {
+        "mosiur": "112",
+        "usnews": "46",
+        "timeshighereducation": "46",
+        "QS": 12,
+        "shanghaIRking": "81"
+      },
+      "rcount": 5,
+      "url": "www.ntu.edu.sg"
+    },
+    {
+      "country": "SI",
+      "orgName": "University - University of Ljubljana",
+      "ranks": {
+        "mosiur": "351-400"
+      },
+      "rcount": 1,
+      "url": "www.uni-lj.si"
+    },
+    {
+      "country": "US",
+      "orgName": "Auburn University",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.auburn.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Boston College: Home",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 494,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 5,
+      "url": "www.bc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Boston University: Homepage",
+      "ranks": {
+        "mosiur": "67",
+        "usnews": "62",
+        "timeshighereducation": "62",
+        "QS": 112,
+        "shanghaIRking": "95"
+      },
+      "rcount": 5,
+      "url": "www.bu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Brandeis University",
+      "ranks": {
+        "mosiur": "170",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 455,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.brandeis.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Brown University",
+      "ranks": {
+        "mosiur": "33",
+        "usnews": "64",
+        "timeshighereducation": "64",
+        "QS": 60,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.brown.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Home | www.caltech.edu",
+      "ranks": {
+        "mosiur": "31",
+        "usnews": "2",
+        "timeshighereducation": "2",
+        "shanghaIRking": "9"
+      },
+      "rcount": 4,
+      "url": "www.caltech.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Carnegie Mellon University: Homepage - CMU",
+      "ranks": {
+        "mosiur": "41",
+        "usnews": "28",
+        "timeshighereducation": "28",
+        "QS": 53,
+        "shanghaIRking": "97"
+      },
+      "rcount": 5,
+      "url": "www.cmu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Williams College",
+      "ranks": {
+        "mosiur": "255"
+      },
+      "rcount": 2,
+      "url": "www.williams.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Columbia University in the City of New York",
+      "ranks": {
+        "mosiur": "8",
+        "usnews": "11",
+        "timeshighereducation": "11",
+        "QS": 19,
+        "shanghaIRking": "8"
+      },
+      "rcount": 5,
+      "url": "www.columbia.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Cornell University",
+      "ranks": {
+        "mosiur": "18",
+        "usnews": "22",
+        "timeshighereducation": "22",
+        "QS": 21,
+        "shanghaIRking": "12"
+      },
+      "rcount": 5,
+      "url": "www.cornell.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The City College of New York",
+      "ranks": {
+        "mosiur": "451-500",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.ccny.cuny.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Drexel University: A comprehensive research university and ...",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "drexel.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Duke University",
+      "ranks": {
+        "mosiur": "13",
+        "usnews": "23",
+        "timeshighereducation": "23",
+        "QS": 52,
+        "shanghaIRking": "32"
+      },
+      "rcount": 5,
+      "url": "duke.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "George Mason University: Home",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.gmu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The George Washington University",
+      "ranks": {
+        "mosiur": "190",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 355,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.gwu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Georgetown University in Washington DC",
+      "ranks": {
+        "mosiur": "141",
+        "usnews": "130",
+        "timeshighereducation": "130",
+        "QS": 248,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.georgetown.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Harvard University",
+      "ranks": {
+        "mosiur": "1",
+        "usnews": "2",
+        "timeshighereducation": "2",
+        "QS": 5,
+        "shanghaIRking": "1"
+      },
+      "rcount": 5,
+      "url": "www.harvard.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Illinois Institute of Technology",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 444
+      },
+      "rcount": 4,
+      "url": "www.iit.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Iowa State University",
+      "ranks": {
+        "mosiur": "226",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 494,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.iastate.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Marquette University // Be The Difference",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "www.marquette.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Michigan State University",
+      "ranks": {
+        "mosiur": "72",
+        "usnews": "93",
+        "timeshighereducation": "93",
+        "QS": 157,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "msu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The New School: A University in New York City",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "www.newschool.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "NYU",
+      "ranks": {
+        "mosiur": "26",
+        "usnews": "26",
+        "timeshighereducation": "26",
+        "shanghaIRking": "27"
+      },
+      "rcount": 4,
+      "url": "www.nyu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Northeastern University - A University Like No Other",
+      "ranks": {
+        "mosiur": "245",
+        "usnews": "168",
+        "timeshighereducation": "168",
+        "QS": 342
+      },
+      "rcount": 4,
+      "url": "www.northeastern.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The Ohio State University",
+      "ranks": {
+        "mosiur": "66",
+        "usnews": "85",
+        "timeshighereducation": "85",
+        "QS": 120,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.osu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Oregon State University",
+      "ranks": {
+        "mosiur": "228",
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 2,
+      "url": "oregonstate.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Princeton University",
+      "ranks": {
+        "mosiur": "29",
+        "usnews": "7",
+        "timeshighereducation": "7",
+        "QS": 20,
+        "shanghaIRking": "6"
+      },
+      "rcount": 5,
+      "url": "www.princeton.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Rochester Institute of Technology | RIT",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "www.rit.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Rutgers University",
+      "ranks": {
+        "mosiur": "148",
+        "usnews": "190",
+        "timeshighereducation": "190",
+        "QS": 264,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.rutgers.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Saint Louis University : SLU",
+      "ranks": {
+        "mosiur": "351-400",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.slu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Smith College | Audacity, Agency, Authenticity.",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "www.smith.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Southern Illinois University Carbondale",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "siu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Stanford University",
+      "ranks": {
+        "mosiur": "7",
+        "usnews": "4",
+        "timeshighereducation": "4",
+        "QS": 3,
+        "shanghaIRking": "2"
+      },
+      "rcount": 5,
+      "url": "www.stanford.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Welcome to the University at Buffalo - University at Buffalo",
+      "ranks": {
+        "mosiur": "213",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.buffalo.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Syracuse University - Syracuse.edu",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 3,
+      "url": "www.syracuse.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Thomas Jefferson University",
+      "ranks": {
+        "mosiur": "401-450"
+      },
+      "rcount": 1,
+      "url": "www.jefferson.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Tufts University",
+      "ranks": {
+        "mosiur": "131",
+        "usnews": "172",
+        "timeshighereducation": "172",
+        "QS": 275,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.tufts.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "UAB: The University of Alabama at Birmingham",
+      "ranks": {
+        "mosiur": "301-350",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 2,
+      "url": "www.uab.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Arizona | The University of Arizona, Tucson, Arizona",
+      "ranks": {
+        "mosiur": "174",
+        "usnews": "150",
+        "timeshighereducation": "150",
+        "QS": 268,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.arizona.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "UC Davis | UC Davis",
+      "ranks": {
+        "mosiur": "38",
+        "usnews": "67",
+        "timeshighereducation": "67",
+        "QS": 108,
+        "shanghaIRking": "100"
+      },
+      "rcount": 5,
+      "url": "www.ucdavis.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of California, Riverside: home",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 403,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.ucr.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of California San Diego",
+      "ranks": {
+        "mosiur": "25",
+        "usnews": "34",
+        "timeshighereducation": "34",
+        "shanghaIRking": "18"
+      },
+      "rcount": 4,
+      "url": "ucsd.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "UC Santa Barbara: Home",
+      "ranks": {
+        "mosiur": "164",
+        "usnews": "68",
+        "timeshighereducation": "68",
+        "shanghaIRking": "57"
+      },
+      "rcount": 4,
+      "url": "www.ucsb.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of California, Santa Cruz",
+      "ranks": {
+        "mosiur": "301-350",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 347,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.ucsc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Chicago",
+      "ranks": {
+        "mosiur": "10",
+        "usnews": "10",
+        "timeshighereducation": "10",
+        "QS": 10,
+        "shanghaIRking": "10"
+      },
+      "rcount": 5,
+      "url": "www.uchicago.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Home | University Of Cincinnati",
+      "ranks": {
+        "mosiur": "246",
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 2,
+      "url": "www.uc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "CU Denver: University of Colorado Denver",
+      "ranks": {
+        "mosiur": "258",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.ucdenver.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Connecticut : University of Connecticut",
+      "ranks": {
+        "mosiur": "167",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 373,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "uconn.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Denver",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.du.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Illinois Chicago",
+      "ranks": {
+        "mosiur": "229",
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "shanghaIRking": "201-300",
+        "QS": 285
+      },
+      "rcount": 5,
+      "url": "www.uic.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Home | University of Illinois Urbana-Champaign",
+      "ranks": {
+        "mosiur": "57",
+        "usnews": "48",
+        "timeshighereducation": "48",
+        "QS": 82,
+        "shanghaIRking": "55"
+      },
+      "rcount": 5,
+      "url": "illinois.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Iowa",
+      "ranks": {
+        "mosiur": "216",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 455,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "uiowa.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Kansas State University",
+      "ranks": {
+        "mosiur": "193",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 387,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "www.k-state.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Kentucky",
+      "ranks": {
+        "mosiur": "235",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 2,
+      "url": "www.uky.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Maryland, Baltimore: UMB Home",
+      "ranks": {
+        "mosiur": "296",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 2,
+      "url": "www.umaryland.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Maryland | A Preeminent Public Research University",
+      "ranks": {
+        "mosiur": "43",
+        "usnews": "93",
+        "timeshighereducation": "93",
+        "QS": 158,
+        "shanghaIRking": "56"
+      },
+      "rcount": 5,
+      "url": "www.umd.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "UMass Amherst: Homepage",
+      "ranks": {
+        "mosiur": "261",
+        "QS": 246,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 3,
+      "url": "www.umass.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Miami",
+      "ranks": {
+        "mosiur": "181",
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 311,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 5,
+      "url": "welcome.miami.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Minnesota Twin Cities",
+      "ranks": {
+        "mosiur": "49",
+        "shanghaIRking": "40",
+        "usnews": "86",
+        "timeshighereducation": "86",
+        "QS": 186
+      },
+      "rcount": 5,
+      "url": "twin-cities.umn.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Ole Miss: The University of Mississippi",
+      "ranks": {
+        "mosiur": "301-350"
+      },
+      "rcount": 1,
+      "url": "olemiss.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Mizzou - University of Missouri | University of Missouri",
+      "ranks": {
+        "mosiur": "184",
+        "QS": 476
+      },
+      "rcount": 2,
+      "url": "missouri.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Nebraska–Lincoln",
+      "ranks": {
+        "mosiur": "234",
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 3,
+      "url": "www.unl.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of North Carolina at Chapel Hill",
+      "ranks": {
+        "mosiur": "68",
+        "usnews": "52",
+        "timeshighereducation": "52",
+        "QS": 100,
+        "shanghaIRking": "29"
+      },
+      "rcount": 5,
+      "url": "www.unc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Notre Dame",
+      "ranks": {
+        "mosiur": "126",
+        "usnews": "183",
+        "timeshighereducation": "183",
+        "QS": 222,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "www.nd.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Oregon",
+      "ranks": {
+        "mosiur": "264",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.uoregon.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Pittsburgh: Home",
+      "ranks": {
+        "mosiur": "65",
+        "QS": 163,
+        "shanghaIRking": "101-150",
+        "usnews": "140",
+        "timeshighereducation": "140"
+      },
+      "rcount": 5,
+      "url": "www.pitt.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Rochester",
+      "ranks": {
+        "mosiur": "51",
+        "usnews": "142",
+        "timeshighereducation": "142",
+        "QS": 154,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 5,
+      "url": "www.rochester.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of South Carolina",
+      "ranks": {
+        "mosiur": "451-500"
+      },
+      "rcount": 1,
+      "url": "sc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Southern California",
+      "ranks": {
+        "mosiur": "98",
+        "usnews": "63",
+        "timeshighereducation": "63",
+        "QS": 112,
+        "shanghaIRking": "61"
+      },
+      "rcount": 5,
+      "url": "www.usc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Texas at Dallas",
+      "ranks": {
+        "mosiur": "351-400",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.utdallas.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Utah",
+      "ranks": {
+        "mosiur": "122",
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 358,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 5,
+      "url": "www.utah.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "UW Homepage",
+      "ranks": {
+        "mosiur": "39",
+        "usnews": "29",
+        "timeshighereducation": "29",
+        "QS": 85,
+        "shanghaIRking": "19"
+      },
+      "rcount": 5,
+      "url": "www.washington.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Wisconsin–Madison",
+      "ranks": {
+        "mosiur": "32",
+        "usnews": "58",
+        "timeshighereducation": "58",
+        "QS": 75,
+        "shanghaIRking": "31"
+      },
+      "rcount": 5,
+      "url": "www.wisc.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Washington State University",
+      "ranks": {
+        "mosiur": "401-450",
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 427,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 5,
+      "url": "wsu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "West Virginia University",
+      "ranks": {
+        "mosiur": "351-400",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.wvu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Yeshiva University: Home",
+      "ranks": {
+        "mosiur": "351-400",
+        "QS": 252
+      },
+      "rcount": 2,
+      "url": "www.yu.edu"
+    },
+    {
+      "country": "AT",
+      "orgName": "University of Klagenfurt",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 2,
+      "url": "www.aau.at"
+    },
+    {
+      "country": "AU",
+      "orgName": "Study periods 2022 - Staff - Australian Catholic University",
+      "ranks": {
+        "usnews": "251-300",
+        "timeshighereducation": "251-300"
+      },
+      "rcount": 2,
+      "url": "staff.acu.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "Deakin University",
+      "ranks": {
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 283,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.deakin.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "La Trobe University, Melbourne Victoria Australia",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 362,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.latrobe.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "RMIT University - RMIT University",
+      "ranks": {
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 206,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.rmit.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "The University of Newcastle, Australia",
+      "ranks": {
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 197,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.newcastle.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "University of Southern Queensland",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.usq.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "University of Technology Sydney: Home",
+      "ranks": {
+        "usnews": "143",
+        "timeshighereducation": "143",
+        "QS": 133,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.uts.edu.au"
+    },
+    {
+      "country": "AU",
+      "orgName": "UOW: Home - University of Wollongong",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 193,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.uow.edu.au"
+    },
+    {
+      "country": "BR",
+      "orgName": "Home Inglês | Unicamp",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 219,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.unicamp.br"
+    },
+    {
+      "country": "CA",
+      "orgName": "York University | Right the Future",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 494,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 4,
+      "url": "www.yorku.ca"
+    },
+    {
+      "country": "CH",
+      "orgName": "Università della Svizzera italiana | USI",
+      "ranks": {
+        "usnews": "301-350",
+        "timeshighereducation": "301-350",
+        "QS": 240
+      },
+      "rcount": 3,
+      "url": "www.usi.ch"
+    },
+    {
+      "country": "CH",
+      "orgName": "University of Bern",
+      "ranks": {
+        "usnews": "101",
+        "timeshighereducation": "101",
+        "QS": 119,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 4,
+      "url": "www.unibe.ch"
+    },
+    {
+      "country": "CH",
+      "orgName": "Home | | University of Fribourg - University of Fribourg",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.unifr.ch"
+    },
+    {
+      "country": "CH",
+      "orgName": "University of Lausanne - Switzerland - Université de Lausanne - UNIL",
+      "ranks": {
+        "usnews": "176",
+        "timeshighereducation": "176",
+        "QS": 176,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 4,
+      "url": "www.unil.ch"
+    },
+    {
+      "country": "CH",
+      "orgName": "University of Zurich: UZH",
+      "ranks": {
+        "usnews": "75",
+        "timeshighereducation": "75",
+        "QS": 70,
+        "shanghaIRking": "54"
+      },
+      "rcount": 4,
+      "url": "www.uzh.ch"
+    },
+    {
+      "country": "DE",
+      "orgName": "Home - Bielefeld University",
+      "ranks": {
+        "usnews": "166",
+        "timeshighereducation": "166"
+      },
+      "rcount": 2,
+      "url": "www.uni-bielefeld.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Charité – Universitätsmedizin Berlin",
+      "ranks": {
+        "usnews": "73",
+        "timeshighereducation": "73"
+      },
+      "rcount": 2,
+      "url": "www.charite.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Heinrich Heine University Düsseldorf",
+      "ranks": {
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 3,
+      "url": "www.hhu.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Welcome to Justus Liebig University Giessen! — Justus-Liebig ...",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 490
+      },
+      "rcount": 3,
+      "url": "www.uni-giessen.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Greifswald: Home",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 2,
+      "url": "www.uni-greifswald.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Hohenheim: Study and research in Stuttgart",
+      "ranks": {
+        "usnews": "197",
+        "timeshighereducation": "197"
+      },
+      "rcount": 2,
+      "url": "www.uni-hohenheim.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Kiel University: Uni Kiel",
+      "ranks": {
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 494,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 4,
+      "url": "www.uni-kiel.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "The University of Passau • University of Passau",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 2,
+      "url": "www.uni-passau.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "University of Würzburg - Universität Würzburg",
+      "ranks": {
+        "usnews": "165",
+        "timeshighereducation": "165",
+        "QS": 378
+      },
+      "rcount": 3,
+      "url": "www.uni-wuerzburg.de"
+    },
+    {
+      "country": "DK",
+      "orgName": "Copenhagen Business School",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250"
+      },
+      "rcount": 2,
+      "url": "www.cbs.dk"
+    },
+    {
+      "country": "FI",
+      "orgName": "University of Jyväskylä",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 358
+      },
+      "rcount": 3,
+      "url": "www.jyu.fi"
+    },
+    {
+      "country": "FI",
+      "orgName": "University of Oulu",
+      "ranks": {
+        "usnews": "251-300",
+        "timeshighereducation": "251-300",
+        "QS": 377,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 4,
+      "url": "www.oulu.fi"
+    },
+    {
+      "country": "GB",
+      "orgName": "Bournemouth University",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 2,
+      "url": "www.bournemouth.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Brighton and Sussex Medical School - BSMS",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250"
+      },
+      "rcount": 2,
+      "url": "www.bsms.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Liverpool John Moores University: Homepage",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.ljmu.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Home | Middlesex University London",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.mdx.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "Royal Veterinary College, RVC",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.rvc.ac.uk"
+    },
+    {
+      "country": "GB",
+      "orgName": "SRUC: Home",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.sruc.ac.uk"
+    },
+    {
+      "country": "GH",
+      "orgName": "Home | University of Cape Coast",
+      "ranks": {
+        "usnews": "301-350",
+        "timeshighereducation": "301-350"
+      },
+      "rcount": 2,
+      "url": "ucc.edu.gh"
+    },
+    {
+      "country": "IE",
+      "orgName": "Faculty of Medicine and Health Sciences - RCSI",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250"
+      },
+      "rcount": 2,
+      "url": "www.rcsi.com"
+    },
+    {
+      "country": "IT",
+      "orgName": "Free University of Bozen-Bolzano",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.unibz.it"
+    },
+    {
+      "country": "IT",
+      "orgName": "University of Modena and Reggio Emilia",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "international.unimore.it"
+    },
+    {
+      "country": "IT",
+      "orgName": "University of Padova",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 242,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 4,
+      "url": "www.unipd.it"
+    },
+    {
+      "country": "IT",
+      "orgName": "University of Pavia",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 3,
+      "url": "web-en.unipv.it"
+    },
+    {
+      "country": "IT",
+      "orgName": "Università di Pisa",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 388,
+        "shanghaIRking": "151-200"
+      },
+      "rcount": 4,
+      "url": "www.unipi.it"
+    },
+    {
+      "country": "IT",
+      "orgName": "University of Trento",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 440,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 4,
+      "url": "www.unitn.it"
+    },
+    {
+      "country": "JM",
+      "orgName": "The University of the West Indies, Mona, Jamaica |",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.mona.uwi.edu"
+    },
+    {
+      "country": "NG",
+      "orgName": "Home | UNIVERSITY OF IBADAN",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.ui.edu.ng"
+    },
+    {
+      "country": "NL",
+      "orgName": "Tilburg University: Responsible and Enterprising Thinkers | Tilburg ...",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250",
+        "QS": 356
+      },
+      "rcount": 3,
+      "url": "www.tilburguniversity.edu"
+    },
+    {
+      "country": "NO",
+      "orgName": "University of Stavanger: Forside",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.uis.no"
+    },
+    {
+      "country": "NZ",
+      "orgName": "AUT – Top 1% of universities world-wide",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250"
+      },
+      "rcount": 2,
+      "url": "www.aut.ac.nz"
+    },
+    {
+      "country": "NZ",
+      "orgName": "University of Waikato",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 373
+      },
+      "rcount": 3,
+      "url": "www.waikato.ac.nz"
+    },
+    {
+      "country": "PS",
+      "orgName": "Veterinary Medicine Students ... - An-Najah National University",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.najah.edu"
+    },
+    {
+      "country": "PT",
+      "orgName": "UCP | Homepage",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400"
+      },
+      "rcount": 2,
+      "url": "www.ucp.pt"
+    },
+    {
+      "country": "PT",
+      "orgName": "Universidade NOVA de Lisboa |",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 431
+      },
+      "rcount": 3,
+      "url": "www.unl.pt"
+    },
+    {
+      "country": "SA",
+      "orgName": "Alfaisal University | Riyadh. Kingdom of Saudi Arabia",
+      "ranks": {
+        "usnews": "201-250",
+        "timeshighereducation": "201-250"
+      },
+      "rcount": 2,
+      "url": "www.alfaisal.edu"
+    },
+    {
+      "country": "SA",
+      "orgName": "king abdulaziz university | Jeddah | Saudi Arabia Kingdom",
+      "ranks": {
+        "usnews": "190",
+        "timeshighereducation": "190",
+        "QS": 109,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 4,
+      "url": "www.kau.edu.sa"
+    },
+    {
+      "country": "SA",
+      "orgName": "King Saud University",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 277,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 4,
+      "url": "ksu.edu.sa"
+    },
+    {
+      "country": "SA",
+      "orgName": "Home",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.ut.edu.sa"
+    },
+    {
+      "country": "SE",
+      "orgName": "Universityadmissions.se - Apply to Swedish universities",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.universityadmissions.se"
+    },
+    {
+      "country": "SE",
+      "orgName": "Umeå University",
+      "ranks": {
+        "usnews": "351-400",
+        "timeshighereducation": "351-400",
+        "QS": 365,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 4,
+      "url": "www.umu.se"
+    },
+    {
+      "country": "US",
+      "orgName": "Colorado School of Mines",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500",
+        "QS": 461
+      },
+      "rcount": 3,
+      "url": "www.mines.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Georgia State University",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.gsu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Missouri University of Science and Technology – Missouri S&T",
+      "ranks": {
+        "usnews": "401-500",
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.mst.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Nova Southeastern University | NSU Florida - Private University",
+      "ranks": {
+        "usnews": "301-350",
+        "timeshighereducation": "301-350"
+      },
+      "rcount": 2,
+      "url": "www.nova.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Purdue University - Indiana's Land Grant University",
+      "ranks": {
+        "usnews": "105",
+        "timeshighereducation": "105"
+      },
+      "rcount": 2,
+      "url": "www.purdue.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Rush University",
+      "ranks": {
+        "usnews": "301-350",
+        "timeshighereducation": "301-350"
+      },
+      "rcount": 2,
+      "url": "www.rushu.rush.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Virginia",
+      "ranks": {
+        "usnews": "127",
+        "timeshighereducation": "127"
+      },
+      "rcount": 2,
+      "url": "www.virginia.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "Office of the Attorney General | Department of Justice",
+      "ranks": {
+        "usnews": "301-350",
+        "timeshighereducation": "301-350"
+      },
+      "rcount": 2,
+      "url": "www.justice.gov"
+    },
+    {
+      "country": "IS",
+      "orgName": "University of Iceland | University of Iceland",
+      "ranks": {
+        "timeshighereducation": "401-500"
+      },
+      "rcount": 1,
+      "url": "english.hi.is"
+    },
+    {
+      "country": "AR",
+      "orgName": "Universidad Austral",
+      "ranks": {
+        "QS": 400
+      },
+      "rcount": 1,
+      "url": "www.austral.edu.ar"
+    },
+    {
+      "country": "AR",
+      "orgName": "Distribución - Carreras de grado | Universidad de Belgrano",
+      "ranks": {
+        "QS": 465
+      },
+      "rcount": 1,
+      "url": "www.ub.edu.ar"
+    },
+    {
+      "country": "AR",
+      "orgName": "Carreras de Grado y Posgrados | Universidad de Palermo",
+      "ranks": {
+        "QS": 391
+      },
+      "rcount": 1,
+      "url": "www.palermo.edu"
+    },
+    {
+      "country": "AT",
+      "orgName": "Johannes Kepler University Linz | JKU Linz - JKU",
+      "ranks": {
+        "QS": 354
+      },
+      "rcount": 1,
+      "url": "www.jku.at"
+    },
+    {
+      "country": "CA",
+      "orgName": "University of Saskatchewan",
+      "ranks": {
+        "QS": 458,
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 2,
+      "url": "www.usask.ca"
+    },
+    {
+      "country": "CH",
+      "orgName": "Bachelor ‐ EPFL",
+      "ranks": {
+        "QS": 14,
+        "shanghaIRking": "91"
+      },
+      "rcount": 2,
+      "url": "www.epfl.ch"
+    },
+    {
+      "country": "CH",
+      "orgName": "University of St.Gallen: Homepage",
+      "ranks": {
+        "QS": 459
+      },
+      "rcount": 1,
+      "url": "www.unisg.ch"
+    },
+    {
+      "country": "CY",
+      "orgName": "UNIVERSITY OF CYPRUS",
+      "ranks": {
+        "QS": 440
+      },
+      "rcount": 1,
+      "url": "www.ucy.ac.cy"
+    },
+    {
+      "country": "DE",
+      "orgName": "Martin Luther University Halle-Wittenberg",
+      "ranks": {
+        "QS": 461
+      },
+      "rcount": 1,
+      "url": "www.uni-halle.de"
+    },
+    {
+      "country": "DE",
+      "orgName": "Universität Leipzig: www.uni-leipzig.de",
+      "ranks": {
+        "QS": 447,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 2,
+      "url": "www.uni-leipzig.de"
+    },
+    {
+      "country": "GB",
+      "orgName": "Oxford Brookes University",
+      "ranks": {
+        "QS": 429
+      },
+      "rcount": 1,
+      "url": "www.brookes.ac.uk"
+    },
+    {
+      "country": "IE",
+      "orgName": "Dublin City University",
+      "ranks": {
+        "QS": 490
+      },
+      "rcount": 1,
+      "url": "www.dcu.ie"
+    },
+    {
+      "country": "IL",
+      "orgName": "Bar-Ilan University - BIU",
+      "ranks": {
+        "QS": 477,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.biu.ac.il"
+    },
+    {
+      "country": "IT",
+      "orgName": "University of Bologna",
+      "ranks": {
+        "QS": 166
+      },
+      "rcount": 1,
+      "url": "www.unibo.it"
+    },
+    {
+      "country": "IT",
+      "orgName": "University of Naples Federico II",
+      "ranks": {
+        "QS": 424
+      },
+      "rcount": 1,
+      "url": "www.international.unina.it"
+    },
+    {
+      "country": "MY",
+      "orgName": "Official Portal of UKM",
+      "ranks": {
+        "QS": 144
+      },
+      "rcount": 1,
+      "url": "www.ukm.my"
+    },
+    {
+      "country": "MY",
+      "orgName": "USM | Universiti Sains Malaysia - Home",
+      "ranks": {
+        "QS": 147
+      },
+      "rcount": 1,
+      "url": "www.usm.my"
+    },
+    {
+      "country": "NZ",
+      "orgName": "Welcome to the University of Canterbury, New Zealand - Nau mai ...",
+      "ranks": {
+        "QS": 258
+      },
+      "rcount": 1,
+      "url": "www.canterbury.ac.nz"
+    },
+    {
+      "country": "NZ",
+      "orgName": "Victoria University of Wellington",
+      "ranks": {
+        "QS": 236,
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 2,
+      "url": "www.wgtn.ac.nz"
+    },
+    {
+      "country": "PT",
+      "orgName": "ULisboa | Universidade de Lisboa",
+      "ranks": {
+        "QS": 356,
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 2,
+      "url": "www.ulisboa.pt"
+    },
+    {
+      "country": "US",
+      "orgName": "Indiana University Bloomington",
+      "ranks": {
+        "QS": 311,
+        "shanghaIRking": "101-150"
+      },
+      "rcount": 2,
+      "url": "www.indiana.edu"
+    },
+    {
+      "country": "UY",
+      "orgName": "UM International | UM",
+      "ranks": {
+        "QS": 469
+      },
+      "rcount": 1,
+      "url": "um.edu.uy"
+    },
+    {
+      "country": "IT",
+      "orgName": "Scuola Normale Superiore",
+      "ranks": {
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 1,
+      "url": "www.sns.it"
+    },
+    {
+      "country": "US",
+      "orgName": "Brigham Young University",
+      "ranks": {
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 1,
+      "url": "www.byu.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Central Florida | Orlando's Hometown University",
+      "ranks": {
+        "shanghaIRking": "301-400"
+      },
+      "rcount": 1,
+      "url": "www.ucf.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Maine",
+      "ranks": {
+        "shanghaIRking": "401-500"
+      },
+      "rcount": 1,
+      "url": "umaine.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "University of Massachusetts Chan Medical School (UMass Chan ...",
+      "ranks": {
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 1,
+      "url": "www.umassmed.edu"
+    },
+    {
+      "country": "US",
+      "orgName": "The University of Tennessee, Knoxville",
+      "ranks": {
+        "shanghaIRking": "201-300"
+      },
+      "rcount": 1,
+      "url": "www.utk.edu"
+    }
+  ]
