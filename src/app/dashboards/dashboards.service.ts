@@ -34,7 +34,9 @@ export class DashboardsService {
   getCountryExclList(): Observable<any> {
     return this.http.get('/assets/data/compare/exclude.json')
   }
-
+  getAnalysisData(): Observable<any> {
+    return this.http.get('/assets/data/compare/analyse.json')
+  }
   //DEPRECATED
   // ecommerce dashboard
   getRecentOrdersTableData(): Observable<any> {

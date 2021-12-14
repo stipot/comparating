@@ -7,7 +7,7 @@ import { ComparatorDashboardComponent } from './comparator/comparator.component'
 // echarts - lib: https://github.com/xieziyu/ngx-echarts
 import { NgxEchartsModule } from 'ngx-echarts';
 import { DashboardsService } from './dashboards.service';
-import { SourcesDashboardResolver, CrmDashboardResolver, DisambDashboardResolver } from './dashboards.resolver';
+import { SourcesDashboardResolver, CrmDashboardResolver, DisambDashboardResolver, AnalysisDashboardResolver } from './dashboards.resolver';
 import { TranslocoRootModule } from '../transloco-root.module';
 import { DescriptionComponent } from './description/description.component'
 import { SelectorComponent } from './selector/selector.component'
@@ -51,7 +51,7 @@ export const dashboardRoutes = [
     path: 'analysis',
     component: AnalysisComponent,
     resolve: {
-      tableData: DisambDashboardResolver
+      tableData: AnalysisDashboardResolver
     }
   }
 ];
@@ -77,7 +77,8 @@ export const dashboardRoutes = [
     DashboardsService,
     SourcesDashboardResolver,
     CrmDashboardResolver,
-    DisambDashboardResolver
+    DisambDashboardResolver,
+    AnalysisDashboardResolver
   ],
   exports: [
     DescriptionComponent

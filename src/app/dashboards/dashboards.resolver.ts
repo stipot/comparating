@@ -34,6 +34,21 @@ export class DisambDashboardResolver implements Resolve<any> {
 }
 
 @Injectable()
+export class AnalysisDashboardResolver implements Resolve<any> {
+
+  constructor(private dashboardService: DashboardsService) { }
+
+  resolve() {
+    return new Promise((resolve, reject) => {
+      this.dashboardService.getAnalysisData()
+        .subscribe((tableData: any) => {
+          return resolve(tableData);
+        });
+    });
+  }
+}
+
+@Injectable()
 export class CrmDashboardResolver implements Resolve<any> {
 
   constructor(private dashboardService: DashboardsService) { }
