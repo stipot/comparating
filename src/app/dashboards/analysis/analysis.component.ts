@@ -11,7 +11,7 @@ import { FormGroup, FormControl } from '@angular/forms';
 
 export interface RowData {
   country: string
-  orgName: string
+  syns: string
   ranks: { [rankName: string]: string }
   rcount: number
   url: string
@@ -33,7 +33,7 @@ export interface RowData {
 })
 export class AnalysisComponent implements OnInit {
   filtersForm: FormGroup;
-  displayedColumns: string[] = ['country', 'orgName', 'ranks', 'rcount'];
+  displayedColumns: string[] = ['country', 'syns', 'ranks', 'rcount'];
   dataSource: MatTableDataSource<RowData>;
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
   @ViewChild(MatSort, { static: true }) sort: MatSort;
@@ -89,7 +89,7 @@ export class AnalysisComponent implements OnInit {
     });
     this.dataSource.data = results;
   }
-  countryChange(event) {
+  countryChange() {
     this.applyFilters(this.filtersForm.value);
   }
   filterby3(event) {

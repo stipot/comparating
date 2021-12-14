@@ -25,7 +25,7 @@ export class DashboardsService {
   }
 
   getRatingData(DataFileName: string): Observable<any> {
-    return this.http.get('/assets/data/compare/' + DataFileName)
+    return this.http.get('/assets/data/ratings/' + DataFileName)
   }
 
   getDisambiguationData(): Observable<any> {

@@ -12,6 +12,8 @@ export interface RowData {
   year: string;
   fname: string;
   url: string;
+  ratingId: string
+  type?: number
 }
 
 @Component({
@@ -85,17 +87,47 @@ export class SelectorComponent implements OnInit {
 
   nextStep() {
     let counter = this.selection.selected.length
+    let countryMap = {}
+    Object.keys(CountriesList.plain).forEach(el => {
+      countryMap[CountriesList.plain[el]] = el
+    })
+    //Local fix of disambiguation
+    countryMap = Object.assign(countryMap, {
+      "South Korea": "KR",
+      "Taiwan": "TW",
+      "Russia": "RU",
+      "Serbia": "RS",
+      "Iran": "IR",
+      "Macau": "CN",
+      "Vietnam": "VN" 
+    })
+    console.log(countryMap)
     this.selection.selected.forEach(rank => {
-      this.service.getRatingData(rank.fname).toPromise().then(data => {
+      this.service.getRatingData(rank.fname).toPromise().then(dataSrc => {
+        let data: RankDataRecord[]
+        if (rank?.type == 2) {
+          data = dataSrc.map(el => {
+            return {
+              rank: el.rank,
+              country: countryMap[el.country] || el.country,
+              orgName: el.title,
+              rating: rank.ratingId,
+              year: rank.year
+            }
+          })
+        } else data = dataSrc
+        console.log(rank.rating, data)
         data.forEach(record => {
-          const key = CountriesList.plain[record.country.trim()] + ' ' + record.name.trim()
+          if (!record.country || !record.orgName)
+          console.log(record)
+          const key = CountriesList.plain[record.country.trim()] + ' ' + record.orgName.trim()
           if (this.udm[key]) {
             this.udm[key].ranks[record.rating.trim()] = typeof record.rank == "string" ? record.rank.trim() : record.rank
             this.udm[key].rcount++
           } else {
             this.udm[key] = {
               country: record.country.trim(),
-              orgName: record.name.trim(),
+              orgName: record.orgName.trim(),
               ranks: {
                 [record.rating.trim()]: typeof record.rank == "string" ? record.rank.trim() : record.rank
               },

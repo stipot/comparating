@@ -146,7 +146,9 @@ export class DisambComponent implements OnInit {
     console.log('skiped', skipedList, updatedList, this.service.unifiedRankData)
     //prepare Analysis data
     const data = this.service.unifiedRankData
-    this.service.analysisData = Object.keys(data).map(key => { return { country: data[key].country, orgName: data[key].orgName, ranks: data[key].ranks, rcount: data[key].rcount, url: key } })
+    this.service.analysisData = Object.keys(data).map(key => {
+      return { country: data[key].country, orgName: data[key].orgName, ranks: data[key].ranks, rcount: data[key].rcount, url: key, syns: data[key]?.syns.join(' || ') }
+    })
     this.analysejson = JSON.stringify(this.service.analysisData, null, 2)
     //
     /**
@@ -168,7 +170,7 @@ export class DisambComponent implements OnInit {
      * 
     */
   }
-  nextStep(){
+  nextStep() {
     this.router.navigate(['/analysis']);
   }
 }
