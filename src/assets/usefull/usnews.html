@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>USNews data extractor</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let rez = []
+            $('ol li aside').remove()
+            $('ol.GipBS li').each(function (index) {
+                let el = $(this).find('h2 a')
+                if (el) {
+                    title = $(this).find('h2 a').text().replace(/(\r\n|\n|\r)/gm, " ").replace(/\s+/g, ' ').trim();
+                    rank = $(this).find('ul li div').text().replace(/(\r\n|\n|\r| |\#)/gm, "");
+                    country = $(this).find('p span:first-of-type').text();
+                    if (title) {
+                        rez.push({ title, rank, country })
+                    }
+                }
+            })
+            console.log(rez)
+        });
+    </script>
+</head>
+
+<body>
+    <!-- Insert page data here and get result in terminal-->
+    <table id="result"></table>
+</body>
+</html>

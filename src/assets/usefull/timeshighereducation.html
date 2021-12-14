@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Data extractor</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+    let rez = []
+    $('table tr').each(function( index ) {
+        title = $(this).find('[data-position="title"]').text().replace(/(\r\n|\n|\r)/gm, " ").replace(/\s+/g,' ');
+        rank = $(this).find('.rank').text();
+        country = $(this).find('.location a').text();
+        rez.push({title, rank, country})
+    })
+        
+        console.log(rez)
+});
+
+</script>
+<style>
+.selected { 
+    color:red; 
+}
+.highlight { 
+    background:yellow; 
+}
+</style>
+</head>
+<body>
+<table id="result"></table>
+</body>
+</html>
