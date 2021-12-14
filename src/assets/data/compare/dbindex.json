@@ -19,19 +19,20 @@
     "ratingId": "shanghaIRking",
     "fname": "shanghaIRking_2021.json",
     "url": "https://www.shanghairanking.com/rankings/arwu/2021"
-  },
-  {
+  },{
     "year": 2022,
-    "rating": "US.NEWS Best Global Universities",
+    "type": 2,
+    "rating": "US.NEWS Best Global Universities - SRC",
     "ratingId": "usnews",
-    "fname": "usnews_2022.json",
+    "fname": "usnews_src_2022.json",
     "url": "https://www.usnews.com/education/best-global-universities/rankings"
   },
   {
     "year": 2022,
-    "rating": "Times Higher Education",
+    "type": 2,
+    "rating": "Times Higher Education - SRC",
     "ratingId": "timeshighereducation",
-    "fname": "timeshighereducation_2022.json",
+    "fname": "timeshighereducation_src_2022.json",
     "url": "https://www.timeshighereducation.com/world-university-rankings/2022/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats"
   }
 ]

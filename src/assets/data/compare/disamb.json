@@ -3868,5 +3868,1025 @@
     "uName": "Purdue University - Indiana's Land Grant University",
     "site": "www.purdue.edu",
     "destUrl": "https://www.purdue.edu/"
-  }
+  },
+  "United States Mayo Clinic Alix School of Medicine": {
+    "origName": "United States Mayo Clinic Alix School of Medicine",
+    "uName": "Mayo Clinic Alix School of Medicine - Mayo Clinic College of ...",
+    "site": "college.mayo.edu",
+    "destUrl": "https://college.mayo.edu/academics/mayo-clinic-alix-school-of-medicine/"
+  },
+  "Germany University of Munich": {
+    "origName": "Germany University of Munich",
+    "uName": "International Students - TUM",
+    "site": "www.tum.de",
+    "destUrl": "https://www.tum.de/en/studies/international-students"
+  },
+    "Germany University of Wurzburg": {
+      "origName": "Germany University of Wurzburg",
+      "uName": "University of Würzburg - Universität Würzburg",
+      "site": "www.uni-wuerzburg.de",
+      "destUrl": "https://www.uni-wuerzburg.de/en/university/"
+    },
+    "Belgium University Catholique of Louvain": {
+      "origName": "Belgium University Catholique of Louvain",
+      "uName": "UCLouvain: Université catholique de Louvain",
+      "site": "uclouvain.be",
+      "destUrl": "https://uclouvain.be/en/index.html"
+    },
+    "United States Stony Brook University--SUNY": {
+      "origName": "United States Stony Brook University--SUNY",
+      "uName": "Stony Brook University, New York",
+      "site": "www.stonybrook.edu",
+      "destUrl": "https://www.stonybrook.edu/"
+    },
+    "United States University of Illinois--Chicago": {
+      "origName": "United States University of Illinois--Chicago",
+      "uName": "University of Illinois Chicago",
+      "site": "www.uic.edu",
+      "destUrl": "https://www.uic.edu/"
+    },
+    "United States University of California--Riverside": {
+      "origName": "United States University of California--Riverside",
+      "uName": "University of California, Riverside: home",
+      "site": "www.ucr.edu",
+      "destUrl": "https://www.ucr.edu/"
+    },
+    "United States University of California--San Francisco": {
+      "origName": "United States University of California--San Francisco",
+      "uName": "San Francisco State University",
+      "site": "www.sfsu.edu",
+      "destUrl": "https://www.sfsu.edu/"
+    },
+    "United States Ohio State University--Columbus": {
+      "origName": "United States Ohio State University--Columbus",
+      "uName": "The Ohio State University",
+      "site": "www.osu.edu",
+      "destUrl": "https://www.osu.edu/"
+    },
+    "United States Texas A&M University--College Station": {
+      "origName": "United States Texas A&M University--College Station",
+      "uName": "Texas - Wikipedia",
+      "site": "en.wikipedia.org",
+      "destUrl": "https://en.wikipedia.org/wiki/Texas"
+    },
+    "Germany University of Erlangen Nuremberg": {
+      "origName": "Germany University of Erlangen Nuremberg",
+      "uName": "Friedrich-Alexander-Universität Erlangen-Nürnberg › Friedrich ...",
+      "site": "www.fau.eu",
+      "destUrl": "https://www.fau.eu/"
+    },
+    "United States University of Maryland--College Park": {
+      "origName": "United States University of Maryland--College Park",
+      "uName": "The University of Maryland | A Preeminent Public Research University",
+      "site": "www.umd.edu",
+      "destUrl": "https://www.umd.edu/"
+    },
+    "United States University of Wisconsin--Madison": {
+      "origName": "United States University of Wisconsin--Madison",
+      "uName": "University of Wisconsin–Madison",
+      "site": "www.wisc.edu",
+      "destUrl": "https://www.wisc.edu/"
+    },
+    "Israel Technion Israel Institute of Technology": {
+      "origName": "Israel Technion Israel Institute of Technology",
+      "uName": "Technion - Israel Institute of Technology",
+      "site": "www.technion.ac.il",
+      "destUrl": "https://www.technion.ac.il/en/home-2/"
+    },
+    "United States University of Colorado--Boulder": {
+      "origName": "United States University of Colorado--Boulder",
+      "uName": "University of Colorado Boulder: Home",
+      "site": "www.colorado.edu",
+      "destUrl": "https://www.colorado.edu/"
+    },
+    "United States University of Minnesota--Twin Cities": {
+      "origName": "United States University of Minnesota--Twin Cities",
+      "uName": "University of Minnesota Twin Cities",
+      "site": "twin-cities.umn.edu",
+      "destUrl": "https://twin-cities.umn.edu/"
+    },
+    "Germany Johannes Gutenberg University of Mainz": {
+      "origName": "Germany Johannes Gutenberg University of Mainz",
+      "uName": "Welcome to JGU!",
+      "site": "www.uni-mainz.de",
+      "destUrl": "https://www.uni-mainz.de/eng/"
+    },
+    "Belgium Catholic University of Leuven": {
+      "origName": "Belgium Catholic University of Leuven",
+      "uName": "Top 50 university - KU Leuven - Inspiring the outstanding",
+      "site": "www.kuleuven.be",
+      "destUrl": "https://www.kuleuven.be/english/"
+    },
+    "Belgium Free University of Brussels": {
+      "origName": "Belgium Free University of Brussels",
+      "uName": "Vrije Universiteit Brussel | Redelijk eigenzinnig",
+      "site": "www.vub.be",
+      "destUrl": "https://www.vub.be/en/home"
+    },
+    "Switzerland Ecole Polytechnique Federale of Lausanne": {
+      "origName": "Switzerland Ecole Polytechnique Federale of Lausanne",
+      "uName": "EPFL",
+      "site": "www.epfl.ch",
+      "destUrl": "https://www.epfl.ch/en/"
+    },
+    "Netherlands Wageningen University and Research Center": {
+      "origName": "Netherlands Wageningen University and Research Center",
+      "uName": "Wageningen University & Research",
+      "site": "www.wur.nl",
+      "destUrl": "https://www.wur.nl/en.htm"
+    },
+    "Germany University of Gottingen": {
+      "origName": "Germany University of Gottingen",
+      "uName": "University of Göttingen - Georg-August-Universität Göttingen",
+      "site": "www.uni-goettingen.de",
+      "destUrl": "https://www.uni-goettingen.de/en/1.html"
+    },
+    "Norway Norwegian University of Science and Technology": {
+      "origName": "Norway Norwegian University of Science and Technology",
+      "uName": "NTNU: Norwegian University of Science and Technology",
+      "site": "www.ntnu.edu",
+      "destUrl": "https://www.ntnu.edu/"
+    },
+    "Germany Freie Universitat Berlin": {
+      "origName": "Germany Freie Universitat Berlin",
+      "uName": "Freie Universität Berlin: Homepage",
+      "site": "www.fu-berlin.de",
+      "destUrl": "https://www.fu-berlin.de/en/index.html"
+    },
+    "United States University of Tennessee": {
+      "origName": "United States University of Tennessee",
+      "uName": "The University of Tennessee, Knoxville",
+      "site": "www.utk.edu",
+      "destUrl": "https://www.utk.edu/"
+    },
+    "Brazil Universidade de Sao Paulo": {
+      "origName": "Brazil Universidade de Sao Paulo",
+      "uName": "University of São Paulo - Wikipedia",
+      "site": "en.wikipedia.org",
+      "destUrl": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo"
+    },
+    "United States University of California--Davis": {
+      "origName": "United States University of California--Davis",
+      "uName": "UC Davis | UC Davis",
+      "site": "www.ucdavis.edu",
+      "destUrl": "https://www.ucdavis.edu/"
+    },
+    "United States Arizona State University--Tempe": {
+      "origName": "United States Arizona State University--Tempe",
+      "uName": "Arizona State University | ASU",
+      "site": "www.asu.edu",
+      "destUrl": "https://www.asu.edu/"
+    },
+    "United States Indiana University--Bloomington": {
+      "origName": "United States Indiana University--Bloomington",
+      "uName": "Indiana University Bloomington",
+      "site": "www.indiana.edu",
+      "destUrl": "https://www.indiana.edu/"
+    },
+    "United States University at Buffalo--SUNY": {
+      "origName": "United States University at Buffalo--SUNY",
+      "uName": "Welcome to the University at Buffalo - University at Buffalo",
+      "site": "www.buffalo.edu",
+      "destUrl": "http://www.buffalo.edu/"
+    },
+    "Australia University of Adelaide": {
+      "origName": "Australia University of Adelaide",
+      "uName": "The University of Adelaide",
+      "site": "www.adelaide.edu.au",
+      "destUrl": "https://www.adelaide.edu.au/"
+    },
+    "United States University of California--Berkeley": {
+      "origName": "United States University of California--Berkeley",
+      "uName": "University of California, Berkeley: Home",
+      "site": "www.berkeley.edu",
+      "destUrl": "https://www.berkeley.edu/"
+    },
+    "United States Purdue University--West Lafayette": {
+      "origName": "United States Purdue University--West Lafayette",
+      "uName": "Purdue University - Indiana's Land Grant University",
+      "site": "www.purdue.edu",
+      "destUrl": "https://www.purdue.edu/"
+    },
+    "Canada University of Montreal": {
+      "origName": "Canada University of Montreal",
+      "uName": "University of Montreal",
+      "site": "www.umontreal.ca",
+      "destUrl": "https://www.umontreal.ca/en/"
+    },
+    "Germany Johann Wolfgang Goethe University Frankfurt am Main": {
+      "origName": "Germany Johann Wolfgang Goethe University Frankfurt am Main",
+      "uName": "Goethe-Universität — Welcome to Goethe University Frankfurt",
+      "site": "www.goethe-university-frankfurt.de",
+      "destUrl": "https://www.goethe-university-frankfurt.de/"
+    },
+    "Germany Humboldt-Universitat zu Berlin": {
+      "origName": "Germany Humboldt-Universitat zu Berlin",
+      "uName": "Humboldt-Universität zu Berlin",
+      "site": "www.hu-berlin.de",
+      "destUrl": "https://www.hu-berlin.de/en"
+    },
+    "United States University of California--Los Angeles": {
+      "origName": "United States University of California--Los Angeles",
+      "uName": "Cal State LA | We Are LA",
+      "site": "www.calstatela.edu",
+      "destUrl": "https://www.calstatela.edu/"
+    },
+    "Australia Australian National University": {
+      "origName": "Australia Australian National University",
+      "uName": "ANU",
+      "site": "www.anu.edu.au",
+      "destUrl": "https://www.anu.edu.au/"
+    },
+    "United States North Carolina State University--Raleigh": {
+      "origName": "United States North Carolina State University--Raleigh",
+      "uName": "NC State University",
+      "site": "www.ncsu.edu",
+      "destUrl": "https://www.ncsu.edu/"
+    },
+    "United States University of Massachusetts--Amherst": {
+      "origName": "United States University of Massachusetts--Amherst",
+      "uName": "UMass Amherst: Homepage",
+      "site": "www.umass.edu",
+      "destUrl": "https://www.umass.edu/"
+    },
+    "Italy International School for Advanced Studies": {
+      "origName": "Italy International School for Advanced Studies",
+      "uName": "Scuola Internazionale Superiore di Studi Avanzati",
+      "site": "www.sissa.it",
+      "destUrl": "https://www.sissa.it/"
+    },
+    "United States University of California--Irvine": {
+      "origName": "United States University of California--Irvine",
+      "uName": "UCI: Home",
+      "site": "uci.edu",
+      "destUrl": "https://uci.edu/"
+    },
+    "United States University of Maryland--Baltimore": {
+      "origName": "United States University of Maryland--Baltimore",
+      "uName": "The University of Maryland, Baltimore: UMB Home",
+      "site": "www.umaryland.edu",
+      "destUrl": "https://www.umaryland.edu/"
+    },
+    "United Kingdom Queen Mary, University of London": {
+      "origName": "United Kingdom Queen Mary, University of London",
+      "uName": "Queen Mary University of London",
+      "site": "www.qmul.ac.uk",
+      "destUrl": "https://www.qmul.ac.uk/"
+    },
+    "United Kingdom London School of Hygiene and Tropical Medicine": {
+      "origName": "United Kingdom London School of Hygiene and Tropical Medicine",
+      "uName": "The London School of Hygiene & Tropical Medicine | LSHTM",
+      "site": "www.lshtm.ac.uk",
+      "destUrl": "https://www.lshtm.ac.uk/"
+    },
+    "United States University of California--San Diego": {
+      "origName": "United States University of California--San Diego",
+      "uName": "University of California San Diego",
+      "site": "ucsd.edu",
+      "destUrl": "https://ucsd.edu/"
+    },
+    "Denmark University of Southern Denmark": {
+      "origName": "Denmark University of Southern Denmark",
+      "uName": "University of Southern Denmark, SDU",
+      "site": "www.sdu.dk",
+      "destUrl": "https://www.sdu.dk/en"
+    },
+    "United Kingdom University of St. Andrews": {
+      "origName": "United Kingdom University of St. Andrews",
+      "uName": "University of St Andrews - Scotland's first university, founded 1413",
+      "site": "www.st-andrews.ac.uk",
+      "destUrl": "https://www.st-andrews.ac.uk/"
+    },
+    "United States University of North Carolina--Chapel Hill": {
+      "origName": "United States University of North Carolina--Chapel Hill",
+      "uName": "The University of North Carolina at Chapel Hill",
+      "site": "www.unc.edu",
+      "destUrl": "https://www.unc.edu/"
+    },
+    "Belgium Universite Libre de Bruxelles": {
+      "origName": "Belgium Universite Libre de Bruxelles",
+      "uName": "ULB English website",
+      "site": "www.ulb.be",
+      "destUrl": "https://www.ulb.be/en"
+    },
+    "United States University of Illinois--Urbana-Champaign": {
+      "origName": "United States University of Illinois--Urbana-Champaign",
+      "uName": "Home | University of Illinois Urbana-Champaign",
+      "site": "illinois.edu",
+      "destUrl": "https://illinois.edu/"
+    },
+    "United States Rutgers, The State University of New Jersey--New Brunswick": {
+      "origName": "United States Rutgers, The State University of New Jersey--New Brunswick",
+      "uName": "Rutgers University",
+      "site": "www.rutgers.edu",
+      "destUrl": "https://www.rutgers.edu/"
+    },
+    "United States University of California--Santa Cruz": {
+      "origName": "United States University of California--Santa Cruz",
+      "uName": "University of California, Santa Cruz",
+      "site": "www.ucsc.edu",
+      "destUrl": "https://www.ucsc.edu/"
+    },
+    "United States University of Michigan--Ann Arbor": {
+      "origName": "United States University of Michigan--Ann Arbor",
+      "uName": "University of Michigan",
+      "site": "umich.edu",
+      "destUrl": "https://umich.edu/"
+    },
+    "United States Pennsylvania State University--University Park": {
+      "origName": "United States Pennsylvania State University--University Park",
+      "uName": "Penn State: The Pennsylvania State University",
+      "site": "www.psu.edu",
+      "destUrl": "https://www.psu.edu/"
+    },
+    "United States University of Alabama--Birmingham": {
+      "origName": "United States University of Alabama--Birmingham",
+      "uName": "UAB: The University of Alabama at Birmingham",
+      "site": "www.uab.edu",
+      "destUrl": "https://www.uab.edu/home/"
+    },
+    "United States University of Texas Southwestern Medical Center--Dallas": {
+      "origName": "United States University of Texas Southwestern Medical Center--Dallas",
+      "uName": "UT Southwestern Medical Center",
+      "site": "www.utsouthwestern.edu",
+      "destUrl": "https://www.utsouthwestern.edu/"
+    },
+    "United States University of Colorado Anschutz Medical Campus": {
+      "origName": "United States University of Colorado Anschutz Medical Campus",
+      "uName": "CU Denver: University of Colorado Denver",
+      "site": "www.ucdenver.edu",
+      "destUrl": "https://www.ucdenver.edu/"
+    },
+    "United States University of California--Santa Barbara": {
+      "origName": "United States University of California--Santa Barbara",
+      "uName": "UC Santa Barbara: Home",
+      "site": "www.ucsb.edu",
+      "destUrl": "https://www.ucsb.edu/"
+    },
+      "Germany Charité - Universitätsmedizin Berlin": {
+        "origName": "Germany Charité - Universitätsmedizin Berlin",
+        "uName": "Charité – Universitätsmedizin Berlin",
+        "site": "www.charite.de",
+        "destUrl": "https://www.charite.de/en/"
+      },
+      "Germany Heinrich Heine University of Dusseldorf": {
+        "origName": "Germany Heinrich Heine University of Dusseldorf",
+        "uName": "Heinrich Heine University Düsseldorf",
+        "site": "www.hhu.de",
+        "destUrl": "https://www.hhu.de/en/"
+      },
+      "Australia UNSW Sydney": {
+        "origName": "Australia UNSW Sydney",
+        "uName": "UNSW Sydney | One of the best universities in Australia",
+        "site": "www.unsw.edu.au",
+        "destUrl": "https://www.unsw.edu.au/"
+      },
+      "Finland University of Eastern Finland": {
+        "origName": "Finland University of Eastern Finland",
+        "uName": "University of Eastern Finland",
+        "site": "www.uef.fi",
+        "destUrl": "https://www.uef.fi/en"
+      },
+      "United States Indiana University-Purdue University--Indianapolis": {
+        "origName": "United States Indiana University-Purdue University--Indianapolis",
+        "uName": "IUPUI",
+        "site": "www.iupui.edu",
+        "destUrl": "https://www.iupui.edu/"
+      },
+      "Belgium KU Leuven": {
+        "origName": "Belgium KU Leuven",
+        "uName": "Top 50 university - KU Leuven - Inspiring the outstanding",
+        "site": "www.kuleuven.be",
+        "destUrl": "https://www.kuleuven.be/english/"
+      },
+      "Italy University of Milan - Bicocca": {
+        "origName": "Italy University of Milan - Bicocca",
+        "uName": "University of Milano-Bicocca",
+        "site": "en.unimib.it",
+        "destUrl": "https://en.unimib.it/"
+      },
+      "United States University of Texas Health Science Center--San Antonio": {
+        "origName": "United States University of Texas Health Science Center--San Antonio",
+        "uName": "UT Health San Antonio",
+        "site": "www.uthscsa.edu",
+        "destUrl": "https://www.uthscsa.edu/"
+      },
+      "United States University of South Carolina--Columbia": {
+        "origName": "United States University of South Carolina--Columbia",
+        "uName": "University of South Carolina",
+        "site": "sc.edu",
+        "destUrl": "https://sc.edu/"
+      },
+      "United States University of Hawaii--Manoa": {
+        "origName": "United States University of Hawaii--Manoa",
+        "uName": "University of Hawaiʻi at Mānoa | Take Me To Manoa",
+        "site": "manoa.hawaii.edu",
+        "destUrl": "https://manoa.hawaii.edu/"
+      },
+      "Germany LMU Munich": {
+        "origName": "Germany LMU Munich",
+        "uName": "Home - LMU Munich",
+        "site": "www.lmu.de",
+        "destUrl": "https://www.lmu.de/en/"
+      },
+      "undefined University of Belgrade": {
+        "origName": "undefined University of Belgrade",
+        "uName": "person – Molab",
+        "site": "molab.es",
+        "destUrl": "https://molab.es/person/?idpersonal=389"
+      },
+      "Italy Politecnico di Milano": {
+        "origName": "Italy Politecnico di Milano",
+        "uName": "Politecnico di Milano: Home",
+        "site": "www.polimi.it",
+        "destUrl": "https://www.polimi.it/en/"
+      },
+      "Malaysia Universiti Teknologi Malaysia": {
+        "origName": "Malaysia Universiti Teknologi Malaysia",
+        "uName": "Universiti Teknologi Malaysia (UTM) Official Website",
+        "site": "www.utm.my",
+        "destUrl": "https://www.utm.my/"
+      },
+      "Switzerland Università della Svizzera italiana": {
+        "origName": "Switzerland Università della Svizzera italiana",
+        "uName": "Università della Svizzera italiana | USI",
+        "site": "www.usi.ch",
+        "destUrl": "https://www.usi.ch/en"
+      },
+      "Hungary Eotvos Lorand University": {
+        "origName": "Hungary Eotvos Lorand University",
+        "uName": "Eötvös Loránd University",
+        "site": "www.elte.hu",
+        "destUrl": "https://www.elte.hu/en/"
+      },
+      "Germany Eberhard Karls University, Tubingen": {
+        "origName": "Germany Eberhard Karls University, Tubingen",
+        "uName": "University of Tübingen: Home",
+        "site": "uni-tuebingen.de",
+        "destUrl": "https://uni-tuebingen.de/en/"
+      },
+      "Italy University of Trieste": {
+        "origName": "Italy University of Trieste",
+        "uName": "University of Trieste",
+        "site": "www.units.it",
+        "destUrl": "https://www.units.it/en"
+      },
+      "Germany University of Ulm": {
+        "origName": "Germany University of Ulm",
+        "uName": "Ulm University: Research, Study, Knowledge transfer",
+        "site": "www.uni-ulm.de",
+        "destUrl": "https://www.uni-ulm.de/en/"
+      },
+      "Germany Philipps University of Marburg": {
+        "origName": "Germany Philipps University of Marburg",
+        "uName": "Philipps-Universität Marburg: University of Marburg",
+        "site": "www.uni-marburg.de",
+        "destUrl": "https://www.uni-marburg.de/en"
+      },
+      "Australia The University of Western Australia": {
+        "origName": "Australia The University of Western Australia",
+        "uName": "University of Western Australia",
+        "site": "www.uwa.edu.au",
+        "destUrl": "https://www.uwa.edu.au/"
+      },
+      "Germany University of Munster": {
+        "origName": "Germany University of Munster",
+        "uName": "University of Münster",
+        "site": "www.uni-muenster.de",
+        "destUrl": "https://www.uni-muenster.de/en/"
+      },
+      "Portugal University of Nova de Lisboa": {
+        "origName": "Portugal University of Nova de Lisboa",
+        "uName": "Universidade NOVA de Lisboa |",
+        "site": "www.unl.pt",
+        "destUrl": "https://www.unl.pt/en"
+      },
+      "Belgium University of Liège": {
+        "origName": "Belgium University of Liège",
+        "uName": "ULiège",
+        "site": "www.uliege.be",
+        "destUrl": "https://www.uliege.be/cms/c_8750816/en/uliege"
+      },
+      "United States Virginia Tech": {
+        "origName": "United States Virginia Tech",
+        "uName": "Virginia Tech: Home",
+        "site": "vt.edu",
+        "destUrl": "https://vt.edu/"
+      },
+      "United Kingdom Queen’s University Belfast": {
+        "origName": "United Kingdom Queen’s University Belfast",
+        "uName": "Queen's University Belfast: Shaping a Better World since 1845",
+        "site": "www.qub.ac.uk",
+        "destUrl": "https://www.qub.ac.uk/"
+      },
+      "Australia University of South Australia": {
+        "origName": "Australia University of South Australia",
+        "uName": "University of South Australia: UniSA",
+        "site": "www.unisa.edu.au",
+        "destUrl": "https://www.unisa.edu.au/"
+      },
+      "Norway UiT The Arctic University of Norway": {
+        "origName": "Norway UiT The Arctic University of Norway",
+        "uName": "UiT The Arctic University of Norway | UiT",
+        "site": "en.uit.no",
+        "destUrl": "https://en.uit.no/"
+      },
+      "Belgium Université Libre de Bruxelles": {
+        "origName": "Belgium Université Libre de Bruxelles",
+        "uName": "ULB English website",
+        "site": "www.ulb.be",
+        "destUrl": "https://www.ulb.be/en"
+      },
+      "Switzerland ETH Zurich": {
+        "origName": "Switzerland ETH Zurich",
+        "uName": "ETH Zurich - Homepage | ETH Zurich",
+        "site": "ethz.ch",
+        "destUrl": "https://ethz.ch/en.html"
+      },
+      "Mexico National Autonomous University of Mexico": {
+        "origName": "Mexico National Autonomous University of Mexico",
+        "uName": "National Autonomous University of Mexico - Wikipedia",
+        "site": "en.wikipedia.org",
+        "destUrl": "https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico"
+      },
+      "Italy Catholic University of Sacred Heart": {
+        "origName": "Italy Catholic University of Sacred Heart",
+        "uName": "Università Cattolica del Sacro Cuore",
+        "site": "www.unicatt.eu",
+        "destUrl": "https://www.unicatt.eu/"
+      },
+      "United Kingdom St George’s, University of London": {
+        "origName": "United Kingdom St George’s, University of London",
+        "uName": "St George's, University of London",
+        "site": "www.sgul.ac.uk",
+        "destUrl": "https://www.sgul.ac.uk/"
+      },
+      "United States University of Colorado--Denver": {
+        "origName": "United States University of Colorado--Denver",
+        "uName": "CU Denver: University of Colorado Denver",
+        "site": "www.ucdenver.edu",
+        "destUrl": "https://www.ucdenver.edu/"
+      },
+      "Germany Justus Liebig University Giessen": {
+        "origName": "Germany Justus Liebig University Giessen",
+        "uName": "Welcome to Justus Liebig University Giessen! — Justus-Liebig ...",
+        "site": "www.uni-giessen.de",
+        "destUrl": "https://www.uni-giessen.de/welcome"
+      },
+      "Germany TU Dresden": {
+        "origName": "Germany TU Dresden",
+        "uName": "Technische Universität Dresden — TU Dresden",
+        "site": "tu-dresden.de",
+        "destUrl": "https://tu-dresden.de/"
+      },
+      "Australia University of Queensland Australia": {
+        "origName": "Australia University of Queensland Australia",
+        "uName": "The University of Queensland, Australia",
+        "site": "www.uq.edu.au",
+        "destUrl": "https://www.uq.edu.au/"
+      },
+      "United States University of Massachusetts--Worcester": {
+        "origName": "United States University of Massachusetts--Worcester",
+        "uName": "University of Massachusetts Chan Medical School (UMass Chan ...",
+        "site": "www.umassmed.edu",
+        "destUrl": "https://www.umassmed.edu/"
+      },
+      "United States Baylor University": {
+        "origName": "United States Baylor University",
+        "uName": "Baylor University | A Nationally Ranked Christian University ...",
+        "site": "www.baylor.edu",
+        "destUrl": "https://www.baylor.edu/"
+      },
+      "United States University of Colorado Denver/Anschutz Medical Campus": {
+        "origName": "United States University of Colorado Denver/Anschutz Medical Campus",
+        "uName": "CU Denver: University of Colorado Denver",
+        "site": "www.ucdenver.edu",
+        "destUrl": "https://www.ucdenver.edu/"
+      },
+      "United States University of Texas Health Science Center--Houston": {
+        "origName": "United States University of Texas Health Science Center--Houston",
+        "uName": "UT Health Science Center at Houston - Main - UTHealth",
+        "site": "www.uth.edu",
+        "destUrl": "https://www.uth.edu/"
+      },
+      "United States University of Texas--Austin": {
+        "origName": "United States University of Texas--Austin",
+        "uName": "The University of Texas at Austin",
+        "site": "www.utexas.edu",
+        "destUrl": "https://www.utexas.edu/"
+      },
+      "Italy University of Rome II – Tor Vergata": {
+        "origName": "Italy University of Rome II – Tor Vergata",
+        "uName": "Tor Vergata University of Rome | English Homepage",
+        "site": "en.uniroma2.it",
+        "destUrl": "http://en.uniroma2.it/"
+      },
+      "Australia University of New South Wales": {
+        "origName": "Australia University of New South Wales",
+        "uName": "UNSW Sydney | One of the best universities in Australia",
+        "site": "www.unsw.edu.au",
+        "destUrl": "https://www.unsw.edu.au/"
+      },
+      "United States The University of Tennessee-Knoxville": {
+        "origName": "United States The University of Tennessee-Knoxville",
+        "uName": "The University of Tennessee, Knoxville",
+        "site": "www.utk.edu",
+        "destUrl": "https://www.utk.edu/"
+      },
+      "United States The University of Chicago": {
+        "origName": "United States The University of Chicago",
+        "uName": "The University of Chicago",
+        "site": "www.uchicago.edu",
+        "destUrl": "https://www.uchicago.edu/"
+      },
+      "United States University of Nebraska--Lincoln": {
+        "origName": "United States University of Nebraska--Lincoln",
+        "uName": "University of Nebraska–Lincoln",
+        "site": "www.unl.edu",
+        "destUrl": "https://www.unl.edu/"
+      },
+      "United States Louisiana State University--Baton Rouge": {
+        "origName": "United States Louisiana State University--Baton Rouge",
+        "uName": "Louisiana State University",
+        "site": "www.lsu.edu",
+        "destUrl": "https://www.lsu.edu/"
+      },
+      "United Kingdom King’s College London": {
+        "origName": "United Kingdom King’s College London",
+        "uName": "King's College London",
+        "site": "www.kcl.ac.uk",
+        "destUrl": "https://www.kcl.ac.uk/"
+      },
+        "Germany University of Münster": {
+          "origName": "Germany University of Münster",
+          "uName": "University of Münster",
+          "site": "www.uni-muenster.de",
+          "destUrl": "https://www.uni-muenster.de/en/"
+        },
+        "Germany University of Regensburg": {
+          "origName": "Germany University of Regensburg",
+          "uName": "University of Regensburg",
+          "site": "www.uni-regensburg.de",
+          "destUrl": "https://www.uni-regensburg.de/en"
+        },
+        "Portugal NOVA University of Lisbon": {
+          "origName": "Portugal NOVA University of Lisbon",
+          "uName": "Universidade NOVA de Lisboa |",
+          "site": "www.unl.pt",
+          "destUrl": "https://www.unl.pt/en"
+        },
+        "Germany Friedrich Schiller University Jena": {
+          "origName": "Germany Friedrich Schiller University Jena",
+          "uName": "Latest News from the Friedrich Schiller University Jena",
+          "site": "www.uni-jena.de",
+          "destUrl": "https://www.uni-jena.de/en"
+        },
+        "Canada Laval University": {
+          "origName": "Canada Laval University",
+          "uName": "Welcome to Université Laval | ULaval | Quebec City, Canada",
+          "site": "www.ulaval.ca",
+          "destUrl": "https://www.ulaval.ca/en"
+        },
+        "Italy Politecnico di Bari": {
+          "origName": "Italy Politecnico di Bari",
+          "uName": "Politecnico di Bari | de' remi facemmo ali",
+          "site": "www.en.poliba.it",
+          "destUrl": "http://www.en.poliba.it/"
+        },
+        "Italy University of Siena": {
+          "origName": "Italy University of Siena",
+          "uName": "Università degli Studi di Siena",
+          "site": "en.unisi.it",
+          "destUrl": "https://en.unisi.it/"
+        },
+        "United Kingdom Royal Holloway, University of London (RHUL)": {
+          "origName": "United Kingdom Royal Holloway, University of London (RHUL)",
+          "uName": "Royal Holloway, University of London",
+          "site": "www.royalholloway.ac.uk",
+          "destUrl": "https://www.royalholloway.ac.uk/"
+        },
+        "Norway University of Tromso": {
+          "origName": "Norway University of Tromso",
+          "uName": "UiT The Arctic University of Norway | UiT",
+          "site": "en.uit.no",
+          "destUrl": "https://en.uit.no/"
+        },
+        "Germany Technical University of Dresden": {
+          "origName": "Germany Technical University of Dresden",
+          "uName": "Technische Universität Dresden — TU Dresden",
+          "site": "tu-dresden.de",
+          "destUrl": "https://tu-dresden.de/?set_language=en"
+        },
+        "Chile Pontificia University Catolica de Chile": {
+          "origName": "Chile Pontificia University Catolica de Chile",
+          "uName": "Pontificia Universidad Católica de Chile: Inicio",
+          "site": "www.uc.cl",
+          "destUrl": "https://www.uc.cl/"
+        },
+        "Finland University of Tampere": {
+          "origName": "Finland University of Tampere",
+          "uName": "Front page | Tampere universities",
+          "site": "www.tuni.fi",
+          "destUrl": "https://www.tuni.fi/en"
+        },
+        "Germany University of Tübingen": {
+          "origName": "Germany University of Tübingen",
+          "uName": "University of Tübingen: Home",
+          "site": "uni-tuebingen.de",
+          "destUrl": "https://uni-tuebingen.de/en/"
+        },
+        "Italy Verona University": {
+          "origName": "Italy Verona University",
+          "uName": "International - Verona",
+          "site": "www.univr.it",
+          "destUrl": "https://www.univr.it/en/international"
+        },
+        "Iceland Reykjavík University": {
+          "origName": "Iceland Reykjavík University",
+          "uName": "Reykjavik University",
+          "site": "en.ru.is",
+          "destUrl": "https://en.ru.is/"
+        },
+        "Belgium Université Catholique de Louvain": {
+          "origName": "Belgium Université Catholique de Louvain",
+          "uName": "Université catholique de Louvain | UCLouvain",
+          "site": "uclouvain.be",
+          "destUrl": "https://uclouvain.be/"
+        },
+        "Germany University of Göttingen": {
+          "origName": "Germany University of Göttingen",
+          "uName": "University of Göttingen - Georg-August-Universität Göttingen",
+          "site": "www.uni-goettingen.de",
+          "destUrl": "https://www.uni-goettingen.de/en/1.html"
+        },
+        "Italy Sant’Anna School of Advanced Studies – Pisa": {
+          "origName": "Italy Sant’Anna School of Advanced Studies – Pisa",
+          "uName": "Sant'Anna School of Advanced Studies |",
+          "site": "www.santannapisa.it",
+          "destUrl": "https://www.santannapisa.it/en"
+        },
+        "Denmark Technical University of Denmark": {
+          "origName": "Denmark Technical University of Denmark",
+          "uName": "Technical University of Denmark - DTU",
+          "site": "www.dtu.dk",
+          "destUrl": "https://www.dtu.dk/english"
+        },
+        "United Kingdom SRUC (Scotland’s Rural College)": {
+          "origName": "United Kingdom SRUC (Scotland’s Rural College)",
+          "uName": "SRUC: Home",
+          "site": "www.sruc.ac.uk",
+          "destUrl": "https://www.sruc.ac.uk/"
+        },
+        "Finland University of Jyväskylä": {
+          "origName": "Finland University of Jyväskylä",
+          "uName": "University of Jyväskylä",
+          "site": "www.jyu.fi",
+          "destUrl": "https://www.jyu.fi/en"
+        },
+        "Singapore Nanyang Technological University, Singapore": {
+          "origName": "Singapore Nanyang Technological University, Singapore",
+          "uName": "Nanyang Technological University - NTU Singapore",
+          "site": "www.ntu.edu.sg",
+          "destUrl": "https://www.ntu.edu.sg/"
+        },
+        "Sweden Örebro University": {
+          "origName": "Sweden Örebro University",
+          "uName": "Örebro universitet - utbildning, forskning och innovation",
+          "site": "www.oru.se",
+          "destUrl": "https://www.oru.se/"
+        },
+        "Brazil State University of Campinas": {
+          "origName": "Brazil State University of Campinas",
+          "uName": "Home Inglês | Unicamp",
+          "site": "www.unicamp.br",
+          "destUrl": "https://www.unicamp.br/unicamp/english"
+        },
+        "Sweden Linköping University": {
+          "origName": "Sweden Linköping University",
+          "uName": "Linköping University start page - Linköping University",
+          "site": "liu.se",
+          "destUrl": "https://liu.se/en"
+        },
+        "United States University of Hawai’i at Mānoa": {
+          "origName": "United States University of Hawai’i at Mānoa",
+          "uName": "University of Hawaiʻi at Mānoa | Take Me To Manoa",
+          "site": "manoa.hawaii.edu",
+          "destUrl": "https://manoa.hawaii.edu/"
+        },
+        "Switzerland École Polytechnique Fédérale de Lausanne": {
+          "origName": "Switzerland École Polytechnique Fédérale de Lausanne",
+          "uName": "EPFL",
+          "site": "www.epfl.ch",
+          "destUrl": "https://www.epfl.ch/en/"
+        },
+        "Singapore National University of Singapore": {
+          "origName": "Singapore National University of Singapore",
+          "uName": "National University of Singapore: NUS",
+          "site": "www.nus.edu.sg",
+          "destUrl": "https://www.nus.edu.sg/"
+        },
+        "Saudi Arabia King Fahd University of Petroleum and Minerals (KFUPM)": {
+          "origName": "Saudi Arabia King Fahd University of Petroleum and Minerals (KFUPM)",
+          "uName": "King Fahd University of Petroleum and Minerals",
+          "site": "www.kfupm.edu.sa",
+          "destUrl": "https://www.kfupm.edu.sa/"
+        },
+        "Luxembourg University of Luxembourg": {
+          "origName": "Luxembourg University of Luxembourg",
+          "uName": "University of Luxembourg",
+          "site": "wwwen.uni.lu",
+          "destUrl": "https://wwwen.uni.lu/"
+        },
+        "United Kingdom Brunel University": {
+          "origName": "United Kingdom Brunel University",
+          "uName": "Brunel University London: A university for a changing world",
+          "site": "www.brunel.ac.uk",
+          "destUrl": "https://www.brunel.ac.uk/"
+        },
+        "Canada Université Laval": {
+          "origName": "Canada Université Laval",
+          "uName": "Bienvenue à l'Université Laval | ULaval | Ville de Québec, Canada",
+          "site": "www.ulaval.ca",
+          "destUrl": "https://www.ulaval.ca/"
+        },
+        "Sweden Royal Institute of Technology": {
+          "origName": "Sweden Royal Institute of Technology",
+          "uName": "KTH Royal Institute of Technology in Stockholm | KTH",
+          "site": "www.kth.se",
+          "destUrl": "https://www.kth.se/en"
+        },
+        "United States University at Buffalo": {
+          "origName": "United States University at Buffalo",
+          "uName": "Welcome to the University at Buffalo - University at Buffalo",
+          "site": "www.buffalo.edu",
+          "destUrl": "http://www.buffalo.edu/"
+        },
+        "Brazil University of São Paulo": {
+          "origName": "Brazil University of São Paulo",
+          "uName": "University of São Paulo",
+          "site": "www.fearp.usp.br",
+          "destUrl": "https://www.fearp.usp.br/en/index.php/where-we-are/university-of-sao-paulo"
+        },
+        "United States Texas Tech University": {
+          "origName": "United States Texas Tech University",
+          "uName": "Texas Tech University | TTU",
+          "site": "www.ttu.edu",
+          "destUrl": "https://www.ttu.edu/"
+        },
+        "United States University of Missouri": {
+          "origName": "United States University of Missouri",
+          "uName": "Missouri State University",
+          "site": "www.missouristate.edu",
+          "destUrl": "https://www.missouristate.edu/"
+        },
+        "Australia Australian Catholic University": {
+          "origName": "Australia Australian Catholic University",
+          "uName": "Australian Catholic University (ACU)",
+          "site": "www.acu.edu.au",
+          "destUrl": "https://www.acu.edu.au/"
+        },
+        "United Kingdom UCL": {
+          "origName": "United Kingdom UCL",
+          "uName": "UCL - London's Global University",
+          "site": "www.ucl.ac.uk",
+          "destUrl": "https://www.ucl.ac.uk/"
+        },
+        "Portugal Catholic University of Portugal": {
+          "origName": "Portugal Catholic University of Portugal",
+          "uName": "UCP | Homepage",
+          "site": "www.ucp.pt",
+          "destUrl": "https://www.ucp.pt/homepage"
+        },
+        "United States University of New Mexico (Main campus)": {
+          "origName": "United States University of New Mexico (Main campus)",
+          "uName": "New Mexico State University - BE BOLD. Shape the Future.",
+          "site": "www.nmsu.edu",
+          "destUrl": "https://www.nmsu.edu/"
+        },
+        "United States University of Alabama": {
+          "origName": "United States University of Alabama",
+          "uName": "The University of Alabama",
+          "site": "www.ua.edu",
+          "destUrl": "https://www.ua.edu/"
+        },
+        "United States University of Texas--Dallas": {
+          "origName": "United States University of Texas--Dallas",
+          "uName": "The University of Texas at Dallas",
+          "site": "www.utdallas.edu",
+          "destUrl": "https://www.utdallas.edu/"
+        },
+        "United States University at Albany--SUNY": {
+          "origName": "United States University at Albany--SUNY",
+          "uName": "University at Albany - State University of New York",
+          "site": "www.albany.edu",
+          "destUrl": "https://www.albany.edu/"
+        },
+        "United States Penn State (Main campus)": {
+          "origName": "United States Penn State (Main campus)",
+          "uName": "Penn State: The Pennsylvania State University",
+          "site": "www.psu.edu",
+          "destUrl": "https://www.psu.edu/"
+        },
+        "Italy Roma Tre University": {
+          "origName": "Italy Roma Tre University",
+          "uName": "Università Roma Tre: Homepage - modern",
+          "site": "www.uniroma3.it",
+          "destUrl": "https://www.uniroma3.it/en/"
+        },
+        "Canada Queen’s University": {
+          "origName": "Canada Queen’s University",
+          "uName": "Queen's University: Home",
+          "site": "www.queensu.ca",
+          "destUrl": "https://www.queensu.ca/"
+        },
+        "United States Arizona State University (Tempe)": {
+          "origName": "United States Arizona State University (Tempe)",
+          "uName": "Arizona State University | ASU",
+          "site": "www.asu.edu",
+          "destUrl": "https://www.asu.edu/"
+        },
+        "United States Ohio State University (Main campus)": {
+          "origName": "United States Ohio State University (Main campus)",
+          "uName": "The Ohio State University",
+          "site": "www.osu.edu",
+          "destUrl": "https://www.osu.edu/"
+        },
+        "Singapore Singapore University of Technology and Design": {
+          "origName": "Singapore Singapore University of Technology and Design",
+          "uName": "Singapore University of Technology and Design (SUTD)",
+          "site": "sutd.edu.sg",
+          "destUrl": "https://sutd.edu.sg/"
+        },
+        "United States University of Massachusetts--Boston": {
+          "origName": "United States University of Massachusetts--Boston",
+          "uName": "University of Massachusetts Boston",
+          "site": "www.umb.edu",
+          "destUrl": "https://www.umb.edu/"
+        },
+        "United States Rutgers, the State University of New Jersey": {
+          "origName": "United States Rutgers, the State University of New Jersey",
+          "uName": "Rutgers University",
+          "site": "www.rutgers.edu",
+          "destUrl": "https://www.rutgers.edu/"
+        },
+          "Germany University of Würzburg": {
+            "origName": "Germany University of Würzburg",
+            "uName": "University of Würzburg - Universität Würzburg",
+            "site": "www.uni-wuerzburg.de",
+            "destUrl": "https://www.uni-wuerzburg.de/en/university/"
+          },
+          "Cyprus University of Cyprus": {
+            "origName": "Cyprus University of Cyprus",
+            "uName": "UNIVERSITY OF CYPRUS",
+            "site": "www.ucy.ac.cy",
+            "destUrl": "https://www.ucy.ac.cy/en/"
+          },
+          "Brazil UNESP - Universidade Estadual Paulista": {
+            "origName": "Brazil UNESP - Universidade Estadual Paulista",
+            "uName": "Unesp - São Paulo State University - International",
+            "site": "www.international.unesp.br",
+            "destUrl": "https://www.international.unesp.br/"
+          },
+          "Japan University of Occupational and Environmental Health, Japan": {
+            "origName": "Japan University of Occupational and Environmental Health, Japan",
+            "uName": "産業医科大学｜University of Occupational and Environmental Health ...",
+            "site": "www.uoeh-u.ac.jp",
+            "destUrl": "https://www.uoeh-u.ac.jp/english.html"
+          },
+          "Austria TU Wien": {
+            "origName": "Austria TU Wien",
+            "uName": "TU Wien, TUW | TU Wien",
+            "site": "www.tuwien.at",
+            "destUrl": "https://www.tuwien.at/en/"
+          },
+          "Sweden Umeå University": {
+            "origName": "Sweden Umeå University",
+            "uName": "Umeå University",
+            "site": "www.umu.se",
+            "destUrl": "https://www.umu.se/en/"
+          },
+          "undefined An-Najah National University": {
+            "origName": "undefined An-Najah National University",
+            "uName": "Staff - An-Najah National University",
+            "site": "www.najah.edu",
+            "destUrl": "https://www.najah.edu/en/staff/0/"
+          },
+          "Chile Pontificia Universidad Católica de Chile": {
+            "origName": "Chile Pontificia Universidad Católica de Chile",
+            "uName": "Pontificia Universidad Católica de Chile: Inicio",
+            "site": "www.uc.cl",
+            "destUrl": "https://www.uc.cl/"
+          },
+          "Ireland National University of Ireland, Galway": {
+            "origName": "Ireland National University of Ireland, Galway",
+            "uName": "NUI Galway - NUI Galway",
+            "site": "www.nuigalway.ie",
+            "destUrl": "https://www.nuigalway.ie/"
+          },
+          "Jordan Jordan University of Science and Technology": {
+            "origName": "Jordan Jordan University of Science and Technology",
+            "uName": "Jordan University of Science and Technology",
+            "site": "www.just.edu.jo",
+            "destUrl": "https://www.just.edu.jo/"
+          }
 }

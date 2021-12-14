@@ -1,0 +1,2512 @@
+[
+  {
+      "title": "University of Oxford",
+      "rank": "1",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "California Institute of Technology",
+      "rank": "2",
+      "country": "United States"
+  },
+  {
+      "title": "Harvard University",
+      "rank": "2",
+      "country": "United States"
+  },
+  {
+      "title": "Stanford University",
+      "rank": "4",
+      "country": "United States"
+  },
+  {
+      "title": "University of Cambridge",
+      "rank": "5",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Massachusetts Institute of Technology",
+      "rank": "5",
+      "country": "United States"
+  },
+  {
+      "title": "Princeton University",
+      "rank": "7",
+      "country": "United States"
+  },
+  {
+      "title": "University of California, Berkeley",
+      "rank": "8",
+      "country": "United States"
+  },
+  {
+      "title": "Yale University",
+      "rank": "9",
+      "country": "United States"
+  },
+  {
+      "title": "The University of Chicago",
+      "rank": "10",
+      "country": "United States"
+  },
+  {
+      "title": "Columbia University",
+      "rank": "11",
+      "country": "United States"
+  },
+  {
+      "title": "Imperial College London",
+      "rank": "12",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Johns Hopkins University",
+      "rank": "13",
+      "country": "United States"
+  },
+  {
+      "title": "University of Pennsylvania",
+      "rank": "13",
+      "country": "United States"
+  },
+  {
+      "title": "ETH Zurich",
+      "rank": "15",
+      "country": "Switzerland"
+  },
+  {
+      "title": "Peking University",
+      "rank": "16",
+      "country": "China"
+  },
+  {
+      "title": "Tsinghua University",
+      "rank": "16",
+      "country": "China"
+  },
+  {
+      "title": "University of Toronto",
+      "rank": "18",
+      "country": "Canada"
+  },
+  {
+      "title": "UCL",
+      "rank": "18",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of California, Los Angeles",
+      "rank": "20",
+      "country": "United States"
+  },
+  {
+      "title": "National University of Singapore",
+      "rank": "21",
+      "country": "Singapore"
+  },
+  {
+      "title": "Cornell University",
+      "rank": "22",
+      "country": "United States"
+  },
+  {
+      "title": "Duke University",
+      "rank": "23",
+      "country": "United States"
+  },
+  {
+      "title": "University of Michigan-Ann Arbor",
+      "rank": "24",
+      "country": "United States"
+  },
+  {
+      "title": "Northwestern University",
+      "rank": "24",
+      "country": "United States"
+  },
+  {
+      "title": "New York University",
+      "rank": "26",
+      "country": "United States"
+  },
+  {
+      "title": "London School of Economics and Political Science",
+      "rank": "27",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Carnegie Mellon University",
+      "rank": "28",
+      "country": "United States"
+  },
+  {
+      "title": "University of Washington",
+      "rank": "29",
+      "country": "United States"
+  },
+  {
+      "title": "University of Edinburgh",
+      "rank": "30",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Hong Kong",
+      "rank": "30",
+      "country": "Hong Kong"
+  },
+  {
+      "title": "LMU Munich",
+      "rank": "32",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Melbourne",
+      "rank": "33",
+      "country": "Australia"
+  },
+  {
+      "title": "University of California, San Diego",
+      "rank": "34",
+      "country": "United States"
+  },
+  {
+      "title": "King’s College London",
+      "rank": "35",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "The University of Tokyo",
+      "rank": "35",
+      "country": "Japan"
+  },
+  {
+      "title": "University of British Columbia",
+      "rank": "37",
+      "country": "Canada"
+  },
+  {
+      "title": "Technical University of Munich",
+      "rank": "38",
+      "country": "Germany"
+  },
+  {
+      "title": "Karolinska Institute",
+      "rank": "39",
+      "country": "Sweden"
+  },
+  {
+      "title": "École Polytechnique Fédérale de Lausanne",
+      "rank": "40",
+      "country": "Switzerland"
+  },
+  {
+      "title": "Paris Sciences et Lettres – PSL Research University Paris",
+      "rank": "40",
+      "country": "France"
+  },
+  {
+      "title": "Heidelberg University",
+      "rank": "42",
+      "country": "Germany"
+  },
+  {
+      "title": "KU Leuven",
+      "rank": "42",
+      "country": "Belgium"
+  },
+  {
+      "title": "McGill University",
+      "rank": "44",
+      "country": "Canada"
+  },
+  {
+      "title": "Georgia Institute of Technology",
+      "rank": "45",
+      "country": "United States"
+  },
+  {
+      "title": "Nanyang Technological University, Singapore",
+      "rank": "46",
+      "country": "Singapore"
+  },
+  {
+      "title": "University of Texas at Austin",
+      "rank": "47",
+      "country": "United States"
+  },
+  {
+      "title": "University of Illinois at Urbana-Champaign",
+      "rank": "48",
+      "country": "United States"
+  },
+  {
+      "title": "Chinese University of Hong Kong",
+      "rank": "49",
+      "country": "Hong Kong"
+  },
+  {
+      "title": "University of Manchester",
+      "rank": "50",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Washington University in St Louis",
+      "rank": "51",
+      "country": "United States"
+  },
+  {
+      "title": "University of North Carolina at Chapel Hill",
+      "rank": "52",
+      "country": "United States"
+  },
+  {
+      "title": "Wageningen University & Research",
+      "rank": "53",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Australian National University",
+      "rank": "54",
+      "country": "Australia"
+  },
+  {
+      "title": "The University of Queensland",
+      "rank": "54",
+      "country": "Australia"
+  },
+  {
+      "title": "Seoul National University",
+      "rank": "54",
+      "country": "South Korea"
+  },
+  {
+      "title": "Monash University",
+      "rank": "57",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Sydney",
+      "rank": "58",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Wisconsin-Madison",
+      "rank": "58",
+      "country": "United States"
+  },
+  {
+      "title": "Fudan University",
+      "rank": "60",
+      "country": "China"
+  },
+  {
+      "title": "Kyoto University",
+      "rank": "61",
+      "country": "Japan"
+  },
+  {
+      "title": "Boston University",
+      "rank": "62",
+      "country": "United States"
+  },
+  {
+      "title": "University of Southern California",
+      "rank": "63",
+      "country": "United States"
+  },
+  {
+      "title": "Brown University",
+      "rank": "64",
+      "country": "United States"
+  },
+  {
+      "title": "University of Amsterdam",
+      "rank": "65",
+      "country": "Netherlands"
+  },
+  {
+      "title": "The Hong Kong University of Science and Technology",
+      "rank": "66",
+      "country": "Hong Kong"
+  },
+  {
+      "title": "University of California, Davis",
+      "rank": "67",
+      "country": "United States"
+  },
+  {
+      "title": "University of California, Santa Barbara",
+      "rank": "68",
+      "country": "United States"
+  },
+  {
+      "title": "Utrecht University",
+      "rank": "69",
+      "country": "Netherlands"
+  },
+  {
+      "title": "UNSW Sydney",
+      "rank": "70",
+      "country": "Australia"
+  },
+  {
+      "title": "Leiden University",
+      "rank": "71",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Erasmus University Rotterdam",
+      "rank": "72",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Charité - Universitätsmedizin Berlin",
+      "rank": "73",
+      "country": "Germany"
+  },
+  {
+      "title": "Humboldt University of Berlin",
+      "rank": "74",
+      "country": "Germany"
+  },
+  {
+      "title": "Delft University of Technology",
+      "rank": "75",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Zhejiang University",
+      "rank": "75",
+      "country": "China"
+  },
+  {
+      "title": "University of Zurich",
+      "rank": "75",
+      "country": "Switzerland"
+  },
+  {
+      "title": "University of Tübingen",
+      "rank": "78",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Warwick",
+      "rank": "78",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Groningen",
+      "rank": "80",
+      "country": "Netherlands"
+  },
+  {
+      "title": "McMaster University",
+      "rank": "80",
+      "country": "Canada"
+  },
+  {
+      "title": "Emory University",
+      "rank": "82",
+      "country": "United States"
+  },
+  {
+      "title": "Free University of Berlin",
+      "rank": "83",
+      "country": "Germany"
+  },
+  {
+      "title": "Shanghai Jiao Tong University",
+      "rank": "84",
+      "country": "China"
+  },
+  {
+      "title": "Ohio State University (Main campus)",
+      "rank": "85",
+      "country": "United States"
+  },
+  {
+      "title": "University of Glasgow",
+      "rank": "86",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Minnesota",
+      "rank": "86",
+      "country": "United States"
+  },
+  {
+      "title": "University of Montreal",
+      "rank": "88",
+      "country": "Canada"
+  },
+  {
+      "title": "University of Science and Technology of China",
+      "rank": "88",
+      "country": "China"
+  },
+  {
+      "title": "Sorbonne University",
+      "rank": "88",
+      "country": "France"
+  },
+  {
+      "title": "Hong Kong Polytechnic University",
+      "rank": "91",
+      "country": "Hong Kong"
+  },
+  {
+      "title": "Institut Polytechnique de Paris",
+      "rank": "91",
+      "country": "France"
+  },
+  {
+      "title": "University of Bristol",
+      "rank": "92",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Maryland, College Park",
+      "rank": "93",
+      "country": "United States"
+  },
+  {
+      "title": "Michigan State University",
+      "rank": "93",
+      "country": "United States"
+  },
+  {
+      "title": "University of Copenhagen",
+      "rank": "96",
+      "country": "Denmark"
+  },
+  {
+      "title": "Ghent University",
+      "rank": "96",
+      "country": "Belgium"
+  },
+  {
+      "title": "University of California, Irvine",
+      "rank": "98",
+      "country": "United States"
+  },
+  {
+      "title": "Dartmouth College",
+      "rank": "99",
+      "country": "United States"
+  },
+  {
+      "title": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "rank": "99",
+      "country": "South Korea"
+  },
+  {
+      "title": "University of Bern",
+      "rank": "101",
+      "country": "Switzerland"
+  },
+  {
+      "title": "University of Helsinki",
+      "rank": "101",
+      "country": "Finland"
+  },
+  {
+      "title": "University of Basel",
+      "rank": "103",
+      "country": "Switzerland"
+  },
+  {
+      "title": "Aarhus University",
+      "rank": "104",
+      "country": "Denmark"
+  },
+  {
+      "title": "University of Birmingham",
+      "rank": "105",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Nanjing University",
+      "rank": "105",
+      "country": "China"
+  },
+  {
+      "title": "Purdue University West Lafayette",
+      "rank": "105",
+      "country": "United States"
+  },
+  {
+      "title": "University of Freiburg",
+      "rank": "108",
+      "country": "Germany"
+  },
+  {
+      "title": "RWTH Aachen University",
+      "rank": "108",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Sheffield",
+      "rank": "110",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Adelaide",
+      "rank": "111",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Bonn",
+      "rank": "112",
+      "country": "Germany"
+  },
+  {
+      "title": "National Taiwan University (NTU)",
+      "rank": "113",
+      "country": "Taiwan"
+  },
+  {
+      "title": "Vanderbilt University",
+      "rank": "113",
+      "country": "United States"
+  },
+  {
+      "title": "Vrije Universiteit Amsterdam",
+      "rank": "115",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Lund University",
+      "rank": "116",
+      "country": "Sweden"
+  },
+  {
+      "title": "Université Paris-Saclay",
+      "rank": "117",
+      "country": "France"
+  },
+  {
+      "title": "Queen Mary University of London",
+      "rank": "117",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Göttingen",
+      "rank": "119",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Oslo",
+      "rank": "119",
+      "country": "Norway"
+  },
+  {
+      "title": "Penn State (Main campus)",
+      "rank": "119",
+      "country": "United States"
+  },
+  {
+      "title": "Lancaster University",
+      "rank": "122",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Sungkyunkwan University (SKKU)",
+      "rank": "122",
+      "country": "South Korea"
+  },
+  {
+      "title": "University of Southampton",
+      "rank": "124",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Alberta",
+      "rank": "125",
+      "country": "Canada"
+  },
+  {
+      "title": "Case Western Reserve University",
+      "rank": "126",
+      "country": "United States"
+  },
+  {
+      "title": "University of Leeds",
+      "rank": "127",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Maastricht University",
+      "rank": "127",
+      "country": "Netherlands"
+  },
+  {
+      "title": "University of Virginia (Main campus)",
+      "rank": "127",
+      "country": "United States"
+  },
+  {
+      "title": "Georgetown University",
+      "rank": "130",
+      "country": "United States"
+  },
+  {
+      "title": "Uppsala University",
+      "rank": "131",
+      "country": "Sweden"
+  },
+  {
+      "title": "Arizona State University (Tempe)",
+      "rank": "132",
+      "country": "United States"
+  },
+  {
+      "title": "University of Hamburg",
+      "rank": "132",
+      "country": "Germany"
+  },
+  {
+      "title": "The University of Western Australia",
+      "rank": "132",
+      "country": "Australia"
+  },
+  {
+      "title": "Rice University",
+      "rank": "136",
+      "country": "United States"
+  },
+  {
+      "title": "University of Auckland",
+      "rank": "137",
+      "country": "New Zealand"
+  },
+  {
+      "title": "University of Vienna",
+      "rank": "137",
+      "country": "Austria"
+  },
+  {
+      "title": "Radboud University Nijmegen",
+      "rank": "139",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Technical University of Berlin",
+      "rank": "139",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Pittsburgh-Pittsburgh campus",
+      "rank": "140",
+      "country": "United States"
+  },
+  {
+      "title": "University of Nottingham",
+      "rank": "141",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Rochester",
+      "rank": "142",
+      "country": "United States"
+  },
+  {
+      "title": "University of Antwerp",
+      "rank": "143",
+      "country": "Belgium"
+  },
+  {
+      "title": "University of Exeter",
+      "rank": "143",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Technology Sydney",
+      "rank": "143",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Mannheim",
+      "rank": "146",
+      "country": "Germany"
+  },
+  {
+      "title": "Newcastle University",
+      "rank": "146",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Trinity College Dublin",
+      "rank": "146",
+      "country": "Ireland"
+  },
+  {
+      "title": "Ulm University",
+      "rank": "146",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Arizona",
+      "rank": "150",
+      "country": "United States"
+  },
+  {
+      "title": "City University of Hong Kong",
+      "rank": "151",
+      "country": "Hong Kong"
+  },
+  {
+      "title": "University of Sussex",
+      "rank": "151",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Yonsei University (Seoul campus)",
+      "rank": "151",
+      "country": "South Korea"
+  },
+  {
+      "title": "University of Florida",
+      "rank": "154",
+      "country": "United States"
+  },
+  {
+      "title": "Université de Paris",
+      "rank": "155",
+      "country": "France"
+  },
+  {
+      "title": "Pompeu Fabra University",
+      "rank": "156",
+      "country": "Spain"
+  },
+  {
+      "title": "Wuhan University",
+      "rank": "157",
+      "country": "China"
+  },
+  {
+      "title": "University of Aberdeen",
+      "rank": "158",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Colorado Boulder",
+      "rank": "158",
+      "country": "United States"
+  },
+  {
+      "title": "Lomonosov Moscow State University",
+      "rank": "158",
+      "country": "Russian Federation"
+  },
+  {
+      "title": "Université Catholique de Louvain",
+      "rank": "158",
+      "country": "Belgium"
+  },
+  {
+      "title": "Durham University",
+      "rank": "162",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Ottawa",
+      "rank": "162",
+      "country": "Canada"
+  },
+  {
+      "title": "Southern University of Science and Technology (SUSTech)",
+      "rank": "162",
+      "country": "China"
+  },
+  {
+      "title": "University of Würzburg",
+      "rank": "165",
+      "country": "Germany"
+  },
+  {
+      "title": "Bielefeld University",
+      "rank": "166",
+      "country": "Germany"
+  },
+  {
+      "title": "Indiana University",
+      "rank": "167",
+      "country": "United States"
+  },
+  {
+      "title": "Northeastern University",
+      "rank": "168",
+      "country": "United States"
+  },
+  {
+      "title": "University of York",
+      "rank": "169",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Autonomous University of Barcelona",
+      "rank": "170",
+      "country": "Spain"
+  },
+  {
+      "title": "University of Canberra",
+      "rank": "170",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Bologna",
+      "rank": "172",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Cologne",
+      "rank": "172",
+      "country": "Germany"
+  },
+  {
+      "title": "TU Dresden",
+      "rank": "172",
+      "country": "Germany"
+  },
+  {
+      "title": "Tufts University",
+      "rank": "172",
+      "country": "United States"
+  },
+  {
+      "title": "University of Lausanne",
+      "rank": "176",
+      "country": "Switzerland"
+  },
+  {
+      "title": "Stockholm University",
+      "rank": "176",
+      "country": "Sweden"
+  },
+  {
+      "title": "University of Liverpool",
+      "rank": "178",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Ulsan National Institute of Science and Technology (UNIST)",
+      "rank": "178",
+      "country": "South Korea"
+  },
+  {
+      "title": "Karlsruhe Institute of Technology",
+      "rank": "180",
+      "country": "Germany"
+  },
+  {
+      "title": "Huazhong University of Science and Technology",
+      "rank": "181",
+      "country": "China"
+  },
+  {
+      "title": "University of East Anglia",
+      "rank": "182",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Cape Town",
+      "rank": "183",
+      "country": "South Africa"
+  },
+  {
+      "title": "University of Notre Dame",
+      "rank": "183",
+      "country": "United States"
+  },
+  {
+      "title": "University of Gothenburg",
+      "rank": "185",
+      "country": "Sweden"
+  },
+  {
+      "title": "University of Leicester",
+      "rank": "185",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Pohang University of Science and Technology (POSTECH)",
+      "rank": "185",
+      "country": "South Korea"
+  },
+  {
+      "title": "Technical University of Denmark",
+      "rank": "185",
+      "country": "Denmark"
+  },
+  {
+      "title": "Cardiff University",
+      "rank": "189",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "King Abdulaziz University",
+      "rank": "190",
+      "country": "Saudi Arabia"
+  },
+  {
+      "title": "Rutgers, the State University of New Jersey",
+      "rank": "190",
+      "country": "United States"
+  },
+  {
+      "title": "Macquarie University",
+      "rank": "192",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Barcelona",
+      "rank": "193",
+      "country": "Spain"
+  },
+  {
+      "title": "Queensland University of Technology",
+      "rank": "193",
+      "country": "Australia"
+  },
+  {
+      "title": "Texas A&M University",
+      "rank": "193",
+      "country": "United States"
+  },
+  {
+      "title": "Medical University of Graz",
+      "rank": "196",
+      "country": "Austria"
+  },
+  {
+      "title": "University of Erlangen-Nuremberg",
+      "rank": "197",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Geneva",
+      "rank": "197",
+      "country": "Switzerland"
+  },
+  {
+      "title": "University of Hohenheim",
+      "rank": "197",
+      "country": "Germany"
+  },
+  {
+      "title": "Sapienza University of Rome",
+      "rank": "197",
+      "country": "Italy"
+  },
+  {
+      "title": "Scuola Normale Superiore di Pisa",
+      "rank": "197",
+      "country": "Italy"
+  },
+  {
+      "title": "Aalborg University",
+      "rank": "201–250",
+      "country": "Denmark"
+  },
+  {
+      "title": "Aalto University",
+      "rank": "201–250",
+      "country": "Finland"
+  },
+  {
+      "title": "Alfaisal University",
+      "rank": "201–250",
+      "country": "Saudi Arabia"
+  },
+  {
+      "title": "Auckland University of Technology",
+      "rank": "201–250",
+      "country": "New Zealand"
+  },
+  {
+      "title": "University of Bath",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Bergen",
+      "rank": "201–250",
+      "country": "Norway"
+  },
+  {
+      "title": "Brighton and Sussex Medical School",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Calgary",
+      "rank": "201–250",
+      "country": "Canada"
+  },
+  {
+      "title": "University of California, Santa Cruz",
+      "rank": "201–250",
+      "country": "United States"
+  },
+  {
+      "title": "Copenhagen Business School",
+      "rank": "201–250",
+      "country": "Denmark"
+  },
+  {
+      "title": "University of Dundee",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Eindhoven University of Technology",
+      "rank": "201–250",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Friedrich Schiller University Jena",
+      "rank": "201–250",
+      "country": "Germany"
+  },
+  {
+      "title": "George Washington University",
+      "rank": "201–250",
+      "country": "United States"
+  },
+  {
+      "title": "Griffith University",
+      "rank": "201–250",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Konstanz",
+      "rank": "201–250",
+      "country": "Germany"
+  },
+  {
+      "title": "Korea University",
+      "rank": "201–250",
+      "country": "South Korea"
+  },
+  {
+      "title": "KTH Royal Institute of Technology",
+      "rank": "201–250",
+      "country": "Sweden"
+  },
+  {
+      "title": "La Trobe University",
+      "rank": "201–250",
+      "country": "Australia"
+  },
+  {
+      "title": "Université Libre de Bruxelles",
+      "rank": "201–250",
+      "country": "Belgium"
+  },
+  {
+      "title": "University of Macau",
+      "rank": "201–250",
+      "country": "Macao"
+  },
+  {
+      "title": "University of Massachusetts",
+      "rank": "201–250",
+      "country": "United States"
+  },
+  {
+      "title": "Medical University of Innsbruck",
+      "rank": "201–250",
+      "country": "Austria"
+  },
+  {
+      "title": "Medical University of Vienna",
+      "rank": "201–250",
+      "country": "Austria"
+  },
+  {
+      "title": "University of Miami",
+      "rank": "201–250",
+      "country": "United States"
+  },
+  {
+      "title": "Moscow Institute of Physics and Technology (MIPT)",
+      "rank": "201–250",
+      "country": "Russian Federation"
+  },
+  {
+      "title": "University of Münster",
+      "rank": "201–250",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Otago",
+      "rank": "201–250",
+      "country": "New Zealand"
+  },
+  {
+      "title": "University of Padua",
+      "rank": "201–250",
+      "country": "Italy"
+  },
+  {
+      "title": "Queen’s University Belfast",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "RCSI University of Medicine and Health Sciences",
+      "rank": "201–250",
+      "country": "Ireland"
+  },
+  {
+      "title": "University of Reading",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "St George’s, University of London",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Sant’Anna School of Advanced Studies – Pisa",
+      "rank": "201–250",
+      "country": "Italy"
+  },
+  {
+      "title": "University of São Paulo",
+      "rank": "201–250",
+      "country": "Brazil"
+  },
+  {
+      "title": "Simon Fraser University",
+      "rank": "201–250",
+      "country": "Canada"
+  },
+  {
+      "title": "University of South Florida",
+      "rank": "201–250",
+      "country": "United States"
+  },
+  {
+      "title": "University of St Andrews",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Surrey",
+      "rank": "201–250",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Taipei Medical University",
+      "rank": "201–250",
+      "country": "Taiwan"
+  },
+  {
+      "title": "Tel Aviv University",
+      "rank": "201–250",
+      "country": "Israel"
+  },
+  {
+      "title": "Tilburg University",
+      "rank": "201–250",
+      "country": "Netherlands"
+  },
+  {
+      "title": "Tohoku University",
+      "rank": "201–250",
+      "country": "Japan"
+  },
+  {
+      "title": "University of Twente",
+      "rank": "201–250",
+      "country": "Netherlands"
+  },
+  {
+      "title": "University College Dublin",
+      "rank": "201–250",
+      "country": "Ireland"
+  },
+  {
+      "title": "Vita-Salute San Raffaele University",
+      "rank": "201–250",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Waterloo",
+      "rank": "201–250",
+      "country": "Canada"
+  },
+  {
+      "title": "Western University",
+      "rank": "201–250",
+      "country": "Canada"
+  },
+  {
+      "title": "Western Sydney University",
+      "rank": "201–250",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Wollongong",
+      "rank": "201–250",
+      "country": "Australia"
+  },
+  {
+      "title": "Australian Catholic University",
+      "rank": "251–300",
+      "country": "Australia"
+  },
+  {
+      "title": "Beijing Normal University",
+      "rank": "251–300",
+      "country": "China"
+  },
+  {
+      "title": "Boston College",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Brandeis University",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "University at Buffalo",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "University of California, Riverside",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Chalmers University of Technology",
+      "rank": "251–300",
+      "country": "Sweden"
+  },
+  {
+      "title": "University of Colorado Denver/Anschutz Medical Campus",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Curtin University",
+      "rank": "251–300",
+      "country": "Australia"
+  },
+  {
+      "title": "Dalhousie University",
+      "rank": "251–300",
+      "country": "Canada"
+  },
+  {
+      "title": "Deakin University",
+      "rank": "251–300",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Duisburg-Essen",
+      "rank": "251–300",
+      "country": "Germany"
+  },
+  {
+      "title": "Heinrich Heine University Düsseldorf",
+      "rank": "251–300",
+      "country": "Germany"
+  },
+  {
+      "title": "École des Ponts ParisTech",
+      "rank": "251–300",
+      "country": "France"
+  },
+  {
+      "title": "Flinders University",
+      "rank": "251–300",
+      "country": "Australia"
+  },
+  {
+      "title": "Florida State University",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "George Mason University",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "University of Hawai’i at Mānoa",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Howard University",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "University of Iowa",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "James Cook University",
+      "rank": "251–300",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Kiel",
+      "rank": "251–300",
+      "country": "Germany"
+  },
+  {
+      "title": "Kyung Hee University",
+      "rank": "251–300",
+      "country": "South Korea"
+  },
+  {
+      "title": "Lappeenranta-Lahti University of Technology LUT",
+      "rank": "251–300",
+      "country": "Finland"
+  },
+  {
+      "title": "Université Laval",
+      "rank": "251–300",
+      "country": "Canada"
+  },
+  {
+      "title": "Linköping University",
+      "rank": "251–300",
+      "country": "Sweden"
+  },
+  {
+      "title": "University of Luxembourg",
+      "rank": "251–300",
+      "country": "Luxembourg"
+  },
+  {
+      "title": "Macau University of Science and Technology",
+      "rank": "251–300",
+      "country": "Macao"
+  },
+  {
+      "title": "University of Navarra",
+      "rank": "251–300",
+      "country": "Spain"
+  },
+  {
+      "title": "University of Newcastle",
+      "rank": "251–300",
+      "country": "Australia"
+  },
+  {
+      "title": "University of New Mexico (Main campus)",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Oregon Health and Science University",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "University of Oulu",
+      "rank": "251–300",
+      "country": "Finland"
+  },
+  {
+      "title": "University of Potsdam",
+      "rank": "251–300",
+      "country": "Germany"
+  },
+  {
+      "title": "Queen’s University",
+      "rank": "251–300",
+      "country": "Canada"
+  },
+  {
+      "title": "Ruhr University Bochum",
+      "rank": "251–300",
+      "country": "Germany"
+  },
+  {
+      "title": "Sejong University",
+      "rank": "251–300",
+      "country": "South Korea"
+  },
+  {
+      "title": "Semmelweis University",
+      "rank": "251–300",
+      "country": "Hungary"
+  },
+  {
+      "title": "University of Southern Denmark",
+      "rank": "251–300",
+      "country": "Denmark"
+  },
+  {
+      "title": "Stellenbosch University",
+      "rank": "251–300",
+      "country": "South Africa"
+  },
+  {
+      "title": "Sun Yat-sen University",
+      "rank": "251–300",
+      "country": "China"
+  },
+  {
+      "title": "Swansea University",
+      "rank": "251–300",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Tampere University",
+      "rank": "251–300",
+      "country": "Finland"
+  },
+  {
+      "title": "University of Tartu",
+      "rank": "251–300",
+      "country": "Estonia"
+  },
+  {
+      "title": "University College Cork",
+      "rank": "251–300",
+      "country": "Ireland"
+  },
+  {
+      "title": "University of Utah",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Virginia Polytechnic Institute and State University",
+      "rank": "251–300",
+      "country": "United States"
+  },
+  {
+      "title": "Vrije Universiteit Brussel",
+      "rank": "251–300",
+      "country": "Belgium"
+  },
+  {
+      "title": "University of the Witwatersrand",
+      "rank": "251–300",
+      "country": "South Africa"
+  },
+  {
+      "title": "University of Cape Coast",
+      "rank": "301–350",
+      "country": "Ghana"
+  },
+  {
+      "title": "Aix-Marseille University",
+      "rank": "301–350",
+      "country": "France"
+  },
+  {
+      "title": "American University of Beirut",
+      "rank": "301–350",
+      "country": "Lebanon"
+  },
+  {
+      "title": "Anglia Ruskin University (ARU)",
+      "rank": "301–350",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Autonomous University of Madrid",
+      "rank": "301–350",
+      "country": "Spain"
+  },
+  {
+      "title": "University of Bordeaux",
+      "rank": "301–350",
+      "country": "France"
+  },
+  {
+      "title": "University of California, Merced",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "Central South University",
+      "rank": "301–350",
+      "country": "China"
+  },
+  {
+      "title": "China Medical University, Taiwan",
+      "rank": "301–350",
+      "country": "Taiwan"
+  },
+  {
+      "title": "University of Delaware",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "East China Normal University",
+      "rank": "301–350",
+      "country": "China"
+  },
+  {
+      "title": "École Normale Supérieure de Lyon",
+      "rank": "301–350",
+      "country": "France"
+  },
+  {
+      "title": "University of Essex",
+      "rank": "301–350",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Goethe University Frankfurt",
+      "rank": "301–350",
+      "country": "Germany"
+  },
+  {
+      "title": "Hebrew University of Jerusalem",
+      "rank": "301–350",
+      "country": "Israel"
+  },
+  {
+      "title": "Hofstra University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "HSE University",
+      "rank": "301–350",
+      "country": "Russian Federation"
+  },
+  {
+      "title": "University of Illinois at Chicago",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "Indian Institute of Science",
+      "rank": "301–350",
+      "country": "India"
+  },
+  {
+      "title": "Johannes Gutenberg University of Mainz",
+      "rank": "301–350",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Malaya",
+      "rank": "301–350",
+      "country": "Malaysia"
+  },
+  {
+      "title": "University of Manitoba",
+      "rank": "301–350",
+      "country": "Canada"
+  },
+  {
+      "title": "University of Milan",
+      "rank": "301–350",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Milan-Bicocca",
+      "rank": "301–350",
+      "country": "Italy"
+  },
+  {
+      "title": "Montpellier University",
+      "rank": "301–350",
+      "country": "France"
+  },
+  {
+      "title": "Nankai University",
+      "rank": "301–350",
+      "country": "China"
+  },
+  {
+      "title": "National Yang Ming Chiao Tung University",
+      "rank": "301–350",
+      "country": "Taiwan"
+  },
+  {
+      "title": "North Carolina State University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "Nova Southeastern University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "Osaka University",
+      "rank": "301–350",
+      "country": "Japan"
+  },
+  {
+      "title": "Peter the Great St Petersburg Polytechnic University",
+      "rank": "301–350",
+      "country": "Russian Federation"
+  },
+  {
+      "title": "Qatar University",
+      "rank": "301–350",
+      "country": "Qatar"
+  },
+  {
+      "title": "Reykjavík University",
+      "rank": "301–350",
+      "country": "Iceland"
+  },
+  {
+      "title": "RMIT University",
+      "rank": "301–350",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Rome II – Tor Vergata",
+      "rank": "301–350",
+      "country": "Italy"
+  },
+  {
+      "title": "Rush University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "University of St Gallen",
+      "rank": "301–350",
+      "country": "Switzerland"
+  },
+  {
+      "title": "University of South Australia",
+      "rank": "301–350",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Stirling",
+      "rank": "301–350",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Stony Brook University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "University of Stuttgart",
+      "rank": "301–350",
+      "country": "Germany"
+  },
+  {
+      "title": "Università della Svizzera italiana",
+      "rank": "301–350",
+      "country": "Switzerland"
+  },
+  {
+      "title": "Swedish University of Agricultural Sciences",
+      "rank": "301–350",
+      "country": "Sweden"
+  },
+  {
+      "title": "Swinburne University of Technology",
+      "rank": "301–350",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Tasmania",
+      "rank": "301–350",
+      "country": "Australia"
+  },
+  {
+      "title": "Technical University of Darmstadt",
+      "rank": "301–350",
+      "country": "Germany"
+  },
+  {
+      "title": "Temple University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "The University of Tennessee-Knoxville",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "Tokyo Institute of Technology",
+      "rank": "301–350",
+      "country": "Japan"
+  },
+  {
+      "title": "Tongji University",
+      "rank": "301–350",
+      "country": "China"
+  },
+  {
+      "title": "University of Victoria",
+      "rank": "301–350",
+      "country": "Canada"
+  },
+  {
+      "title": "Wake Forest University",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "William & Mary",
+      "rank": "301–350",
+      "country": "United States"
+  },
+  {
+      "title": "Harokopio University",
+      "rank": "351–400",
+      "country": "Greece"
+  },
+  {
+      "title": "Babol Noshirvani University of Technology",
+      "rank": "351–400",
+      "country": "Iran"
+  },
+  {
+      "title": "University of Bayreuth",
+      "rank": "351–400",
+      "country": "Germany"
+  },
+  {
+      "title": "Birkbeck, University of London",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Bournemouth University",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Bremen",
+      "rank": "351–400",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Brescia",
+      "rank": "351–400",
+      "country": "Italy"
+  },
+  {
+      "title": "Universiti Brunei Darussalam",
+      "rank": "351–400",
+      "country": "Brunei Darussalam"
+  },
+  {
+      "title": "Brunel University London",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Catholic University of Portugal",
+      "rank": "351–400",
+      "country": "Portugal"
+  },
+  {
+      "title": "City, University of London",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Colorado State University, Fort Collins",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "Drexel University",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "University of Georgia",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "University of Greifswald",
+      "rank": "351–400",
+      "country": "Germany"
+  },
+  {
+      "title": "Université Grenoble Alpes",
+      "rank": "351–400",
+      "country": "France"
+  },
+  {
+      "title": "University of Hail",
+      "rank": "351–400",
+      "country": "Saudi Arabia"
+  },
+  {
+      "title": "Hanyang University",
+      "rank": "351–400",
+      "country": "South Korea"
+  },
+  {
+      "title": "Hasselt University",
+      "rank": "351–400",
+      "country": "Belgium"
+  },
+  {
+      "title": "Illinois Institute of Technology",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "IMT Atlantique",
+      "rank": "351–400",
+      "country": "France"
+  },
+  {
+      "title": "Indian Institute of Technology Ropar",
+      "rank": "351–400",
+      "country": "India"
+  },
+  {
+      "title": "JSS Academy of Higher Education and Research",
+      "rank": "351–400",
+      "country": "India"
+  },
+  {
+      "title": "University of Jyväskylä",
+      "rank": "351–400",
+      "country": "Finland"
+  },
+  {
+      "title": "University of Kent",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Khalifa University",
+      "rank": "351–400",
+      "country": "United Arab Emirates"
+  },
+  {
+      "title": "King Fahd University of Petroleum and Minerals",
+      "rank": "351–400",
+      "country": "Saudi Arabia"
+  },
+  {
+      "title": "King Saud University",
+      "rank": "351–400",
+      "country": "Saudi Arabia"
+  },
+  {
+      "title": "University of Klagenfurt",
+      "rank": "351–400",
+      "country": "Austria"
+  },
+  {
+      "title": "Kurdistan University of Medical Sciences",
+      "rank": "351–400",
+      "country": "Iran"
+  },
+  {
+      "title": "University of KwaZulu-Natal",
+      "rank": "351–400",
+      "country": "South Africa"
+  },
+  {
+      "title": "University of Liège",
+      "rank": "351–400",
+      "country": "Belgium"
+  },
+  {
+      "title": "Loughborough University",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Mazandaran University of Medical Sciences",
+      "rank": "351–400",
+      "country": "Iran"
+  },
+  {
+      "title": "Nagoya University",
+      "rank": "351–400",
+      "country": "Japan"
+  },
+  {
+      "title": "National University of Ireland, Galway",
+      "rank": "351–400",
+      "country": "Ireland"
+  },
+  {
+      "title": "National Tsing Hua University",
+      "rank": "351–400",
+      "country": "Taiwan"
+  },
+  {
+      "title": "University of Oregon",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "University of Passau",
+      "rank": "351–400",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Pavia",
+      "rank": "351–400",
+      "country": "Italy"
+  },
+  {
+      "title": "Politecnico di Milano",
+      "rank": "351–400",
+      "country": "Italy"
+  },
+  {
+      "title": "Royal Holloway, University of London",
+      "rank": "351–400",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Shenzhen University",
+      "rank": "351–400",
+      "country": "China"
+  },
+  {
+      "title": "SUNY University at Albany",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "Syracuse University",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "University of Texas at Dallas",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "University of Trento",
+      "rank": "351–400",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Turku",
+      "rank": "351–400",
+      "country": "Finland"
+  },
+  {
+      "title": "UiT The Arctic University of Norway",
+      "rank": "351–400",
+      "country": "Norway"
+  },
+  {
+      "title": "Umeå University",
+      "rank": "351–400",
+      "country": "Sweden"
+  },
+  {
+      "title": "United Arab Emirates University",
+      "rank": "351–400",
+      "country": "United Arab Emirates"
+  },
+  {
+      "title": "Washington State University",
+      "rank": "351–400",
+      "country": "United States"
+  },
+  {
+      "title": "Addis Ababa University",
+      "rank": "401–500",
+      "country": "Ethiopia"
+  },
+  {
+      "title": "Duy Tan University",
+      "rank": "401–500",
+      "country": "Vietnam"
+  },
+  {
+      "title": "University of Alaska Fairbanks",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "An-Najah National University",
+      "rank": "401–500",
+      "country": "Palestine"
+  },
+  {
+      "title": "Aston University",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Aswan University",
+      "rank": "401–500",
+      "country": "Egypt"
+  },
+  {
+      "title": "Bangor University",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Campinas",
+      "rank": "401–500",
+      "country": "Brazil"
+  },
+  {
+      "title": "Cankaya University",
+      "rank": "401–500",
+      "country": "Turkey"
+  },
+  {
+      "title": "Claude Bernard University Lyon 1",
+      "rank": "401–500",
+      "country": "France"
+  },
+  {
+      "title": "Colorado School of Mines",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "University of Connecticut",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "University of Côte d’Azur",
+      "rank": "401–500",
+      "country": "France"
+  },
+  {
+      "title": "University of Crete",
+      "rank": "401–500",
+      "country": "Greece"
+  },
+  {
+      "title": "University of Cyprus",
+      "rank": "401–500",
+      "country": "Cyprus"
+  },
+  {
+      "title": "University of Denver",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "Durban University of Technology",
+      "rank": "401–500",
+      "country": "South Africa"
+  },
+  {
+      "title": "École des Mines de Saint-Étienne",
+      "rank": "401–500",
+      "country": "France"
+  },
+  {
+      "title": "Edith Cowan University",
+      "rank": "401–500",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Ferrara",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Florence",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "Free University of Bozen-Bolzano",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Fribourg",
+      "rank": "401–500",
+      "country": "Switzerland"
+  },
+  {
+      "title": "University of Genoa",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "Georgia State University",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "Goldsmiths, University of London",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Hong Kong Baptist University",
+      "rank": "401–500",
+      "country": "Hong Kong"
+  },
+  {
+      "title": "Hunan University",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "University of Ibadan",
+      "rank": "401–500",
+      "country": "Nigeria"
+  },
+  {
+      "title": "University of Iceland",
+      "rank": "401–500",
+      "country": "Iceland"
+  },
+  {
+      "title": "Indian Institute of Technology Indore",
+      "rank": "401–500",
+      "country": "India"
+  },
+  {
+      "title": "University of Innsbruck",
+      "rank": "401–500",
+      "country": "Austria"
+  },
+  {
+      "title": "University of Insubria",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "Iowa State University",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "Jacobs University",
+      "rank": "401–500",
+      "country": "Germany"
+  },
+  {
+      "title": "Jordan University of Science and Technology",
+      "rank": "401–500",
+      "country": "Jordan"
+  },
+  {
+      "title": "Justus Liebig University Giessen",
+      "rank": "401–500",
+      "country": "Germany"
+  },
+  {
+      "title": "University of Kansas",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "University of Kragujevac",
+      "rank": "401–500",
+      "country": "Serbia"
+  },
+  {
+      "title": "Leibniz University Hannover",
+      "rank": "401–500",
+      "country": "Germany"
+  },
+  {
+      "title": "L’institut Agro",
+      "rank": "401–500",
+      "country": "France"
+  },
+  {
+      "title": "Liverpool John Moores University",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Marburg",
+      "rank": "401–500",
+      "country": "Germany"
+  },
+  {
+      "title": "Middlesex University",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Missouri University of Science and Technology",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "University of Modena and Reggio Emilia",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Naples Federico II",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "National and Kapodistrian University of Athens",
+      "rank": "401–500",
+      "country": "Greece"
+  },
+  {
+      "title": "National Research Nuclear University MEPhI",
+      "rank": "401–500",
+      "country": "Russian Federation"
+  },
+  {
+      "title": "University of Nebraska-Lincoln",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "Northumbria University",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Norwegian University of Science and Technology",
+      "rank": "401–500",
+      "country": "Norway"
+  },
+  {
+      "title": "NOVA University of Lisbon",
+      "rank": "401–500",
+      "country": "Portugal"
+  },
+  {
+      "title": "University of Occupational and Environmental Health, Japan",
+      "rank": "401–500",
+      "country": "Japan"
+  },
+  {
+      "title": "Örebro University",
+      "rank": "401–500",
+      "country": "Sweden"
+  },
+  {
+      "title": "University of Peradeniya",
+      "rank": "401–500",
+      "country": "Sri Lanka"
+  },
+  {
+      "title": "University of Pisa",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Plymouth",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Pontificia Universidad Católica de Chile",
+      "rank": "401–500",
+      "country": "Chile"
+  },
+  {
+      "title": "University of Porto",
+      "rank": "401–500",
+      "country": "Portugal"
+  },
+  {
+      "title": "Universitat Ramon Llull",
+      "rank": "401–500",
+      "country": "Spain"
+  },
+  {
+      "title": "Royal Veterinary College",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "Saint-Petersburg Mining University",
+      "rank": "401–500",
+      "country": "Russian Federation"
+  },
+  {
+      "title": "University of Salerno",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "Sciences Po",
+      "rank": "401–500",
+      "country": "France"
+  },
+  {
+      "title": "Sharif University of Technology",
+      "rank": "401–500",
+      "country": "Iran"
+  },
+  {
+      "title": "University of Sharjah",
+      "rank": "401–500",
+      "country": "United Arab Emirates"
+  },
+  {
+      "title": "Sichuan University",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "SOAS University of London",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of South Carolina-Columbia",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "South China University of Technology",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "Southern Medical University",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "University of Southern Queensland",
+      "rank": "401–500",
+      "country": "Australia"
+  },
+  {
+      "title": "SRUC (Scotland’s Rural College)",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Stavanger",
+      "rank": "401–500",
+      "country": "Norway"
+  },
+  {
+      "title": "University of Strathclyde",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "University of Tabuk",
+      "rank": "401–500",
+      "country": "Saudi Arabia"
+  },
+  {
+      "title": "Technion Israel Institute of Technology",
+      "rank": "401–500",
+      "country": "Israel"
+  },
+  {
+      "title": "Tianjin University",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "Ton Duc Thang University",
+      "rank": "401–500",
+      "country": "Vietnam"
+  },
+  {
+      "title": "TU Dortmund University",
+      "rank": "401–500",
+      "country": "Germany"
+  },
+  {
+      "title": "Tulane University",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "University of Turin",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "TU Wien",
+      "rank": "401–500",
+      "country": "Austria"
+  },
+  {
+      "title": "University of Vaasa",
+      "rank": "401–500",
+      "country": "Finland"
+  },
+  {
+      "title": "University of Valencia",
+      "rank": "401–500",
+      "country": "Spain"
+  },
+  {
+      "title": "Verona University",
+      "rank": "401–500",
+      "country": "Italy"
+  },
+  {
+      "title": "University of Vic – Central University of Catalonia",
+      "rank": "401–500",
+      "country": "Spain"
+  },
+  {
+      "title": "Victoria University",
+      "rank": "401–500",
+      "country": "Australia"
+  },
+  {
+      "title": "University of Waikato",
+      "rank": "401–500",
+      "country": "New Zealand"
+  },
+  {
+      "title": "Wayne State University",
+      "rank": "401–500",
+      "country": "United States"
+  },
+  {
+      "title": "University of the West of England",
+      "rank": "401–500",
+      "country": "United Kingdom"
+  },
+  {
+      "title": "The University of the West Indies",
+      "rank": "401–500",
+      "country": "Jamaica"
+  },
+  {
+      "title": "Xiamen University",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "Xi’an Jiaotong University",
+      "rank": "401–500",
+      "country": "China"
+  },
+  {
+      "title": "Yokohama City University",
+      "rank": "401–500",
+      "country": "Japan"
+  },
+  {
+      "title": "York University",
+      "rank": "401–500",
+      "country": "Canada"
+  }
+]
