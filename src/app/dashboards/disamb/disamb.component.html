@@ -5,13 +5,15 @@
       <i class="fas fa-info-circle"></i>
     </div>
     <div class="callout-message">
-      <span>
+      <span *ngIf="udmCount; else elseBlock2">
         Рейтинги используют неоднозначные и не всегда точные названия организаций.
         Мы используем таблицу приведения названий в рейтингах к единому написанию и <a
           href="https://developers.google.com/cloud-search/docs/guides/project-setup">Google search API</a>.
           <p>Загружено {{ udmCount }} организаций до унификации названий.</p>
-          <p>Необходимо устранить многозначность у {{unDisambCount}} организаций.</p>
-      </span><br />
+          <p *ngIf="unDisambCount; else elseBlock">Необходимо устранить многозначность у {{unDisambCount}} организаций.</p>
+          <ng-template #elseBlock>Неоднозначностей не обнаружено.</ng-template>
+        </span><br />
+        <ng-template #elseBlock2>Рейтинги не загружены. <a href="/selector">Перейти к выбору рейтингов</a>.</ng-template>
     </div>
   </div>
   <div class="col-sm-12 col-md-8" *ngIf="unDisambCount != 0">
