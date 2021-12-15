@@ -133,9 +133,9 @@
   },
   "Colombia Pontificia Universidad Javeriana": {
     "origName": "Colombia Pontificia Universidad Javeriana",
-    "uName": "Pontifical Xavierian University - Wikipedia",
-    "site": "en.wikipedia.org",
-    "destUrl": "https://en.wikipedia.org/wiki/Pontifical_Xavierian_University"
+    "uName": "Portal Pontificia Universidad Javeriana",
+    "site": "www.javeriana.edu.co",
+    "destUrl": "https://www.javeriana.edu.co/"
   },
   "Australia AUn National University": {
     "origName": "Australia AUn National University",
@@ -2360,8 +2360,8 @@
   "Mexico National Autonomous University of MX (UNAM)": {
     "origName": "Mexico National Autonomous University of MX (UNAM)",
     "uName": "UNAM",
-    "site": "www.unaminternacional.unam.mx",
-    "destUrl": "https://www.unaminternacional.unam.mx/en"
+    "site": "www.unam.mx",
+    "destUrl": "https://www.unam.mx/"
   },
   "Japan University of Tsukuba": {
     "origName": "Japan University of Tsukuba",
@@ -3349,9 +3349,9 @@
   },
   "United States Texas A&M University": {
     "origName": "United States Texas A&M University",
-    "uName": "Texas - Wikipedia",
-    "site": "en.wikipedia.org",
-    "destUrl": "https://en.wikipedia.org/wiki/Texas"
+    "uName": "Texas A&M University, College Station, TX",
+    "site": "www.tamu.edu",
+    "destUrl": "https://www.tamu.edu/"
   },
   "United States Florida International University": {
     "origName": "United States Florida International University",
@@ -3697,9 +3697,9 @@
   },
   "Mexico National Autonomous University of MX": {
     "origName": "Mexico National Autonomous University of MX",
-    "uName": "About us | DGECI",
-    "site": "www.unaminternacional.unam.mx",
-    "destUrl": "https://www.unaminternacional.unam.mx/en"
+    "uName": "Mexico National Autonomous University of MX",
+    "site": "www.unam.mx",
+    "destUrl": "https://www.unam.mx/"
   },
   "Italy University of Bari": {
     "origName": "Italy University of Bari",
@@ -3925,9 +3925,9 @@
     },
     "United States Texas A&M University--College Station": {
       "origName": "United States Texas A&M University--College Station",
-      "uName": "Texas - Wikipedia",
-      "site": "en.wikipedia.org",
-      "destUrl": "https://en.wikipedia.org/wiki/Texas"
+      "uName": "Texas A&M University, College Station, TX",
+      "site": "www.tamu.edu",
+      "destUrl": "https://www.tamu.edu/"
     },
     "Germany University of Erlangen Nuremberg": {
       "origName": "Germany University of Erlangen Nuremberg",
@@ -4021,9 +4021,9 @@
     },
     "Brazil Universidade de Sao Paulo": {
       "origName": "Brazil Universidade de Sao Paulo",
-      "uName": "University of São Paulo - Wikipedia",
-      "site": "en.wikipedia.org",
-      "destUrl": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo"
+      "uName": "University of São Paulo",
+      "site": "www5.usp.br",
+      "destUrl": "https://www5.usp.br/"
     },
     "United States University of California--Davis": {
       "origName": "United States University of California--Davis",
@@ -4405,9 +4405,9 @@
       },
       "Mexico National Autonomous University of Mexico": {
         "origName": "Mexico National Autonomous University of Mexico",
-        "uName": "National Autonomous University of Mexico - Wikipedia",
-        "site": "en.wikipedia.org",
-        "destUrl": "https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico"
+        "uName": "National Autonomous University of Mexico",
+        "site": "www.unam.mx",
+        "destUrl": "https://www.unam.mx/"
       },
       "Italy Catholic University of Sacred Heart": {
         "origName": "Italy Catholic University of Sacred Heart",
