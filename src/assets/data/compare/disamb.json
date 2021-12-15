@@ -1116,10 +1116,10 @@
     "destUrl": "https://www.rochester.edu/"
   },
   "United States University of Kansas": {
-    "origName": "United States University of Kansas",
-    "uName": "Kansas State University",
-    "site": "www.k-state.edu",
-    "destUrl": "https://www.k-state.edu/"
+    "origName": "University of Kansas",
+    "uName": "University of Kansas",
+    "site": "ku.edu",
+    "destUrl": "https://ku.edu/"
   },
   "United States University of Massachusetts Amherst": {
     "origName": "United States University of Massachusetts Amherst",
@@ -1909,7 +1909,7 @@
   },
   "Germany Technical University of Munich": {
     "origName": "Germany Technical University of Munich",
-    "uName": "TUM: The Entrepreneurial University",
+    "uName": "Technical University of Munich",
     "site": "www.tum.de",
     "destUrl": "https://www.tum.de/en/"
   },
@@ -3295,9 +3295,9 @@
   },
   "United States University of Georgia": {
     "origName": "United States University of Georgia",
-    "uName": "Georgia State University",
-    "site": "www.gsu.edu",
-    "destUrl": "https://www.gsu.edu/"
+    "uName": "University of Georgia",
+    "site": "www.uga.edu",
+    "destUrl": "https://www.uga.edu/"
   },
   "United States Hofstra University": {
     "origName": "United States Hofstra University",
@@ -3877,9 +3877,9 @@
   },
   "Germany University of Munich": {
     "origName": "Germany University of Munich",
-    "uName": "International Students - TUM",
-    "site": "www.tum.de",
-    "destUrl": "https://www.tum.de/en/studies/international-students"
+    "uName": "Ludwig Maximilian University of Munich",
+    "site": "www.lmu.de",
+    "destUrl": "https://www.lmu.de/en/"
   },
     "Germany University of Wurzburg": {
       "origName": "Germany University of Wurzburg",
@@ -4459,9 +4459,9 @@
       },
       "United States University of Colorado Denver/Anschutz Medical Campus": {
         "origName": "United States University of Colorado Denver/Anschutz Medical Campus",
-        "uName": "CU Denver: University of Colorado Denver",
-        "site": "www.ucdenver.edu",
-        "destUrl": "https://www.ucdenver.edu/"
+        "uName": "University of Colorado Denver/Anschutz Medical Campus",
+        "site": "www.cuanschutz.edu",
+        "destUrl": "https://www.cuanschutz.edu/"
       },
       "United States University of Texas Health Science Center--Houston": {
         "origName": "United States University of Texas Health Science Center--Houston",

@@ -5,7 +5,7 @@ import { MatTableDataSource, MatTable } from '@angular/material/table';
 import { SelectionModel } from '@angular/cdk/collections';
 import { ActivatedRoute, Router } from '@angular/router';
 import { MatCheckboxModule, MatCheckboxClickAction } from '@angular/material/checkbox';
-import { Udm, RankDataRecord } from '../unified.data.model'
+import { Udm, RankDataRecord, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
 import { FormGroup, FormControl } from '@angular/forms';
 
@@ -45,6 +45,7 @@ export class AnalysisComponent implements OnInit {
   selectedCountryFilter: string
   moreThen3
   countriesList = []
+  getCountry = {}
 
   // Data from the resolver
   originalData = [];
@@ -53,6 +54,7 @@ export class AnalysisComponent implements OnInit {
     private router: Router,
     private service: DashboardsService
   ) {
+    this.getCountry = CountriesList.plain
     // tslint:disable-next-line:no-string-literal
     this.originalData = route.snapshot.data['tableData'];
     this.dataSource = new MatTableDataSource(this.originalData);

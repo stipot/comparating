@@ -13,7 +13,7 @@
                   <mat-label>Выбрать страну</mat-label>
                   <mat-select [(value)]="selectedCountryFilter" (valueChange)="countryChange()">
                     <mat-option>Любая</mat-option>
-                    <mat-option value="{{item}}" *ngFor="let item of countriesList"> {{item}}</mat-option>
+                    <mat-option value="{{item}}" *ngFor="let item of countriesList"> {{getCountry[item]}}</mat-option>
                   </mat-select>
                 </mat-form-field>
               </div>
