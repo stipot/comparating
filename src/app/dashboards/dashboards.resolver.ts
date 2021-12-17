@@ -47,30 +47,3 @@ export class AnalysisDashboardResolver implements Resolve<any> {
     });
   }
 }
-
-@Injectable()
-export class CrmDashboardResolver implements Resolve<any> {
-
-  constructor(private dashboardService: DashboardsService) { }
-
-  resolve() {
-    return new Promise((resolve, reject) => {
-      forkJoin([
-        this.dashboardService.getLeadsTableData(),
-        this.dashboardService.getTopSellersData(),
-        this.dashboardService.getLaggingSellersData(),
-        this.dashboardService.getArticles(),
-        this.dashboardService.getTasks()
-      ])
-        .subscribe((data: any) => {
-          return resolve({
-            leadsData: data[0],
-            topSellers: data[1],
-            laggingSellers: data[2],
-            articles: data[3],
-            tasks: data[4]
-          });
-        });
-    });
-  }
-}

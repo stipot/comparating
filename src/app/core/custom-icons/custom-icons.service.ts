@@ -15,19 +15,9 @@ export class CustomIconsService {
   init(): void {
     // register custom icons
     this.registerIcons(
-      ['angular-logo-2', 'angular-logo'], '/assets/icons/logos/');
+      ['comparating-logo-2', 'comparating-logo'], '/assets/icons/logos/');
     this.registerIcons(
       ['dashboards', 'forms', 'components', 'charts', 'tables', 'utilities'], '/assets/icons/sidemenu/');
-    this.registerIcons(
-      ['notifications', 'settings', 'search'], '/assets/icons/navbar/');
-    this.registerIcons(
-      ['calendar', 'arrow-up', 'arrow-down', 'half-arrow-down', 'drag'], '/assets/icons/dashboards/crm/');
-    this.registerIcons(
-      ['sales', 'earnings', 'commissions-paid', 'orders', 'calendar', 'desktop', 'tablet', 'mobile', 'watch'],
-      '/assets/icons/dashboards/ecommerce/'
-    );
-    this.registerIcons(
-      ['upload', 'image'], '/assets/icons/utilities/');
   }
 
   registerIcons(icons: Array<string>, path: string) {
