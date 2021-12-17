@@ -64,15 +64,12 @@ export class DisambComponent implements OnInit {
     this.dataSource.sortingDataAccessor = (item, property) => item[property];
     this.dataSource.sort = this.sort;
     this.udmCount = Object.keys(this.service.rankData).length
-    console.log(this.service.rankData)
     this.apiKey = localStorage.getItem('apiKey') || ''
     //initial disambiguation
     this.service.getDisambiguationData().toPromise().then(responce => {
       this.service.disambData = responce
       let disambDataKeys = Object.keys(this.service.disambData)
-      console.log(this.service.rankData, disambDataKeys,)
       this.toDisambNamesList = Object.keys(this.service.rankData).filter(key => { return disambDataKeys.indexOf(key) == -1 })
-      console.log(this.toDisambNamesList, this.service.rankData)
       this.unDisambCount = this.toDisambNamesList.length
     })
   }
@@ -81,9 +78,7 @@ export class DisambComponent implements OnInit {
     localStorage.setItem('apiKey', this.apiKey)
     let counter = this.unDisambCount
     this.toDisambNamesList.forEach(item => {
-      console.log(item, this.apiKey, this.service.rankData[item].country)
       this.service.getGoogleData(item, this.apiKey, this.service.rankData[item].country).toPromise().then(e => {
-        console.log(e)
         this.disambData[item] = {
           origName: item,
           uName: e['items'][0].title,
@@ -100,7 +95,6 @@ export class DisambComponent implements OnInit {
             let disambDataKeys = Object.keys(this.service.disambData)
             this.toDisambNamesList = Object.keys(this.service.rankData).filter(key => { return disambDataKeys.indexOf(key) == -1 })
             this.unDisambCount = this.toDisambNamesList.length
-            console.log(disambDataKeys, this.unDisambCount)
           }
         })
     })
@@ -143,7 +137,6 @@ export class DisambComponent implements OnInit {
         }
       }
     })
-    console.log('skiped', skipedList, updatedList, this.service.unifiedRankData)
     //prepare Analysis data
     const data = this.service.unifiedRankData
     this.service.analysisData = Object.keys(data).map(key => {
@@ -158,13 +151,13 @@ export class DisambComponent implements OnInit {
      * + Ключем является hash имени университета.
      * + Таким образом у нас проиндексированная унифицированная информация. Возможно стоит при формировании хэша 
      * + добавлять название страны для исключения неопреденности.
+     * + Котвертируем объект в массив и отображаем.
+     * + Реализуем поиск по названию университета, фильтрацию по стране, вхождение минимум в три рейтинга, 
+     * + Описание подробнее
      * Список сохраняем именным образом, чтобы потом сравнивать перечни по годам. (Add to comparision)
-     * Котвертируем объект в массив и отображаем.
-     * Реализуем поиск по названию университета, фильтрацию по стране, вхождение минимум в три рейтинга, 
      * Сохраняем коллекции (набор рейтингов. Коллекция по умолчанию - нынешний список). Отображаем таблицы, но вместо рейтингов - коллекции.
-     * страны с соглашением и Россию.
+     * страны с соглашением и Россию cltkfnm jgwbjyfkmyj .
      * Сверка с представленным списком.
-     * Описание подробнее
      * Copyrights
      * Благодарности.
      * 

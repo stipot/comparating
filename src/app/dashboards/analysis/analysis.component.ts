@@ -75,7 +75,6 @@ export class AnalysisComponent implements OnInit {
       if (this.countriesList.indexOf(record.country) == -1)
         this.countriesList.push(record.country)
     })
-    console.log(this.service.analysisData,this.dataSource, this.countriesList)
   }
 
   // Run the filters for the table

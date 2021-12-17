@@ -64,7 +64,6 @@ export class SelectorComponent implements OnInit {
       this.service.countryExclusion = list
       this.countryList = Object.keys(list)
       this.countryListString = this.countryList.map(item => CountriesList.plain[item]).join(', ')
-      console.log(CountriesList.plain, this.countryListString)
     })
   }
 
