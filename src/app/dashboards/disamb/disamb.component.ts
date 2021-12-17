@@ -4,7 +4,7 @@ import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource, MatTable } from '@angular/material/table';
 import { SelectionModel } from '@angular/cdk/collections';
 import { ActivatedRoute, Router } from '@angular/router';
-import { Udm, RankDataRecord, DisambData } from '../unified.data.model'
+import { Udm, RankDataRecord, DisambData, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
 
 export interface RowData {
@@ -140,7 +140,18 @@ export class DisambComponent implements OnInit {
     //prepare Analysis data
     const data = this.service.unifiedRankData
     this.service.analysisData = Object.keys(data).map(key => {
-      return { country: data[key].country, orgName: data[key].orgName, ranks: data[key].ranks, rcount: data[key].rcount, url: key, syns: data[key]?.syns.join(' || ') }
+      let newSysn = []
+      if (data[key].syns) {
+        data[key].syns.forEach(oName => {
+          let oNameSplitted = oName.split(CountriesList.plain[data[key].country] + ' ')
+          let clearedName = oNameSplitted && oNameSplitted.length == 2 ? oNameSplitted[1] : oName
+          if (clearedName)
+            clearedName = clearedName.trim()
+          newSysn.push(clearedName)
+          console.log(oNameSplitted, oNameSplitted.length, oNameSplitted, oNameSplitted[1], oName, clearedName)
+        })
+      }
+      return { country: data[key].country, orgName: data[key].orgName, ranks: data[key].ranks, rcount: data[key].rcount, url: key, syns: newSysn, synsJoin: newSysn.join(' || ') }
     })
     this.analysejson = JSON.stringify(this.service.analysisData, null, 2)
     //

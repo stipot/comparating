@@ -8,10 +8,12 @@ import { MatCheckboxModule, MatCheckboxClickAction } from '@angular/material/che
 import { Udm, RankDataRecord, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
 import { FormGroup, FormControl } from '@angular/forms';
+import { Clipboard } from '@angular/cdk/clipboard';
 
 export interface RowData {
   country: string
-  syns: string
+  syns: string[]
+  sysnArr: string
   ranks: { [rankName: string]: string }
   rcount: number
   url: string
@@ -46,13 +48,15 @@ export class AnalysisComponent implements OnInit {
   moreThen3
   countriesList = []
   getCountry = {}
+  palette = ['#d5f4e6', '#80ced6', '#fefbd8', '#ffef96', '#deeaee']
 
   // Data from the resolver
   originalData = [];
   constructor(
     private route: ActivatedRoute,
     private router: Router,
-    private service: DashboardsService
+    private service: DashboardsService,
+    private clipboard: Clipboard
   ) {
     this.getCountry = CountriesList.plain
     // tslint:disable-next-line:no-string-literal
@@ -124,5 +128,9 @@ export class AnalysisComponent implements OnInit {
 
   nextStep() {
 
+  }
+
+  copyClipboard(oName){
+    this.clipboard.copy(oName);
   }
 }
