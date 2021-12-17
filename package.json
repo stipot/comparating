@@ -11,7 +11,8 @@
     "dev:ssr": "ng run comparating-template:serve-ssr",
     "serve:ssr": "node dist/server/main.js",
     "build:ssr": "ng build --prod && ng run comparating-template:server:production",
-    "prerender": "ng run comparating-template:prerender"
+    "prerender": "ng run comparating-template:prerender",
+    "deploy": "ng build --prod && firebase deploy"
   },
   "private": true,
   "dependencies": {
