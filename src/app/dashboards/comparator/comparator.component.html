@@ -1,19 +1,30 @@
 <div class="container-fluid content-wrapper">
-  <h1 class="page-title">Описание</h1>
-
-  <div class="callout-message-wrapper">
-    <div class="callout-icon">
-      <i class="fas fa-info-circle"></i>
+    <div class="callout-message-wrapper">
+        <div class="callout-icon">
+            <i class="fas fa-info-circle"></i>
+        </div>
+        <div class="callout-message">
+            <span>
+                Сайт Comparating создан в связи с введением новых критериев формирования перечня иностранных образовательных и
+                                        научных организаций в перечень иностранных образовательных и научных организаций, полученные образование и (или)
+                                        квалификации, ученые степени и ученые звания в которых признаются в Российской Федерации, утвержденных
+                                        Постановлением Правительства Российской Федерации от 5 марта 2021 г. N 326
+            </span><br/>
+            <button type="button" class="open-button" (click)="openDescriptionPage()">Подробнее</button>
+        </div>
     </div>
-    <div class="callout-message">
-      <span>
-        Сайт Comparating создан в связи с введением новых критериев формирования перечня иностранных образовательных и
-        научных организаций в перечень иностранных образовательных и научных организаций, полученные образование и (или)
-        квалификации, ученые степени и ученые звания в которых признаются в Российской Федерации, утвержденных
-        Постановлением Правительства Российской Федерации от 5 марта 2021 г. N 326
-      </span><br />
-      <button type="button" class="open-button" (click)="openDescriptionPage()">Подробнее</button>
-    </div>
-  </div>
-  <app-sources-selector></app-sources-selector>
+    <h1>Использование</h1>
+    <p>1. Подготовленные для анализа данные для 5 рейтингов, опубликованных в 2021 году, доступны на странице
+        <a href="/analysis">Анализ</a>.
+    </p>
+    <p>2. Вы можете самостоятельно
+        <a href="/selector">выбрать источники данных для сопоставления</a>
+        и анализа в приведенной ниже таблице и перейти к анализу выбранных наборов данных.
+    </p>
+    <p>3. Если Вы ходите провести анализ на других исходных данных, воспользуйтесь исходными кодами в репозитарии
+        <a href="https://github.com/stipot/comparating">GitHub</a>
+        или
+        <a href="https://github.com/stipot/comparating/discussions">напишите свой запрос</a>.</p>
+    <p>Comparating создан при поддержке ФГБНУ
+        <a href="http://academicmobility.ru/"></a>Государственный центр "Интерфизика"</p>
 </div>
