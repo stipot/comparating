@@ -1,14 +1,14 @@
-@import './partials/menu-branding';
-@import './partials/menu-dot-decoration';
-@import './partials/menu-line-decoration';
+@import "./partials/menu-branding";
+@import "./partials/menu-dot-decoration";
+@import "./partials/menu-line-decoration";
 
 :host {
   // Default values. These may be overridden in the component's parent
-  --main-menu-background: #{palette-color('grey-0')};
+  --main-menu-background: #{palette-color("grey-0")};
   --main-menu-active-background: #333333;
-  --main-menu-color: #{palette-color('grey-4')};
+  --main-menu-color: #{palette-color("grey-4")};
   --main-menu-active-color: #333333;
-  --main-menu-alt-color: #E6E6E6;
+  --main-menu-alt-color: #e6e6e6;
 
   --main-menu-width: 300px;
 
@@ -46,6 +46,9 @@
 
       .menu-link {
         padding-inline-end: var(--main-menu-expansion-indicator-width);
+      }
+      .icon {
+        float: right;
       }
     }
 
