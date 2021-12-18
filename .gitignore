@@ -1,5 +1,4 @@
 .firebase
 node_modules
-dist
-public
+dist/server
 .firebase/hosting.ZGlzdFxicm93c2Vy.cache
