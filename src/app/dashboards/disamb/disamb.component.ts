@@ -6,6 +6,7 @@ import { SelectionModel } from '@angular/cdk/collections';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Udm, RankDataRecord, DisambData, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
+import { TranslocoService } from '@ngneat/transloco';
 
 export interface RowData {
   rating: string;
@@ -44,14 +45,15 @@ export class DisambComponent implements OnInit {
   apiKey: string = ''
   disambjson: string = ''
   analysejson: string = ''
-
+  activeLanguage
 
   // Data from the resolver
   originalData = [];
   constructor(
     private route: ActivatedRoute,
     private router: Router,
-    public service: DashboardsService
+    public service: DashboardsService,
+    private translocoService: TranslocoService
   ) {
     // tslint:disable-next-line:no-string-literal
     this.originalData = route.snapshot.data['tableData'];
@@ -59,6 +61,8 @@ export class DisambComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.activeLanguage = this.translocoService.getActiveLang();
+    this.translocoService.langChanges$.subscribe(lang => this.activeLanguage = lang);
     this.dataSource.paginator = this.paginator;
     // define a custom sort for the date field
     this.dataSource.sortingDataAccessor = (item, property) => item[property];

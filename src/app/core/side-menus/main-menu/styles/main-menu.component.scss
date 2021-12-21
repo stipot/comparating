@@ -1,3 +1,4 @@
+@import 'shared';
 @import "./partials/menu-branding";
 @import "./partials/menu-dot-decoration";
 @import "./partials/menu-line-decoration";
@@ -31,6 +32,40 @@
   min-height: 100%;
   color: var(--main-menu-color);
   background-color: var(--main-menu-background);
+
+
+    .button-info {
+      @include button();
+      width: 100%;
+    }
+
+    .button-success {
+      --button-background: var(--success-color);
+      --button-border: var(--success-color);
+      --button-color: white;
+
+      --button-hover-background: var(--success-hover-background);
+      --button-hover-border: var(--success-hover-background);
+      --button-hover-color: var(--success-hover-color);
+
+      @include button();
+      width: 100%;
+      margin-right: var(--alert-spacing);
+    }
+
+    .button-error {
+      --button-background: var(--error-color);
+      --button-border: var(--error-color);
+      --button-color: var(--button-text-color);
+
+      --button-hover-background: var(--error-hover-background);
+      --button-hover-border: var(--error-hover-background);
+      --button-hover-color: var(--error-hover-color);
+      @include button();
+      width: 100%;
+      margin-left: var(--alert-spacing);
+    }
+
 
   .side-menu-navigation {
     padding-top: calc(var(--main-menu-spacing) * 4);

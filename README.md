@@ -20,6 +20,8 @@ Demo version of the application is accessible on https://istool.ru
     ./exclude.json - list of countries excluded from the analyses due to international agreements https://nic.gov.ru/ru/docs/foreign/confirmation
     ./dbindex.json - list of ratings data files from ../ratings/ folder.
     ./disamb.json - data for organization's name disambiguation. If the programme on the page Sources found organization's name which doesn't mentioned in the file so the programme propose to get disambiguation data using Google search API. Append the disamb.json data after you get it on the Unification page.
+  ./ratings/ - folder with rankings data files.
+  
 
 ## Build
 

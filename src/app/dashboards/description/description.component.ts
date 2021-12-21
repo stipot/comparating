@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { TranslocoService } from '@ngneat/transloco';
 
 @Component({
   selector: 'app-description',
@@ -15,10 +16,14 @@ import { Component, OnInit } from '@angular/core';
   ]
 })
 export class DescriptionComponent implements OnInit {
-
-  constructor() { }
+  activeLanguage: string
+  constructor(
+    private translocoService: TranslocoService
+    ) { }
 
   ngOnInit(): void {
+    this.activeLanguage = this.translocoService.getActiveLang();
+    this.translocoService.langChanges$.subscribe(lang => this.activeLanguage = lang);
   }
 
 }

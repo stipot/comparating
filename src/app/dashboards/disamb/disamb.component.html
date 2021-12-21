@@ -1,42 +1,64 @@
 <div class="container-fluid content-wrapper">
-  <h1 class="page-title">Унификация (устранение неопределенности)</h1>
+  <h1 class="page-title">{{'Unification' | transloco}}</h1>
   <div class="callout-message-wrapper">
     <div class="callout-icon">
       <i class="fas fa-info-circle"></i>
     </div>
     <div class="callout-message">
       <span *ngIf="udmCount; else elseBlock2">
-        Рейтинги используют неоднозначные и не всегда точные названия организаций.
-        Мы используем таблицу приведения названий в рейтингах к единому написанию и <a
-          href="https://developers.google.com/cloud-search/docs/guides/project-setup">Google search API</a>.
+        <div *ngIf="activeLanguage=='ru'">
+          Рейтинги используют неоднозначные и не всегда точные названия организаций.
+          Мы используем таблицу приведения названий в рейтингах к единому написанию и <a
+            href="https://developers.google.com/cloud-search/docs/guides/project-setup">Google search API</a>.
           <p>Загружено {{ udmCount }} организаций до унификации названий.</p>
-          <p *ngIf="unDisambCount; else elseBlock">Необходимо устранить многозначность у {{unDisambCount}} организаций.</p>
-          <ng-template #elseBlock>Неоднозначностей не обнаружено.</ng-template>
-        </span><br />
-        <ng-template #elseBlock2>Рейтинги не загружены. <a href="/selector">Перейти к выбору рейтингов</a>.</ng-template>
+          <p *ngIf="unDisambCount; else elseBlock">Необходимо устранить многозначность у {{unDisambCount}} организаций.
+          </p>
+        </div>
+        <div *ngIf="activeLanguage == 'en'">
+          The ratings use ambiguous and not always accurate names of organizations.
+          We use a table for converting names in ratings to a single spelling and <a
+            href="https://developers.google.com/cloud-search/docs/guides/project-setup"> Google search API </a>.
+          <p> Uploaded {{udmCount}} organizations prior to name unification. </p>
+          <p *ngIf="unDisambCount; else elseBlock"> We need to remove ambiguity from {{unDisambCount}} organizations.
+          </p>
+        </div>
+        <ng-template #elseBlock>{{'Disamb.NoAmb'|transloco}}</ng-template>
+      </span><br />
+      <ng-template #elseBlock2><span [innerHTML]="'Disamb.RatingsUnavailable' | transloco"></span></ng-template>
     </div>
   </div>
   <div class="col-sm-12 col-md-8" *ngIf="unDisambCount != 0">
-    <label for="labelOnTop" class="col-form-label">Укажите <a href="https://developers.google.com/custom-search/v1/introduction/?apix=true">Google Search API Key</a></label>
+    <label for="labelOnTop" class="col-form-label">{{'Disamb.Set'|transloco}}
+      <a href="https://developers.google.com/custom-search/v1/introduction/?apix=true">Google Search API Key</a></label>
     <input type="text" class="form-control" id="labelOnTop" placeholder="Google search API" [(ngModel)]="apiKey">
-    <button type="button" class="open-button" (click)="prepare()" [disabled]="service.rankDataCount == 0">Загрузить данные Google для унификации</button>
+    <button type="button" class="open-button" (click)="prepare()" [disabled]="service.rankDataCount == 0">
+      <span *ngIf="activeLanguage=='ru'">
+        Load Google data for unification
+      </span>
+    </button>
+    <span *ngIf="activeLanguage=='en'">
+
+    </span>
   </div>
   <div class="col-sm-12 col-md-8" *ngIf="disambjson">
-    <label>Добавьте полученные данные в файл /src/assets/data/compare/disamb.json</label>
-    <textarea type="text" class="form-control" id="labelOnTop" placeholder="disamb.json" [(ngModel)]="disambjson" #userinput></textarea>
-    <button type="button" class="open-button" (click)="copyInputMessage(userinput)">Скопировать данные</button>
+    <label>{{'Disamb.AddToFile' |transloco}} /src/assets/data/compare/disamb.json</label>
+    <textarea type="text" class="form-control" id="labelOnTop" placeholder="disamb.json" [(ngModel)]="disambjson"
+      #userinput></textarea>
+    <button type="button" class="open-button" (click)="copyInputMessage(userinput)">{{'Copy'|transloco}}</button>
   </div>
   <div class="col-sm-12 col-md-8" *ngIf="udmCount > 0">
-    <label for="labelOnTop" class="col-form-label">Унифицировать информацию об организациях</label>
-    <button type="button" class="open-button" (click)="unify()">Унифицировать данные</button>
+    <label for="labelOnTop" class="col-form-label">{{'Disamb.UnifyOrgInfo'| transloco}}</label>
+    <button type="button" class="open-button" (click)="unify()">{{'Disamb.UnifyData'| transloco}}</button>
   </div>
   <div class="col-sm-12 col-md-8" *ngIf="analysejson">
-    <label>Подготовлены данные для анализа выбранных рейтингов. Для постоянного использования сохраните данные в файл /src/assets/data/compare/analyse.json</label>
-    <textarea type="text" class="form-control" id="labelOnTop" placeholder="disamb.json" [(ngModel)]="analysejson" #userinput></textarea>
-    <button type="button" class="open-button" (click)="copyInputMessage(userinput)">Скопировать данные</button>
+    <label>{{'Disamb.CopyDataToFile'|transloco}}
+      /src/assets/data/compare/analyse.json</label>
+    <textarea type="text" class="form-control" id="labelOnTop" placeholder="disamb.json" [(ngModel)]="analysejson"
+      #userinput></textarea>
+    <button type="button" class="open-button" (click)="copyInputMessage(userinput)">{{'Copy'|transloco}}</button>
   </div>
   <div class="col-sm-12 col-md-8" *ngIf="analysejson">
-    <label for="labelOnTop" class="col-form-label">Подготовка данных завершена</label>
-    <button type="button" class="open-button" (click)="nextStep()">Перейти к анализу</button>
+    <label for="labelOnTop" class="col-form-label">{{'Disamb.PreparationFinished"'|transloco}}</label>
+    <button type="button" class="open-button" (click)="nextStep()">{{'Next' | transloco}}</button>
   </div>
 </div>

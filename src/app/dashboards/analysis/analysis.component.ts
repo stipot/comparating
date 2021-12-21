@@ -9,6 +9,7 @@ import { Udm, RankDataRecord, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
 import { FormGroup, FormControl } from '@angular/forms';
 import { Clipboard } from '@angular/cdk/clipboard';
+import { TranslocoService } from '@ngneat/transloco';
 
 export interface RowData {
   country: string
@@ -52,7 +53,8 @@ export class AnalysisComponent implements OnInit {
 
   // Data from the resolver
   originalData = [];
-  constructor(
+  activeLanguage: string
+  constructor(private translocoService: TranslocoService,
     private route: ActivatedRoute,
     private router: Router,
     private service: DashboardsService,
@@ -79,6 +81,8 @@ export class AnalysisComponent implements OnInit {
       if (this.countriesList.indexOf(record.country) == -1)
         this.countriesList.push(record.country)
     })
+    this.activeLanguage = this.translocoService.getActiveLang();
+    this.translocoService.langChanges$.subscribe(lang => this.activeLanguage = lang);
   }
 
   // Run the filters for the table
@@ -130,7 +134,7 @@ export class AnalysisComponent implements OnInit {
 
   }
 
-  copyClipboard(oName){
+  copyClipboard(oName) {
     this.clipboard.copy(oName);
   }
 }

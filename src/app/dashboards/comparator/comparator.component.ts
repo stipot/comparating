@@ -7,6 +7,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
+import { TranslocoService } from '@ngneat/transloco';
 
 @Component({
   selector: 'comparator-dashboard',
@@ -24,38 +25,15 @@ import { MatTableDataSource } from '@angular/material/table';
 })
 export class ComparatorDashboardComponent implements OnInit {
 
-  isBrowser: boolean;
-  values: any;
-  chartColors: any = {
-    success: '#28a745',
-    error: '#dc3545',
-    neutral: '#666d77',
-    white: '#ffffff',
-    blue3: '#bad4ff',
-    blue4: '#a2c5ff',
-    blue5: '#86b4ff',
-    blue7: '#3b86fe',
-    blue8: '#2e69c9',
-    blue9: '#1b3e76'
-  };
-
-  recentOrdersTableDisplayedColumns: string[] = ['id', 'product', 'category', 'location', 'customer', 'price', 'date', 'status'];
-  recentOrdersTableDataSource: any;
-
-  latestTicketsTableDisplayedColumns: string[] = ['name', 'ticket_id', 'subject', 'phone', 'created_date', 'status'];
-  latestTicketsTableDataSource: any;
-
-  @ViewChild('recentOrdersSort', { static: true }) recentOrdersSort: MatSort;
-  @ViewChild('latestTicketsSort', { static: true }) latestTicketsSort: MatSort;
-  @ViewChild('latestTicketsPaginator', { static: true }) latestTicketsPaginator: MatPaginator;
-
+  activeLanguage: string
 
   constructor(
     @Inject(PLATFORM_ID) private platformId: object,
     private route: ActivatedRoute,
-    private router: Router
+    private router: Router,
+    private translocoService: TranslocoService
   ) {
-    this.isBrowser = isPlatformBrowser(platformId);
+
   }
 
   openDescriptionPage() {
@@ -63,6 +41,7 @@ export class ComparatorDashboardComponent implements OnInit {
   }
 
   ngOnInit() {
-
+    this.activeLanguage = this.translocoService.getActiveLang();
+    this.translocoService.langChanges$.subscribe(lang => this.activeLanguage = lang);
   }
 }

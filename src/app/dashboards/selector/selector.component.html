@@ -4,13 +4,12 @@
       <i class="fas fa-info-circle"></i>
     </div>
     <div class="callout-message">
-      <span>
-        Страны исключения (указано в exclude.json) в соответствии с <a href="https://nic.gov.ru/ru/docs/foreign/confirmation"
-          target="_blank">международными договорами</a>: {{countryListString}}
-      </span>
+      
+      <span [innerHTML]="'Selector.exclusion' | transloco">
+      </span>: {{countryListString}}
     </div>
   </div>
-  <h1 class="page-title">Выберите источники для анализа</h1>
+  <h1 class="page-title">{{'SelectSources' | transloco}}</h1>
 
   <div class="table-wrapper table-responsive">
     <table mat-table #table class="table table-borderless" [dataSource]="dataSource" matSort #sort="matSort">
@@ -34,12 +33,12 @@
       </ng-container>
 
       <ng-container matColumnDef="rating">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Rating </th>
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> {{'Rating'|transloco}} </th>
         <td mat-cell *matCellDef="let row"><a target="_blank" href="{{row.url}}">{{row.rating}}</a></td>
       </ng-container>
 
       <ng-container matColumnDef="year">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Year </th>
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> {{'Year'| transloco}} </th>
         <td mat-cell *matCellDef="let row"> {{row.year}} </td>
       </ng-container>
 
@@ -49,7 +48,7 @@
     </table>
   </div>
   <button type="button" class="open-button" (click)="nextStep()"
-    *ngIf="selection.selected.length > 2; else elseBlock">Далее</button>
+    *ngIf="selection.selected.length > 2; else elseBlock">{{'Next' | transloco}}</button>
   <ng-template #elseBlock>
     <div class="callout-message-wrapper">
       <div class="callout-icon">
@@ -57,7 +56,7 @@
       </div>
       <div class="callout-message">
         <span>
-          Выберите по крайней мере три источника для сравнения
+          {{'Select3Sources' | transloco}}
         </span>
       </div>
     </div>

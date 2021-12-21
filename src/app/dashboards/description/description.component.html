@@ -1,19 +1,32 @@
 <div class="container-fluid content-wrapper">
-    <h1 class="page-title">Описание</h1>
+    <h1 class="page-title">{{'Description ' | transloco}}</h1>
 
     <div class="callout-message-wrapper">
         <div class="callout-icon">
             <i class="fas fa-info-circle"></i>
         </div>
         <div class="callout-message">
-            <span>
-                Сайт Comparating создан в связи с введением новых критериев формирования перечня иностранных образовательных и
-                                        научных организаций в перечень иностранных образовательных и научных организаций, полученные образование и (или)
-                                        квалификации, ученые степени и ученые звания в которых признаются в Российской Федерации, утвержденных
-
-            </span><br/>
+            <span *ngIf="activeLanguage == 'ru'">
+                Сайт Comparating создан в связи с введением новых критериев формирования перечня иностранных
+                образовательных и
+                научных организаций в перечень иностранных образовательных и научных организаций, полученные образование
+                и (или)
+                квалификации, ученые степени и ученые звания в которых признаются в Российской Федерации, утвержденных
+                Постановлением Правительства Российской Федерации от 5 марта 2021 г. N 326
+            </span>
+            <span *ngIf="activeLanguage == 'en'">
+                The Comparating website was created in connection with the introduction of new criteria for the
+                formation of a list of foreign educational and
+                scientific organizations in the list of foreign educational and scientific organizations, received
+                education and (or)
+                qualifications, academic degrees and academic titles in which are recognized in the Russian Federation,
+                approved
+                Decree of the Government of the Russian Federation of March 5, 2021 N 326
+            </span>
+            <br/>
         </div>
     </div>
+    <span *ngIf="activeLanguage == 'ru'">
     <p>
         <a href="https://base.garant.ru/70168862/" target="_blamk">Постановлением Правительства Российской Федерации</a>
         от
@@ -65,3 +78,57 @@
         <a href="/analysis">Источники</a>
         данных и сделать свое сопоставление и анализ.
     </p>
+</span>
+<span *ngIf="activeLanguage == 'en'">
+    <p>
+        <a href="https://base.garant.ru/70168862/" target="_blamk"> Decree of the Government of the Russian Federation </a>
+        from
+                    April 25, 2012 No. 389
+        <a target="_blank" href="https://cyberleninka.ru/article/n/sovremennaya-sistema-priznaniya-v-rossiyskoy-federatsii-inostrannogo-obrazovaniya"> for the first time
+                              criteria have been introduced </a>
+        formation of a list of foreign educational and
+                    scientific organizations in the list of foreign educational and scientific organizations, received education and (or)
+                    qualifications, academic degrees and academic titles in which are recognized in the Russian Federation. </p>
+    <p> This list was revised by the Government of the Russian Federation, taking into account the current data of the Academic
+                    rating
+                    Academic Ranking of World Universities, QS World University
+                    Rankings) and the Times Higher Education World University
+                    Ranking). At the same time, universities are selected that occupy the first three hundred positions simultaneously in all three
+                    ratings. The list was formed on a cumulative basis. If the university is in some
+                    year did not make it into the selection, he nevertheless remained on the list. </p>
+    <p> Starting in 2021
+        <a target="_blank" href="https://base.garant.ru/400436735/"> Government Decree
+                              Russian Federation
+                              dated March 5, 2021 N 326 </a>
+        new criteria for the formation of the list of foreign educational and
+                    scientific organizations in the list of foreign educational and scientific organizations, received education and (or)
+                    qualifications, academic degrees and academic titles in which are recognized in the Russian Federation </p>
+    <p> The new criteria establish that a foreign educational organization and a foreign scientific
+                    the organization is included in the current year in one of the first 500 positions in at least 3 out of 5 international ratings
+                    at the same time: Academic Ranking of World Universities, world
+                    QS World University Rankings, The Times Higher
+                    Education World University Rankings), the world ranking of universities (U.S. News Best Global Universities) and
+                    Moscow International University Ranking "Three University Missions". </p>
+    <p> The wording of the new criteria ("included in the current year") does not exclude the possibility of losing legal status
+                    foreign level
+                    education and (or) qualifications, academic degree and academic title of university graduates who have dropped out of the list. V
+                    In this case, the educational organization can expel and the employer can dismiss the employee if there is
+                    qualification requirements for the position. </p>
+    <p> Taking this feature into account, the Comparating program was developed, which allows you to analyze ratings and
+                    conformity
+                    organization according to established criteria. </p>
+    <p> When developing the program, it was taken into account that ratings do not provide data in a machine-readable format. Their
+                    comparison does not exclude uncertainty due to the fact that the names of the university in different rankings can
+                    differ. </p>
+    <p> Comparating is open source software available in the repository
+        <a target="_blank" href="https://github.com/stipot/comparating"> GitHub </a>. </p>
+    <p> Comparating allows you to evaluate a university by its rank in 5 world rankings, entering at the same time in the aggregate of rankings. Select rated universities for each country. Go to the official website of the university. </p>
+    <p> Then you can go directly to the section
+        <a href="/analysis"> Analysis </a>
+        comparison of ratings in the context of new
+                    criteria. </p>
+    <p> You can define it yourself
+        <a href="/analysis"> Sources </a>
+        data and make your comparison and analysis.
+    </p>
+</span>

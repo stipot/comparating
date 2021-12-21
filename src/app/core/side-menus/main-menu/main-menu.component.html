@@ -1,8 +1,8 @@
+<ng-container *transloco="let t">
 <div class="side-menu-branding">
   <mat-icon class="brand-logo" svgIcon="comparating-logo"></mat-icon>
   <span class="menu-item-title">Comparating</span>
 </div>
-
 <ul class="side-menu-navigation nav flex-column">
   <li class="menu-item expandable-item nav-item" [routerLinkActive]="['active']">
     <mat-expansion-panel [expanded]="true">
@@ -11,7 +11,7 @@
           <mat-panel-title>
             <mat-icon class="menu-item-icon" svgIcon="dashboards"></mat-icon>
             <span class="menu-item-title">
-              Материалы</span>
+              {{ t('dashboard') }}</span>
           </mat-panel-title>
         </div>
       </mat-expansion-panel-header>
@@ -19,34 +19,37 @@
         <li class="menu-item nav-item" [routerLinkActive]="['active']">
           <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/comparator']">
             <mat-icon class="icon" svgIcon="components"></mat-icon>
-            <span class="menu-item-title tables">Обзор</span>
+            <span class="menu-item-title tables">{{ t('Overview') }}</span>
           </a>
         </li>
         <li class="menu-item nav-item" [routerLinkActive]="['active']">
           <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/description']">
             <mat-icon class="icon tables" svgIcon="forms"></mat-icon>
-            <span class="menu-item-title">Описание</span>
+            <span class="menu-item-title">{{ t('Description') }}</span>
           </a>
         </li>
         <li class="menu-item nav-item" [routerLinkActive]="['active']">
           <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/selector']">
             <mat-icon class="icon" svgIcon="utilities"></mat-icon>
-            <span class="menu-item-title">Источники</span>
+            <span class="menu-item-title">{{ t('Sources') }}</span>
           </a>
         </li>
         <li class="menu-item nav-item" [routerLinkActive]="['active']">
           <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/disamb']">
             <mat-icon class="icon" svgIcon="tables"></mat-icon>
-            <span class="menu-item-title">Унификация</span>
+            <span class="menu-item-title">{{ t('Unification') }}</span>
           </a>
         </li>
         <li class="menu-item nav-item" [routerLinkActive]="['active']">
           <a class="menu-link nav-link" [routerLinkActive]="['active']" [routerLink]="['/analysis']">
             <mat-icon class="icon" svgIcon="charts"></mat-icon>
-            <span class="menu-item-title">Анализ</span>
+            <span class="menu-item-title">{{ t('Analyses') }}</span>
           </a>
         </li>
       </ul>
     </mat-expansion-panel>
   </li>
 </ul>
+<button type="button" class="button-info  btn" [disabled]="activeLanguage=='ru'" (click)="setLang('ru')">Русский</button>
+<button type="button" class="button-info btn" [disabled]="activeLanguage=='en'" (click)="setLang('en')">English</button>
+</ng-container>

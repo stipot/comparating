@@ -37,7 +37,6 @@ const availableLayouts: Array<IAppLayout> = [
 // Select the default layout
 const defaultLayout: IAppLayout = availableLayouts.find((layout: IAppLayout) => {
   return layout.name === 'B';
-  // return layout.name === 'D';
 });
 
 export { IAppLayout, availableLayouts, defaultLayout };
