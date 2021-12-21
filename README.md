@@ -1,5 +1,9 @@
 # Comprating is an application to compare International University rankings
 
+# Demo
+
+Demo version of the application is accessible on https://istool.ru
+
 # Development
 
 ## Installation
@@ -7,6 +11,15 @@
 1. clone https://github.com/stipot/comparating.git
 2. npm install
 3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Project data structure
+
+/assets/config/data
+  ./compare/
+    ./analyse.json - data prepared by the programme to show final data on Analyse page.
+    ./exclude.json - list of countries excluded from the analyses due to international agreements https://nic.gov.ru/ru/docs/foreign/confirmation
+    ./dbindex.json - list of ratings data files from ../ratings/ folder.
+    ./disamb.json - data for organization's name disambiguation. If the programme on the page Sources found organization's name which doesn't mentioned in the file so the programme propose to get disambiguation data using Google search API. Append the disamb.json data after you get it on the Unification page.
 
 ## Build
 
