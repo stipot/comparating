@@ -1,13 +1,15 @@
 [
   {
     "year": 2021,
-    "rating": "Московский международный рейтинг вузов",
+    "count": 500,
+    "rating": "Moscow International University Ranking",
     "ratingId": "mosiur",
     "fname": "mosiur_2021.json",
     "url": "https://mosiur.org/ranking/"
   },
   {
     "year": 2022,
+    "count": 500,
     "rating": "QS World University Rankings",
     "ratingId": "qs",
     "fname": "qs_2022.json",
@@ -15,12 +17,14 @@
   },
   {
     "year": 2021,
+    "count": 500,
     "rating": "Shanhhai Academic Ranking of World Universities",
     "ratingId": "shanghaIRking",
     "fname": "shanghaIRking_2021.json",
     "url": "https://www.shanghairanking.com/rankings/arwu/2021"
   },{
     "year": 2022,
+    "count": 500,
     "type": 2,
     "rating": "US.NEWS Best Global Universities - SRC",
     "ratingId": "usnews",
@@ -29,6 +33,7 @@
   },
   {
     "year": 2022,
+    "count": 500,
     "type": 2,
     "rating": "Times Higher Education - SRC",
     "ratingId": "timeshighereducation",
