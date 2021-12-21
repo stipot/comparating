@@ -35,8 +35,8 @@
     "ranks": {
       "mosiur": "221",
       "usnews": "203",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.meduniwien.ac.at",
@@ -52,8 +52,8 @@
       "mosiur": "301-350",
       "QS": 281,
       "usnews": "371",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.uibk.ac.at",
@@ -96,8 +96,8 @@
       "mosiur": "293",
       "QS": 151,
       "usnews": "201",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "137"
+      "timeshighereducation": "137",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.univie.ac.at",
@@ -163,8 +163,8 @@
       "mosiur": "401-450",
       "QS": 200,
       "usnews": "207",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "192"
+      "timeshighereducation": "192",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.mq.edu.au",
@@ -180,8 +180,8 @@
       "mosiur": "185",
       "QS": 58,
       "usnews": "40",
-      "shanghaIRking": "80",
-      "timeshighereducation": "57"
+      "timeshighereducation": "57",
+      "shanghaIRking": "80"
     },
     "rcount": 5,
     "url": "www.monash.edu",
@@ -196,8 +196,8 @@
     "ranks": {
       "mosiur": "451-500",
       "usnews": "176",
-      "shanghaIRking": "201-300",
       "timeshighereducation": "193",
+      "shanghaIRking": "201-300",
       "QS": 213
     },
     "rcount": 5,
@@ -251,18 +251,18 @@
       "mosiur": "156",
       "QS": 43,
       "usnews": "41",
-      "shanghaIRking": "65",
-      "timeshighereducation": "70"
+      "timeshighereducation": "70",
+      "shanghaIRking": "65"
     },
     "rcount": 5,
     "url": "www.unsw.edu.au",
     "syns": [
       "The University of New South Wales (UNSW Sydney)",
       "University of New South Wales",
-      "The University of New South Wales",
-      "UNSW Sydney"
+      "UNSW Sydney",
+      "The University of New South Wales"
     ],
-    "synsJoin": "The University of New South Wales (UNSW Sydney) || University of New South Wales || The University of New South Wales || UNSW Sydney"
+    "synsJoin": "The University of New South Wales (UNSW Sydney) || University of New South Wales || UNSW Sydney || The University of New South Wales"
   },
   {
     "country": "AU",
@@ -270,8 +270,8 @@
     "ranks": {
       "mosiur": "84",
       "QS": 47,
-      "shanghaIRking": "51",
       "timeshighereducation": "54",
+      "shanghaIRking": "51",
       "usnews": "36"
     },
     "rcount": 5,
@@ -308,8 +308,8 @@
       "mosiur": "63",
       "QS": 38,
       "usnews": "28",
-      "shanghaIRking": "69",
-      "timeshighereducation": "58"
+      "timeshighereducation": "58",
+      "shanghaIRking": "69"
     },
     "rcount": 5,
     "url": "www.sydney.edu.au",
@@ -325,8 +325,8 @@
       "mosiur": "451-500",
       "QS": 303,
       "usnews": "303",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.utas.edu.au",
@@ -361,8 +361,8 @@
       "mosiur": "189",
       "QS": 141,
       "usnews": "92",
-      "shanghaIRking": "71",
-      "timeshighereducation": "96"
+      "timeshighereducation": "96",
+      "shanghaIRking": "71"
     },
     "rcount": 5,
     "url": "www.ugent.be",
@@ -416,8 +416,8 @@
       "mosiur": "279",
       "QS": 207,
       "usnews": "216",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.ulb.be",
@@ -425,10 +425,10 @@
       "Universit- libre de Bruxelles",
       "Universite libre de Bruxelles",
       "Universite Libre de Bruxelles",
-      "Universit- libre de Bruxelles (ULB)",
-      "Université Libre de Bruxelles"
+      "Université Libre de Bruxelles",
+      "Universit- libre de Bruxelles (ULB)"
     ],
-    "synsJoin": "Universit- libre de Bruxelles || Universite libre de Bruxelles || Universite Libre de Bruxelles || Universit- libre de Bruxelles (ULB) || Université Libre de Bruxelles"
+    "synsJoin": "Universit- libre de Bruxelles || Universite libre de Bruxelles || Universite Libre de Bruxelles || Université Libre de Bruxelles || Universit- libre de Bruxelles (ULB)"
   },
   {
     "country": "BE",
@@ -437,8 +437,8 @@
       "mosiur": "285",
       "QS": 233,
       "usnews": "218",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "143"
+      "timeshighereducation": "143",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.uantwerpen.be",
@@ -531,8 +531,8 @@
       "mosiur": "301-350",
       "QS": 272,
       "usnews": "317",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.dal.ca",
@@ -548,8 +548,8 @@
       "mosiur": "78",
       "QS": 27,
       "usnews": "51",
-      "shanghaIRking": "67",
-      "timeshighereducation": "44"
+      "timeshighereducation": "44",
+      "shanghaIRking": "67"
     },
     "rcount": 5,
     "url": "www.mcgill.ca",
@@ -565,8 +565,8 @@
       "mosiur": "187",
       "QS": 140,
       "usnews": "133",
-      "shanghaIRking": "92",
-      "timeshighereducation": "80"
+      "timeshighereducation": "80",
+      "shanghaIRking": "92"
     },
     "rcount": 5,
     "url": "www.mcmaster.ca",
@@ -614,8 +614,8 @@
       "mosiur": "351-400",
       "QS": 298,
       "usnews": "313",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.sfu.ca",
@@ -682,8 +682,8 @@
       "mosiur": "91",
       "QS": 126,
       "usnews": "135",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "125"
+      "timeshighereducation": "125",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.ualberta.ca",
@@ -699,8 +699,8 @@
       "mosiur": "83",
       "QS": 46,
       "usnews": "35",
-      "shanghaIRking": "42",
-      "timeshighereducation": "37"
+      "timeshighereducation": "37",
+      "shanghaIRking": "42"
     },
     "rcount": 5,
     "url": "www.ubc.ca",
@@ -716,8 +716,8 @@
       "mosiur": "290",
       "QS": 235,
       "usnews": "169",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.ucalgary.ca",
@@ -732,8 +732,8 @@
     "ranks": {
       "mosiur": "253",
       "usnews": "387",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "umanitoba.ca",
@@ -749,8 +749,8 @@
       "mosiur": "177",
       "QS": 230,
       "usnews": "199",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "162"
+      "timeshighereducation": "162",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www2.uottawa.ca",
@@ -766,8 +766,8 @@
       "mosiur": "27",
       "QS": 26,
       "usnews": "16",
-      "shanghaIRking": "22",
-      "timeshighereducation": "18"
+      "timeshighereducation": "18",
+      "shanghaIRking": "22"
     },
     "rcount": 5,
     "url": "www.utoronto.ca",
@@ -782,8 +782,8 @@
     "ranks": {
       "mosiur": "224",
       "usnews": "334",
-      "shanghaIRking": "301-400",
       "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400",
       "QS": 334
     },
     "rcount": 5,
@@ -801,8 +801,8 @@
       "mosiur": "351-400",
       "QS": 149,
       "usnews": "199",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "uwaterloo.ca",
@@ -831,8 +831,8 @@
       "mosiur": "401-450",
       "QS": 170,
       "usnews": "294",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.uwo.ca",
@@ -1060,8 +1060,8 @@
     "ranks": {
       "mosiur": "301-350",
       "QS": 340,
-      "shanghaIRking": "151-200",
       "timeshighereducation": "301–350",
+      "shanghaIRking": "151-200",
       "usnews": "226"
     },
     "rcount": 5,
@@ -1093,8 +1093,8 @@
       "mosiur": "75",
       "QS": 63,
       "usnews": "54",
-      "shanghaIRking": "57",
-      "timeshighereducation": "42"
+      "timeshighereducation": "42",
+      "shanghaIRking": "57"
     },
     "rcount": 5,
     "url": "uni-heidelberg.de",
@@ -1172,8 +1172,8 @@
       "mosiur": "147",
       "QS": 136,
       "usnews": "216",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "180"
+      "timeshighereducation": "180",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.kit.edu",
@@ -1222,8 +1222,8 @@
       "mosiur": "351-400",
       "QS": 393,
       "usnews": "354",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.ruhr-uni-bochum.de",
@@ -1239,8 +1239,8 @@
       "mosiur": "101",
       "QS": 165,
       "usnews": "192",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "108"
+      "timeshighereducation": "108",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.rwth-aachen.de",
@@ -1283,8 +1283,8 @@
       "mosiur": "262",
       "QS": 159,
       "usnews": "330",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "139"
+      "timeshighereducation": "139",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.tu.berlin",
@@ -1328,8 +1328,8 @@
       "mosiur": "35",
       "QS": 50,
       "usnews": "74",
-      "shanghaIRking": "52",
-      "timeshighereducation": "38"
+      "timeshighereducation": "38",
+      "shanghaIRking": "52"
     },
     "rcount": 5,
     "url": "www.tum.de",
@@ -1344,8 +1344,8 @@
     "ranks": {
       "mosiur": "351-400",
       "QS": 365,
-      "shanghaIRking": "301-400",
       "timeshighereducation": "146",
+      "shanghaIRking": "301-400",
       "usnews": "314"
     },
     "rcount": 5,
@@ -1377,8 +1377,8 @@
       "mosiur": "96",
       "QS": 226,
       "usnews": "119",
-      "shanghaIRking": "84",
-      "timeshighereducation": "112"
+      "timeshighereducation": "112",
+      "shanghaIRking": "84"
     },
     "rcount": 5,
     "url": "www.uni-bonn.de",
@@ -1408,8 +1408,8 @@
       "mosiur": "301-350",
       "QS": 311,
       "usnews": "230",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "172"
+      "timeshighereducation": "172",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "portal.uni-koeln.de",
@@ -1424,8 +1424,8 @@
     "ranks": {
       "mosiur": "451-500",
       "usnews": "280",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.uni-due.de",
@@ -1441,8 +1441,8 @@
     "ranks": {
       "mosiur": "288",
       "QS": 322,
-      "shanghaIRking": "201-300",
       "timeshighereducation": "197",
+      "shanghaIRking": "201-300",
       "usnews": "237"
     },
     "rcount": 5,
@@ -1460,8 +1460,8 @@
       "mosiur": "108",
       "QS": 172,
       "usnews": "172",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "108"
+      "timeshighereducation": "108",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "uni-freiburg.de",
@@ -1477,18 +1477,18 @@
       "mosiur": "103",
       "QS": 204,
       "usnews": "149",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "119"
+      "timeshighereducation": "119",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.uni-goettingen.de",
     "syns": [
       "University of G-ttingen",
       "University of Gottingen",
-      "University of Goettingen",
-      "University of Göttingen"
+      "University of Göttingen",
+      "University of Goettingen"
     ],
-    "synsJoin": "University of G-ttingen || University of Gottingen || University of Goettingen || University of Göttingen"
+    "synsJoin": "University of G-ttingen || University of Gottingen || University of Göttingen || University of Goettingen"
   },
   {
     "country": "DE",
@@ -1496,8 +1496,8 @@
     "ranks": {
       "mosiur": "220",
       "usnews": "156",
-      "shanghaIRking": "201-300",
       "timeshighereducation": "132",
+      "shanghaIRking": "201-300",
       "QS": 214
     },
     "rcount": 5,
@@ -1527,8 +1527,8 @@
     "orgName": "Philipps-Universität Marburg: University of Marburg",
     "ranks": {
       "mosiur": "301-350",
-      "shanghaIRking": "401-500",
       "timeshighereducation": "401–500",
+      "shanghaIRking": "401-500",
       "usnews": "484"
     },
     "rcount": 4,
@@ -1546,8 +1546,8 @@
       "mosiur": "284",
       "QS": 411,
       "usnews": "227",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.uni-muenster.de",
@@ -1555,10 +1555,10 @@
       "University of M-nster",
       "Westf-lische Wilhelms-Universit-t M-nster",
       "University of Munster",
-      "University of Muenster",
-      "University of Münster"
+      "University of Münster",
+      "University of Muenster"
     ],
-    "synsJoin": "University of M-nster || Westf-lische Wilhelms-Universit-t M-nster || University of Munster || University of Muenster || University of Münster"
+    "synsJoin": "University of M-nster || Westf-lische Wilhelms-Universit-t M-nster || University of Munster || University of Münster || University of Muenster"
   },
   {
     "country": "DE",
@@ -1566,8 +1566,8 @@
     "ranks": {
       "mosiur": "204",
       "QS": 347,
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.uni-stuttgart.de",
@@ -1602,8 +1602,8 @@
       "mosiur": "275",
       "QS": 326,
       "usnews": "241",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.en.aau.dk",
@@ -1619,8 +1619,8 @@
       "mosiur": "142",
       "QS": 155,
       "usnews": "103",
-      "shanghaIRking": "71",
-      "timeshighereducation": "104"
+      "timeshighereducation": "104",
+      "shanghaIRking": "71"
     },
     "rcount": 5,
     "url": "international.au.dk",
@@ -1654,8 +1654,8 @@
       "mosiur": "52",
       "QS": 79,
       "usnews": "37",
-      "shanghaIRking": "30",
-      "timeshighereducation": "96"
+      "timeshighereducation": "96",
+      "shanghaIRking": "30"
     },
     "rcount": 5,
     "url": "www.ku.dk",
@@ -1690,8 +1690,8 @@
       "mosiur": "201",
       "QS": 300,
       "usnews": "255",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.ut.ee",
@@ -1707,8 +1707,8 @@
       "mosiur": "134",
       "QS": 112,
       "usnews": "275",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.aalto.fi",
@@ -1724,8 +1724,8 @@
       "mosiur": "136",
       "QS": 104,
       "usnews": "94",
-      "shanghaIRking": "82",
-      "timeshighereducation": "101"
+      "timeshighereducation": "101",
+      "shanghaIRking": "82"
     },
     "rcount": 5,
     "url": "www.helsinki.fi",
@@ -1741,8 +1741,8 @@
       "mosiur": "451-500",
       "QS": 295,
       "usnews": "327",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.utu.fi",
@@ -1772,8 +1772,8 @@
       "mosiur": "140",
       "QS": 151,
       "usnews": "166",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "189"
+      "timeshighereducation": "189",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.cardiff.ac.uk",
@@ -1789,8 +1789,8 @@
       "mosiur": "206",
       "QS": 82,
       "usnews": "263",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "162"
+      "timeshighereducation": "162",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.durham.ac.uk",
@@ -1835,8 +1835,8 @@
       "mosiur": "24",
       "QS": 7,
       "usnews": "20",
-      "shanghaIRking": "25",
-      "timeshighereducation": "12"
+      "timeshighereducation": "12",
+      "shanghaIRking": "25"
     },
     "rcount": 5,
     "url": "www.imperial.ac.uk",
@@ -1870,8 +1870,8 @@
       "mosiur": "171",
       "QS": 132,
       "usnews": "187",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "122"
+      "timeshighereducation": "122",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.lancaster.ac.uk",
@@ -1887,8 +1887,8 @@
       "mosiur": "95",
       "QS": 49,
       "usnews": "230",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "27"
+      "timeshighereducation": "27",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.lse.ac.uk",
@@ -1919,8 +1919,8 @@
       "mosiur": "179",
       "QS": 134,
       "usnews": "156",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "146"
+      "timeshighereducation": "146",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.ncl.ac.uk",
@@ -1935,8 +1935,8 @@
     "ranks": {
       "mosiur": "121",
       "QS": 117,
-      "shanghaIRking": "201-300",
       "timeshighereducation": "117",
+      "shanghaIRking": "201-300",
       "usnews": "110"
     },
     "rcount": 5,
@@ -2023,8 +2023,8 @@
       "mosiur": "250",
       "QS": 205,
       "usnews": "253",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "158"
+      "timeshighereducation": "158",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.abdn.ac.uk",
@@ -2040,8 +2040,8 @@
       "mosiur": "301-350",
       "QS": 166,
       "usnews": "412",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.bath.ac.uk",
@@ -2057,8 +2057,8 @@
       "mosiur": "106",
       "QS": 90,
       "usnews": "91",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "105"
+      "timeshighereducation": "105",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.birmingham.ac.uk",
@@ -2074,8 +2074,8 @@
       "mosiur": "61",
       "QS": 62,
       "usnews": "92",
-      "shanghaIRking": "78",
-      "timeshighereducation": "92"
+      "timeshighereducation": "92",
+      "shanghaIRking": "78"
     },
     "rcount": 5,
     "url": "www.bristol.ac.uk",
@@ -2091,8 +2091,8 @@
       "mosiur": "3",
       "QS": 3,
       "usnews": "8",
-      "shanghaIRking": "3",
-      "timeshighereducation": "5"
+      "timeshighereducation": "5",
+      "shanghaIRking": "3"
     },
     "rcount": 5,
     "url": "www.cam.ac.uk",
@@ -2108,8 +2108,8 @@
       "mosiur": "281",
       "QS": 322,
       "usnews": "300",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.dundee.ac.uk",
@@ -2125,8 +2125,8 @@
       "mosiur": "166",
       "QS": 307,
       "usnews": "320",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "182"
+      "timeshighereducation": "182",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.uea.ac.uk",
@@ -2142,8 +2142,8 @@
       "mosiur": "21",
       "QS": 16,
       "usnews": "32",
-      "shanghaIRking": "38",
-      "timeshighereducation": "30"
+      "timeshighereducation": "30",
+      "shanghaIRking": "38"
     },
     "rcount": 5,
     "url": "www.ed.ac.uk",
@@ -2158,8 +2158,8 @@
     "ranks": {
       "mosiur": "351-400",
       "QS": 439,
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.essex.ac.uk",
@@ -2175,8 +2175,8 @@
       "mosiur": "211",
       "QS": 149,
       "usnews": "163",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "143"
+      "timeshighereducation": "143",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.exeter.ac.uk",
@@ -2192,8 +2192,8 @@
       "mosiur": "69",
       "QS": 73,
       "usnews": "84",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "86"
+      "timeshighereducation": "86",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.gla.ac.uk",
@@ -2224,8 +2224,8 @@
       "mosiur": "90",
       "QS": 92,
       "usnews": "149",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "127"
+      "timeshighereducation": "127",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.leeds.ac.uk",
@@ -2241,8 +2241,8 @@
       "mosiur": "243",
       "QS": 236,
       "usnews": "212",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "185"
+      "timeshighereducation": "185",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "le.ac.uk",
@@ -2258,8 +2258,8 @@
       "mosiur": "143",
       "QS": 189,
       "usnews": "155",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "178"
+      "timeshighereducation": "178",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.liverpool.ac.uk",
@@ -2275,8 +2275,8 @@
       "mosiur": "48",
       "QS": 27,
       "usnews": "58",
-      "shanghaIRking": "35",
-      "timeshighereducation": "50"
+      "timeshighereducation": "50",
+      "shanghaIRking": "35"
     },
     "rcount": 5,
     "url": "www.manchester.ac.uk",
@@ -2292,8 +2292,8 @@
       "mosiur": "114",
       "QS": 103,
       "usnews": "151",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "141"
+      "timeshighereducation": "141",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.nottingham.ac.uk",
@@ -2309,8 +2309,8 @@
       "mosiur": "4",
       "QS": 2,
       "usnews": "5",
-      "shanghaIRking": "7",
-      "timeshighereducation": "1"
+      "timeshighereducation": "1",
+      "shanghaIRking": "7"
     },
     "rcount": 5,
     "url": "www.ox.ac.uk",
@@ -2326,8 +2326,8 @@
       "mosiur": "209",
       "QS": 202,
       "usnews": "330",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.reading.ac.uk",
@@ -2343,8 +2343,8 @@
       "mosiur": "127",
       "QS": 95,
       "usnews": "135",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "110"
+      "timeshighereducation": "110",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.sheffield.ac.uk",
@@ -2360,8 +2360,8 @@
       "mosiur": "138",
       "QS": 77,
       "usnews": "97",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "124"
+      "timeshighereducation": "124",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.southampton.ac.uk",
@@ -2376,8 +2376,8 @@
     "ranks": {
       "mosiur": "239",
       "QS": 91,
-      "shanghaIRking": "301-400",
       "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400",
       "usnews": "342"
     },
     "rcount": 5,
@@ -2395,8 +2395,8 @@
       "mosiur": "301-350",
       "QS": 302,
       "usnews": "365",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.strath.ac.uk",
@@ -2412,8 +2412,8 @@
       "mosiur": "351-400",
       "QS": 272,
       "usnews": "422",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.surrey.ac.uk",
@@ -2429,8 +2429,8 @@
       "mosiur": "227",
       "QS": 226,
       "usnews": "163",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "151"
+      "timeshighereducation": "151",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.sussex.ac.uk",
@@ -2446,8 +2446,8 @@
       "mosiur": "50",
       "QS": 61,
       "usnews": "144",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "78"
+      "timeshighereducation": "78",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "warwick.ac.uk",
@@ -2463,8 +2463,8 @@
       "mosiur": "162",
       "QS": 151,
       "usnews": "260",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "169"
+      "timeshighereducation": "169",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.york.ac.uk",
@@ -2524,8 +2524,8 @@
       "mosiur": "125",
       "QS": 101,
       "usnews": "222",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "146"
+      "timeshighereducation": "146",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.tcd.ie",
@@ -2541,8 +2541,8 @@
       "mosiur": "282",
       "QS": 298,
       "usnews": "392",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.ucc.ie",
@@ -2558,8 +2558,8 @@
       "mosiur": "301-350",
       "QS": 173,
       "usnews": "244",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.ucd.ie",
@@ -2595,8 +2595,8 @@
       "mosiur": "401-450",
       "QS": 255,
       "usnews": "172",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "english.tau.ac.il",
@@ -2612,8 +2612,8 @@
       "mosiur": "153",
       "QS": 198,
       "usnews": "224",
-      "shanghaIRking": "90",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "90"
     },
     "rcount": 5,
     "url": "en.huji.ac.il",
@@ -2647,8 +2647,8 @@
       "mosiur": "401-450",
       "QS": 171,
       "usnews": "124",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "197"
+      "timeshighereducation": "197",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.uniroma1.it",
@@ -2784,8 +2784,8 @@
       "mosiur": "45",
       "QS": 33,
       "usnews": "127",
-      "shanghaIRking": "37",
-      "timeshighereducation": "61"
+      "timeshighereducation": "61",
+      "shanghaIRking": "37"
     },
     "rcount": 5,
     "url": "www.kyoto-u.ac.jp",
@@ -2830,8 +2830,8 @@
       "mosiur": "133",
       "QS": 118,
       "usnews": "324",
-      "shanghaIRking": "84",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "84"
     },
     "rcount": 5,
     "url": "en.nagoya-u.ac.jp",
@@ -2860,8 +2860,8 @@
       "mosiur": "104",
       "QS": 75,
       "usnews": "263",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.osaka-u.ac.jp",
@@ -2877,8 +2877,8 @@
       "mosiur": "115",
       "QS": 82,
       "usnews": "275",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.tohoku.ac.jp",
@@ -2893,8 +2893,8 @@
     "ranks": {
       "mosiur": "94",
       "usnews": "342",
-      "shanghaIRking": "101-150",
       "timeshighereducation": "301–350",
+      "shanghaIRking": "101-150",
       "QS": 56
     },
     "rcount": 5,
@@ -2925,8 +2925,8 @@
       "mosiur": "12",
       "usnews": "77",
       "QS": 23,
-      "shanghaIRking": "24",
-      "timeshighereducation": "35"
+      "timeshighereducation": "35",
+      "shanghaIRking": "24"
     },
     "rcount": 5,
     "url": "www.u-tokyo.ac.jp",
@@ -2965,6 +2965,145 @@
       "Waseda University"
     ],
     "synsJoin": "Waseda University"
+  },
+  {
+    "country": "KR",
+    "orgName": "EWHA WOMANS UNIVERSITY",
+    "ranks": {
+      "mosiur": "451-500",
+      "QS": 362
+    },
+    "rcount": 2,
+    "url": "www.ewha.ac.kr",
+    "syns": [
+      "Ewha Womans University"
+    ],
+    "synsJoin": "Ewha Womans University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Hanyang - Hanyang University",
+    "ranks": {
+      "mosiur": "240",
+      "QS": 156,
+      "usnews": "448",
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "201-300"
+    },
+    "rcount": 5,
+    "url": "www.hanyang.ac.kr",
+    "syns": [
+      "Hanyang University"
+    ],
+    "synsJoin": "Hanyang University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Korea Advanced Institute of Science and Technology (KAIST)",
+    "ranks": {
+      "mosiur": "154",
+      "QS": 41,
+      "usnews": "280",
+      "shanghaIRking": "201-300",
+      "timeshighereducation": "99"
+    },
+    "rcount": 5,
+    "url": "www.kaist.ac.kr",
+    "syns": [
+      "Korea Advanced Institute of Science and Technology",
+      "Korea Advanced Institute of Science and Technology (KAIST)"
+    ],
+    "synsJoin": "Korea Advanced Institute of Science and Technology || Korea Advanced Institute of Science and Technology (KAIST)"
+  },
+  {
+    "country": "KR",
+    "orgName": "Korea University",
+    "ranks": {
+      "mosiur": "236",
+      "QS": 74,
+      "usnews": "272",
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
+    },
+    "rcount": 5,
+    "url": "www.korea.edu",
+    "syns": [
+      "Korea University"
+    ],
+    "synsJoin": "Korea University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Pohang University of Science and Technology",
+    "ranks": {
+      "mosiur": "401-450",
+      "timeshighereducation": "185",
+      "QS": 81,
+      "usnews": "397",
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 5,
+    "url": "international.postech.ac.kr",
+    "syns": [
+      "Pohang University of Science and Technology (POSTECH)",
+      "Pohang University of Science And Technology (POSTECH)",
+      "Pohang University of Science and Technology"
+    ],
+    "synsJoin": "Pohang University of Science and Technology (POSTECH) || Pohang University of Science And Technology (POSTECH) || Pohang University of Science and Technology"
+  },
+  {
+    "country": "KR",
+    "orgName": "Seoul National University",
+    "ranks": {
+      "mosiur": "129",
+      "QS": 36,
+      "usnews": "130",
+      "timeshighereducation": "54",
+      "shanghaIRking": "101-150"
+    },
+    "rcount": 5,
+    "url": "en.snu.ac.kr",
+    "syns": [
+      "Seoul National University"
+    ],
+    "synsJoin": "Seoul National University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Sungkyunkwan University",
+    "ranks": {
+      "mosiur": "230",
+      "timeshighereducation": "122",
+      "QS": 97,
+      "usnews": "230",
+      "shanghaIRking": "201-300"
+    },
+    "rcount": 5,
+    "url": "www.skku.edu",
+    "syns": [
+      "Sungkyunkwan University (SKKU)",
+      "Sungkyunkwan University(SKKU)",
+      "Sungkyunkwan University"
+    ],
+    "synsJoin": "Sungkyunkwan University (SKKU) || Sungkyunkwan University(SKKU) || Sungkyunkwan University"
+  },
+  {
+    "country": "KR",
+    "orgName": "YONSEI University, Seoul, Korea",
+    "ranks": {
+      "mosiur": "151",
+      "QS": 79,
+      "usnews": "317",
+      "shanghaIRking": "201-300",
+      "timeshighereducation": "151"
+    },
+    "rcount": 5,
+    "url": "www.yonsei.ac.kr",
+    "syns": [
+      "Yonsei University",
+      "Yonsei University (Seoul campus)"
+    ],
+    "synsJoin": "Yonsei University || Yonsei University (Seoul campus)"
   },
   {
     "country": "LB",
@@ -3065,8 +3204,8 @@
       "mosiur": "271",
       "QS": 65,
       "usnews": "211",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.um.edu.my",
@@ -3082,8 +3221,8 @@
       "mosiur": "37",
       "QS": 57,
       "usnews": "174",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "75"
+      "timeshighereducation": "75",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.tudelft.nl",
@@ -3099,8 +3238,8 @@
       "mosiur": "163",
       "QS": 125,
       "usnews": "344",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.tue.nl",
@@ -3116,8 +3255,8 @@
       "mosiur": "351-400",
       "QS": 179,
       "usnews": "62",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "72"
+      "timeshighereducation": "72",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.eur.nl",
@@ -3133,8 +3272,8 @@
       "mosiur": "102",
       "QS": 112,
       "usnews": "82",
-      "shanghaIRking": "83",
-      "timeshighereducation": "71"
+      "timeshighereducation": "71",
+      "shanghaIRking": "83"
     },
     "rcount": 5,
     "url": "www.universiteitleiden.nl",
@@ -3150,8 +3289,8 @@
       "mosiur": "278",
       "QS": 233,
       "usnews": "190",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "127"
+      "timeshighereducation": "127",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.maastrichtuniversity.nl",
@@ -3167,8 +3306,8 @@
       "mosiur": "124",
       "QS": 220,
       "usnews": "107",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "139"
+      "timeshighereducation": "139",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.ru.nl",
@@ -3184,8 +3323,8 @@
       "mosiur": "46",
       "QS": 55,
       "usnews": "38",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "65"
+      "timeshighereducation": "65",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.uva.nl",
@@ -3201,8 +3340,8 @@
       "mosiur": "111",
       "QS": 128,
       "usnews": "88",
-      "shanghaIRking": "64",
-      "timeshighereducation": "80"
+      "timeshighereducation": "80",
+      "shanghaIRking": "64"
     },
     "rcount": 5,
     "url": "www.rug.nl",
@@ -3218,8 +3357,8 @@
       "mosiur": "194",
       "QS": 189,
       "usnews": "383",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.utwente.nl",
@@ -3235,8 +3374,8 @@
       "mosiur": "87",
       "QS": 110,
       "usnews": "48",
-      "shanghaIRking": "50",
-      "timeshighereducation": "69"
+      "timeshighereducation": "69",
+      "shanghaIRking": "50"
     },
     "rcount": 5,
     "url": "www.uu.nl",
@@ -3252,8 +3391,8 @@
       "mosiur": "251",
       "QS": 209,
       "usnews": "84",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "115"
+      "timeshighereducation": "115",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "vu.nl",
@@ -3268,8 +3407,8 @@
     "ranks": {
       "mosiur": "132",
       "QS": 123,
-      "shanghaIRking": "101-150",
       "timeshighereducation": "53",
+      "shanghaIRking": "101-150",
       "usnews": "80"
     },
     "rcount": 5,
@@ -3318,8 +3457,8 @@
       "mosiur": "207",
       "QS": 199,
       "usnews": "183",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.uib.no",
@@ -3335,8 +3474,8 @@
       "mosiur": "80",
       "QS": 102,
       "usnews": "90",
-      "shanghaIRking": "61",
-      "timeshighereducation": "119"
+      "timeshighereducation": "119",
+      "shanghaIRking": "61"
     },
     "rcount": 5,
     "url": "www.uio.no",
@@ -3350,14 +3489,18 @@
     "orgName": "UiT Norges arktiske universitet | UiT",
     "ranks": {
       "mosiur": "401-450",
-      "QS": 440
+      "QS": 440,
+      "usnews": "445",
+      "timeshighereducation": "351–400"
     },
-    "rcount": 2,
-    "url": "uit.no",
+    "rcount": 4,
+    "url": "en.uit.no",
     "syns": [
-      "University of Troms- The Arctic University of Norway"
+      "University of Tromso The Arctic University of Norway",
+      "University of Tromso",
+      "UiT The Arctic University of Norway"
     ],
-    "synsJoin": "University of Troms- The Arctic University of Norway"
+    "synsJoin": "University of Tromso The Arctic University of Norway || University of Tromso || UiT The Arctic University of Norway"
   },
   {
     "country": "NZ",
@@ -3394,8 +3537,8 @@
       "mosiur": "169",
       "QS": 85,
       "usnews": "118",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "137"
+      "timeshighereducation": "137",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.auckland.ac.nz",
@@ -3428,8 +3571,8 @@
       "mosiur": "291",
       "QS": 194,
       "usnews": "230",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.otago.ac.nz",
@@ -3478,8 +3621,8 @@
       "mosiur": "451-500",
       "QS": 295,
       "usnews": "255",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.up.pt",
@@ -3496,8 +3639,8 @@
       "mosiur": "149",
       "QS": 121,
       "usnews": "339",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.chalmers.se",
@@ -3512,8 +3655,8 @@
     "ranks": {
       "mosiur": "107",
       "usnews": "48",
-      "shanghaIRking": "42",
-      "timeshighereducation": "39"
+      "timeshighereducation": "39",
+      "shanghaIRking": "42"
     },
     "rcount": 4,
     "url": "ki.se",
@@ -3528,8 +3671,8 @@
     "ranks": {
       "mosiur": "54",
       "QS": 89,
-      "shanghaIRking": "201-300",
       "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300",
       "usnews": "212"
     },
     "rcount": 5,
@@ -3566,8 +3709,8 @@
       "mosiur": "85",
       "QS": 87,
       "usnews": "95",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "116"
+      "timeshighereducation": "116",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.lunduniversity.lu.se",
@@ -3583,8 +3726,8 @@
       "mosiur": "351-400",
       "QS": 148,
       "usnews": "123",
-      "shanghaIRking": "74",
-      "timeshighereducation": "176"
+      "timeshighereducation": "176",
+      "shanghaIRking": "74"
     },
     "rcount": 5,
     "url": "www.su.se",
@@ -3599,8 +3742,8 @@
     "ranks": {
       "mosiur": "241",
       "usnews": "348",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.slu.se",
@@ -3616,8 +3759,8 @@
       "mosiur": "123",
       "QS": 180,
       "usnews": "134",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "185"
+      "timeshighereducation": "185",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.gu.se",
@@ -3633,8 +3776,8 @@
       "mosiur": "62",
       "QS": 124,
       "usnews": "113",
-      "shanghaIRking": "78",
-      "timeshighereducation": "131"
+      "timeshighereducation": "131",
+      "shanghaIRking": "78"
     },
     "rcount": 5,
     "url": "www.uu.se",
@@ -3785,8 +3928,8 @@
     "ranks": {
       "mosiur": "351-400",
       "QS": 494,
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.bc.edu",
@@ -3802,8 +3945,8 @@
       "mosiur": "67",
       "QS": 112,
       "usnews": "65",
-      "shanghaIRking": "95",
-      "timeshighereducation": "62"
+      "timeshighereducation": "62",
+      "shanghaIRking": "95"
     },
     "rcount": 5,
     "url": "www.bu.edu",
@@ -3819,8 +3962,8 @@
       "mosiur": "170",
       "QS": 455,
       "usnews": "320",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.brandeis.edu",
@@ -3836,8 +3979,8 @@
       "mosiur": "33",
       "QS": 60,
       "usnews": "119",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "64"
+      "timeshighereducation": "64",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.brown.edu",
@@ -3852,8 +3995,8 @@
     "ranks": {
       "mosiur": "31",
       "usnews": "9",
-      "shanghaIRking": "9",
       "timeshighereducation": "2",
+      "shanghaIRking": "9",
       "QS": 6
     },
     "rcount": 5,
@@ -3871,8 +4014,8 @@
       "mosiur": "41",
       "QS": 53,
       "usnews": "102",
-      "shanghaIRking": "97",
-      "timeshighereducation": "28"
+      "timeshighereducation": "28",
+      "shanghaIRking": "97"
     },
     "rcount": 5,
     "url": "www.cmu.edu",
@@ -3888,8 +4031,8 @@
       "mosiur": "74",
       "QS": 161,
       "usnews": "144",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "126"
+      "timeshighereducation": "126",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "case.edu",
@@ -3963,8 +4106,8 @@
       "mosiur": "8",
       "QS": 19,
       "usnews": "6",
-      "shanghaIRking": "8",
-      "timeshighereducation": "11"
+      "timeshighereducation": "11",
+      "shanghaIRking": "8"
     },
     "rcount": 5,
     "url": "www.columbia.edu",
@@ -3980,8 +4123,8 @@
       "mosiur": "18",
       "QS": 21,
       "usnews": "22",
-      "shanghaIRking": "12",
-      "timeshighereducation": "22"
+      "timeshighereducation": "22",
+      "shanghaIRking": "12"
     },
     "rcount": 5,
     "url": "www.cornell.edu",
@@ -4012,8 +4155,8 @@
       "mosiur": "81",
       "QS": 191,
       "usnews": "247",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "99"
+      "timeshighereducation": "99",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "home.dartmouth.edu",
@@ -4028,8 +4171,8 @@
     "ranks": {
       "mosiur": "301-350",
       "usnews": "354",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "drexel.edu",
@@ -4045,8 +4188,8 @@
       "mosiur": "13",
       "QS": 52,
       "usnews": "23",
-      "shanghaIRking": "32",
-      "timeshighereducation": "23"
+      "timeshighereducation": "23",
+      "shanghaIRking": "32"
     },
     "rcount": 5,
     "url": "duke.edu",
@@ -4062,8 +4205,8 @@
       "mosiur": "55",
       "QS": 160,
       "usnews": "74",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "82"
+      "timeshighereducation": "82",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.emory.edu",
@@ -4079,8 +4222,8 @@
       "mosiur": "401-450",
       "QS": 475,
       "usnews": "223",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.fsu.edu",
@@ -4108,8 +4251,8 @@
     "ranks": {
       "mosiur": "351-400",
       "usnews": "453",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.gmu.edu",
@@ -4125,8 +4268,8 @@
       "mosiur": "190",
       "QS": 355,
       "usnews": "247",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.gwu.edu",
@@ -4142,8 +4285,8 @@
       "mosiur": "141",
       "QS": 248,
       "usnews": "314",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "130"
+      "timeshighereducation": "130",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "www.georgetown.edu",
@@ -4159,8 +4302,8 @@
       "mosiur": "86",
       "QS": 88,
       "usnews": "58",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "45"
+      "timeshighereducation": "45",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.gatech.edu",
@@ -4176,8 +4319,8 @@
       "mosiur": "1",
       "QS": 5,
       "usnews": "1",
-      "shanghaIRking": "1",
-      "timeshighereducation": "2"
+      "timeshighereducation": "2",
+      "shanghaIRking": "1"
     },
     "rcount": 5,
     "url": "www.harvard.edu",
@@ -4272,8 +4415,8 @@
       "mosiur": "226",
       "QS": 494,
       "usnews": "237",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.iastate.edu",
@@ -4289,8 +4432,8 @@
       "mosiur": "17",
       "QS": 25,
       "usnews": "9",
-      "shanghaIRking": "16",
-      "timeshighereducation": "13"
+      "timeshighereducation": "13",
+      "shanghaIRking": "16"
     },
     "rcount": 5,
     "url": "www.jhu.edu",
@@ -4393,8 +4536,8 @@
       "mosiur": "72",
       "QS": 157,
       "usnews": "108",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "93"
+      "timeshighereducation": "93",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "msu.edu",
@@ -4422,8 +4565,8 @@
     "ranks": {
       "mosiur": "26",
       "usnews": "30",
-      "shanghaIRking": "27",
       "timeshighereducation": "26",
+      "shanghaIRking": "27",
       "QS": 42
     },
     "rcount": 5,
@@ -4478,8 +4621,8 @@
       "mosiur": "22",
       "QS": 30,
       "usnews": "24",
-      "shanghaIRking": "34",
-      "timeshighereducation": "24"
+      "timeshighereducation": "24",
+      "shanghaIRking": "34"
     },
     "rcount": 5,
     "url": "www.northwestern.edu",
@@ -4513,8 +4656,8 @@
     "ranks": {
       "mosiur": "351-400",
       "usnews": "151",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.ohsu.edu",
@@ -4564,8 +4707,8 @@
       "mosiur": "29",
       "QS": 20,
       "usnews": "16",
-      "shanghaIRking": "6",
-      "timeshighereducation": "7"
+      "timeshighereducation": "7",
+      "shanghaIRking": "6"
     },
     "rcount": 5,
     "url": "www.princeton.edu",
@@ -4581,18 +4724,18 @@
       "mosiur": "118",
       "QS": 116,
       "usnews": "127",
-      "shanghaIRking": "86",
-      "timeshighereducation": "105"
+      "timeshighereducation": "105",
+      "shanghaIRking": "86"
     },
     "rcount": 5,
     "url": "www.purdue.edu",
     "syns": [
       "Purdue University",
       "Purdue University--West Lafayette",
-      "Purdue University - West Lafayette",
-      "Purdue University West Lafayette"
+      "Purdue University West Lafayette",
+      "Purdue University - West Lafayette"
     ],
-    "synsJoin": "Purdue University || Purdue University--West Lafayette || Purdue University - West Lafayette || Purdue University West Lafayette"
+    "synsJoin": "Purdue University || Purdue University--West Lafayette || Purdue University West Lafayette || Purdue University - West Lafayette"
   },
   {
     "country": "US",
@@ -4616,8 +4759,8 @@
       "mosiur": "89",
       "QS": 94,
       "usnews": "167",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "136"
+      "timeshighereducation": "136",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.rice.edu",
@@ -4718,8 +4861,8 @@
       "mosiur": "7",
       "QS": 3,
       "usnews": "3",
-      "shanghaIRking": "2",
-      "timeshighereducation": "4"
+      "timeshighereducation": "4",
+      "shanghaIRking": "2"
     },
     "rcount": 5,
     "url": "www.stanford.edu",
@@ -4753,8 +4896,8 @@
     "orgName": "Stony Brook University, New York",
     "ranks": {
       "mosiur": "203",
-      "shanghaIRking": "301-400",
       "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400",
       "QS": 378,
       "usnews": "195"
     },
@@ -4834,8 +4977,8 @@
       "mosiur": "131",
       "QS": 275,
       "usnews": "198",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "172"
+      "timeshighereducation": "172",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.tufts.edu",
@@ -4897,8 +5040,8 @@
       "mosiur": "174",
       "QS": 268,
       "usnews": "99",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "150"
+      "timeshighereducation": "150",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.arizona.edu",
@@ -4912,8 +5055,8 @@
     "orgName": "University of California, Berkeley: Home",
     "ranks": {
       "mosiur": "9",
-      "shanghaIRking": "5",
       "timeshighereducation": "8",
+      "shanghaIRking": "5",
       "QS": 32,
       "usnews": "4"
     },
@@ -4932,8 +5075,8 @@
     "ranks": {
       "mosiur": "38",
       "QS": 108,
-      "shanghaIRking": "100",
       "timeshighereducation": "67",
+      "shanghaIRking": "100",
       "usnews": "67"
     },
     "rcount": 5,
@@ -4950,8 +5093,8 @@
     "ranks": {
       "mosiur": "70",
       "QS": 232,
-      "shanghaIRking": "70",
       "timeshighereducation": "98",
+      "shanghaIRking": "70",
       "usnews": "86"
     },
     "rcount": 5,
@@ -4967,8 +5110,8 @@
     "orgName": "UCLA",
     "ranks": {
       "mosiur": "71",
-      "shanghaIRking": "14",
       "timeshighereducation": "20",
+      "shanghaIRking": "14",
       "QS": 40
     },
     "rcount": 4,
@@ -4985,8 +5128,8 @@
     "ranks": {
       "mosiur": "301-350",
       "QS": 403,
-      "shanghaIRking": "201-300",
       "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300",
       "usnews": "169"
     },
     "rcount": 5,
@@ -5002,8 +5145,8 @@
     "orgName": "University of California San Diego",
     "ranks": {
       "mosiur": "25",
-      "shanghaIRking": "18",
       "timeshighereducation": "34",
+      "shanghaIRking": "18",
       "QS": 48,
       "usnews": "21"
     },
@@ -5021,8 +5164,8 @@
     "orgName": "UC Santa Barbara: Home",
     "ranks": {
       "mosiur": "164",
-      "shanghaIRking": "57",
       "timeshighereducation": "68",
+      "shanghaIRking": "57",
       "QS": 146,
       "usnews": "67"
     },
@@ -5041,8 +5184,8 @@
     "ranks": {
       "mosiur": "301-350",
       "QS": 347,
-      "shanghaIRking": "151-200",
       "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200",
       "usnews": "103"
     },
     "rcount": 5,
@@ -5132,8 +5275,8 @@
       "mosiur": "167",
       "QS": 373,
       "usnews": "324",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "uconn.edu",
@@ -5148,8 +5291,8 @@
     "ranks": {
       "mosiur": "232",
       "usnews": "346",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.udel.edu",
@@ -5179,8 +5322,8 @@
       "mosiur": "59",
       "QS": 173,
       "usnews": "99",
-      "shanghaIRking": "97",
-      "timeshighereducation": "154"
+      "timeshighereducation": "154",
+      "shanghaIRking": "97"
     },
     "rcount": 5,
     "url": "www.ufl.edu",
@@ -5195,8 +5338,8 @@
     "ranks": {
       "mosiur": "351-400",
       "usnews": "303",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.uga.edu",
@@ -5245,8 +5388,8 @@
     "orgName": "University of Illinois Chicago",
     "ranks": {
       "mosiur": "229",
-      "shanghaIRking": "201-300",
       "timeshighereducation": "301–350",
+      "shanghaIRking": "201-300",
       "QS": 285,
       "usnews": "227"
     },
@@ -5265,8 +5408,8 @@
     "ranks": {
       "mosiur": "57",
       "QS": 82,
-      "shanghaIRking": "55",
       "timeshighereducation": "48",
+      "shanghaIRking": "55",
       "usnews": "72"
     },
     "rcount": 5,
@@ -5284,8 +5427,8 @@
       "mosiur": "216",
       "QS": 455,
       "usnews": "174",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "uiowa.edu",
@@ -5301,8 +5444,8 @@
       "mosiur": "193",
       "QS": 387,
       "usnews": "280",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "ku.edu",
@@ -5361,8 +5504,8 @@
     "ranks": {
       "mosiur": "43",
       "QS": 158,
-      "shanghaIRking": "56",
       "timeshighereducation": "93",
+      "shanghaIRking": "56",
       "usnews": "60"
     },
     "rcount": 5,
@@ -5399,8 +5542,8 @@
       "mosiur": "181",
       "QS": 311,
       "usnews": "241",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
     },
     "rcount": 5,
     "url": "welcome.miami.edu",
@@ -5485,18 +5628,18 @@
     "ranks": {
       "mosiur": "234",
       "usnews": "367",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.unl.edu",
     "syns": [
       "University of Nebraska, Lincoln",
       "University of Nebraska--Lincoln",
-      "University of Nebraska - Lincoln",
-      "University of Nebraska-Lincoln"
+      "University of Nebraska-Lincoln",
+      "University of Nebraska - Lincoln"
     ],
-    "synsJoin": "University of Nebraska, Lincoln || University of Nebraska--Lincoln || University of Nebraska - Lincoln || University of Nebraska-Lincoln"
+    "synsJoin": "University of Nebraska, Lincoln || University of Nebraska--Lincoln || University of Nebraska-Lincoln || University of Nebraska - Lincoln"
   },
   {
     "country": "US",
@@ -5534,8 +5677,8 @@
     "ranks": {
       "mosiur": "68",
       "QS": 100,
-      "shanghaIRking": "29",
       "timeshighereducation": "52",
+      "shanghaIRking": "29",
       "usnews": "39"
     },
     "rcount": 5,
@@ -5553,8 +5696,8 @@
       "mosiur": "126",
       "QS": 222,
       "usnews": "284",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "183"
+      "timeshighereducation": "183",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "www.nd.edu",
@@ -5583,8 +5726,8 @@
     "ranks": {
       "mosiur": "264",
       "usnews": "244",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.uoregon.edu",
@@ -5600,8 +5743,8 @@
       "mosiur": "6",
       "QS": 13,
       "usnews": "13",
-      "shanghaIRking": "15",
-      "timeshighereducation": "13"
+      "timeshighereducation": "13",
+      "shanghaIRking": "15"
     },
     "rcount": 5,
     "url": "www.upenn.edu",
@@ -5635,8 +5778,8 @@
       "mosiur": "51",
       "QS": 154,
       "usnews": "161",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "142"
+      "timeshighereducation": "142",
+      "shanghaIRking": "151-200"
     },
     "rcount": 5,
     "url": "www.rochester.edu",
@@ -5651,18 +5794,18 @@
     "ranks": {
       "mosiur": "451-500",
       "usnews": "330",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "sc.edu",
     "syns": [
       "University of South Carolina",
       "University of South Carolina--Columbia",
-      "University of South Carolina - Columbia",
-      "University of South Carolina-Columbia"
+      "University of South Carolina-Columbia",
+      "University of South Carolina - Columbia"
     ],
-    "synsJoin": "University of South Carolina || University of South Carolina--Columbia || University of South Carolina - Columbia || University of South Carolina-Columbia"
+    "synsJoin": "University of South Carolina || University of South Carolina--Columbia || University of South Carolina-Columbia || University of South Carolina - Columbia"
   },
   {
     "country": "US",
@@ -5670,8 +5813,8 @@
     "ranks": {
       "mosiur": "301-350",
       "usnews": "298",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.usf.edu",
@@ -5687,8 +5830,8 @@
       "mosiur": "98",
       "QS": 112,
       "usnews": "70",
-      "shanghaIRking": "61",
-      "timeshighereducation": "63"
+      "timeshighereducation": "63",
+      "shanghaIRking": "61"
     },
     "rcount": 5,
     "url": "www.usc.edu",
@@ -5703,18 +5846,18 @@
     "ranks": {
       "mosiur": "401-450",
       "usnews": "218",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.utk.edu",
     "syns": [
       "University of Tennessee, Knoxville",
       "University of Tennessee",
-      "University of Tennessee - Knoxville",
-      "The University of Tennessee-Knoxville"
+      "The University of Tennessee-Knoxville",
+      "University of Tennessee - Knoxville"
     ],
-    "synsJoin": "University of Tennessee, Knoxville || University of Tennessee || University of Tennessee - Knoxville || The University of Tennessee-Knoxville"
+    "synsJoin": "University of Tennessee, Knoxville || University of Tennessee || The University of Tennessee-Knoxville || University of Tennessee - Knoxville"
   },
   {
     "country": "US",
@@ -5722,8 +5865,8 @@
     "ranks": {
       "mosiur": "130",
       "QS": 67,
-      "shanghaIRking": "41",
       "timeshighereducation": "47",
+      "shanghaIRking": "41",
       "usnews": "43"
     },
     "rcount": 5,
@@ -5739,8 +5882,8 @@
     "orgName": "The University of Texas at Dallas",
     "ranks": {
       "mosiur": "351-400",
-      "shanghaIRking": "301-400",
       "timeshighereducation": "351–400",
+      "shanghaIRking": "301-400",
       "QS": 477,
       "usnews": "308"
     },
@@ -5776,8 +5919,8 @@
       "mosiur": "122",
       "QS": 358,
       "usnews": "151",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "101-150"
     },
     "rcount": 5,
     "url": "www.utah.edu",
@@ -5826,8 +5969,8 @@
       "mosiur": "39",
       "QS": 85,
       "usnews": "7",
-      "shanghaIRking": "19",
-      "timeshighereducation": "29"
+      "timeshighereducation": "29",
+      "shanghaIRking": "19"
     },
     "rcount": 5,
     "url": "www.washington.edu",
@@ -5862,8 +6005,8 @@
       "mosiur": "82",
       "QS": 218,
       "usnews": "73",
-      "shanghaIRking": "65",
-      "timeshighereducation": "113"
+      "timeshighereducation": "113",
+      "shanghaIRking": "65"
     },
     "rcount": 5,
     "url": "www.vanderbilt.edu",
@@ -5893,8 +6036,8 @@
     "ranks": {
       "mosiur": "158",
       "QS": 346,
-      "shanghaIRking": "201-300",
       "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300",
       "usnews": "250"
     },
     "rcount": 5,
@@ -5912,8 +6055,8 @@
       "mosiur": "247",
       "QS": 429,
       "usnews": "425",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "401-500"
     },
     "rcount": 5,
     "url": "www.wfu.edu",
@@ -5929,8 +6072,8 @@
       "mosiur": "401-450",
       "QS": 427,
       "usnews": "302",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "301-400"
     },
     "rcount": 5,
     "url": "wsu.edu",
@@ -5963,8 +6106,8 @@
     "ranks": {
       "mosiur": "280",
       "usnews": "361",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "wayne.edu",
@@ -6007,8 +6150,8 @@
       "mosiur": "11",
       "QS": 14,
       "usnews": "12",
-      "shanghaIRking": "11",
-      "timeshighereducation": "9"
+      "timeshighereducation": "9",
+      "shanghaIRking": "11"
     },
     "rcount": 5,
     "url": "www.yale.edu",
@@ -6103,8 +6246,8 @@
     "ranks": {
       "QS": 194,
       "usnews": "156",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.curtin.edu.au",
@@ -6119,8 +6262,8 @@
     "ranks": {
       "QS": 283,
       "usnews": "218",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.deakin.edu.au",
@@ -6135,8 +6278,8 @@
     "ranks": {
       "QS": 407,
       "usnews": "439",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.flinders.edu.au",
@@ -6151,8 +6294,8 @@
     "ranks": {
       "QS": 290,
       "usnews": "201",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.griffith.edu.au",
@@ -6167,8 +6310,8 @@
     "ranks": {
       "QS": 424,
       "usnews": "293",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.jcu.edu.au",
@@ -6183,8 +6326,8 @@
     "ranks": {
       "QS": 362,
       "usnews": "330",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.latrobe.edu.au",
@@ -6199,8 +6342,8 @@
     "ranks": {
       "QS": 206,
       "usnews": "244",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.rmit.edu.au",
@@ -6215,8 +6358,8 @@
     "ranks": {
       "QS": 321,
       "usnews": "241",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.swinburne.edu.au",
@@ -6245,8 +6388,8 @@
     "ranks": {
       "QS": 197,
       "usnews": "230",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.newcastle.edu.au",
@@ -6278,8 +6421,8 @@
     "ranks": {
       "QS": 133,
       "usnews": "127",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "143"
+      "timeshighereducation": "143",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.uts.edu.au",
@@ -6294,8 +6437,8 @@
     "ranks": {
       "QS": 193,
       "usnews": "203",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.uow.edu.au",
@@ -6310,8 +6453,8 @@
     "ranks": {
       "QS": 494,
       "usnews": "247",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.westernsydney.edu.au",
@@ -6370,8 +6513,8 @@
     "orgName": "Home Inglês | Unicamp",
     "ranks": {
       "QS": 219,
-      "shanghaIRking": "301-400",
       "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400",
       "usnews": "275"
     },
     "rcount": 4,
@@ -6402,8 +6545,8 @@
     "ranks": {
       "QS": 494,
       "usnews": "456",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.yorku.ca",
@@ -6468,8 +6611,8 @@
     "ranks": {
       "QS": 138,
       "usnews": "135",
-      "shanghaIRking": "87",
-      "timeshighereducation": "103"
+      "timeshighereducation": "103",
+      "shanghaIRking": "87"
     },
     "rcount": 4,
     "url": "www.unibas.ch",
@@ -6484,8 +6627,8 @@
     "ranks": {
       "QS": 119,
       "usnews": "114",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "101"
+      "timeshighereducation": "101",
+      "shanghaIRking": "101-150"
     },
     "rcount": 4,
     "url": "www.unibe.ch",
@@ -6500,8 +6643,8 @@
     "ranks": {
       "QS": 105,
       "usnews": "101",
-      "shanghaIRking": "60",
-      "timeshighereducation": "197"
+      "timeshighereducation": "197",
+      "shanghaIRking": "60"
     },
     "rcount": 4,
     "url": "www.unige.ch",
@@ -6516,8 +6659,8 @@
     "ranks": {
       "QS": 176,
       "usnews": "184",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "176"
+      "timeshighereducation": "176",
+      "shanghaIRking": "101-150"
     },
     "rcount": 4,
     "url": "www.unil.ch",
@@ -6547,8 +6690,8 @@
     "ranks": {
       "QS": 70,
       "usnews": "64",
-      "shanghaIRking": "54",
-      "timeshighereducation": "75"
+      "timeshighereducation": "75",
+      "shanghaIRking": "54"
     },
     "rcount": 4,
     "url": "www.uzh.ch",
@@ -6634,8 +6777,8 @@
     "ranks": {
       "QS": 494,
       "usnews": "262",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.uni-kiel.de",
@@ -6665,18 +6808,18 @@
     "ranks": {
       "QS": 378,
       "usnews": "185",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "165"
+      "timeshighereducation": "165",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.uni-wuerzburg.de",
     "syns": [
       "University of W-rzburg",
       "University of Wurzburg",
-      "University of Wuerzburg",
-      "University of Würzburg"
+      "University of Würzburg",
+      "University of Wuerzburg"
     ],
-    "synsJoin": "University of W-rzburg || University of Wurzburg || University of Wuerzburg || University of Würzburg"
+    "synsJoin": "University of W-rzburg || University of Wurzburg || University of Würzburg || University of Wuerzburg"
   },
   {
     "country": "FI",
@@ -6729,8 +6872,8 @@
     "ranks": {
       "QS": 377,
       "usnews": "422",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.oulu.fi",
@@ -6816,8 +6959,8 @@
     "ranks": {
       "QS": 440,
       "usnews": "471",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.swansea.ac.uk",
@@ -6888,8 +7031,8 @@
     "ranks": {
       "QS": 166,
       "usnews": "117",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "172"
+      "timeshighereducation": "172",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.unibo.it",
@@ -6918,8 +7061,8 @@
     "ranks": {
       "QS": 242,
       "usnews": "119",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "151-200"
     },
     "rcount": 4,
     "url": "www.unipd.it",
@@ -6934,8 +7077,8 @@
     "ranks": {
       "QS": 390,
       "usnews": "379",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.unisr.it",
@@ -6950,8 +7093,8 @@
     "ranks": {
       "QS": 451,
       "usnews": "240",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "www.unifi.it",
@@ -6966,8 +7109,8 @@
     "ranks": {
       "QS": 316,
       "usnews": "169",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "301–350"
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "151-200"
     },
     "rcount": 4,
     "url": "www.unimi.it",
@@ -7000,8 +7143,8 @@
     "ranks": {
       "QS": 424,
       "usnews": "188",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400"
     },
     "rcount": 4,
     "url": "www.international.unina.it",
@@ -7017,8 +7160,8 @@
     "ranks": {
       "QS": 388,
       "usnews": "203",
-      "shanghaIRking": "151-200",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "151-200"
     },
     "rcount": 4,
     "url": "www.unipi.it",
@@ -7049,8 +7192,8 @@
     "ranks": {
       "QS": 440,
       "usnews": "237",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "401-500"
     },
     "rcount": 4,
     "url": "www.unitn.it",
@@ -7065,8 +7208,8 @@
     "ranks": {
       "QS": 485,
       "usnews": "209",
-      "shanghaIRking": "201-300",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "201-300"
     },
     "rcount": 4,
     "url": "en.unito.it",
@@ -7101,6 +7244,99 @@
       "Yokohama City University"
     ],
     "synsJoin": "Yokohama City University"
+  },
+  {
+    "country": "KR",
+    "orgName": "CHUNG-ANG UNIVERSITY",
+    "ranks": {
+      "QS": 414
+    },
+    "rcount": 1,
+    "url": "neweng.cau.ac.kr",
+    "syns": [
+      "Chung-Ang University (CAU)"
+    ],
+    "synsJoin": "Chung-Ang University (CAU)"
+  },
+  {
+    "country": "KR",
+    "orgName": "dongguk university [2]",
+    "ranks": {
+      "QS": 494
+    },
+    "rcount": 1,
+    "url": "www.dongguk.edu",
+    "syns": [
+      "Dongguk University"
+    ],
+    "synsJoin": "Dongguk University"
+  },
+  {
+    "country": "KR",
+    "orgName": "GIST",
+    "ranks": {
+      "QS": 305
+    },
+    "rcount": 1,
+    "url": "www.gist.ac.kr",
+    "syns": [
+      "Gwangju Institute of Science and Technology (GIST)"
+    ],
+    "synsJoin": "Gwangju Institute of Science and Technology (GIST)"
+  },
+  {
+    "country": "KR",
+    "orgName": "Hankuk University of Foreign Studies",
+    "ranks": {
+      "QS": 445
+    },
+    "rcount": 1,
+    "url": "international.hufs.ac.kr",
+    "syns": [
+      "HUFS - Hankuk (Korea) University of Foreign Studies"
+    ],
+    "synsJoin": "HUFS - Hankuk (Korea) University of Foreign Studies"
+  },
+  {
+    "country": "KR",
+    "orgName": "KYUNG HEE UNIVERSITY",
+    "ranks": {
+      "QS": 264,
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 3,
+    "url": "www.khu.ac.kr",
+    "syns": [
+      "Kyung Hee University"
+    ],
+    "synsJoin": "Kyung Hee University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Sogang University",
+    "ranks": {
+      "QS": 494
+    },
+    "rcount": 1,
+    "url": "wwwe.sogang.ac.kr",
+    "syns": [
+      "Sogang University"
+    ],
+    "synsJoin": "Sogang University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Catholic University of Korea",
+    "ranks": {
+      "QS": 482
+    },
+    "rcount": 1,
+    "url": "www.catholic.ac.kr",
+    "syns": [
+      "The Catholic University of Korea"
+    ],
+    "synsJoin": "The Catholic University of Korea"
   },
   {
     "country": "MX",
@@ -7355,8 +7591,8 @@
     "ranks": {
       "QS": 109,
       "usnews": "44",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "190"
+      "timeshighereducation": "190",
+      "shanghaIRking": "101-150"
     },
     "rcount": 4,
     "url": "www.kau.edu.sa",
@@ -7370,8 +7606,8 @@
     "orgName": "King Fahd University of Petroleum and Minerals",
     "ranks": {
       "QS": 163,
-      "shanghaIRking": "401-500",
       "timeshighereducation": "351–400",
+      "shanghaIRking": "401-500",
       "usnews": "445"
     },
     "rcount": 4,
@@ -7388,8 +7624,8 @@
     "ranks": {
       "QS": 277,
       "usnews": "266",
-      "shanghaIRking": "101-150",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "101-150"
     },
     "rcount": 4,
     "url": "ksu.edu.sa",
@@ -7460,8 +7696,8 @@
     "orgName": "Texas A&M University, College Station, TX",
     "ranks": {
       "QS": 168,
-      "shanghaIRking": "151-200",
       "timeshighereducation": "193",
+      "shanghaIRking": "151-200",
       "usnews": "140"
     },
     "rcount": 4,
@@ -7614,8 +7850,8 @@
     "orgName": "UniGe.it | Welcome",
     "ranks": {
       "usnews": "278",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "401-500"
     },
     "rcount": 3,
     "url": "unige.it",
@@ -7642,8 +7878,8 @@
     "orgName": "University of Pavia",
     "ranks": {
       "usnews": "289",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "351–400"
+      "timeshighereducation": "351–400",
+      "shanghaIRking": "401-500"
     },
     "rcount": 3,
     "url": "web-en.unipv.it",
@@ -7685,8 +7921,8 @@
     "orgName": "Medical University of Innsbruck",
     "ranks": {
       "usnews": "339",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "201–250"
+      "timeshighereducation": "201–250",
+      "shanghaIRking": "401-500"
     },
     "rcount": 3,
     "url": "www.i-med.ac.at",
@@ -7694,6 +7930,22 @@
       "Medical University of Innsbruck"
     ],
     "synsJoin": "Medical University of Innsbruck"
+  },
+  {
+    "country": "KR",
+    "orgName": "UNIST",
+    "ranks": {
+      "usnews": "367",
+      "shanghaIRking": "301-400",
+      "timeshighereducation": "178"
+    },
+    "rcount": 3,
+    "url": "www.unist.ac.kr",
+    "syns": [
+      "Ulsan National Institute of Science and Technology",
+      "Ulsan National Institute of Science and Technology (UNIST)"
+    ],
+    "synsJoin": "Ulsan National Institute of Science and Technology || Ulsan National Institute of Science and Technology (UNIST)"
   },
   {
     "country": "US",
@@ -7728,17 +7980,17 @@
     "orgName": "Heinrich Heine University Düsseldorf",
     "ranks": {
       "usnews": "383",
-      "shanghaIRking": "301-400",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "301-400"
     },
     "rcount": 3,
     "url": "www.hhu.de",
     "syns": [
       "Heinrich Heine University of Dusseldorf",
-      "Heinrich Heine University Dusseldorf",
-      "Heinrich Heine University Düsseldorf"
+      "Heinrich Heine University Düsseldorf",
+      "Heinrich Heine University Dusseldorf"
     ],
-    "synsJoin": "Heinrich Heine University of Dusseldorf || Heinrich Heine University Dusseldorf || Heinrich Heine University Düsseldorf"
+    "synsJoin": "Heinrich Heine University of Dusseldorf || Heinrich Heine University Düsseldorf || Heinrich Heine University Dusseldorf"
   },
   {
     "country": "IT",
@@ -7974,21 +8226,6 @@
     "synsJoin": "University of Eastern Finland"
   },
   {
-    "country": "NO",
-    "orgName": "UiT The Arctic University of Norway | UiT",
-    "ranks": {
-      "usnews": "445",
-      "timeshighereducation": "351–400"
-    },
-    "rcount": 2,
-    "url": "en.uit.no",
-    "syns": [
-      "University of Tromso",
-      "UiT The Arctic University of Norway"
-    ],
-    "synsJoin": "University of Tromso || UiT The Arctic University of Norway"
-  },
-  {
     "country": "IT",
     "orgName": "University of Catania |",
     "ranks": {
@@ -8129,8 +8366,8 @@
     "orgName": "University of Potsdam",
     "ranks": {
       "usnews": "479",
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "251–300"
+      "timeshighereducation": "251–300",
+      "shanghaIRking": "401-500"
     },
     "rcount": 3,
     "url": "www.uni-potsdam.de",
@@ -8251,189 +8488,6 @@
     "synsJoin": "University of Regensburg"
   },
   {
-    "country": "AT",
-    "orgName": "University of Graz",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.uni-graz.at",
-    "syns": [
-      "University of Graz"
-    ],
-    "synsJoin": "University of Graz"
-  },
-  {
-    "country": "JP",
-    "orgName": "Okayama University",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.okayama-u.ac.jp",
-    "syns": [
-      "Okayama University"
-    ],
-    "synsJoin": "Okayama University"
-  },
-  {
-    "country": "SE",
-    "orgName": "Stockholm School of Economics",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.hhs.se",
-    "syns": [
-      "Stockholm School of Economics"
-    ],
-    "synsJoin": "Stockholm School of Economics"
-  },
-  {
-    "country": "US",
-    "orgName": "Albert Einstein College of Medicine | Medical Education | Biomedical ...",
-    "ranks": {
-      "shanghaIRking": "301-400"
-    },
-    "rcount": 1,
-    "url": "einsteinmed.edu",
-    "syns": [
-      "Albert Einstein College of Medicine"
-    ],
-    "synsJoin": "Albert Einstein College of Medicine"
-  },
-  {
-    "country": "US",
-    "orgName": "Brigham Young University",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.byu.edu",
-    "syns": [
-      "Brigham Young University"
-    ],
-    "synsJoin": "Brigham Young University"
-  },
-  {
-    "country": "US",
-    "orgName": "The Graduate Center, CUNY",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.gc.cuny.edu",
-    "syns": [
-      "CUNY Graduate School and University Center"
-    ],
-    "synsJoin": "CUNY Graduate School and University Center"
-  },
-  {
-    "country": "US",
-    "orgName": "Mayo Clinic Alix School of Medicine - Mayo Clinic College of ...",
-    "ranks": {
-      "shanghaIRking": "101-150"
-    },
-    "rcount": 1,
-    "url": "college.mayo.edu",
-    "syns": [
-      "Mayo Clinic Alix School of Medicine"
-    ],
-    "synsJoin": "Mayo Clinic Alix School of Medicine"
-  },
-  {
-    "country": "US",
-    "orgName": "Northern Arizona University | Online, Bachelor's, Graduate | NAU",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "nau.edu",
-    "syns": [
-      "Northern Arizona University"
-    ],
-    "synsJoin": "Northern Arizona University"
-  },
-  {
-    "country": "US",
-    "orgName": "UC Merced",
-    "ranks": {
-      "shanghaIRking": "401-500",
-      "timeshighereducation": "301–350"
-    },
-    "rcount": 2,
-    "url": "www.ucmerced.edu",
-    "syns": [
-      "University of California, Merced"
-    ],
-    "synsJoin": "University of California, Merced"
-  },
-  {
-    "country": "US",
-    "orgName": "Home | UC San Francisco -",
-    "ranks": {
-      "shanghaIRking": "20"
-    },
-    "rcount": 1,
-    "url": "www.ucsf.edu",
-    "syns": [
-      "University of California, San Francisco"
-    ],
-    "synsJoin": "University of California, San Francisco"
-  },
-  {
-    "country": "US",
-    "orgName": "The University of Maine",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "umaine.edu",
-    "syns": [
-      "University of Maine"
-    ],
-    "synsJoin": "University of Maine"
-  },
-  {
-    "country": "US",
-    "orgName": "University of North Texas",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.unt.edu",
-    "syns": [
-      "University of North Texas"
-    ],
-    "synsJoin": "University of North Texas"
-  },
-  {
-    "country": "US",
-    "orgName": "MD Anderson Cancer Center: Cancer Treatment & Cancer ...",
-    "ranks": {
-      "shanghaIRking": "67"
-    },
-    "rcount": 1,
-    "url": "www.mdanderson.org",
-    "syns": [
-      "University of Texas M. D. Anderson Cancer Center"
-    ],
-    "synsJoin": "University of Texas M. D. Anderson Cancer Center"
-  },
-  {
-    "country": "US",
-    "orgName": "Welcome to Utah State University",
-    "ranks": {
-      "shanghaIRking": "401-500"
-    },
-    "rcount": 1,
-    "url": "www.usu.edu",
-    "syns": [
-      "Utah State University"
-    ],
-    "synsJoin": "Utah State University"
-  },
-  {
     "country": "DE",
     "orgName": "Charité – Universitätsmedizin Berlin",
     "ranks": {
@@ -8525,6 +8579,19 @@
     "synsJoin": "University of Colorado Denver/Anschutz Medical Campus"
   },
   {
+    "country": "KR",
+    "orgName": "Sejong University",
+    "ranks": {
+      "timeshighereducation": "251–300"
+    },
+    "rcount": 1,
+    "url": "eng.sejong.ac.kr",
+    "syns": [
+      "Sejong University"
+    ],
+    "synsJoin": "Sejong University"
+  },
+  {
     "country": "GH",
     "orgName": "Home | University of Cape Coast",
     "ranks": {
@@ -8549,6 +8616,20 @@
       "Anglia Ruskin University (ARU)"
     ],
     "synsJoin": "Anglia Ruskin University (ARU)"
+  },
+  {
+    "country": "US",
+    "orgName": "UC Merced",
+    "ranks": {
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 2,
+    "url": "www.ucmerced.edu",
+    "syns": [
+      "University of California, Merced"
+    ],
+    "synsJoin": "University of California, Merced"
   },
   {
     "country": "US",
@@ -9030,5 +9111,200 @@
       "The University of the West Indies"
     ],
     "synsJoin": "The University of the West Indies"
+  },
+  {
+    "country": "AT",
+    "orgName": "University of Graz",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.uni-graz.at",
+    "syns": [
+      "University of Graz"
+    ],
+    "synsJoin": "University of Graz"
+  },
+  {
+    "country": "JP",
+    "orgName": "Okayama University",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.okayama-u.ac.jp",
+    "syns": [
+      "Okayama University"
+    ],
+    "synsJoin": "Okayama University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Kyungpook National University",
+    "ranks": {
+      "shanghaIRking": "301-400"
+    },
+    "rcount": 1,
+    "url": "en.knu.ac.kr",
+    "syns": [
+      "Kyungpook National University"
+    ],
+    "synsJoin": "Kyungpook National University"
+  },
+  {
+    "country": "KR",
+    "orgName": "Pusan National University",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.pusan.ac.kr",
+    "syns": [
+      "Pusan National University"
+    ],
+    "synsJoin": "Pusan National University"
+  },
+  {
+    "country": "SE",
+    "orgName": "Stockholm School of Economics",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.hhs.se",
+    "syns": [
+      "Stockholm School of Economics"
+    ],
+    "synsJoin": "Stockholm School of Economics"
+  },
+  {
+    "country": "US",
+    "orgName": "Albert Einstein College of Medicine | Medical Education | Biomedical ...",
+    "ranks": {
+      "shanghaIRking": "301-400"
+    },
+    "rcount": 1,
+    "url": "einsteinmed.edu",
+    "syns": [
+      "Albert Einstein College of Medicine"
+    ],
+    "synsJoin": "Albert Einstein College of Medicine"
+  },
+  {
+    "country": "US",
+    "orgName": "Brigham Young University",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.byu.edu",
+    "syns": [
+      "Brigham Young University"
+    ],
+    "synsJoin": "Brigham Young University"
+  },
+  {
+    "country": "US",
+    "orgName": "The Graduate Center, CUNY",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.gc.cuny.edu",
+    "syns": [
+      "CUNY Graduate School and University Center"
+    ],
+    "synsJoin": "CUNY Graduate School and University Center"
+  },
+  {
+    "country": "US",
+    "orgName": "Mayo Clinic Alix School of Medicine - Mayo Clinic College of ...",
+    "ranks": {
+      "shanghaIRking": "101-150"
+    },
+    "rcount": 1,
+    "url": "college.mayo.edu",
+    "syns": [
+      "Mayo Clinic Alix School of Medicine"
+    ],
+    "synsJoin": "Mayo Clinic Alix School of Medicine"
+  },
+  {
+    "country": "US",
+    "orgName": "Northern Arizona University | Online, Bachelor's, Graduate | NAU",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "nau.edu",
+    "syns": [
+      "Northern Arizona University"
+    ],
+    "synsJoin": "Northern Arizona University"
+  },
+  {
+    "country": "US",
+    "orgName": "Home | UC San Francisco -",
+    "ranks": {
+      "shanghaIRking": "20"
+    },
+    "rcount": 1,
+    "url": "www.ucsf.edu",
+    "syns": [
+      "University of California, San Francisco"
+    ],
+    "synsJoin": "University of California, San Francisco"
+  },
+  {
+    "country": "US",
+    "orgName": "The University of Maine",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "umaine.edu",
+    "syns": [
+      "University of Maine"
+    ],
+    "synsJoin": "University of Maine"
+  },
+  {
+    "country": "US",
+    "orgName": "University of North Texas",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.unt.edu",
+    "syns": [
+      "University of North Texas"
+    ],
+    "synsJoin": "University of North Texas"
+  },
+  {
+    "country": "US",
+    "orgName": "MD Anderson Cancer Center: Cancer Treatment & Cancer ...",
+    "ranks": {
+      "shanghaIRking": "67"
+    },
+    "rcount": 1,
+    "url": "www.mdanderson.org",
+    "syns": [
+      "University of Texas M. D. Anderson Cancer Center"
+    ],
+    "synsJoin": "University of Texas M. D. Anderson Cancer Center"
+  },
+  {
+    "country": "US",
+    "orgName": "Welcome to Utah State University",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.usu.edu",
+    "syns": [
+      "Utah State University"
+    ],
+    "synsJoin": "Utah State University"
   }
 ]
