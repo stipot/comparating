@@ -55,7 +55,7 @@
                   title="Копировать" *ngFor="let oName of element.syns; let i = index" (click)="copyClipboard(oName)">
                   {{oName}},
                 </span>
-                <a href="http://{{element.url}}" target="_blank">Открыть</a>
+                <a href="http://{{element.url}}" target="_blank">URL</a>
               </td>
             </ng-container>
             <ng-container matColumnDef="ranks">

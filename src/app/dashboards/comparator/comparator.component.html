@@ -25,13 +25,13 @@
             <button type="button" class="open-button" (click)="openDescriptionPage()">Подробнее</button>
         </div>
     </div>
-    <div *ngIf="'ru'">
+    <div *ngIf="activeLanguage == 'ru'">
         <h1>Использование</h1>
         <p>1. Подготовленные для анализа данные для 5 рейтингов, опубликованных в 2021 году, доступны на странице
-            <a href="/analysis">Анализ</a>.
+            <a routerLink="/analysis">Анализ</a>.
         </p>
         <p>2. Вы можете самостоятельно
-            <a href="/selector">выбрать источники данных для сопоставления</a>
+            <a routerLink="/selector">выбрать источники данных для сопоставления</a>
             и анализа в приведенной ниже таблице и перейти к анализу выбранных наборов данных.
         </p>
         <p>3. Если Вы ходите провести анализ на других исходных данных, воспользуйтесь исходными кодами в репозитарии
@@ -44,13 +44,13 @@
         </p>
     </div>
 
-    <div *ngIf="'en'">
+    <div *ngIf="activeLanguage =='en'">
         <h1> Usage </h1>
         <p> 1. Data prepared for analysis for 5 rankings published in 2021 are available on the page
-            <a href="/analysis"> Analysis </a>.
+            <a routerLink="/analysis"> Analysis </a>.
         </p>
         <p> 2. You can yourself
-            <a href="/selector"> select data sources to match </a>
+            <a routerLink="/selector"> select data sources to match </a>
             and analysis in the table below and proceed to analyze the selected datasets.
         </p>
         <p> 3. If you want to conduct analysis on other source data, use the source codes in the repository
