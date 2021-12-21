@@ -1,0 +1,3509 @@
+[
+ {
+   "rank": 288,
+   "country": "AE",
+   "orgName": "AE University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 383,
+   "country": "AE",
+   "orgName": "American University of Sharjah",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 183,
+   "country": "AE",
+   "orgName": "Khalifa University of Science and Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 322,
+   "country": "AR",
+   "orgName": "Pontificia Universidad Cat-lica AR",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 400,
+   "country": "AR",
+   "orgName": "Universidad Austral",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 465,
+   "country": "AR",
+   "orgName": "Universidad de Belgrano",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 391,
+   "country": "AR",
+   "orgName": "Universidad de Palermo (UP)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 69,
+   "country": "AR",
+   "orgName": "University of Buenos Aires",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 277,
+   "country": "AT",
+   "orgName": "Graz University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 354,
+   "country": "AT",
+   "orgName": "Johannes Kepler University Linz",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 281,
+   "country": "AT",
+   "orgName": "University of Innsbruck",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 151,
+   "country": "AT",
+   "orgName": "University of Vienna",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 180,
+   "country": "AT",
+   "orgName": "Vienna University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 27,
+   "country": "AU",
+   "orgName": "AUn National University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 451,
+   "country": "AU",
+   "orgName": "Bond University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 194,
+   "country": "AU",
+   "orgName": "Curtin University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 283,
+   "country": "AU",
+   "orgName": "Deakin University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 407,
+   "country": "AU",
+   "orgName": "Flinders University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 290,
+   "country": "AU",
+   "orgName": "Griffith University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 424,
+   "country": "AU",
+   "orgName": "James Cook University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 362,
+   "country": "AU",
+   "orgName": "La Trobe University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 200,
+   "country": "AU",
+   "orgName": "Macquarie University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 58,
+   "country": "AU",
+   "orgName": "Monash University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 213,
+   "country": "AU",
+   "orgName": "Queensland University of Technology (QUT)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 206,
+   "country": "AU",
+   "orgName": "RMIT University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 321,
+   "country": "AU",
+   "orgName": "Swinburne University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 108,
+   "country": "AU",
+   "orgName": "The University of Adelaide",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 37,
+   "country": "AU",
+   "orgName": "The University of Melbourne",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 43,
+   "country": "AU",
+   "orgName": "The University of New South Wales (UNSW Sydney)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 47,
+   "country": "AU",
+   "orgName": "The University of Queensland",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 93,
+   "country": "AU",
+   "orgName": "The University of Western AU",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 436,
+   "country": "AU",
+   "orgName": "University of Canberra ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 197,
+   "country": "AU",
+   "orgName": "University of Newcastle",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 326,
+   "country": "AU",
+   "orgName": "University of South AU",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 38,
+   "country": "AU",
+   "orgName": "University of Sydney",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 303,
+   "country": "AU",
+   "orgName": "University of Tasmania",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 133,
+   "country": "AU",
+   "orgName": "University of Technology Sydney",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 193,
+   "country": "AU",
+   "orgName": "University of Wollongong",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "AU",
+   "orgName": "Western Sydney University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 188,
+   "country": "BE",
+   "orgName": "Catholic University of Louvain",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 141,
+   "country": "BE",
+   "orgName": "Ghent University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 471,
+   "country": "BE",
+   "orgName": "Hasselt University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 70,
+   "country": "BE",
+   "orgName": "Katholieke Universiteit Leuven",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 480,
+   "country": "BE",
+   "orgName": "Universit- de Li-ge",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 207,
+   "country": "BE",
+   "orgName": "Universite libre de Bruxelles",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 233,
+   "country": "BE",
+   "orgName": "University of Antwerp",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 221,
+   "country": "BE",
+   "orgName": "Vrije Universiteit Brussel (VUB)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 250,
+   "country": "BN",
+   "orgName": "Universiti BN (UBD)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 344,
+   "country": "BN",
+   "orgName": "Universiti Teknologi Brunei",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 434,
+   "country": "BR",
+   "orgName": "Federal University of Rio de Janeiro",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 369,
+   "country": "BR",
+   "orgName": "Federal University of Rio de Janeiro",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 492,
+   "country": "BR",
+   "orgName": "S-o Paulo State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 219,
+   "country": "BR",
+   "orgName": "University of Campinas",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 121,
+   "country": "BR",
+   "orgName": "University of Sao Paulo",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 295,
+   "country": "BY",
+   "orgName": "BYian State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 272,
+   "country": "CA",
+   "orgName": "Dalhousie University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 27,
+   "country": "CA",
+   "orgName": "McGill University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 140,
+   "country": "CA",
+   "orgName": "McMaster University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 240,
+   "country": "CA",
+   "orgName": "Queen's University at Kingston",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 298,
+   "country": "CA",
+   "orgName": "Simon Fraser University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 111,
+   "country": "CA",
+   "orgName": "Universit- de Montr-al ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "CA",
+   "orgName": "Universit- Laval",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 126,
+   "country": "CA",
+   "orgName": "University of Alberta",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 46,
+   "country": "CA",
+   "orgName": "University of British Columbia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 235,
+   "country": "CA",
+   "orgName": "University of Calgary",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 230,
+   "country": "CA",
+   "orgName": "University of Ottawa",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 458,
+   "country": "CA",
+   "orgName": "University of Saskatchewan",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 26,
+   "country": "CA",
+   "orgName": "University of Toronto",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 334,
+   "country": "CA",
+   "orgName": "University of Victoria (UVic)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 149,
+   "country": "CA",
+   "orgName": "University of Waterloo",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 170,
+   "country": "CA",
+   "orgName": "Western University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "CA",
+   "orgName": "York University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 14,
+   "country": "CH",
+   "orgName": "-cole Polytechnique Federale of Lausanne",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 8,
+   "country": "CH",
+   "orgName": "Swiss Federal Institute of Technology Zurich",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 240,
+   "country": "CH",
+   "orgName": "Universit- della Svizzera italiana",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 138,
+   "country": "CH",
+   "orgName": "University of Basel",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 119,
+   "country": "CH",
+   "orgName": "University of Bern",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 105,
+   "country": "CH",
+   "orgName": "University of Geneva",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 176,
+   "country": "CH",
+   "orgName": "University of Lausanne",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 459,
+   "country": "CH",
+   "orgName": "University of St.Gallen (HSG)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 70,
+   "country": "CH",
+   "orgName": "University of Zurich",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 135,
+   "country": "CL",
+   "orgName": "Pontificia Universidad Cat-lica de CL",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 487,
+   "country": "CL",
+   "orgName": "Universidad de Santiago de CL (USACH)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 183,
+   "country": "CL",
+   "orgName": "University of Chile",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 383,
+   "country": "CN",
+   "orgName": "Beihang University (former BUAA)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 373,
+   "country": "CN",
+   "orgName": "Beijing Institute of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 270,
+   "country": "CN",
+   "orgName": "Beijing Normal University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 31,
+   "country": "CN",
+   "orgName": "Fudan University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 236,
+   "country": "CN",
+   "orgName": "Harbin Institute of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 334,
+   "country": "CN",
+   "orgName": "Huazhong University of Science and Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 131,
+   "country": "CN",
+   "orgName": "Nanjing University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 358,
+   "country": "CN",
+   "orgName": "Nankai University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 18,
+   "country": "CN",
+   "orgName": "Peking University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 403,
+   "country": "CN",
+   "orgName": "Shandong University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 50,
+   "country": "CN",
+   "orgName": "Shanghai Jiao Tong University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 436,
+   "country": "CN",
+   "orgName": "Shanghai University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 451,
+   "country": "CN",
+   "orgName": "Sichuan University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 407,
+   "country": "CN",
+   "orgName": "South CN University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 465,
+   "country": "CN",
+   "orgName": "Southeast University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 275,
+   "country": "CN",
+   "orgName": "Southern University of Science and Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 260,
+   "country": "CN",
+   "orgName": "Sun Yat-sen University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 334,
+   "country": "CN",
+   "orgName": "Tianjin University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 211,
+   "country": "CN",
+   "orgName": "Tongji University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 17,
+   "country": "CN",
+   "orgName": "Tsinghua University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "CN",
+   "orgName": "University of Science and Technology Beijing",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 98,
+   "country": "CN",
+   "orgName": "University of Science and Technology of CN",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 225,
+   "country": "CN",
+   "orgName": "Wuhan University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 290,
+   "country": "CN",
+   "orgName": "Xi-an Jiaotong University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 407,
+   "country": "CN",
+   "orgName": "Xiamen University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 45,
+   "country": "CN",
+   "orgName": "Zhejiang University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 412,
+   "country": "CO",
+   "orgName": "Pontificia Universidad Javeriana",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 258,
+   "country": "CO",
+   "orgName": "University of Los Andes",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 236,
+   "country": "CO",
+   "orgName": "University of Los Andes",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 440,
+   "country": "CY",
+   "orgName": "University of CY (UCY)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 266,
+   "country": "CZ",
+   "orgName": "Charles University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 403,
+   "country": "CZ",
+   "orgName": "Czech Technical University in Prague",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 373,
+   "country": "CZ",
+   "orgName": "University of Chemistry and Technology, Prague",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 194,
+   "country": "DE",
+   "orgName": "Dresden University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 127,
+   "country": "DE",
+   "orgName": "Free University of Berlin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 344,
+   "country": "DE",
+   "orgName": "Friedrich Schiller University of Jena",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 340,
+   "country": "DE",
+   "orgName": "Goethe University Frankfurt",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 63,
+   "country": "DE",
+   "orgName": "Heidelberg University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 128,
+   "country": "DE",
+   "orgName": "Humboldt University of Berlin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 427,
+   "country": "DE",
+   "orgName": "Johannes Gutenberg Universit-t Mainz",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 136,
+   "country": "DE",
+   "orgName": "Karlsruhe Institute of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 64,
+   "country": "DE",
+   "orgName": "Ludwig-Maximilian University of Munich",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 461,
+   "country": "DE",
+   "orgName": "Martin-Luther-Universit-t Halle-Wittenberg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 393,
+   "country": "DE",
+   "orgName": "Ruhr University Bochum",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 165,
+   "country": "DE",
+   "orgName": "RWTH Aachen University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 447,
+   "country": "DE",
+   "orgName": "Saarland University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 159,
+   "country": "DE",
+   "orgName": "Technical University of Berlin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 269,
+   "country": "DE",
+   "orgName": "Technical University of Darmstadt",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 50,
+   "country": "DE",
+   "orgName": "Technical University of Munich",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 365,
+   "country": "DE",
+   "orgName": "Ulm University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 214,
+   "country": "DE",
+   "orgName": "Universit-t Hamburg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 423,
+   "country": "DE",
+   "orgName": "University of Mannheim",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 226,
+   "country": "DE",
+   "orgName": "University of Bonn",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 311,
+   "country": "DE",
+   "orgName": "University of Cologne",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 322,
+   "country": "DE",
+   "orgName": "University of Erlangen-Nuremberg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 172,
+   "country": "DE",
+   "orgName": "University of Freiburg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 490,
+   "country": "DE",
+   "orgName": "University of Giessen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 204,
+   "country": "DE",
+   "orgName": "University of G-ttingen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "DE",
+   "orgName": "University of Kiel",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 447,
+   "country": "DE",
+   "orgName": "University of Leipzig",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 347,
+   "country": "DE",
+   "orgName": "University of Stuttgart",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 177,
+   "country": "DE",
+   "orgName": "University of T-bingen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 378,
+   "country": "DE",
+   "orgName": "University of W-rzburg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 411,
+   "country": "DE",
+   "orgName": "Westf-lische Wilhelms-Universit-t M-nster ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 326,
+   "country": "DK",
+   "orgName": "Aalborg University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 155,
+   "country": "DK",
+   "orgName": "Aarhus University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 99,
+   "country": "DK",
+   "orgName": "Technical University of DK",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 79,
+   "country": "DK",
+   "orgName": "University of Copenhagen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 309,
+   "country": "DK",
+   "orgName": "University of Southern DK (SDU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 300,
+   "country": "EE",
+   "orgName": "University of Tartu",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 445,
+   "country": "EG",
+   "orgName": "The American University in Cairo",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 209,
+   "country": "ES",
+   "orgName": "Autonomous University of Barcelona",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 207,
+   "country": "ES",
+   "orgName": "Autonomous University of Madrid",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 223,
+   "country": "ES",
+   "orgName": "Complutense University of Madrid",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 317,
+   "country": "ES",
+   "orgName": "IE University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 319,
+   "country": "ES",
+   "orgName": "Polytechnic University of Catalonia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 371,
+   "country": "ES",
+   "orgName": "Polytechnic University of Valencia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 248,
+   "country": "ES",
+   "orgName": "Pompeu Fabra University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 351,
+   "country": "ES",
+   "orgName": "Universidad Carlos III de Madrid (UC3M)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 459,
+   "country": "ES",
+   "orgName": "Universidad Polit-cnica de Madrid (UPM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 168,
+   "country": "ES",
+   "orgName": "Universitat of Barcelona",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 492,
+   "country": "ES",
+   "orgName": "University of Granada",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 266,
+   "country": "ES",
+   "orgName": "University of Navarra",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 112,
+   "country": "FI",
+   "orgName": "Aalto University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "FI",
+   "orgName": "Lappeenranta-Lahti University of Technology LUT",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "FI",
+   "orgName": "Tampere University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 104,
+   "country": "FI",
+   "orgName": "University of Helsinki",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 358,
+   "country": "FI",
+   "orgName": "University of Jyv-skyl-",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 377,
+   "country": "FI",
+   "orgName": "University of Oulu",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 295,
+   "country": "FI",
+   "orgName": "University of Turku",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 245,
+   "country": "FR",
+   "orgName": "Ecole des Ponts ParisTech",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 130,
+   "country": "FR",
+   "orgName": "-cole Normale Sup-rieure de Lyon",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 49,
+   "country": "FR",
+   "orgName": "Institut Polytechnique de Paris",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 261,
+   "country": "FR",
+   "orgName": "Sciences Po ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 72,
+   "country": "FR",
+   "orgName": "Sorbonne University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 261,
+   "country": "FR",
+   "orgName": "Universit- de Paris",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 421,
+   "country": "FR",
+   "orgName": "Universit- de Strasbourg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 314,
+   "country": "FR",
+   "orgName": "Universit- Grenoble Alpes",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 290,
+   "country": "FR",
+   "orgName": "Universit- Paris 1 Panth-on-Sorbonne ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 86,
+   "country": "FR",
+   "orgName": "Universit- Paris-Saclay",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 44,
+   "country": "FR",
+   "orgName": "Universit- PSL",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 49,
+   "country": "GB",
+   "orgName": " London School of Economics and Political Science",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 16,
+   "country": "GB",
+   "orgName": " University of Edinburgh",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 485,
+   "country": "GB",
+   "orgName": "Aston University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 332,
+   "country": "GB",
+   "orgName": "Birkbeck, University of London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 351,
+   "country": "GB",
+   "orgName": "Brunel University London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 151,
+   "country": "GB",
+   "orgName": "Cardiff University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 330,
+   "country": "GB",
+   "orgName": "City, University of London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 82,
+   "country": "GB",
+   "orgName": "Durham University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 461,
+   "country": "GB",
+   "orgName": "Goldsmiths, University of London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 270,
+   "country": "GB",
+   "orgName": "Heriot-Watt University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 7,
+   "country": "GB",
+   "orgName": "Imperial College London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 35,
+   "country": "GB",
+   "orgName": "King's College London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 132,
+   "country": "GB",
+   "orgName": "Lancaster University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 231,
+   "country": "GB",
+   "orgName": "Loughborough University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 134,
+   "country": "GB",
+   "orgName": "Newcastle University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 429,
+   "country": "GB",
+   "orgName": "Oxford Brookes University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 117,
+   "country": "GB",
+   "orgName": "Queen Mary University of London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 216,
+   "country": "GB",
+   "orgName": "Queen's University Belfast",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 334,
+   "country": "GB",
+   "orgName": "Royal Holloway University of London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 391,
+   "country": "GB",
+   "orgName": "SOAS University of London ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 440,
+   "country": "GB",
+   "orgName": "Swansea University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 8,
+   "country": "GB",
+   "orgName": "University College London",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 205,
+   "country": "GB",
+   "orgName": "University of Aberdeen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 166,
+   "country": "GB",
+   "orgName": "University of Bath",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 90,
+   "country": "GB",
+   "orgName": "University of Birmingham",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 62,
+   "country": "GB",
+   "orgName": "University of Bristol",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 3,
+   "country": "GB",
+   "orgName": "University of Cambridge",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 322,
+   "country": "GB",
+   "orgName": "University of Dundee",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 307,
+   "country": "GB",
+   "orgName": "University of East Anglia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 439,
+   "country": "GB",
+   "orgName": "University of Essex",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 149,
+   "country": "GB",
+   "orgName": "University of Exeter",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 73,
+   "country": "GB",
+   "orgName": "University of Glasgow",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 383,
+   "country": "GB",
+   "orgName": "University of Kent",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 92,
+   "country": "GB",
+   "orgName": "University of Leeds",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 236,
+   "country": "GB",
+   "orgName": "University of Leicester",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 189,
+   "country": "GB",
+   "orgName": "University of Liverpool",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 27,
+   "country": "GB",
+   "orgName": "University of Manchester",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 103,
+   "country": "GB",
+   "orgName": "University of Nottingham",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 2,
+   "country": "GB",
+   "orgName": "University of Oxford",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 202,
+   "country": "GB",
+   "orgName": "University of Reading",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 95,
+   "country": "GB",
+   "orgName": "University of Sheffield",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 77,
+   "country": "GB",
+   "orgName": "University of Southampton",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 91,
+   "country": "GB",
+   "orgName": "University of St Andrews",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 471,
+   "country": "GB",
+   "orgName": "University of Stirling",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 302,
+   "country": "GB",
+   "orgName": "University of Strathclyde",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 272,
+   "country": "GB",
+   "orgName": "University of Surrey",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 226,
+   "country": "GB",
+   "orgName": "University of Sussex",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 61,
+   "country": "GB",
+   "orgName": "University of Warwick",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 151,
+   "country": "GB",
+   "orgName": "University of York",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 421,
+   "country": "GR",
+   "orgName": "National Technical University of Athens",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 53,
+   "country": "HK",
+   "orgName": "City University of HK",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 287,
+   "country": "HK",
+   "orgName": "HK Baptist University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 39,
+   "country": "HK",
+   "orgName": "The Chinese University of HK (CUHK)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 66,
+   "country": "HK",
+   "orgName": "The HK Polytechnic University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 34,
+   "country": "HK",
+   "orgName": "The HK University of Science and Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 22,
+   "country": "HK",
+   "orgName": "The University of HK",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 465,
+   "country": "ID",
+   "orgName": "Airlangga University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 303,
+   "country": "ID",
+   "orgName": "Bandung Institute of Technology (ITB)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 254,
+   "country": "ID",
+   "orgName": "Gadjah Mada University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 290,
+   "country": "ID",
+   "orgName": "Universitas Indonesia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 490,
+   "country": "IE",
+   "orgName": "Dublin City University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 258,
+   "country": "IE",
+   "orgName": "National University of Ireland Galway",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 101,
+   "country": "IE",
+   "orgName": "Trinity College Dublin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 298,
+   "country": "IE",
+   "orgName": "University College Cork",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 173,
+   "country": "IE",
+   "orgName": "University College Dublin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 477,
+   "country": "IL",
+   "orgName": "Bar-Ilan University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 471,
+   "country": "IL",
+   "orgName": "Ben-Gurion University of The Negev",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 330,
+   "country": "IL",
+   "orgName": "Technion - IL Institute of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 255,
+   "country": "IL",
+   "orgName": "Tel Aviv University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 198,
+   "country": "IL",
+   "orgName": "Hebrew University of Jerusalem",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 186,
+   "country": "IN",
+   "orgName": "INn Institute of Science",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 177,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Bombay (IITB)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 185,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Delhi (IITD)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 395,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Guwahati (IITG)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 277,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Kanpur (IITK)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 280,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Kharagpur (IIT-KGP)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 255,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Madras (IITM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 400,
+   "country": "IN",
+   "orgName": "INn Institute of Technology Roorkee (IITR)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 465,
+   "country": "IR",
+   "orgName": "Amirkabir University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 381,
+   "country": "IR",
+   "orgName": "Sharif University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 166,
+   "country": "IT",
+   "orgName": "Alma Mater Studiorum - University of Bologna",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 334,
+   "country": "IT",
+   "orgName": "Politecnico di Torino",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 142,
+   "country": "IT",
+   "orgName": "Polytechnic University of Milan",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 171,
+   "country": "IT",
+   "orgName": "Sapienza University of Rome",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 242,
+   "country": "IT",
+   "orgName": "University of Padua",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 390,
+   "country": "IT",
+   "orgName": "Vita-Salute San Raffaele University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 451,
+   "country": "IT",
+   "orgName": "University of Florence",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 316,
+   "country": "IT",
+   "orgName": "University of Milan",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 450,
+   "country": "IT",
+   "orgName": "University of Milano-Bicocca ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 424,
+   "country": "IT",
+   "orgName": "University of Naples - Federico II",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 388,
+   "country": "IT",
+   "orgName": "University of Pisa",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "IT",
+   "orgName": "University of Rome Tor Vergata",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 440,
+   "country": "IT",
+   "orgName": "University of Trento",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 485,
+   "country": "IT",
+   "orgName": "University of Turin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 477,
+   "country": "JP",
+   "orgName": "Chiba University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 343,
+   "country": "JP",
+   "orgName": "Hiroshima University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 145,
+   "country": "JP",
+   "orgName": "Hokkaido University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 201,
+   "country": "JP",
+   "orgName": "Keio University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 386,
+   "country": "JP",
+   "orgName": "Kobe University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 33,
+   "country": "JP",
+   "orgName": "Kyoto University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 137,
+   "country": "JP",
+   "orgName": "Kyushu University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 118,
+   "country": "JP",
+   "orgName": "Nagoya University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 75,
+   "country": "JP",
+   "orgName": "Osaka University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 23,
+   "country": "JP",
+   "orgName": "The University of Tokyo",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 82,
+   "country": "JP",
+   "orgName": "Tohoku University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 56,
+   "country": "JP",
+   "orgName": "Tokyo Institute of Technology (Tokyo Tech)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 381,
+   "country": "JP",
+   "orgName": "Tokyo Medical and Dental University (TMDU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 285,
+   "country": "JP",
+   "orgName": "University of Tsukuba",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 203,
+   "country": "JP",
+   "orgName": "Waseda University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 487,
+   "country": "JP",
+   "orgName": "Yokohama City University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "KR",
+   "orgName": "Chung-Ang University (CAU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "KR",
+   "orgName": "Dongguk University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 362,
+   "country": "KR",
+   "orgName": "Ewha Womans University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 305,
+   "country": "KR",
+   "orgName": "Gwangju Institute of Science and Technology (GIST)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 156,
+   "country": "KR",
+   "orgName": "Hanyang University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 445,
+   "country": "KR",
+   "orgName": "HUFS - Hankuk (Korea) University of Foreign Studies ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 41,
+   "country": "KR",
+   "orgName": "Korea Advanced Institute of Science and Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 74,
+   "country": "KR",
+   "orgName": "Korea University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 264,
+   "country": "KR",
+   "orgName": "Kyung Hee University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 81,
+   "country": "KR",
+   "orgName": "Pohang University of Science And Technology (POSTECH)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 36,
+   "country": "KR",
+   "orgName": "Seoul National University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "KR",
+   "orgName": "Sogang University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 97,
+   "country": "KR",
+   "orgName": "Sungkyunkwan University(SKKU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 482,
+   "country": "KR",
+   "orgName": "The Catholic University of Korea ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 79,
+   "country": "KR",
+   "orgName": "Yonsei University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 175,
+   "country": "KZ",
+   "orgName": "Al-Farabi Kazakh National University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 482,
+   "country": "KZ",
+   "orgName": "Auezov South Kazakhstan University (SKU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 328,
+   "country": "KZ",
+   "orgName": "L.N. Gumilyov Eurasian National University (ENU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 242,
+   "country": "LB",
+   "orgName": "American University of Beirut (AUB)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 400,
+   "country": "LT",
+   "orgName": "Vilnius University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 322,
+   "country": "MO",
+   "orgName": "University of Macau",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 161,
+   "country": "MX",
+   "orgName": "Tecnol-gico de Monterrey",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 105,
+   "country": "MX",
+   "orgName": "Universidad Nacional Aut-noma de M-xico  (UNAM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 332,
+   "country": "MY",
+   "orgName": "Taylor's University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 347,
+   "country": "MY",
+   "orgName": "UCSI University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 144,
+   "country": "MY",
+   "orgName": "Universiti Kebangsaan MY (UKM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 143,
+   "country": "MY",
+   "orgName": "Universiti Putra MY (UPM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 147,
+   "country": "MY",
+   "orgName": "Universiti Sains MY (USM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 191,
+   "country": "MY",
+   "orgName": "Universiti Teknologi MY ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "MY",
+   "orgName": "Universiti Teknologi PETRONAS (UTP)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 65,
+   "country": "MY",
+   "orgName": "University of Malaya",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 57,
+   "country": "NL",
+   "orgName": "Delft University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 125,
+   "country": "NL",
+   "orgName": "Eindhoven University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 179,
+   "country": "NL",
+   "orgName": "Erasmus University Rotterdam ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 112,
+   "country": "NL",
+   "orgName": "Leiden University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 233,
+   "country": "NL",
+   "orgName": "Maastricht University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 220,
+   "country": "NL",
+   "orgName": "Radboud University Nijmegen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 356,
+   "country": "NL",
+   "orgName": "Tilburg University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 55,
+   "country": "NL",
+   "orgName": "University of Amsterdam",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 128,
+   "country": "NL",
+   "orgName": "University of Groningen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 189,
+   "country": "NL",
+   "orgName": "University of Twente",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 110,
+   "country": "NL",
+   "orgName": "Utrecht University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 209,
+   "country": "NL",
+   "orgName": "Vrije Universiteit Amsterdam",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 123,
+   "country": "NL",
+   "orgName": "Wageningen University & Research",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 369,
+   "country": "NO",
+   "orgName": "Norwegian University of Science and Technology - NTNU",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 199,
+   "country": "NO",
+   "orgName": "University of Bergen",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 102,
+   "country": "NO",
+   "orgName": "University of Oslo",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 440,
+   "country": "NO",
+   "orgName": "University of Tromso The Arctic University of Norway",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 451,
+   "country": "NZ",
+   "orgName": "Auckland University of Technology (AUT)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 372,
+   "country": "NZ",
+   "orgName": "Lincoln University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 284,
+   "country": "NZ",
+   "orgName": "Massey University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 85,
+   "country": "NZ",
+   "orgName": "University of Auckland",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 258,
+   "country": "NZ",
+   "orgName": "University of Canterbury | Te Whare W-nanga o Waitaha",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 194,
+   "country": "NZ",
+   "orgName": "University of Otago",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 373,
+   "country": "NZ",
+   "orgName": "University of Waikato",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 236,
+   "country": "NZ",
+   "orgName": "Victoria University of Wellington",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 368,
+   "country": "OM",
+   "orgName": "Sultan Qaboos University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 395,
+   "country": "PE",
+   "orgName": "Pontificia Universidad Cat-lica del Per-",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 399,
+   "country": "PH",
+   "orgName": "University of the Philippines",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 358,
+   "country": "PK",
+   "orgName": "National University of Sciences And Technology (NUST) Islamabad",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 398,
+   "country": "PK",
+   "orgName": "PK Institute of Engineering and Applied Sciences (PIEAS)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 378,
+   "country": "PK",
+   "orgName": "Quaid-i-Azam University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 309,
+   "country": "PL",
+   "orgName": "Jagiellonian University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 308,
+   "country": "PL",
+   "orgName": "University of Warsaw ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 431,
+   "country": "PT",
+   "orgName": "New University of Lisbon",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 455,
+   "country": "PT",
+   "orgName": "University of Coimbra",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 356,
+   "country": "PT",
+   "orgName": "University of Lisbon ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 295,
+   "country": "PT",
+   "orgName": "University of Porto",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 224,
+   "country": "QA",
+   "orgName": "QA University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 281,
+   "country": "RU",
+   "orgName": "Bauman Moscow State Technical University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 461,
+   "country": "RU",
+   "orgName": "Far Eastern Federal University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 305,
+   "country": "RU",
+   "orgName": "HSE University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 365,
+   "country": "RU",
+   "orgName": "ITMO University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 347,
+   "country": "RU",
+   "orgName": "Kazan (Volga region) Federal University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 78,
+   "country": "RU",
+   "orgName": "Lomonosov Moscow State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 362,
+   "country": "RU",
+   "orgName": "MGIMO University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 290,
+   "country": "RU",
+   "orgName": "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 319,
+   "country": "RU",
+   "orgName": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 395,
+   "country": "RU",
+   "orgName": "National Research Tomsk Polytechnic University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 246,
+   "country": "RU",
+   "orgName": "Novosibirsk State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 393,
+   "country": "RU",
+   "orgName": "Peter the Great St. Petersburg Polytechnic University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 317,
+   "country": "RU",
+   "orgName": "RUDN University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 242,
+   "country": "RU",
+   "orgName": "Saint Petersburg State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 487,
+   "country": "RU",
+   "orgName": "The National University of Science and Technology MISIS",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 272,
+   "country": "RU",
+   "orgName": "Tomsk State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 351,
+   "country": "RU",
+   "orgName": "Ural Federal University - UrFU",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 109,
+   "country": "SA",
+   "orgName": "King Abdulaziz University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 163,
+   "country": "SA",
+   "orgName": "King Fahd University of Petroleum and Minerals",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 277,
+   "country": "SA",
+   "orgName": "King Saud University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 447,
+   "country": "SA",
+   "orgName": "Umm Al-Qura University ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 121,
+   "country": "SE",
+   "orgName": "Chalmers University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 89,
+   "country": "SE",
+   "orgName": "KTH Royal Institute of Technology ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 329,
+   "country": "SE",
+   "orgName": "Link-ping University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 87,
+   "country": "SE",
+   "orgName": "Lund University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 148,
+   "country": "SE",
+   "orgName": "Stockholm University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 365,
+   "country": "SE",
+   "orgName": "Umea University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 180,
+   "country": "SE",
+   "orgName": "University of Gothenburg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 124,
+   "country": "SE",
+   "orgName": "Uppsala University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 12,
+   "country": "SG",
+   "orgName": "Nanyang Technological University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 11,
+   "country": "SG",
+   "orgName": "National University of SG",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 212,
+   "country": "SK",
+   "orgName": "Ulsan National Institute of Science and Technology (UNIST)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 215,
+   "country": "TH",
+   "orgName": "Chulalongkorn University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 255,
+   "country": "TH",
+   "orgName": "Mahidol University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 480,
+   "country": "TW",
+   "orgName": "Chang Gung University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 252,
+   "country": "TW",
+   "orgName": "National Cheng Kung University (NCKU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 412,
+   "country": "TW",
+   "orgName": "National Sun Yat-sen University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 469,
+   "country": "TW",
+   "orgName": "National Taipei University of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 180,
+   "country": "TW",
+   "orgName": "National Tsing Hua University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 334,
+   "country": "TW",
+   "orgName": "National TW Normal University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 68,
+   "country": "TW",
+   "orgName": "National TW University (NTU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 314,
+   "country": "TW",
+   "orgName": "National TW University of Science and Technology (TW Tech)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 268,
+   "country": "TW",
+   "orgName": "National Yang Ming Chiao Tung University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 407,
+   "country": "TW",
+   "orgName": "Taipei Medical University (TMU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 216,
+   "country": "US",
+   "orgName": "Arizona State University in Tempe",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "US",
+   "orgName": "Boston College",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 112,
+   "country": "US",
+   "orgName": "Boston University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 455,
+   "country": "US",
+   "orgName": "Brandeis University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 60,
+   "country": "US",
+   "orgName": "Brown University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 6,
+   "country": "US",
+   "orgName": "California Institute of Technology (Caltech)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 53,
+   "country": "US",
+   "orgName": "Carnegie Mellon University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 161,
+   "country": "US",
+   "orgName": "Case Western Reserve University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 461,
+   "country": "US",
+   "orgName": "Colorado School of Mines",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 431,
+   "country": "US",
+   "orgName": "Colorado State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 19,
+   "country": "US",
+   "orgName": "Columbia University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 21,
+   "country": "US",
+   "orgName": "Cornell University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 191,
+   "country": "US",
+   "orgName": "Dartmouth College",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 52,
+   "country": "US",
+   "orgName": "Duke University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 160,
+   "country": "US",
+   "orgName": "Emory University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 475,
+   "country": "US",
+   "orgName": "Florida State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 355,
+   "country": "US",
+   "orgName": "George Washington University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 248,
+   "country": "US",
+   "orgName": "Georgetown University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 88,
+   "country": "US",
+   "orgName": "Georgia Institute of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 5,
+   "country": "US",
+   "orgName": "Harvard University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 444,
+   "country": "US",
+   "orgName": "Illinois Institute of Technology",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 311,
+   "country": "US",
+   "orgName": "Indiana University Bloomington",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 494,
+   "country": "US",
+   "orgName": "Iowa State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 25,
+   "country": "US",
+   "orgName": "Johns Hopkins University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 1,
+   "country": "US",
+   "orgName": "Massachusetts Institute of Technology (MIT) ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 157,
+   "country": "US",
+   "orgName": "Michigan State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 42,
+   "country": "US",
+   "orgName": "New York University (NYU)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 300,
+   "country": "US",
+   "orgName": "North Carolina State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 342,
+   "country": "US",
+   "orgName": "Northeastern University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 30,
+   "country": "US",
+   "orgName": "Northwestern University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 120,
+   "country": "US",
+   "orgName": "Ohio State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 96,
+   "country": "US",
+   "orgName": "Pennsylvania State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 20,
+   "country": "US",
+   "orgName": "Princeton University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 116,
+   "country": "US",
+   "orgName": "Purdue University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 431,
+   "country": "US",
+   "orgName": "Rensselaer Polytechnic Institute",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 94,
+   "country": "US",
+   "orgName": "Rice University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 264,
+   "country": "US",
+   "orgName": "Rutgers, The State University of New Jersey, New Brunswick",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 3,
+   "country": "US",
+   "orgName": "Stanford University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 378,
+   "country": "US",
+   "orgName": "Stony Brook University, State University of New York",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 168,
+   "country": "US",
+   "orgName": "Texas A&M University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 275,
+   "country": "US",
+   "orgName": "Tufts University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 436,
+   "country": "US",
+   "orgName": "Tulane University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 388,
+   "country": "US",
+   "orgName": "University at Buffalo SUNY",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 268,
+   "country": "US",
+   "orgName": "University of Arizona",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 32,
+   "country": "US",
+   "orgName": "University of California, Berkeley (UCB)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 108,
+   "country": "US",
+   "orgName": "University of California, Davis",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 232,
+   "country": "US",
+   "orgName": "University of California, Irvine",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 40,
+   "country": "US",
+   "orgName": "University of California, Los Angeles (UCLA)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 403,
+   "country": "US",
+   "orgName": "University of California, Riverside",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 48,
+   "country": "US",
+   "orgName": "University of California, San Diego (UCSD)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 146,
+   "country": "US",
+   "orgName": "University of California, Santa Barbara (UCSB)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 347,
+   "country": "US",
+   "orgName": "University of California, Santa Cruz",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 10,
+   "country": "US",
+   "orgName": "University of Chicago",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 251,
+   "country": "US",
+   "orgName": "University of Colorado Boulder",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 414,
+   "country": "US",
+   "orgName": "University of Colorado, Denver ",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 373,
+   "country": "US",
+   "orgName": "University of Connecticut",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 173,
+   "country": "US",
+   "orgName": "University of Florida",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 340,
+   "country": "US",
+   "orgName": "University of Hawai-i at M-noa",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 285,
+   "country": "US",
+   "orgName": "University of Illinois at Chicago (UIC)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 82,
+   "country": "US",
+   "orgName": "University of Illinois at Urbana-Champaign",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 455,
+   "country": "US",
+   "orgName": "University of Iowa",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 387,
+   "country": "US",
+   "orgName": "University of Kansas",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 158,
+   "country": "US",
+   "orgName": "University of Maryland, College Park",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 246,
+   "country": "US",
+   "orgName": "University of Massachusetts Amherst",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 311,
+   "country": "US",
+   "orgName": "University of Miami",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 23,
+   "country": "US",
+   "orgName": "University of Michigan-Ann Arbor",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 186,
+   "country": "US",
+   "orgName": "University of Minnesota Twin Cities",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 476,
+   "country": "US",
+   "orgName": "University of Missouri, Columbia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 100,
+   "country": "US",
+   "orgName": "University of North Carolina at Chapel Hill",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 222,
+   "country": "US",
+   "orgName": "University of Notre Dame",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 13,
+   "country": "US",
+   "orgName": "University of Pennsylvania",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 163,
+   "country": "US",
+   "orgName": "University of Pittsburgh",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 154,
+   "country": "US",
+   "orgName": "University of Rochester",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 112,
+   "country": "US",
+   "orgName": "University of Southern California",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 67,
+   "country": "US",
+   "orgName": "University of Texas at Austin",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 477,
+   "country": "US",
+   "orgName": "University of Texas Dallas",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 358,
+   "country": "US",
+   "orgName": "University of Utah",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 226,
+   "country": "US",
+   "orgName": "University of Virginia",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 85,
+   "country": "US",
+   "orgName": "University of Washington",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 75,
+   "country": "US",
+   "orgName": "University of Wisconsin-Madison",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 218,
+   "country": "US",
+   "orgName": "Vanderbilt University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 346,
+   "country": "US",
+   "orgName": "Virginia Polytechnic Institute and State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 429,
+   "country": "US",
+   "orgName": "Wake Forest University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 427,
+   "country": "US",
+   "orgName": "Washington State University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 107,
+   "country": "US",
+   "orgName": "Washington University in St. Louis",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 14,
+   "country": "US",
+   "orgName": "Yale University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 252,
+   "country": "US",
+   "orgName": "Yeshiva University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 469,
+   "country": "UY",
+   "orgName": "Universidad de Montevideo (UM)",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 471,
+   "country": "UY",
+   "orgName": "Universidad ORT Uruguay",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 482,
+   "country": "ZA",
+   "orgName": "Stellenbosch University",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 226,
+   "country": "ZA",
+   "orgName": "University of Cape Town",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 434,
+   "country": "ZA",
+   "orgName": "University of Johannesburg",
+   "rating": "QS",
+   "year": 2022
+ },
+ {
+   "rank": 424,
+   "country": "ZA",
+   "orgName": "University of Witwatersrand",
+   "rating": "QS",
+   "year": 2022
+ }
+]
