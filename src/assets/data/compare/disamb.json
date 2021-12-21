@@ -359,10 +359,10 @@
     "site": "www.bc.edu",
     "destUrl": "https://www.bc.edu/"
   },
-  "Norway University of Troms- The Arctic University of Norway": {
-    "origName": "Norway University of Troms- The Arctic University of Norway",
+  "Norway University of Tromso The Arctic University of Norway": {
+    "origName": "Norway University of Tromso The Arctic University of Norway",
     "uName": "UiT Norges arktiske universitet | UiT",
-    "site": "uit.no",
+    "site": "en.uit.no",
     "destUrl": "https://uit.no/"
   },
   "United States California Institute of Technology": {
@@ -4888,5 +4888,161 @@
             "uName": "Jordan University of Science and Technology",
             "site": "www.just.edu.jo",
             "destUrl": "https://www.just.edu.jo/"
-          }
+          },
+            "Korea, Republic of Sogang University": {
+              "origName": "Korea, Republic of Sogang University",
+              "uName": "Sogang University",
+              "site": "wwwe.sogang.ac.kr",
+              "destUrl": "https://wwwe.sogang.ac.kr/"
+            },
+            "Korea, Republic of Gwangju Institute of Science and Technology (GIST)": {
+              "origName": "Korea, Republic of Gwangju Institute of Science and Technology (GIST)",
+              "uName": "GIST",
+              "site": "www.gist.ac.kr",
+              "destUrl": "https://www.gist.ac.kr/en/"
+            },
+            "Korea, Republic of HUFS - Hankuk (Korea) University of Foreign Studies": {
+              "origName": "Korea, Republic of HUFS - Hankuk (Korea) University of Foreign Studies",
+              "uName": "Hankuk University of Foreign Studies",
+              "site": "international.hufs.ac.kr",
+              "destUrl": "http://international.hufs.ac.kr/"
+            },
+            "Korea, Republic of Kyung Hee University": {
+              "origName": "Korea, Republic of Kyung Hee University",
+              "uName": "KYUNG HEE UNIVERSITY",
+              "site": "www.khu.ac.kr",
+              "destUrl": "https://www.khu.ac.kr/eng/main/index.do"
+            },
+            "Korea, Republic of Ewha Womans University": {
+              "origName": "Korea, Republic of Ewha Womans University",
+              "uName": "EWHA WOMANS UNIVERSITY",
+              "site": "www.ewha.ac.kr",
+              "destUrl": "https://www.ewha.ac.kr/ewhaen/index.do"
+            },
+            "Korea, Republic of Sejong University": {
+              "origName": "Korea, Republic of Sejong University",
+              "uName": "Sejong University",
+              "site": "eng.sejong.ac.kr",
+              "destUrl": "https://eng.sejong.ac.kr/"
+            },
+            "Korea, Republic of Sungkyunkwan University (SKKU)": {
+              "origName": "Korea, Republic of Sungkyunkwan University (SKKU)",
+              "uName": "Sungkyunkwan University",
+              "site": "www.skku.edu",
+              "destUrl": "http://www.skku.edu/eng/index.do"
+            },
+            "Korea, Republic of Sungkyunkwan University": {
+              "origName": "Korea, Republic of Sungkyunkwan University",
+              "uName": "Sungkyunkwan University",
+              "site": "www.skku.edu",
+              "destUrl": "http://www.skku.edu/eng/index.do"
+            },
+            "Korea, Republic of Sungkyunkwan University(SKKU)": {
+              "origName": "Korea, Republic of Sungkyunkwan University(SKKU)",
+              "uName": "Sungkyunkwan University",
+              "site": "www.skku.edu",
+              "destUrl": "http://www.skku.edu/eng/index.do"
+            },
+            "Korea, Republic of Yonsei University": {
+              "origName": "Korea, Republic of Yonsei University",
+              "uName": "YONSEI University, Seoul, Korea",
+              "site": "www.yonsei.ac.kr",
+              "destUrl": "https://www.yonsei.ac.kr/en_sc/index.jsp"
+            },
+            "Korea, Republic of Hanyang University": {
+              "origName": "Korea, Republic of Hanyang University",
+              "uName": "Hanyang - Hanyang University",
+              "site": "www.hanyang.ac.kr",
+              "destUrl": "https://www.hanyang.ac.kr/web/eng"
+            },
+            "Korea, Republic of Chung-Ang University (CAU)": {
+              "origName": "Korea, Republic of Chung-Ang University (CAU)",
+              "uName": "CHUNG-ANG UNIVERSITY",
+              "site": "neweng.cau.ac.kr",
+              "destUrl": "https://neweng.cau.ac.kr/"
+            },
+            "Korea, Republic of Dongguk University": {
+              "origName": "Korea, Republic of Dongguk University",
+              "uName": "dongguk university [2]",
+              "site": "www.dongguk.edu",
+              "destUrl": "http://www.dongguk.edu/mbs/en/"
+            },
+            "Korea, Republic of Pusan National University": {
+              "origName": "Korea, Republic of Pusan National University",
+              "uName": "Pusan National University",
+              "site": "www.pusan.ac.kr",
+              "destUrl": "https://www.pusan.ac.kr/eng"
+            },
+            "Korea, Republic of Pohang University of Science And Technology (POSTECH)": {
+              "origName": "Korea, Republic of Pohang University of Science And Technology (POSTECH)",
+              "uName": "Pohang University of Science and Technology",
+              "site": "international.postech.ac.kr",
+              "destUrl": "http://international.postech.ac.kr/"
+            },
+            "Korea, Republic of The Catholic University of Korea": {
+              "origName": "Korea, Republic of The Catholic University of Korea",
+              "uName": "Catholic University of Korea",
+              "site": "www.catholic.ac.kr",
+              "destUrl": "https://www.catholic.ac.kr/english/"
+            },
+            "Korea, Republic of Korea University": {
+              "origName": "Korea, Republic of Korea University",
+              "uName": "Korea University",
+              "site": "www.korea.edu",
+              "destUrl": "http://www.korea.edu/"
+            },
+            "Korea, Republic of Pohang University of Science and Technology (POSTECH)": {
+              "origName": "Korea, Republic of Pohang University of Science and Technology (POSTECH)",
+              "uName": "Pohang University of Science and Technology",
+              "site": "international.postech.ac.kr",
+              "destUrl": "http://international.postech.ac.kr/"
+            },
+            "Korea, Republic of Kyungpook National University": {
+              "origName": "Korea, Republic of Kyungpook National University",
+              "uName": "Kyungpook National University",
+              "site": "en.knu.ac.kr",
+              "destUrl": "https://en.knu.ac.kr/"
+            },
+            "Korea, Republic of Seoul National University": {
+              "origName": "Korea, Republic of Seoul National University",
+              "uName": "Seoul National University",
+              "site": "en.snu.ac.kr",
+              "destUrl": "https://en.snu.ac.kr/"
+            },
+            "Korea, Republic of Pohang University of Science and Technology": {
+              "origName": "Korea, Republic of Pohang University of Science and Technology",
+              "uName": "Pohang University of Science and Technology",
+              "site": "international.postech.ac.kr",
+              "destUrl": "http://international.postech.ac.kr/"
+            },
+            "Korea, Republic of Ulsan National Institute of Science and Technology": {
+              "origName": "Korea, Republic of Ulsan National Institute of Science and Technology",
+              "uName": "UNIST",
+              "site": "www.unist.ac.kr",
+              "destUrl": "https://www.unist.ac.kr/"
+            },
+            "Korea, Republic of Yonsei University (Seoul campus)": {
+              "origName": "Korea, Republic of Yonsei University (Seoul campus)",
+              "uName": "YONSEI University, Seoul, Korea",
+              "site": "www.yonsei.ac.kr",
+              "destUrl": "https://www.yonsei.ac.kr/en_sc/index.jsp"
+            },
+            "Korea, Republic of Korea Advanced Institute of Science and Technology (KAIST)": {
+              "origName": "Korea, Republic of Korea Advanced Institute of Science and Technology (KAIST)",
+              "uName": "Korea Advanced Institute of Science and Technology (KAIST)",
+              "site": "www.kaist.ac.kr",
+              "destUrl": "https://www.kaist.ac.kr/en/"
+            },
+            "Korea, Republic of Ulsan National Institute of Science and Technology (UNIST)": {
+              "origName": "Korea, Republic of Ulsan National Institute of Science and Technology (UNIST)",
+              "uName": "UNIST",
+              "site": "www.unist.ac.kr",
+              "destUrl": "https://www.unist.ac.kr/"
+            },
+            "Korea, Republic of Korea Advanced Institute of Science and Technology": {
+              "origName": "Korea, Republic of Korea Advanced Institute of Science and Technology",
+              "uName": "Korea Advanced Institute of Science and Technology (KAIST)",
+              "site": "www.kaist.ac.kr",
+              "destUrl": "https://www.kaist.ac.kr/en/"
+            }
 }
