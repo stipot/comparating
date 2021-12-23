@@ -5044,5 +5044,161 @@
               "uName": "Korea Advanced Institute of Science and Technology (KAIST)",
               "site": "www.kaist.ac.kr",
               "destUrl": "https://www.kaist.ac.kr/en/"
-            }
+            },
+              "Spain University of Salamanca": {
+                "origName": "Spain University of Salamanca",
+                "uName": "The University at a glance | Universidad de Salamanca",
+                "site": "www.usal.es",
+                "destUrl": "https://www.usal.es/en/university-glance"
+              },
+              "Spain Universitat of Barcelona": {
+                "origName": "Spain Universitat of Barcelona",
+                "uName": "University of Barcelona",
+                "site": "www.ub.edu",
+                "destUrl": "https://www.ub.edu/web/portal/en/"
+              },
+              "Spain Pompeu Fabra University": {
+                "origName": "Spain Pompeu Fabra University",
+                "uName": "UPF",
+                "site": "www.upf.edu",
+                "destUrl": "https://www.upf.edu/en/"
+              },
+              "Spain Polytechnic University of Catalonia": {
+                "origName": "Spain Polytechnic University of Catalonia",
+                "uName": "Polytechnic University of Catalonia",
+                "site": "www.upc.edu",
+                "destUrl": "https://www.upc.edu/?set_language=en"
+              },
+              "Spain Universitat Ramon Llull": {
+                "origName": "Spain Universitat Ramon Llull",
+                "uName": "Universitat Ramon Llull|Study at URL!",
+                "site": "www.url.edu",
+                "destUrl": "https://www.url.edu/en"
+              },
+              "Spain University of Santiago Compostela": {
+                "origName": "Spain University of Santiago Compostela",
+                "uName": "Study in Santiago - Study in Santiago - USC",
+                "site": "www.usc.gal",
+                "destUrl": "https://www.usc.gal/en/info_xeral/studyinsantiago/"
+              },
+              "Spain University of Barcelona": {
+                "origName": "Spain University of Barcelona",
+                "uName": "University of Barcelona",
+                "site": "www.ub.edu",
+                "destUrl": "https://www.ub.edu/web/portal/en/"
+              },
+              "Spain Polytechnic University of Valencia": {
+                "origName": "Spain Polytechnic University of Valencia",
+                "uName": "UPV Universitat Politècnica de València",
+                "site": "www.upv.es",
+                "destUrl": "http://www.upv.es/en/"
+              },
+              "Spain University of Navarra": {
+                "origName": "Spain University of Navarra",
+                "uName": "Home. University of Navarra",
+                "site": "www.unav.edu",
+                "destUrl": "https://www.unav.edu/en/home"
+              },
+              "Spain IE University": {
+                "origName": "Spain IE University",
+                "uName": "IE University | International University in Spain",
+                "site": "www.ie.edu",
+                "destUrl": "https://www.ie.edu/university/"
+              },
+              "Serbia University of Belgrade": {
+                "origName": "Serbia University of Belgrade",
+                "uName": "University of Belgrade",
+                "site": "www.bg.ac.rs",
+                "destUrl": "https://www.bg.ac.rs/en/"
+              },
+              "Spain University of Seville": {
+                "origName": "Spain University of Seville",
+                "uName": "University of Seville | ICS",
+                "site": "ics-seville.org",
+                "destUrl": "https://ics-seville.org/university-of-seville/"
+              },
+              "Spain University of Cantabria": {
+                "origName": "Spain University of Cantabria",
+                "uName": "University of Cantabria Home",
+                "site": "web.unican.es",
+                "destUrl": "https://web.unican.es/en/Pages/default.aspx"
+              },
+              "Spain University of Granada": {
+                "origName": "Spain University of Granada",
+                "uName": "Home page | Universidad de Granada",
+                "site": "www.ugr.es",
+                "destUrl": "https://www.ugr.es/en"
+              },
+              "Spain University of the Basque Country": {
+                "origName": "Spain University of the Basque Country",
+                "uName": "University of the Basque Country - - UPV/EHU",
+                "site": "www.ehu.eus",
+                "destUrl": "https://www.ehu.eus/en"
+              },
+              "Spain Complutense University of Madrid": {
+                "origName": "Spain Complutense University of Madrid",
+                "uName": "Complutense University of Madrid",
+                "site": "www.ucm.es",
+                "destUrl": "https://www.ucm.es/english"
+              },
+              "Spain Autonomous University of Barcelona": {
+                "origName": "Spain Autonomous University of Barcelona",
+                "uName": "Welcome to Universitat Autònoma de Barcelona - UAB Barcelona",
+                "site": "www.uab.cat",
+                "destUrl": "https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html"
+              },
+              "Spain Universidad Polit-cnica de Madrid (UPM)": {
+                "origName": "Spain Universidad Polit-cnica de Madrid (UPM)",
+                "uName": "Internacional",
+                "site": "www.upm.es",
+                "destUrl": "http://www.upm.es/internacional"
+              },
+              "Spain Autonomous University of Madrid": {
+                "origName": "Spain Autonomous University of Madrid",
+                "uName": "Autonomous University of Madrid - Wikipedia",
+                "site": "www.uam.es",
+                "destUrl": "https://www.uam.es/uam/inicio"
+              },
+              "Serbia University of Kragujevac": {
+                "origName": "Serbia University of Kragujevac",
+                "uName": "University of Kragujevac",
+                "site": "en.kg.ac.rs",
+                "destUrl": "https://en.kg.ac.rs/"
+              },
+              "Spain University of Valencia": {
+                "origName": "Spain University of Valencia",
+                "uName": "University of Valencia",
+                "site": "www.uv.es",
+                "destUrl": "https://www.uv.es/uvweb/college/en/university-valencia-1285845048380.html"
+              },
+              "Spain University of Vic – Central University of Catalonia": {
+                "origName": "Spain University of Vic – Central University of Catalonia",
+                "uName": "UVic: Universitat de Vic - Universitat Central de Catalunya",
+                "site": "www.uvic.cat",
+                "destUrl": "https://www.uvic.cat/en"
+              },
+              "Spain Technical University of Madrid": {
+                "origName": "Spain Technical University of Madrid",
+                "uName": "Internacional",
+                "site": "www.upm.es",
+                "destUrl": "http://www.upm.es/internacional"
+              },
+              "Spain University of Zaragoza": {
+                "origName": "Spain University of Zaragoza",
+                "uName": "University of Zaragoza | Universidad de Zaragoza",
+                "site": "www.unizar.es",
+                "destUrl": "https://www.unizar.es/university-zaragoza"
+              },
+              "Spain Universidad Complutense de Madrid (UCM)": {
+                "origName": "Spain Universidad Complutense de Madrid (UCM)",
+                "uName": "Complutense University of Madrid",
+                "site": "www.ucm.es",
+                "destUrl": "https://www.ucm.es/english"
+              },
+              "Spain Universidad Carlos III de Madrid (UC3M)": {
+                "origName": "Spain Universidad Carlos III de Madrid (UC3M)",
+                "uName": "UC3M: Home",
+                "site": "www.uc3m.es",
+                "destUrl": "https://www.uc3m.es/"
+              }
 }

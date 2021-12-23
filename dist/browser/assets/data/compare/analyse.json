@@ -1701,6 +1701,224 @@
     "synsJoin": "University of Tartu"
   },
   {
+    "country": "ES",
+    "orgName": "Welcome to Universitat Autònoma de Barcelona - UAB Barcelona",
+    "ranks": {
+      "mosiur": "157",
+      "QS": 209,
+      "usnews": "144",
+      "timeshighereducation": "170",
+      "shanghaIRking": "201-300"
+    },
+    "rcount": 5,
+    "url": "www.uab.cat",
+    "syns": [
+      "Autonomous University of Barcelona"
+    ],
+    "synsJoin": "Autonomous University of Barcelona"
+  },
+  {
+    "country": "ES",
+    "orgName": "Autonomous University of Madrid - Wikipedia",
+    "ranks": {
+      "mosiur": "231",
+      "QS": 207,
+      "usnews": "208",
+      "timeshighereducation": "301–350",
+      "shanghaIRking": "301-400"
+    },
+    "rcount": 5,
+    "url": "www.uam.es",
+    "syns": [
+      "Autonomous University of Madrid"
+    ],
+    "synsJoin": "Autonomous University of Madrid"
+  },
+  {
+    "country": "ES",
+    "orgName": "Polytechnic University of Catalonia",
+    "ranks": {
+      "mosiur": "301-350",
+      "QS": 319,
+      "usnews": "367"
+    },
+    "rcount": 3,
+    "url": "www.upc.edu",
+    "syns": [
+      "Polytechnic University of Catalonia"
+    ],
+    "synsJoin": "Polytechnic University of Catalonia"
+  },
+  {
+    "country": "ES",
+    "orgName": "UPV Universitat Politècnica de València",
+    "ranks": {
+      "mosiur": "351-400",
+      "QS": 371,
+      "shanghaIRking": "301-400"
+    },
+    "rcount": 3,
+    "url": "www.upv.es",
+    "syns": [
+      "Polytechnic University of Valencia"
+    ],
+    "synsJoin": "Polytechnic University of Valencia"
+  },
+  {
+    "country": "ES",
+    "orgName": "UPF",
+    "ranks": {
+      "mosiur": "267",
+      "QS": 248,
+      "usnews": "188",
+      "timeshighereducation": "156",
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 5,
+    "url": "www.upf.edu",
+    "syns": [
+      "Pompeu Fabra University"
+    ],
+    "synsJoin": "Pompeu Fabra University"
+  },
+  {
+    "country": "ES",
+    "orgName": "Internacional",
+    "ranks": {
+      "mosiur": "351-400",
+      "QS": 459
+    },
+    "rcount": 2,
+    "url": "www.upm.es",
+    "syns": [
+      "Technical University of Madrid",
+      "Universidad Polit-cnica de Madrid (UPM)"
+    ],
+    "synsJoin": "Technical University of Madrid || Universidad Polit-cnica de Madrid (UPM)"
+  },
+  {
+    "country": "ES",
+    "orgName": "Complutense University of Madrid",
+    "ranks": {
+      "mosiur": "212",
+      "QS": 223,
+      "usnews": "346",
+      "shanghaIRking": "201-300"
+    },
+    "rcount": 4,
+    "url": "www.ucm.es",
+    "syns": [
+      "Universidad Complutense de Madrid (UCM)",
+      "Complutense University of Madrid"
+    ],
+    "synsJoin": "Universidad Complutense de Madrid (UCM) || Complutense University of Madrid"
+  },
+  {
+    "country": "ES",
+    "orgName": "University of Barcelona",
+    "ranks": {
+      "mosiur": "168",
+      "usnews": "87",
+      "timeshighereducation": "193",
+      "shanghaIRking": "151-200",
+      "QS": 168
+    },
+    "rcount": 5,
+    "url": "www.ub.edu",
+    "syns": [
+      "University of Barcelona",
+      "Universitat of Barcelona"
+    ],
+    "synsJoin": "University of Barcelona || Universitat of Barcelona"
+  },
+  {
+    "country": "ES",
+    "orgName": "University of the Basque Country - - UPV/EHU",
+    "ranks": {
+      "mosiur": "401-450",
+      "usnews": "467",
+      "shanghaIRking": "301-400"
+    },
+    "rcount": 3,
+    "url": "www.ehu.eus",
+    "syns": [
+      "University of the Basque Country"
+    ],
+    "synsJoin": "University of the Basque Country"
+  },
+  {
+    "country": "ES",
+    "orgName": "University of Cantabria Home",
+    "ranks": {
+      "mosiur": "451-500"
+    },
+    "rcount": 1,
+    "url": "web.unican.es",
+    "syns": [
+      "University of Cantabria"
+    ],
+    "synsJoin": "University of Cantabria"
+  },
+  {
+    "country": "ES",
+    "orgName": "Home. University of Navarra",
+    "ranks": {
+      "mosiur": "180",
+      "QS": 266,
+      "usnews": "399",
+      "timeshighereducation": "251–300"
+    },
+    "rcount": 4,
+    "url": "www.unav.edu",
+    "syns": [
+      "University of Navarra"
+    ],
+    "synsJoin": "University of Navarra"
+  },
+  {
+    "country": "ES",
+    "orgName": "The University at a glance | Universidad de Salamanca",
+    "ranks": {
+      "mosiur": "451-500",
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 2,
+    "url": "www.usal.es",
+    "syns": [
+      "University of Salamanca"
+    ],
+    "synsJoin": "University of Salamanca"
+  },
+  {
+    "country": "ES",
+    "orgName": "University of Valencia",
+    "ranks": {
+      "mosiur": "301-350",
+      "usnews": "212",
+      "timeshighereducation": "401–500",
+      "shanghaIRking": "301-400"
+    },
+    "rcount": 4,
+    "url": "www.uv.es",
+    "syns": [
+      "University of Valencia"
+    ],
+    "synsJoin": "University of Valencia"
+  },
+  {
+    "country": "ES",
+    "orgName": "University of Zaragoza | Universidad de Zaragoza",
+    "ranks": {
+      "mosiur": "401-450"
+    },
+    "rcount": 1,
+    "url": "www.unizar.es",
+    "syns": [
+      "University of Zaragoza"
+    ],
+    "synsJoin": "University of Zaragoza"
+  },
+  {
     "country": "FI",
     "orgName": "Aalto University",
     "ranks": {
@@ -6822,6 +7040,47 @@
     "synsJoin": "University of W-rzburg || University of Wurzburg || University of Würzburg || University of Wuerzburg"
   },
   {
+    "country": "ES",
+    "orgName": "IE University | International University in Spain",
+    "ranks": {
+      "QS": 317
+    },
+    "rcount": 1,
+    "url": "www.ie.edu",
+    "syns": [
+      "IE University"
+    ],
+    "synsJoin": "IE University"
+  },
+  {
+    "country": "ES",
+    "orgName": "UC3M: Home",
+    "ranks": {
+      "QS": 351
+    },
+    "rcount": 1,
+    "url": "www.uc3m.es",
+    "syns": [
+      "Universidad Carlos III de Madrid (UC3M)"
+    ],
+    "synsJoin": "Universidad Carlos III de Madrid (UC3M)"
+  },
+  {
+    "country": "ES",
+    "orgName": "Home page | Universidad de Granada",
+    "ranks": {
+      "QS": 492,
+      "usnews": "303",
+      "shanghaIRking": "201-300"
+    },
+    "rcount": 3,
+    "url": "www.ugr.es",
+    "syns": [
+      "University of Granada"
+    ],
+    "synsJoin": "University of Granada"
+  },
+  {
     "country": "FI",
     "orgName": "LUT University - LUT",
     "ranks": {
@@ -8076,12 +8335,12 @@
   },
   {
     "country": "RS",
-    "orgName": "person – Molab",
+    "orgName": "University of Belgrade",
     "ranks": {
       "usnews": "422"
     },
     "rcount": 1,
-    "url": "molab.es",
+    "url": "www.bg.ac.rs",
     "syns": [
       "University of Belgrade"
     ],
@@ -8867,12 +9126,12 @@
   },
   {
     "country": "RS",
-    "orgName": "PRUŽANJE USLUGA PUTEM MASOVNOG RADA",
+    "orgName": "University of Kragujevac",
     "ranks": {
       "timeshighereducation": "401–500"
     },
     "rcount": 1,
-    "url": "scidar.kg.ac.rs",
+    "url": "en.kg.ac.rs",
     "syns": [
       "University of Kragujevac"
     ],
@@ -8983,6 +9242,19 @@
     "synsJoin": "University of Plymouth"
   },
   {
+    "country": "ES",
+    "orgName": "Universitat Ramon Llull|Study at URL!",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "www.url.edu",
+    "syns": [
+      "Universitat Ramon Llull"
+    ],
+    "synsJoin": "Universitat Ramon Llull"
+  },
+  {
     "country": "GB",
     "orgName": "Royal Veterinary College, RVC",
     "ranks": {
@@ -9074,6 +9346,19 @@
     "synsJoin": "University of Vaasa"
   },
   {
+    "country": "ES",
+    "orgName": "UVic: Universitat de Vic - Universitat Central de Catalunya",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "www.uvic.cat",
+    "syns": [
+      "University of Vic – Central University of Catalonia"
+    ],
+    "synsJoin": "University of Vic – Central University of Catalonia"
+  },
+  {
     "country": "AU",
     "orgName": "Victoria University, Australia",
     "ranks": {
@@ -9124,6 +9409,32 @@
       "University of Graz"
     ],
     "synsJoin": "University of Graz"
+  },
+  {
+    "country": "ES",
+    "orgName": "Study in Santiago - Study in Santiago - USC",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.usc.gal",
+    "syns": [
+      "University of Santiago Compostela"
+    ],
+    "synsJoin": "University of Santiago Compostela"
+  },
+  {
+    "country": "ES",
+    "orgName": "University of Seville | ICS",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "ics-seville.org",
+    "syns": [
+      "University of Seville"
+    ],
+    "synsJoin": "University of Seville"
   },
   {
     "country": "JP",
