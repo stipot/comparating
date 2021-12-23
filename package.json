@@ -12,7 +12,7 @@
     "serve:ssr": "node dist/server/main.js",
     "build:ssr": "ng build --prod && ng run comparating-template:server:production",
     "prerender": "ng run comparating-template:prerender",
-    "deploy": "ng build --prod && firebase deploy"
+    "deploy": "ng build --configuration production && firebase deploy"
   },
   "private": true,
   "dependencies": {
