@@ -5,7 +5,7 @@
     "Description": "Description",
     "Sources": "Sources",
     "Unification": "Unification",
-    "Analyses": "Analyses",
+    "Analyses": "Analysis",
     "SeeMore": "See more",
     "Selector.exclusion": "Exclusion countries (specified in exclude.json) in accordance with <a href=\"https://nic.gov.ru/ru/docs/foreign/confirmation\" target='_blank'> international treaties </a>",
     "SelectSources": "Select sources for analysis",
