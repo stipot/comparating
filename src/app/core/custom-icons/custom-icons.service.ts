@@ -15,7 +15,7 @@ export class CustomIconsService {
   init(): void {
     // register custom icons
     this.registerIcons(
-      ['comparating-logo-2', 'comparating-logo'], '/assets/icons/logos/');
+      ['comparanking-logo-2', 'comparanking-logo'], '/assets/icons/logos/');
     this.registerIcons(
       ['dashboards', 'forms', 'components', 'charts', 'tables', 'utilities'], '/assets/icons/sidemenu/');
   }
