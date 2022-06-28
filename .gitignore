@@ -1,4 +1,6 @@
+.angular
 .firebase
 node_modules
 dist/server
 .firebase/hosting.ZGlzdFxicm93c2Vy.cache
+.angular/cache/14.0.3/angular-webpack/3006b1732362a55efb3de05238a9389261cdd5c1/index.pack
