@@ -7,7 +7,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { MatCheckboxModule, MatCheckboxClickAction } from '@angular/material/checkbox';
 import { Udm, RankDataRecord, CountriesList } from '../unified.data.model'
 import { DashboardsService } from '../dashboards.service'
-import { FormGroup, FormControl } from '@angular/forms';
+import { UntypedFormGroup, UntypedFormControl } from '@angular/forms';
 import { Clipboard } from '@angular/cdk/clipboard';
 import { TranslocoService } from '@ngneat/transloco';
 
@@ -35,7 +35,7 @@ export interface RowData {
   ]
 })
 export class AnalysisComponent implements OnInit {
-  filtersForm: FormGroup;
+  filtersForm: UntypedFormGroup;
   displayedColumns: string[] = ['country', 'syns', 'ranks', 'rcount'];
   dataSource: MatTableDataSource<RowData>;
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
@@ -64,10 +64,10 @@ export class AnalysisComponent implements OnInit {
     // tslint:disable-next-line:no-string-literal
     this.originalData = route.snapshot.data['tableData'];
     this.dataSource = new MatTableDataSource(this.originalData);
-    this.filtersForm = new FormGroup({
-      search: new FormControl(''),
-      country: new FormControl(''),
-      rcount: new FormControl(null)
+    this.filtersForm = new UntypedFormGroup({
+      search: new UntypedFormControl(''),
+      country: new UntypedFormControl(''),
+      rcount: new UntypedFormControl(null)
     });
     this.filtersForm.valueChanges.subscribe(form => this.applyFilters(form));
   }
