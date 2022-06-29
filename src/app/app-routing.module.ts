@@ -37,7 +37,7 @@ const routes: Routes = [
     // preloadingStrategy: PreloadAllModules,
     onSameUrlNavigation: 'reload',
     // This value is required for server-side rendering to work.
-    initialNavigation: 'enabled',
+    initialNavigation: 'enabledNonBlocking',
     relativeLinkResolution: 'legacy'
 })
   ],

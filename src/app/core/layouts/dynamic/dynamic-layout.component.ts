@@ -47,7 +47,7 @@ export class DynamicLayoutComponent implements OnInit, AfterViewInit, OnDestroy 
 
       // Set the mobileDevice reference using Angular TransferState mechanisms so we can have this reference ready
       // when the app transitions from server side rendering to client side rendering
-      this.state.set(MOBILE_DEVICE, mobileDevice as string);
+      this.state.set(MOBILE_DEVICE, mobileDevice as any);
 
       console.log('we\'re rendering from the server, checking response object.');
       console.log(`MOBILE_DEVICE from RESPONSE: ${mobileDevice}`);
