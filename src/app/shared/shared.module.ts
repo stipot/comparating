@@ -28,14 +28,12 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatTooltipModule } from '@angular/material/tooltip';
 
 import {
-  NgbButtonsModule,
   NgbProgressbarModule,
   NgbDatepickerModule,
   NgbRatingModule,
   NgbTimepickerModule,
   NgbPopoverModule,
   NgbCarouselModule,
-  NgbTabsetModule,
   NgbTypeaheadModule,
   NgbDropdownModule
 } from '@ng-bootstrap/ng-bootstrap';
@@ -107,14 +105,12 @@ import { NotificationTemplateComponent } from './notification-template/notificat
     MatSliderModule,
     MatIconModule,  // needed to use the MatIconRegistry to register our own icons
     // ng bootstrap modules
-    NgbButtonsModule,
     NgbProgressbarModule,
     NgbDatepickerModule,
     NgbRatingModule,
     NgbTimepickerModule,
     NgbPopoverModule,
     NgbCarouselModule,
-    NgbTabsetModule,
     NgbTypeaheadModule,
     NgbDropdownModule
   ]

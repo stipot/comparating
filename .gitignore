@@ -1,5 +1,6 @@
 .firebase
 node_modules
-dist/server
-.firebase/hosting.ZGlzdFxicm93c2Vy.cache
+dist
+.angular
+dist\browser
 package copy.json

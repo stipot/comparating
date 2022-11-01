@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
-@import '~@angular/material/theming';
+@import '@angular/material/theming';
 
 // Define a custom typography config that overrides the font-family
 $custom-typography: mat-typography-config(
@@ -13,13 +13,16 @@ $custom-typography: mat-typography-config(
 // Be sure that you only ever include this mixin once!
 @include mat-core($custom-typography);
 
-// you can redefine these colors with your choosen palette colors
+// you can redefine these colors with your chosen palette colors
 
 // for palette 1:
 $custom-collection: (
     primary:  #3B86FF,
     accent:  #38D997,
     warn:    #ffc200,
+    // TODO найти ссылки на числовые значения и исключить
+    100: #ffc200,
+    700: #ffc200,
     contrast: (
       warning :  #3c3f46,
       success :  #f6faff,
@@ -38,7 +41,6 @@ $custom-collection: (
 //       danger:    #fcf8fe,
 //     )
 // );
-
 $my-app-primary: mat-palette($custom-collection, primary);
 $my-app-accent: mat-palette($custom-collection, accent);
 $my-app-warn: mat-palette($custom-collection, warn);
