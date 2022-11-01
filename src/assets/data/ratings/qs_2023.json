@@ -1,0 +1,3502 @@
+[
+    {
+      "rank": "1",
+      "orgName": "Massachusetts Institute of Technology (MIT) ",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "2",
+      "orgName": "University of Cambridge",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "3",
+      "orgName": "Stanford University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "4",
+      "orgName": "University of Oxford",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "5",
+      "orgName": "Harvard University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "6",
+      "orgName": "California Institute of Technology (Caltech)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "6",
+      "orgName": "Imperial College London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "8",
+      "orgName": "UCL",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "9",
+      "orgName": "ETH Zurich - Swiss Federal Institute of Technology",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "10",
+      "orgName": "University of Chicago",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "11",
+      "orgName": "National University of Singapore (NUS)",
+      "country": "SG",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "12",
+      "orgName": "Peking University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "13",
+      "orgName": "University of Pennsylvania",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "14",
+      "orgName": "Tsinghua University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "15",
+      "orgName": "The University of Edinburgh",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "16",
+      "orgName": "EPFL",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "16",
+      "orgName": "Princeton University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "18",
+      "orgName": "Yale University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "19",
+      "orgName": "Nanyang Technological University, Singapore (NTU)",
+      "country": "SG",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "20",
+      "orgName": "Cornell University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "21",
+      "orgName": "The University of Hong Kong",
+      "country": "HK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "22",
+      "orgName": "Columbia University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "23",
+      "orgName": "The University of Tokyo",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "24",
+      "orgName": "Johns Hopkins University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "25",
+      "orgName": "University of Michigan-Ann Arbor",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "26",
+      "orgName": "Université PSL",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "27",
+      "orgName": "University of California, Berkeley (UCB)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "28",
+      "orgName": "The University of Manchester",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "29",
+      "orgName": "Seoul National University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "30",
+      "orgName": "The Australian National University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "31",
+      "orgName": "McGill University",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "32",
+      "orgName": "Northwestern University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "33",
+      "orgName": "The University of Melbourne",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "34",
+      "orgName": "Fudan University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "34",
+      "orgName": "University of Toronto",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "36",
+      "orgName": "Kyoto University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "37",
+      "orgName": "King's College London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "38",
+      "orgName": "The Chinese University of Hong Kong (CUHK)",
+      "country": "HK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "39",
+      "orgName": "New York University (NYU)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "40",
+      "orgName": "The Hong Kong University of Science and Technology",
+      "country": "HK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "41",
+      "orgName": "The University of Sydney",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "42",
+      "orgName": "KAIST - Korea Advanced Institute of Science & Technology",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "42",
+      "orgName": "Zhejiang University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "44",
+      "orgName": "University of California, Los Angeles (UCLA)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "45",
+      "orgName": "The University of New South Wales (UNSW Sydney)",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "46",
+      "orgName": "Shanghai Jiao Tong University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "47",
+      "orgName": "University of British Columbia",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "48",
+      "orgName": "Institut Polytechnique de Paris",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "49",
+      "orgName": "Technical University of Munich",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "50",
+      "orgName": "Duke University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "50",
+      "orgName": "The University of Queensland",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "52",
+      "orgName": "Carnegie Mellon University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "53",
+      "orgName": "University of California, San Diego (UCSD)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "54",
+      "orgName": "City University of Hong Kong",
+      "country": "HK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "55",
+      "orgName": "Tokyo Institute of Technology (Tokyo Tech)",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "56",
+      "orgName": "The London School of Economics and Political Science (LSE)",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "57",
+      "orgName": "Monash University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "58",
+      "orgName": "University of Amsterdam",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "59",
+      "orgName": "Ludwig-Maximilians-Universität München",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "60",
+      "orgName": "Sorbonne University",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "61",
+      "orgName": "Delft University of Technology",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "61",
+      "orgName": "University of Bristol",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "63",
+      "orgName": "Brown University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "64",
+      "orgName": "The University of Warwick",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "65",
+      "orgName": "Ruprecht-Karls-Universität Heidelberg",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "65",
+      "orgName": "The Hong Kong Polytechnic University",
+      "country": "HK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "67",
+      "orgName": "Universidad de Buenos Aires (UBA)",
+      "country": "AR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "68",
+      "orgName": "Osaka University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "69",
+      "orgName": "Université Paris-Saclay",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "70",
+      "orgName": "Universiti Malaya (UM)",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "71",
+      "orgName": "Pohang University of Science And Technology (POSTECH)",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "72",
+      "orgName": "University of Texas at Austin",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "73",
+      "orgName": "Yonsei University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "74",
+      "orgName": "Korea University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "75",
+      "orgName": "Lomonosov Moscow State University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "76",
+      "orgName": "KU Leuven",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "77",
+      "orgName": "National Taiwan University (NTU)",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "78",
+      "orgName": "University of Southampton",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "79",
+      "orgName": "Tohoku University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "80",
+      "orgName": "University of Washington",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "81",
+      "orgName": "University of Glasgow",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "82",
+      "orgName": "University of Copenhagen",
+      "country": "DK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "83",
+      "orgName": "University of Wisconsin-Madison",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "83",
+      "orgName": "University of Zurich",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "85",
+      "orgName": "University of Illinois at Urbana-Champaign",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "86",
+      "orgName": "University of Leeds",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "87",
+      "orgName": "The University of Auckland",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "88",
+      "orgName": "Georgia Institute of Technology",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "89",
+      "orgName": "KTH Royal Institute of Technology ",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "90",
+      "orgName": "The University of Western Australia",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "91",
+      "orgName": "University of Birmingham",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "92",
+      "orgName": "Durham University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "93",
+      "orgName": "Pennsylvania State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "94",
+      "orgName": "University of Science and Technology of China",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "95",
+      "orgName": "Lund University",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "96",
+      "orgName": "The University of Sheffield",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "96",
+      "orgName": "University of St Andrews",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "98",
+      "orgName": "Trinity College Dublin, The University of Dublin",
+      "country": "IE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "99",
+      "orgName": "Sungkyunkwan University(SKKU)",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "100",
+      "orgName": "Rice University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "101",
+      "orgName": "University of Oslo",
+      "country": "NO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "102",
+      "orgName": "University of California, Davis",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "102",
+      "orgName": "University of North Carolina, Chapel Hill",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "104",
+      "orgName": "Technical University of Denmark",
+      "country": "DK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "104",
+      "orgName": "Universidad Nacional Autónoma de México (UNAM)",
+      "country": "MX",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "106",
+      "orgName": "King Abdulaziz University (KAU)",
+      "country": "SA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "106",
+      "orgName": "University of Helsinki",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "108",
+      "orgName": "Boston University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "109",
+      "orgName": "The University of Adelaide",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "110",
+      "orgName": "University of Alberta",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "111",
+      "orgName": "École Normale Supérieure de Lyon",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "112",
+      "orgName": "Nagoya University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "112",
+      "orgName": "Utrecht University",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "114",
+      "orgName": "University of Nottingham",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "115",
+      "orgName": "Universidade de São Paulo",
+      "country": "BR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "116",
+      "orgName": "Aalto University",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "116",
+      "orgName": "Université de Montréal ",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "118",
+      "orgName": "Freie Universitaet Berlin",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "118",
+      "orgName": "Washington University in St. Louis",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "120",
+      "orgName": "University of Bern",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "121",
+      "orgName": "Pontificia Universidad Católica de Chile (UC)",
+      "country": "CL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "122",
+      "orgName": "Newcastle University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "123",
+      "orgName": "Universiti Putra Malaysia (UPM)",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "124",
+      "orgName": "Wageningen University & Research",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "125",
+      "orgName": "Chalmers University of Technology",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "125",
+      "orgName": "Queen Mary University of London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "125",
+      "orgName": "University of Geneva",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "128",
+      "orgName": "Uppsala University",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "129",
+      "orgName": "Purdue University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "129",
+      "orgName": "Universiti Kebangsaan Malaysia (UKM)",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "131",
+      "orgName": "Humboldt-Universität zu Berlin",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "131",
+      "orgName": "Leiden University",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "133",
+      "orgName": "Nanjing University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "134",
+      "orgName": "University of Southern California",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "135",
+      "orgName": "Kyushu University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "136",
+      "orgName": "University of Basel",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "137",
+      "orgName": "University of Technology Sydney",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "138",
+      "orgName": "Eindhoven University of Technology",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "139",
+      "orgName": "Politecnico di Milano",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "140",
+      "orgName": "The Ohio State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "141",
+      "orgName": "Hokkaido University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "141",
+      "orgName": "KIT, Karlsruhe Institute of Technology",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "143",
+      "orgName": "Ghent University",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "143",
+      "orgName": "Universiti Sains Malaysia (USM)",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "145",
+      "orgName": "University of Groningen",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "146",
+      "orgName": "Lancaster University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "147",
+      "orgName": "RWTH Aachen University",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "147",
+      "orgName": "University of Rochester",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "149",
+      "orgName": "University of California, Santa Barbara (UCSB)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "150",
+      "orgName": "Al-Farabi Kazakh National University",
+      "country": "KZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "151",
+      "orgName": "University of Vienna",
+      "country": "AT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "152",
+      "orgName": "McMaster University",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "153",
+      "orgName": "Stockholm University",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "154",
+      "orgName": "University of Waterloo",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "155",
+      "orgName": "Emory University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "155",
+      "orgName": "Indian Institute of Science",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "157",
+      "orgName": "Hanyang University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "158",
+      "orgName": "Technische Universität Berlin (TU Berlin)",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "159",
+      "orgName": "Michigan State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "160",
+      "orgName": "King Fahd University of Petroleum & Minerals",
+      "country": "SA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "161",
+      "orgName": "Aarhus University",
+      "country": "DK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "162",
+      "orgName": "University of York",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "163",
+      "orgName": "The University of Exeter",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "164",
+      "orgName": "Texas A&M University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "164",
+      "orgName": "University of Maryland, College Park",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "166",
+      "orgName": "Cardiff University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "167",
+      "orgName": "Alma Mater Studiorum - University of Bologna",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "167",
+      "orgName": "Universidad de Chile",
+      "country": "CL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "169",
+      "orgName": "Eberhard Karls Universität Tübingen",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "170",
+      "orgName": "Tecnológico de Monterrey",
+      "country": "MX",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "171",
+      "orgName": "Sapienza University of Rome",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "172",
+      "orgName": "Indian Institute of Technology Bombay (IITB)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "172",
+      "orgName": "Western University",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "174",
+      "orgName": "Ecole des Ponts ParisTech",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "174",
+      "orgName": "Indian Institute of Technology Delhi (IITD)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "176",
+      "orgName": "Case Western Reserve University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "177",
+      "orgName": "National Tsing Hua University",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "178",
+      "orgName": "Universitat Autònoma de Barcelona",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "179",
+      "orgName": "Technische Universität Wien",
+      "country": "AT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "179",
+      "orgName": "University of Bath",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "181",
+      "orgName": "Khalifa University of Science and Technology",
+      "country": "AE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "181",
+      "orgName": "University College Dublin",
+      "country": "IE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "181",
+      "orgName": "University of Pittsburgh",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "184",
+      "orgName": "Universitat de Barcelona",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "185",
+      "orgName": "University of Gothenburg",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "185",
+      "orgName": "University of Minnesota Twin Cities",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "185",
+      "orgName": "University of Wollongong",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "188",
+      "orgName": "University of Florida",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "189",
+      "orgName": "Albert-Ludwigs-Universitaet Freiburg",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "190",
+      "orgName": "RMIT University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "190",
+      "orgName": "University of Liverpool",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "192",
+      "orgName": "The University of Newcastle, Australia (UON)",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "193",
+      "orgName": "Curtin University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "194",
+      "orgName": "Wuhan University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "195",
+      "orgName": "Macquarie University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "195",
+      "orgName": "Université catholique de Louvain (UCLouvain)",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "197",
+      "orgName": "Keio University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "197",
+      "orgName": "Ulsan National Institute of Science and Technology (UNIST)",
+      "country": "SK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "199",
+      "orgName": "Vanderbilt University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "200",
+      "orgName": "Technische Universität Dresden",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "201",
+      "orgName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "202",
+      "orgName": "National Yang Ming Chiao Tung University",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "203",
+      "orgName": "Universiti Teknologi Malaysia ",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "203",
+      "orgName": "University of Lausanne",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "205",
+      "orgName": "Dartmouth College",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "205",
+      "orgName": "Waseda University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "207",
+      "orgName": "University of Bergen",
+      "country": "NO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "208",
+      "orgName": "Erasmus University Rotterdam ",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "208",
+      "orgName": "Qatar University",
+      "country": "QA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "210",
+      "orgName": "Universidade Estadual de Campinas (Unicamp)",
+      "country": "BR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "210",
+      "orgName": "Universite libre de Bruxelles",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "212",
+      "orgName": "Tongji University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "212",
+      "orgName": "University of Twente",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "214",
+      "orgName": "Vrije Universiteit Amsterdam",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "215",
+      "orgName": "Universidad Autónoma de Madrid",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "215",
+      "orgName": "University of Göttingen",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "217",
+      "orgName": "Harbin Institute of Technology",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "217",
+      "orgName": "University of Otago",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "219",
+      "orgName": "Arizona State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "220",
+      "orgName": "Universidad de los Andes",
+      "country": "CO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "220",
+      "orgName": "University of Aberdeen",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "222",
+      "orgName": "Queensland University of Technology (QUT)",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "222",
+      "orgName": "The Hebrew University of Jerusalem",
+      "country": "IL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "224",
+      "orgName": "Chulalongkorn University",
+      "country": "TH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "224",
+      "orgName": "National Cheng Kung University (NCKU)",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "226",
+      "orgName": "Complutense University of Madrid",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "226",
+      "orgName": "Southern University of Science and Technology",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "228",
+      "orgName": "Universität Hamburg",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "229",
+      "orgName": "University of Reading",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "230",
+      "orgName": "Bauman Moscow State Technical University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "231",
+      "orgName": "Gadjah Mada University",
+      "country": "ID",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "232",
+      "orgName": "Radboud University ",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "233",
+      "orgName": "Queen's University Belfast",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "233",
+      "orgName": "Universitat Pompeu Fabra (Barcelona)",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "235",
+      "orgName": "Bandung Institute of Technology (ITB)",
+      "country": "ID",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "235",
+      "orgName": "University of California, Irvine",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "237",
+      "orgName": "King Saud University",
+      "country": "SA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "237",
+      "orgName": "University of Cape Town",
+      "country": "ZA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "237",
+      "orgName": "University of Ottawa",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "240",
+      "orgName": "University of Sussex",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "240",
+      "orgName": "USI - Università della Svizzera italiana",
+      "country": "CH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "242",
+      "orgName": "University of Calgary",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "243",
+      "orgName": "Universidad Nacional de Colombia",
+      "country": "CO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "243",
+      "orgName": "Università di Padova",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "243",
+      "orgName": "University of Notre Dame",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "246",
+      "orgName": "Queen's University at Kingston",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "246",
+      "orgName": "Yeshiva University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "248",
+      "orgName": "Universitas Indonesia",
+      "country": "ID",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "248",
+      "orgName": "Université Paris Cité",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "250",
+      "orgName": "Indian Institute of Technology Madras (IITM)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "251",
+      "orgName": "Vrije Universiteit Brussel (VUB)",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "252",
+      "orgName": "American University of Beirut (AUB)",
+      "country": "LB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "253",
+      "orgName": "University of Massachusetts Amherst",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "253",
+      "orgName": "University of Navarra",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "253",
+      "orgName": "University of Virginia",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "256",
+      "orgName": "Loughborough University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "256",
+      "orgName": "Mahidol University",
+      "country": "TH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "256",
+      "orgName": "Universiti Brunei Darussalam (UBD)",
+      "country": "BN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "259",
+      "orgName": "Sciences Po ",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "260",
+      "orgName": "Novosibirsk State University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "260",
+      "orgName": "Tel Aviv University",
+      "country": "IL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "262",
+      "orgName": "Beijing Normal University ",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "262",
+      "orgName": "The University of Arizona",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "264",
+      "orgName": "Indian Institute of Technology Kanpur (IITK)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "264",
+      "orgName": "Tomsk State University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "266",
+      "orgName": "Deakin University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "267",
+      "orgName": "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "267",
+      "orgName": "Rutgers University–New Brunswick",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "267",
+      "orgName": "Sun Yat-sen University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "270",
+      "orgName": "Indian Institute of Technology Kharagpur (IIT-KGP)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "270",
+      "orgName": "Kyung Hee University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "270",
+      "orgName": "National University of Ireland Galway",
+      "country": "IE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "270",
+      "orgName": "Saint Petersburg State University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "274",
+      "orgName": "University of Porto",
+      "country": "PT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "275",
+      "orgName": "Technical University of Darmstadt",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "275",
+      "orgName": "Victoria University of Wellington",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "277",
+      "orgName": "L.N. Gumilyov Eurasian National University (ENU)",
+      "country": "KZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "278",
+      "orgName": "Maastricht University ",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "279",
+      "orgName": "University of Leicester",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "280",
+      "orgName": "University of Antwerp",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "281",
+      "orgName": "Georgetown University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "281",
+      "orgName": "Heriot-Watt University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "281",
+      "orgName": "Hong Kong Baptist University",
+      "country": "HK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "284",
+      "orgName": "Graz University of Technology",
+      "country": "AT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "284",
+      "orgName": "Taylor's University",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "284",
+      "orgName": "UCSI University",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "284",
+      "orgName": "University of Canterbury | Te Whare Wānanga o Waitaha",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "284",
+      "orgName": "University of Warsaw ",
+      "country": "PL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "288",
+      "orgName": "Belarusian State University",
+      "country": "BY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "288",
+      "orgName": "Charles University",
+      "country": "CZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "288",
+      "orgName": "Gwangju Institute of Science and Technology (GIST)",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "291",
+      "orgName": "University of Turku",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "292",
+      "orgName": "Massey University",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "293",
+      "orgName": "Jagiellonian University",
+      "country": "PL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "293",
+      "orgName": "University of Tasmania",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "295",
+      "orgName": "RUDN University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "296",
+      "orgName": "Swinburne University of Technology",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "296",
+      "orgName": "United Arab Emirates University",
+      "country": "AE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "296",
+      "orgName": "University of Miami",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "296",
+      "orgName": "University of Tartu",
+      "country": "EE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "300",
+      "orgName": "Griffith University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "300",
+      "orgName": "Université Paris 1 Panthéon-Sorbonne ",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "302",
+      "orgName": "Xi’an Jiaotong University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "303",
+      "orgName": "University College Cork",
+      "country": "IE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "304",
+      "orgName": "University of Macau",
+      "country": "MO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "305",
+      "orgName": "University of Surrey",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "306",
+      "orgName": "Huazhong University of Science and Technology",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "307",
+      "orgName": "Tianjin University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "308",
+      "orgName": "Dalhousie University",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "308",
+      "orgName": "HSE University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "308",
+      "orgName": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "308",
+      "orgName": "Universität Innsbruck",
+      "country": "AT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "312",
+      "orgName": "North Carolina State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "312",
+      "orgName": "Tufts University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "312",
+      "orgName": "University of Tsukuba",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "316",
+      "orgName": "La Trobe University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "317",
+      "orgName": "Université Grenoble Alpes",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "317",
+      "orgName": "University of Colorado Boulder",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "317",
+      "orgName": "University of Illinois at Chicago (UIC)",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "320",
+      "orgName": "Linköping University",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "320",
+      "orgName": "Universidad Carlos III de Madrid (UC3M)",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "322",
+      "orgName": "Kazan (Volga region) Federal University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "323",
+      "orgName": "Pontificia Universidad Católica Argentina",
+      "country": "AR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "324",
+      "orgName": "University of Milan",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "325",
+      "orgName": "Politecnico di Torino",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "325",
+      "orgName": "University of Strathclyde",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "327",
+      "orgName": "National Taiwan University of Science and Technology (Taiwan Tech)",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "328",
+      "orgName": "Goethe-University Frankfurt am Main",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "328",
+      "orgName": "Simon Fraser University",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "330",
+      "orgName": "Aalborg University",
+      "country": "DK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "331",
+      "orgName": "University of Waikato",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "332",
+      "orgName": "National Taiwan Normal University",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "333",
+      "orgName": "Universidade Federal do Rio de Janeiro",
+      "country": "BR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "334",
+      "orgName": "National University of Sciences And Technology (NUST) Islamabad",
+      "country": "PK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "335",
+      "orgName": "University of Cologne",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "335",
+      "orgName": "University of Lisbon ",
+      "country": "PT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "335",
+      "orgName": "Ural Federal University - UrFU",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "338",
+      "orgName": "Hiroshima University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "339",
+      "orgName": "Indiana University Bloomington",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "340",
+      "orgName": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "340",
+      "orgName": "Universiti Teknologi Brunei",
+      "country": "BN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "342",
+      "orgName": "University of East Anglia (UEA)",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "343",
+      "orgName": "Birkbeck, University of London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "343",
+      "orgName": "Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "345",
+      "orgName": "MGIMO University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "346",
+      "orgName": "Ewha Womans University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "347",
+      "orgName": "IE University",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "347",
+      "orgName": "University of Jyväskylä",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "347",
+      "orgName": "University of Southern Denmark (SDU)",
+      "country": "DK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "350",
+      "orgName": "Johannes Kepler University Linz",
+      "country": "AT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "350",
+      "orgName": "University of Connecticut",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "352",
+      "orgName": "Norwegian University of Science And Technology",
+      "country": "NO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "352",
+      "orgName": "Universität Jena",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "354",
+      "orgName": " University of Dundee",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "355",
+      "orgName": "Beijing Institute of Technology",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "355",
+      "orgName": "City, University of London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "355",
+      "orgName": "Universität Stuttgart",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "358",
+      "orgName": "University of Chemistry and Technology, Prague",
+      "country": "CZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "359",
+      "orgName": "ITMO University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "359",
+      "orgName": "University of Victoria (UVic)",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "361",
+      "orgName": "Universiti Teknologi PETRONAS (UTP)",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "362",
+      "orgName": "George Washington University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "363",
+      "orgName": "Kobe University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "363",
+      "orgName": "Pontificia Universidad Católica del Perú",
+      "country": "PE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "363",
+      "orgName": "Quaid-i-Azam University",
+      "country": "PK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "363",
+      "orgName": "University of South Australia",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "363",
+      "orgName": "Virginia Polytechnic Institute and State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "368",
+      "orgName": "Lincoln University ",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "369",
+      "orgName": "Airlangga University",
+      "country": "ID",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "369",
+      "orgName": "American University of Sharjah",
+      "country": "AE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "369",
+      "orgName": "Indian Institute of Technology Roorkee (IITR)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "369",
+      "orgName": "Umea University",
+      "country": "SE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "369",
+      "orgName": "Universidade Nova de Lisboa",
+      "country": "PT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "369",
+      "orgName": "University of Kansas",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "375",
+      "orgName": "University of California, Santa Cruz",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "375",
+      "orgName": "University of Kent",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "375",
+      "orgName": "University Ulm",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "378",
+      "orgName": "Czech Technical University in Prague",
+      "country": "CZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "378",
+      "orgName": "Nankai University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "380",
+      "orgName": "Sharif University of Technology",
+      "country": "IR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "380",
+      "orgName": "University of Hawaiʻi at Mānoa",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "382",
+      "orgName": "Peter the Great St. Petersburg Polytechnic University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "382",
+      "orgName": "Pontificia Universidad Javeriana",
+      "country": "CO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "384",
+      "orgName": "Indian Institute of Technology Guwahati (IITG)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "384",
+      "orgName": "Sultan Qaboos University",
+      "country": "OM",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "384",
+      "orgName": "Taipei Medical University (TMU)",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "384",
+      "orgName": "Westfälische Wilhelms-Universität Münster ",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "388",
+      "orgName": "Lappeenranta-Lahti University of Technology LUT",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "388",
+      "orgName": "Northeastern University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "390",
+      "orgName": "Pakistan Institute of Engineering and Applied Sciences (PIEAS)",
+      "country": "PK",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "390",
+      "orgName": "Universidad de Palermo (UP)",
+      "country": "AR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "392",
+      "orgName": "Chung-Ang University (CAU)",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "392",
+      "orgName": "Tokyo Medical and Dental University (TMDU)",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "392",
+      "orgName": "University of Oulu",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "392",
+      "orgName": "University of Utah",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "396",
+      "orgName": "Indian Institute of Technology Indore (IIT Indore)",
+      "country": "IN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "396",
+      "orgName": "Shandong University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "398",
+      "orgName": "National Research Tomsk Polytechnic University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "398",
+      "orgName": "Tilburg University",
+      "country": "NL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "400",
+      "orgName": "Universitat Politècnica de València",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "400",
+      "orgName": "Vilnius University ",
+      "country": "LT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "402",
+      "orgName": "Colegio de México",
+      "country": "MX",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "402",
+      "orgName": "Royal Holloway University of London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "404",
+      "orgName": "University of Pisa",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "405",
+      "orgName": "Satbayev University",
+      "country": "KZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "406",
+      "orgName": "Sichuan University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "406",
+      "orgName": "South China University of Technology",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "408",
+      "orgName": "Colorado State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "408",
+      "orgName": "Technion - Israel Institute of Technology",
+      "country": "IL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "410",
+      "orgName": "HUFS - Hankuk (Korea) University of Foreign Studies ",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "410",
+      "orgName": "Julius-Maximilians-Universität Würzburg",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "412",
+      "orgName": "Brunel University London",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "412",
+      "orgName": "University of Johannesburg",
+      "country": "ZA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "412",
+      "orgName": "University of the Philippines",
+      "country": "PH",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "415",
+      "orgName": "Tampere University",
+      "country": "FI",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "416",
+      "orgName": "Ruhr-Universität Bochum",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "416",
+      "orgName": "Stony Brook University, State University of New York",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "416",
+      "orgName": "The American University in Cairo",
+      "country": "EG",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "416",
+      "orgName": "University of Naples - Federico II",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "420",
+      "orgName": "Johannes Gutenberg Universität Mainz",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "420",
+      "orgName": "Universität Leipzig",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "422",
+      "orgName": "National Technical University of Athens",
+      "country": "GR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "422",
+      "orgName": "Shanghai University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "422",
+      "orgName": "Xiamen University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "425",
+      "orgName": "Flinders University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "425",
+      "orgName": "Swansea University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "425",
+      "orgName": "University at Buffalo SUNY",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "428",
+      "orgName": "National Sun Yat-sen University",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "428",
+      "orgName": "University of Colorado, Denver ",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "428",
+      "orgName": "University of Science and Technology Beijing",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "428",
+      "orgName": "University of Witwatersrand",
+      "country": "ZA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "432",
+      "orgName": "Universidad Austral",
+      "country": "AR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "433",
+      "orgName": "Université Laval",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "434",
+      "orgName": "Far Eastern Federal University",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "434",
+      "orgName": "Université de Strasbourg",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "436",
+      "orgName": "National Taipei University of Technology",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "436",
+      "orgName": "Università Vita-Salute San Raffaele",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "438",
+      "orgName": "Oxford Brookes University",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "438",
+      "orgName": "University of Coimbra",
+      "country": "PT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "438",
+      "orgName": "Wake Forest University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "441",
+      "orgName": "Universidade Federal de São Paulo",
+      "country": "BR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "441",
+      "orgName": "Universität des Saarlandes",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "443",
+      "orgName": "Amirkabir University of Technology",
+      "country": "IR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "443",
+      "orgName": "Auezov South Kazakhstan University (SKU)",
+      "country": "KZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "443",
+      "orgName": "Beihang University (former BUAA)",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "443",
+      "orgName": "Illinois Institute of Technology",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "443",
+      "orgName": "SOAS University of London ",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "443",
+      "orgName": "Washington State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "449",
+      "orgName": "Bogor Agricultural University",
+      "country": "ID",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "449",
+      "orgName": "Hasselt University ",
+      "country": "BE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "449",
+      "orgName": "Umm Al-Qura University ",
+      "country": "SA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "449",
+      "orgName": "Universidad de Montevideo (UM)",
+      "country": "UY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "453",
+      "orgName": "University of California, Riverside",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "454",
+      "orgName": "Stellenbosch University",
+      "country": "ZA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "454",
+      "orgName": "University of Tromsø The Arctic University of Norway",
+      "country": "NO",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "456",
+      "orgName": "York University",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "457",
+      "orgName": "Institut National des Sciences Appliquées de Lyon (INSA)",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "457",
+      "orgName": "Sogang University",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "457",
+      "orgName": "University of Trento",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "460",
+      "orgName": "University of Florence",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "461",
+      "orgName": "James Cook University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "461",
+      "orgName": "Rensselaer Polytechnic Institute",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "461",
+      "orgName": "Southeast University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "461",
+      "orgName": "Universidad de Belgrano",
+      "country": "AR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "465",
+      "orgName": "Essex, University of",
+      "country": "GB",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "465",
+      "orgName": "Universidad de Santiago de Chile (USACH)",
+      "country": "CL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "467",
+      "orgName": "The National University of Science and Technology MISIS",
+      "country": "RU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "467",
+      "orgName": "Universidad de La Habana",
+      "country": "CU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "467",
+      "orgName": "University of Alaska Fairbanks",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "467",
+      "orgName": "University of Iowa",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "471",
+      "orgName": "Dublin City University",
+      "country": "IE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "471",
+      "orgName": "Tulane University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "473",
+      "orgName": "University of Cyprus (UCY)",
+      "country": "CY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "473",
+      "orgName": "University of Saskatchewan",
+      "country": "CA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "475",
+      "orgName": "Chang Gung University",
+      "country": "TW",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "475",
+      "orgName": "University of Turin",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "477",
+      "orgName": "Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM)",
+      "country": "SA",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "477",
+      "orgName": "Koç University",
+      "country": "TR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "477",
+      "orgName": "Martin-Luther-Universität Halle-Wittenberg",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "477",
+      "orgName": "UNESP",
+      "country": "BR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "481",
+      "orgName": "Bond University",
+      "country": "AU",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "481",
+      "orgName": "Dongguk University ",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "481",
+      "orgName": "Iowa State University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "481",
+      "orgName": "Kazakh National Agrarian University KazNAU",
+      "country": "KZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "481",
+      "orgName": "Universiti Utara Malaysia (UUM)",
+      "country": "MY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "486",
+      "orgName": "Auckland University of Technology (AUT)",
+      "country": "NZ",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "486",
+      "orgName": "University of Klagenfurt",
+      "country": "AT",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "488",
+      "orgName": "Ajou University ",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "488",
+      "orgName": "Universidad Politécnica de Madrid (UPM)",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "490",
+      "orgName": "Aix-Marseille University",
+      "country": "FR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "490",
+      "orgName": "Ben-Gurion University of The Negev",
+      "country": "IL",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "490",
+      "orgName": "Chiba University",
+      "country": "JP",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "490",
+      "orgName": "Justus-Liebig-University Giessen",
+      "country": "DE",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "494",
+      "orgName": "The Catholic University of Korea ",
+      "country": "KR",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "494",
+      "orgName": "Universidad ORT Uruguay",
+      "country": "UY",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "494",
+      "orgName": "University of Granada",
+      "country": "ES",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "497",
+      "orgName": "Brandeis University",
+      "country": "US",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "497",
+      "orgName": "Jilin University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "499",
+      "orgName": "Central South University",
+      "country": "CN",
+      "rating": "QS",
+      "year": 2023
+    },
+    {
+      "rank": "499",
+      "orgName": "University of Rome \"Tor Vergata\"",
+      "country": "IT",
+      "rating": "QS",
+      "year": 2023
+    }
+   ]

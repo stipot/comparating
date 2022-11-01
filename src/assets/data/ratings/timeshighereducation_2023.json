@@ -1,0 +1,3502 @@
+[
+    {
+        "title": "University of Oxford",
+        "rank": "1",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Harvard University",
+        "rank": "2",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Cambridge",
+        "rank": "3",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Stanford University",
+        "rank": "3",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Massachusetts Institute of Technology",
+        "rank": "5",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "California Institute of Technology",
+        "rank": "6",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Princeton University",
+        "rank": "7",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Berkeley",
+        "rank": "8",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Yale University",
+        "rank": "9",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Imperial College London",
+        "rank": "10",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Columbia University",
+        "rank": "11",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "ETH Zurich",
+        "rank": "11",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The University of Chicago",
+        "rank": "13",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Pennsylvania",
+        "rank": "14",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Johns Hopkins University",
+        "rank": "15",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tsinghua University",
+        "rank": "16",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Peking University",
+        "rank": "17",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Toronto",
+        "rank": "18",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "National University of Singapore",
+        "rank": "19",
+        "country": "Singapore",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Cornell University",
+        "rank": "20",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Los Angeles",
+        "rank": "21",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "UCL",
+        "rank": "22",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Michigan-Ann Arbor",
+        "rank": "23",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "New York University",
+        "rank": "24",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Duke University",
+        "rank": "25",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Northwestern University",
+        "rank": "26",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Washington",
+        "rank": "26",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Carnegie Mellon University",
+        "rank": "28",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Edinburgh",
+        "rank": "29",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Technical University of Munich",
+        "rank": "30",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Hong Kong",
+        "rank": "31",
+        "country": "Hong Kong",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, San Diego",
+        "rank": "32",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "LMU Munich",
+        "rank": "33",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Melbourne",
+        "rank": "34",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "King’s College London",
+        "rank": "35",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Nanyang Technological University, Singapore",
+        "rank": "36",
+        "country": "Singapore",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "London School of Economics and Political Science",
+        "rank": "37",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Georgia Institute of Technology",
+        "rank": "38",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The University of Tokyo",
+        "rank": "39",
+        "country": "Japan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of British Columbia",
+        "rank": "40",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "École Polytechnique Fédérale de Lausanne",
+        "rank": "41",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "KU Leuven",
+        "rank": "42",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Heidelberg University",
+        "rank": "43",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Monash University",
+        "rank": "44",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Chinese University of Hong Kong",
+        "rank": "45",
+        "country": "Hong Kong",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "McGill University",
+        "rank": "46",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Paris Sciences et Lettres – PSL Research University Paris",
+        "rank": "47",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Illinois at Urbana-Champaign",
+        "rank": "48",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Karolinska Institute",
+        "rank": "49",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Texas at Austin",
+        "rank": "50",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Fudan University",
+        "rank": "51",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Shanghai Jiao Tong University",
+        "rank": "52",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The University of Queensland",
+        "rank": "53",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Manchester",
+        "rank": "54",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Sydney",
+        "rank": "54",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Seoul National University",
+        "rank": "56",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Washington University in St Louis",
+        "rank": "57",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The Hong Kong University of Science and Technology",
+        "rank": "58",
+        "country": "Hong Kong",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Wageningen University & Research",
+        "rank": "59",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Amsterdam",
+        "rank": "60",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Brown University",
+        "rank": "61",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Australian National University",
+        "rank": "62",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Davis",
+        "rank": "63",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Santa Barbara",
+        "rank": "64",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Southern California",
+        "rank": "65",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Utrecht University",
+        "rank": "66",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Zhejiang University",
+        "rank": "67",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Kyoto University",
+        "rank": "68",
+        "country": "Japan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of North Carolina at Chapel Hill",
+        "rank": "69",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Delft University of Technology",
+        "rank": "70",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Boston University",
+        "rank": "71",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "UNSW Sydney",
+        "rank": "71",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Charité - Universitätsmedizin Berlin",
+        "rank": "73",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Science and Technology of China",
+        "rank": "74",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Groningen",
+        "rank": "75",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bristol",
+        "rank": "76",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Leiden University",
+        "rank": "77",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Yonsei University (Seoul campus)",
+        "rank": "78",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Hong Kong Polytechnic University",
+        "rank": "79",
+        "country": "Hong Kong",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Erasmus University Rotterdam",
+        "rank": "80",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Wisconsin-Madison",
+        "rank": "81",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Emory University",
+        "rank": "82",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Glasgow",
+        "rank": "82",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Zurich",
+        "rank": "82",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "McMaster University",
+        "rank": "85",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Humboldt University of Berlin",
+        "rank": "86",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Tübingen",
+        "rank": "86",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Adelaide",
+        "rank": "88",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bonn",
+        "rank": "89",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sorbonne University",
+        "rank": "90",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Free University of Berlin",
+        "rank": "91",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Korea Advanced Institute of Science and Technology (KAIST)",
+        "rank": "91",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Université Paris-Saclay",
+        "rank": "93",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bern",
+        "rank": "94",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Irvine",
+        "rank": "95",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Institut Polytechnique de Paris",
+        "rank": "95",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Nanjing University",
+        "rank": "95",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Vanderbilt University",
+        "rank": "98",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "City University of Hong Kong",
+        "rank": "99",
+        "country": "Hong Kong",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "RWTH Aachen University",
+        "rank": "99",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Basel",
+        "rank": "101",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "King Abdulaziz University",
+        "rank": "101",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Minnesota",
+        "rank": "101",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Maryland, College Park",
+        "rank": "104",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Warwick",
+        "rank": "104",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Michigan State University",
+        "rank": "106",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ghent University",
+        "rank": "107",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Birmingham",
+        "rank": "108",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Southampton",
+        "rank": "108",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Helsinki",
+        "rank": "110",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Montreal",
+        "rank": "111",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ohio State University (Main campus)",
+        "rank": "112",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Freiburg",
+        "rank": "113",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Copenhagen",
+        "rank": "114",
+        "country": "Denmark",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Université Paris Cité",
+        "rank": "114",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Sheffield",
+        "rank": "114",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Aarhus University",
+        "rank": "117",
+        "country": "Denmark",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Alberta",
+        "rank": "118",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Göttingen",
+        "rank": "119",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Lund University",
+        "rank": "119",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Vrije Universiteit Amsterdam",
+        "rank": "121",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Lancaster University",
+        "rank": "122",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Dartmouth College",
+        "rank": "123",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Queen Mary University of London",
+        "rank": "124",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Vienna",
+        "rank": "124",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Oslo",
+        "rank": "126",
+        "country": "Norway",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Purdue University West Lafayette",
+        "rank": "127",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Hamburg",
+        "rank": "128",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Leeds",
+        "rank": "128",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Nottingham",
+        "rank": "130",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Antwerp",
+        "rank": "131",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The University of Western Australia",
+        "rank": "131",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Technology Sydney",
+        "rank": "133",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Case Western Reserve University",
+        "rank": "134",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Lausanne",
+        "rank": "135",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Georgetown University",
+        "rank": "136",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Exeter",
+        "rank": "137",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Ottawa",
+        "rank": "137",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Auckland",
+        "rank": "139",
+        "country": "New Zealand",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Newcastle University",
+        "rank": "139",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Radboud University Nijmegen",
+        "rank": "139",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Würzburg",
+        "rank": "139",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of York",
+        "rank": "139",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Pittsburgh-Pittsburgh campus",
+        "rank": "144",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Maastricht University",
+        "rank": "145",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Cologne",
+        "rank": "146",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Rice University",
+        "rank": "147",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Colorado Boulder",
+        "rank": "148",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ulm University",
+        "rank": "148",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Uppsala University",
+        "rank": "148",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Florida",
+        "rank": "151",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Penn State (Main campus)",
+        "rank": "151",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tufts University",
+        "rank": "151",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Rochester",
+        "rank": "154",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "KTH Royal Institute of Technology",
+        "rank": "155",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Arizona State University (Tempe)",
+        "rank": "156",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Technical University of Berlin",
+        "rank": "156",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "TU Dresden",
+        "rank": "156",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Virginia (Main campus)",
+        "rank": "156",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Cape Town",
+        "rank": "160",
+        "country": "South Africa",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bologna",
+        "rank": "161",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Trinity College Dublin",
+        "rank": "161",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Leicester",
+        "rank": "163",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "",
+        "rank": "163",
+        "country": "",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Pohang University of Science and Technology (POSTECH)",
+        "rank": "163",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Southern University of Science and Technology (SUSTech)",
+        "rank": "166",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Technical University of Denmark",
+        "rank": "166",
+        "country": "Denmark",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Medical University of Graz",
+        "rank": "168",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Northeastern University, US",
+        "rank": "168",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Indiana University",
+        "rank": "170",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Université Catholique de Louvain",
+        "rank": "170",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sungkyunkwan University (SKKU)",
+        "rank": "170",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Wuhan University",
+        "rank": "173",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ulsan National Institute of Science and Technology (UNIST)",
+        "rank": "174",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Macquarie University",
+        "rank": "175",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Huazhong University of Science and Technology",
+        "rank": "176",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Liverpool",
+        "rank": "176",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Stockholm University",
+        "rank": "176",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Mannheim",
+        "rank": "179",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Arizona",
+        "rank": "180",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Texas A&M University",
+        "rank": "181",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Barcelona",
+        "rank": "182",
+        "country": "Spain",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Autonomous University of Barcelona",
+        "rank": "183",
+        "country": "Spain",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Scuola Normale Superiore di Pisa",
+        "rank": "183",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Münster",
+        "rank": "185",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Pompeu Fabra University",
+        "rank": "186",
+        "country": "Spain",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Cardiff University",
+        "rank": "187",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "National Taiwan University (NTU)",
+        "rank": "187",
+        "country": "Taiwan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Friedrich Schiller University Jena",
+        "rank": "189",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Karlsruhe Institute of Technology",
+        "rank": "189",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Massachusetts",
+        "rank": "191",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Aberdeen",
+        "rank": "192",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Santa Cruz",
+        "rank": "192",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Medical University of Vienna",
+        "rank": "194",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Miami",
+        "rank": "194",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Erlangen-Nuremberg",
+        "rank": "196",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sichuan University",
+        "rank": "196",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Durham University",
+        "rank": "198",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Queen’s University Belfast",
+        "rank": "198",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Reading",
+        "rank": "198",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Aalto University",
+        "rank": "201–250",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bergen",
+        "rank": "201–250",
+        "country": "Norway",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Bielefeld University",
+        "rank": "201–250",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Calgary",
+        "rank": "201–250",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Curtin University",
+        "rank": "201–250",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Dundee",
+        "rank": "201–250",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of East Anglia",
+        "rank": "201–250",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Eindhoven University of Technology",
+        "rank": "201–250",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Geneva",
+        "rank": "201–250",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "George Washington University",
+        "rank": "201–250",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Gothenburg",
+        "rank": "201–250",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Hohenheim",
+        "rank": "201–250",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Humanitas University",
+        "rank": "201–250",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "King Fahd University of Petroleum and Minerals",
+        "rank": "201–250",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Konstanz",
+        "rank": "201–250",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Korea University",
+        "rank": "201–250",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Université Libre de Bruxelles",
+        "rank": "201–250",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Luxembourg",
+        "rank": "201–250",
+        "country": "Luxembourg",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Macau",
+        "rank": "201–250",
+        "country": "Macao",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Macau University of Science and Technology",
+        "rank": "201–250",
+        "country": "Macao",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Medical University of Innsbruck",
+        "rank": "201–250",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "",
+        "rank": "201–250",
+        "country": "",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Newcastle",
+        "rank": "201–250",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Notre Dame",
+        "rank": "201–250",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Padua",
+        "rank": "201–250",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Potsdam",
+        "rank": "201–250",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Qatar University",
+        "rank": "201–250",
+        "country": "Qatar",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Queensland University of Technology",
+        "rank": "201–250",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "RCSI University of Medicine and Health Sciences",
+        "rank": "201–250",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Rutgers University – New Brunswick",
+        "rank": "201–250",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "St George’s, University of London",
+        "rank": "201–250",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sant’Anna School of Advanced Studies – Pisa",
+        "rank": "201–250",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of São Paulo",
+        "rank": "201–250",
+        "country": "Brazil",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sapienza University of Rome",
+        "rank": "201–250",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Semmelweis University",
+        "rank": "201–250",
+        "country": "Hungary",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of South Florida",
+        "rank": "201–250",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of St Andrews",
+        "rank": "201–250",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Surrey",
+        "rank": "201–250",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Sussex",
+        "rank": "201–250",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Università della Svizzera italiana",
+        "rank": "201–250",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Tartu",
+        "rank": "201–250",
+        "country": "Estonia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tel Aviv University",
+        "rank": "201–250",
+        "country": "Israel",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tohoku University",
+        "rank": "201–250",
+        "country": "Japan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University College Dublin",
+        "rank": "201–250",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Vita-Salute San Raffaele University",
+        "rank": "201–250",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Vrije Universiteit Brussel",
+        "rank": "201–250",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Waterloo",
+        "rank": "201–250",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Western University",
+        "rank": "201–250",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Western Sydney University",
+        "rank": "201–250",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Wollongong",
+        "rank": "201–250",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Aalborg University",
+        "rank": "251–300",
+        "country": "Denmark",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Auckland University of Technology",
+        "rank": "251–300",
+        "country": "New Zealand",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Australian Catholic University",
+        "rank": "251–300",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bath",
+        "rank": "251–300",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Beijing Normal University",
+        "rank": "251–300",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Bond University",
+        "rank": "251–300",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Boston College",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Bournemouth University",
+        "rank": "251–300",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Brighton and Sussex Medical School",
+        "rank": "251–300",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Riverside",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Canberra",
+        "rank": "251–300",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Chalmers University of Technology",
+        "rank": "251–300",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "China Medical University, Taiwan",
+        "rank": "251–300",
+        "country": "Taiwan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Copenhagen Business School",
+        "rank": "251–300",
+        "country": "Denmark",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Deakin University",
+        "rank": "251–300",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Duisburg-Essen",
+        "rank": "251–300",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Heinrich Heine University Düsseldorf",
+        "rank": "251–300",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "École des Ponts ParisTech",
+        "rank": "251–300",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Goethe University Frankfurt",
+        "rank": "251–300",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Griffith University",
+        "rank": "251–300",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Hawai’i at Mānoa",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Hebrew University of Jerusalem",
+        "rank": "251–300",
+        "country": "Israel",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Illinois at Chicago",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Indian Institute of Science",
+        "rank": "251–300",
+        "country": "India",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Johannes Gutenberg University of Mainz",
+        "rank": "251–300",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Kiel",
+        "rank": "251–300",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "King Saud University",
+        "rank": "251–300",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Kyung Hee University",
+        "rank": "251–300",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "La Trobe University",
+        "rank": "251–300",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Université Laval",
+        "rank": "251–300",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Linköping University",
+        "rank": "251–300",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Navarra",
+        "rank": "251–300",
+        "country": "Spain",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Oregon Health and Science University",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Osaka University",
+        "rank": "251–300",
+        "country": "Japan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Pavia",
+        "rank": "251–300",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Queen’s University",
+        "rank": "251–300",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ruhr University Bochum",
+        "rank": "251–300",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sejong University",
+        "rank": "251–300",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Sharjah",
+        "rank": "251–300",
+        "country": "United Arab Emirates",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Simon Fraser University",
+        "rank": "251–300",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Southern Denmark",
+        "rank": "251–300",
+        "country": "Denmark",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Stellenbosch University",
+        "rank": "251–300",
+        "country": "South Africa",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sun Yat-sen University",
+        "rank": "251–300",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Swansea University",
+        "rank": "251–300",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tilburg University",
+        "rank": "251–300",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tongji University",
+        "rank": "251–300",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Twente",
+        "rank": "251–300",
+        "country": "Netherlands",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "United Arab Emirates University",
+        "rank": "251–300",
+        "country": "United Arab Emirates",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Utah",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Virginia Polytechnic Institute and State University",
+        "rank": "251–300",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of the Witwatersrand",
+        "rank": "251–300",
+        "country": "South Africa",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Abu Dhabi University",
+        "rank": "301–350",
+        "country": "United Arab Emirates",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Aix-Marseille University",
+        "rank": "301–350",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Alfaisal University",
+        "rank": "301–350",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Anglia Ruskin University (ARU)",
+        "rank": "301–350",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Autonomous University of Madrid",
+        "rank": "301–350",
+        "country": "Spain",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bordeaux",
+        "rank": "301–350",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Brandeis University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Universiti Brunei Darussalam",
+        "rank": "301–350",
+        "country": "Brunei Darussalam",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University at Buffalo",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of California, Merced",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Colorado Denver/Anschutz Medical Campus",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Dalhousie University",
+        "rank": "301–350",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Drexel University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "École Normale Supérieure de Lyon",
+        "rank": "301–350",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Essex",
+        "rank": "301–350",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Flinders University",
+        "rank": "301–350",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Florida State University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Galway – Ollscoil na Gaillimhe",
+        "rank": "301–350",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "George Mason University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Hasselt University",
+        "rank": "301–350",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Iowa",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Lappeenranta-Lahti University of Technology LUT",
+        "rank": "301–350",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Milan",
+        "rank": "301–350",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Milan-Bicocca",
+        "rank": "301–350",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Montpellier University",
+        "rank": "301–350",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Nagoya University",
+        "rank": "301–350",
+        "country": "Japan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Nankai University",
+        "rank": "301–350",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Otago",
+        "rank": "301–350",
+        "country": "New Zealand",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Oulu",
+        "rank": "301–350",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "",
+        "rank": "301–350",
+        "country": "",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Politecnico di Milano",
+        "rank": "301–350",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Reykjavík University",
+        "rank": "301–350",
+        "country": "Iceland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "RMIT University",
+        "rank": "301–350",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of St Gallen",
+        "rank": "301–350",
+        "country": "Switzerland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Saint Louis University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of South Australia",
+        "rank": "301–350",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Southern Queensland",
+        "rank": "301–350",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Stony Brook University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Stuttgart",
+        "rank": "301–350",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Swinburne University of Technology",
+        "rank": "301–350",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Taipei Medical University",
+        "rank": "301–350",
+        "country": "Taiwan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tampere University",
+        "rank": "301–350",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Tasmania",
+        "rank": "301–350",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Technical University of Darmstadt",
+        "rank": "301–350",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Temple University",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The University of Tennessee-Knoxville",
+        "rank": "301–350",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tokyo Institute of Technology",
+        "rank": "301–350",
+        "country": "Japan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University College Cork",
+        "rank": "301–350",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Victoria",
+        "rank": "301–350",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "American University of Beirut",
+        "rank": "351–400",
+        "country": "Lebanon",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Asia University, Taiwan",
+        "rank": "351–400",
+        "country": "Taiwan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ateneo de Manila University",
+        "rank": "351–400",
+        "country": "Philippines",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Birkbeck, University of London",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bremen",
+        "rank": "351–400",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Brescia",
+        "rank": "351–400",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Cape Coast",
+        "rank": "351–400",
+        "country": "Ghana",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Catholic University of Portugal",
+        "rank": "351–400",
+        "country": "Portugal",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Central South University",
+        "rank": "351–400",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Charles Darwin University",
+        "rank": "351–400",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "City, University of London",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Delaware",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "East China Normal University",
+        "rank": "351–400",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Edith Cowan University",
+        "rank": "351–400",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Golestan University of Medical Sciences",
+        "rank": "351–400",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Greifswald",
+        "rank": "351–400",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Hail",
+        "rank": "351–400",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Harbin Institute of Technology",
+        "rank": "351–400",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Howard University",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Imam Mohammad Ibn Saud Islamic University",
+        "rank": "351–400",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "IMT Atlantique",
+        "rank": "351–400",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "James Cook University",
+        "rank": "351–400",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "JSS Academy of Higher Education and Research",
+        "rank": "351–400",
+        "country": "India",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Kent",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Khalifa University",
+        "rank": "351–400",
+        "country": "United Arab Emirates",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Kurdistan University of Medical Sciences",
+        "rank": "351–400",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Leuphana University of Lüneburg",
+        "rank": "351–400",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Liège",
+        "rank": "351–400",
+        "country": "Belgium",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Loughborough University",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Malaya",
+        "rank": "351–400",
+        "country": "Malaysia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Manitoba",
+        "rank": "351–400",
+        "country": "Canada",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Mazandaran University of Medical Sciences",
+        "rank": "351–400",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Naples Federico II",
+        "rank": "351–400",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of New Mexico (Main campus)",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "North Carolina State University",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Rome II – Tor Vergata",
+        "rank": "351–400",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Royal Holloway, University of London",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Royal Veterinary College",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Rush University",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Shoolini University of Biotechnology and Management Sciences",
+        "rank": "351–400",
+        "country": "India",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Stirling",
+        "rank": "351–400",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Swedish University of Agricultural Sciences",
+        "rank": "351–400",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Texas at Dallas",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tulane University",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Turku",
+        "rank": "351–400",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Vaasa",
+        "rank": "351–400",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Verona University",
+        "rank": "351–400",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Wake Forest University",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Washington State University",
+        "rank": "351–400",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Wroclaw Medical University",
+        "rank": "351–400",
+        "country": "Poland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Alagappa University",
+        "rank": "401–500",
+        "country": "India",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Alaska Fairbanks",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Arak University of Medical Sciences",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Aston University",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Aswan University",
+        "rank": "401–500",
+        "country": "Egypt",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Babol University of Medical Sciences",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Babol Noshirvani University of Technology",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Bangor University",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Bayreuth",
+        "rank": "401–500",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Brunel University London",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Campinas",
+        "rank": "401–500",
+        "country": "Brazil",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Cankaya University",
+        "rank": "401–500",
+        "country": "Turkey",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Catania",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Claude Bernard University Lyon 1",
+        "rank": "401–500",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Colorado School of Mines",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Colorado State University, Fort Collins",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Complutense University of Madrid",
+        "rank": "401–500",
+        "country": "Spain",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Connecticut",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Crete",
+        "rank": "401–500",
+        "country": "Greece",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Cyprus",
+        "rank": "401–500",
+        "country": "Cyprus",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Denver",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Dublin City University",
+        "rank": "401–500",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Duy Tan University",
+        "rank": "401–500",
+        "country": "Vietnam",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Edinburgh Napier University",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Electronic Science and Technology of China",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ferhat Abbas Sétif University 1",
+        "rank": "401–500",
+        "country": "Algeria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Ferrara",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Florence",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Free University of Bozen-Bolzano",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Genoa",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Georgia State University",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Université Grenoble Alpes",
+        "rank": "401–500",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Hanyang University",
+        "rank": "401–500",
+        "country": "South Korea",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "",
+        "rank": "401–500",
+        "country": "",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Hunan University",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Ibadan",
+        "rank": "401–500",
+        "country": "Nigeria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Illinois Institute of Technology",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Innsbruck",
+        "rank": "401–500",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Institut Agro",
+        "rank": "401–500",
+        "country": "France",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of International Business and Economics",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Iowa State University",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Jazan University",
+        "rank": "401–500",
+        "country": "Saudi Arabia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Justus Liebig University Giessen",
+        "rank": "401–500",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Jyväskylä",
+        "rank": "401–500",
+        "country": "Finland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Kansas",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Klagenfurt",
+        "rank": "401–500",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Koç University",
+        "rank": "401–500",
+        "country": "Turkey",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of KwaZulu-Natal",
+        "rank": "401–500",
+        "country": "South Africa",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Lagos",
+        "rank": "401–500",
+        "country": "Nigeria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Leibniz University Hannover",
+        "rank": "401–500",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Lincoln University",
+        "rank": "401–500",
+        "country": "New Zealand",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Lincoln",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Liverpool John Moores University",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Mahatma Gandhi University",
+        "rank": "401–500",
+        "country": "India",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Marburg",
+        "rank": "401–500",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Maynooth University",
+        "rank": "401–500",
+        "country": "Ireland",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Middlesex University",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Modena and Reggio Emilia",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Muhimbili University of Health and Allied Sciences",
+        "rank": "401–500",
+        "country": "Tanzania",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Murdoch University",
+        "rank": "401–500",
+        "country": "Australia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "National and Kapodistrian University of Athens",
+        "rank": "401–500",
+        "country": "Greece",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "",
+        "rank": "401–500",
+        "country": "",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Nebraska-Lincoln",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Nebraska Medical Center",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Norwegian University of Science and Technology",
+        "rank": "401–500",
+        "country": "Norway",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Nova Southeastern University",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Örebro University",
+        "rank": "401–500",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Passau",
+        "rank": "401–500",
+        "country": "Germany",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Pisa",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Plymouth",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Pontificia Universidad Católica de Chile",
+        "rank": "401–500",
+        "country": "Chile",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Porto",
+        "rank": "401–500",
+        "country": "Portugal",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Portsmouth",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Qazvin University of Medical Sciences",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Qom University of Medical Sciences",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Quaid-i-Azam University",
+        "rank": "401–500",
+        "country": "Pakistan",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sabancı University",
+        "rank": "401–500",
+        "country": "Turkey",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sharif University of Technology",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Shenzhen University",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Siena",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "South China University of Technology",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Southeast University",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Southern Medical University",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "SRUC (Scotland’s Rural College)",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Strathclyde",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Sumy State University",
+        "rank": "401–500",
+        "country": "Ukraine",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Syracuse University",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Universiti Teknologi Petronas",
+        "rank": "401–500",
+        "country": "Malaysia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Tianjin University",
+        "rank": "401–500",
+        "country": "China",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Ton Duc Thang University",
+        "rank": "401–500",
+        "country": "Vietnam",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Trento",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "The University of Tulsa",
+        "rank": "401–500",
+        "country": "United States",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Turin",
+        "rank": "401–500",
+        "country": "Italy",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "TU Wien",
+        "rank": "401–500",
+        "country": "Austria",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Umeå University",
+        "rank": "401–500",
+        "country": "Sweden",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Urmia University of Medical Sciences",
+        "rank": "401–500",
+        "country": "Iran",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Universiti Utara Malaysia",
+        "rank": "401–500",
+        "country": "Malaysia",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "Victoria University of Wellington",
+        "rank": "401–500",
+        "country": "New Zealand",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of Waikato",
+        "rank": "401–500",
+        "country": "New Zealand",
+        "rating": "timeshighereducation",
+        "year": 2023
+    },
+    {
+        "title": "University of the West of England",
+        "rank": "401–500",
+        "country": "United Kingdom",
+        "rating": "timeshighereducation",
+        "year": 2023
+    }
+]

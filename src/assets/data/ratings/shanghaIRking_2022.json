@@ -1,0 +1,3502 @@
+[
+  {
+    "orgName": "Harvard University",
+    "rank": "1",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Stanford University",
+    "rank": "2",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Massachusetts Institute of Technology (MIT)",
+    "rank": "3",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Cambridge",
+    "rank": "4",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Berkeley",
+    "rank": "5",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Princeton University",
+    "rank": "6",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Oxford",
+    "rank": "7",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Columbia University",
+    "rank": "8",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "California Institute of Technology",
+    "rank": "9",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Chicago",
+    "rank": "10",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Yale University",
+    "rank": "11",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Cornell University",
+    "rank": "12",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Los Angeles",
+    "rank": "13",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Johns Hopkins University",
+    "rank": "14",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Pennsylvania",
+    "rank": "15",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Paris-Saclay University",
+    "rank": "16",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Washington",
+    "rank": "17",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University College London",
+    "rank": "18",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, San Francisco",
+    "rank": "19",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "ETH Zurich",
+    "rank": "20",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, San Diego",
+    "rank": "21",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Toronto",
+    "rank": "22",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Imperial College London",
+    "rank": "23",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Tokyo",
+    "rank": "24",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "New York University",
+    "rank": "25",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tsinghua University",
+    "rank": "26",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Washington University in St. Louis",
+    "rank": "27",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Michigan-Ann Arbor",
+    "rank": "28",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of North Carolina at Chapel Hill",
+    "rank": "29",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Northwestern University",
+    "rank": "30",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Duke University",
+    "rank": "31",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Melbourne",
+    "rank": "32",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Wisconsin - Madison",
+    "rank": "33",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Peking University",
+    "rank": "34",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Edinburgh",
+    "rank": "35",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Zhejiang University",
+    "rank": "36",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas at Austin",
+    "rank": "37",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Manchester",
+    "rank": "38",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Copenhagen",
+    "rank": "39",
+    "country": "DK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "PSL University",
+    "rank": "40",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Karolinska Institute",
+    "rank": "41",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Kyoto University",
+    "rank": "41",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Sorbonne University",
+    "rank": "43",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Rockefeller University",
+    "rank": "44",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of British Columbia",
+    "rank": "44",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Minnesota, Twin Cities",
+    "rank": "44",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Queensland",
+    "rank": "47",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "King's College London",
+    "rank": "48",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Illinois at Urbana-Champaign",
+    "rank": "49",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Maryland, College Park",
+    "rank": "50",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Colorado at Boulder",
+    "rank": "51",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas Southwestern Medical Center at Dallas",
+    "rank": "52",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Southern California",
+    "rank": "53",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Shanghai Jiao Tong University",
+    "rank": "54",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Utrecht University",
+    "rank": "54",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Technical University of Munich",
+    "rank": "56",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Santa Barbara",
+    "rank": "57",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Munich",
+    "rank": "57",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Zurich",
+    "rank": "59",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Sydney",
+    "rank": "60",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Irvine",
+    "rank": "61",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Geneva",
+    "rank": "62",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Science and Technology of China",
+    "rank": "62",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of New South Wales",
+    "rank": "64",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Vanderbilt University",
+    "rank": "64",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Groningen",
+    "rank": "66",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Fudan University",
+    "rank": "67",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Oslo",
+    "rank": "67",
+    "country": "NO",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Aarhus University",
+    "rank": "69",
+    "country": "DK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Heidelberg University",
+    "rank": "70",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National University of Singapore",
+    "rank": "71",
+    "country": "SG",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas M. D. Anderson Cancer Center",
+    "rank": "71",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "McGill University",
+    "rank": "73",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Ghent University",
+    "rank": "74",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Monash University",
+    "rank": "75",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bonn",
+    "rank": "76",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The Hebrew University of Jerusalem",
+    "rank": "77",
+    "country": "IL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Université Paris Cité",
+    "rank": "78",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Sun Yat-sen University",
+    "rank": "79",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The Australian National University",
+    "rank": "79",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bristol",
+    "rank": "81",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Pittsburgh",
+    "rank": "82",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Purdue University - West Lafayette",
+    "rank": "83",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Technion-Israel Institute of Technology",
+    "rank": "83",
+    "country": "IL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Basel",
+    "rank": "83",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Weizmann Institute of Science",
+    "rank": "83",
+    "country": "IL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Erasmus University Rotterdam",
+    "rank": "87",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanyang Technological University",
+    "rank": "88",
+    "country": "SG",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Uppsala University",
+    "rank": "89",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "McMaster University",
+    "rank": "90",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Stockholm University",
+    "rank": "90",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Alberta",
+    "rank": "92",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Helsinki",
+    "rank": "92",
+    "country": "FI",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Florida",
+    "rank": "94",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "KU Leuven",
+    "rank": "95",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Huazhong University of Science and Technology",
+    "rank": "96",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Hong Kong",
+    "rank": "96",
+    "country": "HK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Seoul National University",
+    "rank": "98",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Brown University",
+    "rank": "99",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Western Australia",
+    "rank": "99",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Aix Marseille University",
+    "rank": "101-150",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Arizona State University",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Boston University",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Carnegie Mellon University",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Case Western Reserve University",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Central South University",
+    "rank": "101-150",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Emory University",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Icahn School of Medicine at Mount Sinai",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Indiana University Bloomington",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "King Abdulaziz University",
+    "rank": "101-150",
+    "country": "SA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "King Saud University",
+    "rank": "101-150",
+    "country": "SA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Leiden University",
+    "rank": "101-150",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "London School of Economics and Political Science",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Mayo Clinic Alix School of Medicine",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Moscow State University",
+    "rank": "101-150",
+    "country": "RU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nagoya University",
+    "rank": "101-150",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanjing University",
+    "rank": "101-150",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Norwegian University of Science and Technology - NTNU",
+    "rank": "101-150",
+    "country": "NO",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Radboud University Nijmegen",
+    "rank": "101-150",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Rice University",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Rutgers, The State University of New Jersey - New Brunswick",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Sapienza University of Rome",
+    "rank": "101-150",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Sichuan University",
+    "rank": "101-150",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Swiss Federal Institute of Technology Lausanne",
+    "rank": "101-150",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The Chinese University of Hong Kong",
+    "rank": "101-150",
+    "country": "HK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The Ohio State University - Columbus",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Pennsylvania State University - University Park",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Adelaide",
+    "rank": "101-150",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Glasgow",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Sheffield",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Université Grenoble Alpes",
+    "rank": "101-150",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Université libre de Bruxelles (ULB)",
+    "rank": "101-150",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Amsterdam",
+    "rank": "101-150",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Arizona",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bern",
+    "rank": "101-150",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Birmingham",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Davis",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Exeter",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Freiburg",
+    "rank": "101-150",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Gothenburg",
+    "rank": "101-150",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Lausanne",
+    "rank": "101-150",
+    "country": "CH",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Liverpool",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Montreal",
+    "rank": "101-150",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Nottingham",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Sao Paulo",
+    "rank": "101-150",
+    "country": "BR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Strasbourg",
+    "rank": "101-150",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Utah",
+    "rank": "101-150",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Warwick",
+    "rank": "101-150",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Wuhan University",
+    "rank": "101-150",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Xi'an Jiaotong University",
+    "rank": "101-150",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Baylor College of Medicine",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Beijing Institute of Technology",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Cardiff University",
+    "rank": "151-200",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "City University of Hong Kong",
+    "rank": "151-200",
+    "country": "HK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Delft University of Technology",
+    "rank": "151-200",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Georgia Institute of Technology",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Goethe University Frankfurt",
+    "rank": "151-200",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Harbin Institute of Technology",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Jilin University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "London School of Hygiene & Tropical Medicine",
+    "rank": "151-200",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Lund University",
+    "rank": "151-200",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Michigan State University",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Northwestern Polytechnical University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Osaka University",
+    "rank": "151-200",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Shandong University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Soochow University (China)",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "South China University of Technology",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Southeast University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Southern University of Science and Technology",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Technical University of Denmark",
+    "rank": "151-200",
+    "country": "DK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tel Aviv University",
+    "rank": "151-200",
+    "country": "IL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Texas A&M University",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The Hong Kong Polytechnic University",
+    "rank": "151-200",
+    "country": "HK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Calgary",
+    "rank": "151-200",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tianjin University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tohoku University",
+    "rank": "151-200",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tokyo Institute of Technology",
+    "rank": "151-200",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tongji University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Trinity College Dublin",
+    "rank": "151-200",
+    "country": "IE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tufts University",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Barcelona",
+    "rank": "151-200",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Santa Cruz",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Cologne",
+    "rank": "151-200",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Electronic Science and Technology of China",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Goettingen",
+    "rank": "151-200",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Leeds",
+    "rank": "151-200",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Massachusetts Amherst",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Milan",
+    "rank": "151-200",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Montpellier",
+    "rank": "151-200",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Padua",
+    "rank": "151-200",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Pisa",
+    "rank": "151-200",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Rochester",
+    "rank": "151-200",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Southampton",
+    "rank": "151-200",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Sussex",
+    "rank": "151-200",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Tuebingen",
+    "rank": "151-200",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Vienna",
+    "rank": "151-200",
+    "country": "AT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Waterloo",
+    "rank": "151-200",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Vrije Universiteit Amsterdam",
+    "rank": "151-200",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Wageningen University & Research",
+    "rank": "151-200",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Xiamen University",
+    "rank": "151-200",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Autonomous University of Barcelona",
+    "rank": "201-300",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Beihang University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Beijing Normal University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Catholic University of Louvain",
+    "rank": "201-300",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "China Agricultural University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "China Medical University (Taichung)",
+    "rank": "201-300",
+    "country": "TW",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Chongqing University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Claude Bernard University Lyon 1",
+    "rank": "201-300",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Colorado State University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Complutense University of Madrid",
+    "rank": "201-300",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Curtin University",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Dalian University of Technology",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Deakin University",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "East China Normal University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Florida State University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "George Mason University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Griffith University",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Hanyang University",
+    "rank": "201-300",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Hokkaido University",
+    "rank": "201-300",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Hunan University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Jiangsu University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Karlsruhe Institute of Technology (KIT)",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "King Abdullah University of Science and Technology",
+    "rank": "201-300",
+    "country": "SA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Korea Advanced Institute of Science and Technology",
+    "rank": "201-300",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Korea University",
+    "rank": "201-300",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "KTH Royal Institute of Technology",
+    "rank": "201-300",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "La Trobe University",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Maastricht University",
+    "rank": "201-300",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Macquarie University",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Medical University of Vienna",
+    "rank": "201-300",
+    "country": "AT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanjing Medical University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nankai University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National Autonomous University of Mexico",
+    "rank": "201-300",
+    "country": "MX",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National Taiwan University",
+    "rank": "201-300",
+    "country": "TW",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Newcastle University",
+    "rank": "201-300",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "North Carolina State University - Raleigh",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Northeastern University (Boston)",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Oregon Health and Science University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Oregon State University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Paul Sabatier University (Toulouse 3)",
+    "rank": "201-300",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Polytechnic University of Milan",
+    "rank": "201-300",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Queen Mary University of London",
+    "rank": "201-300",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Queen's University",
+    "rank": "201-300",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Queensland University of Technology",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "RWTH Aachen University",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Shanghai University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Shenzhen University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Sungkyunkwan University",
+    "rank": "201-300",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Swinburne University of Technology",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The George Washington University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Auckland",
+    "rank": "201-300",
+    "country": "NZ",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "TU Dresden",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Ulsan National Institute of Science and Technology",
+    "rank": "201-300",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Aberdeen",
+    "rank": "201-300",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Antwerp",
+    "rank": "201-300",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bologna",
+    "rank": "201-300",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bordeaux",
+    "rank": "201-300",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Buenos Aires",
+    "rank": "201-300",
+    "country": "AR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Riverside",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Cape Town",
+    "rank": "201-300",
+    "country": "ZA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Colorado at Denver",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Delaware",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of East Anglia",
+    "rank": "201-300",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Erlangen-Nuremberg",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Granada",
+    "rank": "201-300",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Hamburg",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Houston",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Iowa",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Kansas",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Kiel",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Leipzig",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Lisbon",
+    "rank": "201-300",
+    "country": "PT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Lorraine",
+    "rank": "201-300",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Mainz",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Manitoba",
+    "rank": "201-300",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Massachusetts Medical School - Worcester",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Miami",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Missouri - Columbia",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Muenster",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Naples Federico II",
+    "rank": "201-300",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Nebraska - Lincoln",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Ottawa",
+    "rank": "201-300",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Porto",
+    "rank": "201-300",
+    "country": "PT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Science and Technology Beijing",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of South Florida",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Southern Denmark",
+    "rank": "201-300",
+    "country": "DK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Tasmania",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Technology Sydney",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Tennessee - Knoxville",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Tsukuba",
+    "rank": "201-300",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Turin",
+    "rank": "201-300",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Valencia",
+    "rank": "201-300",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Virginia",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Wollongong",
+    "rank": "201-300",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Wuerzburg",
+    "rank": "201-300",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Virginia Commonwealth University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Virginia Polytechnic Institute and State University",
+    "rank": "201-300",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Western University",
+    "rank": "201-300",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Yonsei University",
+    "rank": "201-300",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Zhengzhou University",
+    "rank": "201-300",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Aalborg University",
+    "rank": "301-400",
+    "country": "DK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Aalto University",
+    "rank": "301-400",
+    "country": "FI",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Albert Einstein College of Medicine",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Autonomous University of Madrid",
+    "rank": "301-400",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Bar-Ilan University",
+    "rank": "301-400",
+    "country": "IL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Beijing University of Chemical Technology",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Brandeis University",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Cairo University",
+    "rank": "301-400",
+    "country": "EG",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Capital Medical University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Catholic University of the Sacred Heart",
+    "rank": "301-400",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Charles University in Prague",
+    "rank": "301-400",
+    "country": "CZ",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "China University of Geosciences (Wuhan)",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Peking Union Medical College",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Dalhousie University",
+    "rank": "301-400",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Dartmouth College",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Drexel University",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Durham University",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "East China University of Science and Technology",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Ecole Normale Superieure - Lyon",
+    "rank": "301-400",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Eindhoven University of Technology",
+    "rank": "301-400",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Fuzhou University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Heinrich Heine University Duesseldorf",
+    "rank": "301-400",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Huazhong Agricultural University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Indian Institute of Science",
+    "rank": "301-400",
+    "country": "IN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Indiana University-Purdue University at Indianapolis",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Institut Polytechnique de Paris",
+    "rank": "301-400",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "James Cook University",
+    "rank": "301-400",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Jinan University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Keio University",
+    "rank": "301-400",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Kyushu University",
+    "rank": "301-400",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Lancaster University",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Lanzhou University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Laval University",
+    "rank": "301-400",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Linkoping University",
+    "rank": "301-400",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanchang University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanjing Agricultural University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "NanJing Tech University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanjing University of Aeronautics and Astronautics",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanjing University of Science and Technology",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National and Kapodistrian University of Athens",
+    "rank": "301-400",
+    "country": "GR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National Cheng Kung University",
+    "rank": "301-400",
+    "country": "TW",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Northeastern University (Shenyang)",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Ocean University of China",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Pohang University of Science and Technology",
+    "rank": "301-400",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Pompeu Fabra University",
+    "rank": "301-400",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Queen's University Belfast",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "RMIT University",
+    "rank": "301-400",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Saint Petersburg State University",
+    "rank": "301-400",
+    "country": "RU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "ShanghaiTech University",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Simon Fraser University",
+    "rank": "301-400",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Stony Brook University",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Swedish University of Agricultural Sciences",
+    "rank": "301-400",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Technical University of Berlin",
+    "rank": "301-400",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The Hong Kong University of Science and Technology",
+    "rank": "301-400",
+    "country": "HK",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Dundee",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Georgia",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Newcastle, Australia",
+    "rank": "301-400",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Reading",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas at Dallas",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas Health Science Center at Houston",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University at Buffalo, the State University of New York",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University College Cork",
+    "rank": "301-400",
+    "country": "IE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University College Dublin",
+    "rank": "301-400",
+    "country": "IE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Alabama at Birmingham",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bergen",
+    "rank": "301-400",
+    "country": "NO",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bochum",
+    "rank": "301-400",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Campinas",
+    "rank": "301-400",
+    "country": "BR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Central Florida",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Cincinnati",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Connecticut",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Duisburg-Essen",
+    "rank": "301-400",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Florence",
+    "rank": "301-400",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Hawaii at Manoa",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Illinois at Chicago",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Innsbruck",
+    "rank": "301-400",
+    "country": "AT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Kentucky",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Leicester",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Liege",
+    "rank": "301-400",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Lille",
+    "rank": "301-400",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Malaya",
+    "rank": "301-400",
+    "country": "MY",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Maryland, Baltimore",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Milano-Bicocca",
+    "rank": "301-400",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Notre Dame",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Oregon",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Otago",
+    "rank": "301-400",
+    "country": "NZ",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Saskatchewan",
+    "rank": "301-400",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of St Andrews",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Stuttgart",
+    "rank": "301-400",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Surrey",
+    "rank": "301-400",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Tehran",
+    "rank": "301-400",
+    "country": "IR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of the Basque Country",
+    "rank": "301-400",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of the Witwatersrand",
+    "rank": "301-400",
+    "country": "ZA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Toulouse 1",
+    "rank": "301-400",
+    "country": "FR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Ulm",
+    "rank": "301-400",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Victoria",
+    "rank": "301-400",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Vienna University of Technology",
+    "rank": "301-400",
+    "country": "AT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Vrije Universiteit Brussel (VUB)",
+    "rank": "301-400",
+    "country": "BE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Washington State University",
+    "rank": "301-400",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Western Sydney University",
+    "rank": "301-400",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Wuhan University of Technology",
+    "rank": "301-400",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Beijing University of Technology",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Ben-Gurion University of the Negev",
+    "rank": "401-500",
+    "country": "IL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Boston College",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Brigham Young University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Chalmers University of Technology",
+    "rank": "401-500",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Chang Gung University",
+    "rank": "401-500",
+    "country": "TW",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "China University of Geosciences (Beijing)",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "China University of Mining and Technology - Xuzhou",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "China University of Petroleum (Huadong)",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "CUNY Graduate School and University Center",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Federal University of Minas Gerais",
+    "rank": "401-500",
+    "country": "BR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Federal University of Rio de Janeiro",
+    "rank": "401-500",
+    "country": "BR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Federal University of Rio Grande do Sul",
+    "rank": "401-500",
+    "country": "BR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Flinders University",
+    "rank": "401-500",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Florida International University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Georgetown University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Guangdong University of Technology",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Hannover Medical School",
+    "rank": "401-500",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Hiroshima University",
+    "rank": "401-500",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Humanitas University",
+    "rank": "401-500",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Istanbul University",
+    "rank": "401-500",
+    "country": "TR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Jagiellonian University",
+    "rank": "401-500",
+    "country": "PL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Jiangnan University",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "King Fahd University of Petroleum & Minerals",
+    "rank": "401-500",
+    "country": "SA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Kobe University",
+    "rank": "401-500",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Kyung Hee University",
+    "rank": "401-500",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Kyungpook National University",
+    "rank": "401-500",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Louisiana State University - Baton Rouge",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Masaryk University",
+    "rank": "401-500",
+    "country": "CZ",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Medical University of Innsbruck",
+    "rank": "401-500",
+    "country": "AT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Medical University of South Carolina",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Murdoch University",
+    "rank": "401-500",
+    "country": "AU",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Nanjing University of Information Science and Technology",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National Tsing Hua University",
+    "rank": "401-500",
+    "country": "TW",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National University of Malaysia",
+    "rank": "401-500",
+    "country": "MY",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "National Yang Ming Chiao Tung University",
+    "rank": "401-500",
+    "country": "TW",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Northwest A&F University",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Okayama University",
+    "rank": "401-500",
+    "country": "JP",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Polytechnic University of Valencia",
+    "rank": "401-500",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Qingdao University",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Rensselaer Polytechnic Institute",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Sejong University",
+    "rank": "401-500",
+    "country": "KR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Shandong University of Science and Technology",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Southern Medical University",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Stellenbosch University",
+    "rank": "401-500",
+    "country": "ZA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Stockholm School of Economics",
+    "rank": "401-500",
+    "country": "SE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Taif University",
+    "rank": "401-500",
+    "country": "SA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tampere University",
+    "rank": "401-500",
+    "country": "FI",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Technical University Darmstadt",
+    "rank": "401-500",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Tehran University of Medical Sciences",
+    "rank": "401-500",
+    "country": "IR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Temple University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Texas Tech University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The City College of New York",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas at San Antonio",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas Health Science Center at San Antonio",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "The University of Texas Medical Branch at Galveston",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "UNESP",
+    "rank": "401-500",
+    "country": "BR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Aveiro",
+    "rank": "401-500",
+    "country": "PT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bari",
+    "rank": "401-500",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Bath",
+    "rank": "401-500",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Belgrade",
+    "rank": "401-500",
+    "country": "RS",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of California, Merced",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Canterbury",
+    "rank": "401-500",
+    "country": "NZ",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Chile",
+    "rank": "401-500",
+    "country": "CL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Essex",
+    "rank": "401-500",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Guelph",
+    "rank": "401-500",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Jena",
+    "rank": "401-500",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Johannesburg",
+    "rank": "401-500",
+    "country": "ZA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Kent",
+    "rank": "401-500",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Ljubljana",
+    "rank": "401-500",
+    "country": "SI",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Macau",
+    "rank": "401-500",
+    "country": "MO",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Maine",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Marburg",
+    "rank": "401-500",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Minho",
+    "rank": "401-500",
+    "country": "PT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Natural Resources and Life Sciences, Vienna",
+    "rank": "401-500",
+    "country": "AT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of North Texas",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Oulu",
+    "rank": "401-500",
+    "country": "FI",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Pavia",
+    "rank": "401-500",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Perugia",
+    "rank": "401-500",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Potsdam",
+    "rank": "401-500",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Pretoria",
+    "rank": "401-500",
+    "country": "ZA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Regensburg",
+    "rank": "401-500",
+    "country": "DE",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Santiago Compostela",
+    "rank": "401-500",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Seville",
+    "rank": "401-500",
+    "country": "ES",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of South Carolina - Columbia",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Strathclyde",
+    "rank": "401-500",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Trento",
+    "rank": "401-500",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Turku",
+    "rank": "401-500",
+    "country": "FI",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Twente",
+    "rank": "401-500",
+    "country": "NL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Vermont",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Warsaw",
+    "rank": "401-500",
+    "country": "PL",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of York",
+    "rank": "401-500",
+    "country": "GB",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "University of Zagreb",
+    "rank": "401-500",
+    "country": "HR",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Utah State University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Victoria University of Wellington",
+    "rank": "401-500",
+    "country": "NZ",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Vita-Salute San Raffaele University",
+    "rank": "401-500",
+    "country": "IT",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "West Virginia University",
+    "rank": "401-500",
+    "country": "US",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Yangzhou University",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "York University",
+    "rank": "401-500",
+    "country": "CA",
+    "rating": "shanghaIRking",
+    "year": 2022
+  },
+  {
+    "orgName": "Zhejiang University of Technology",
+    "rank": "401-500",
+    "country": "CN",
+    "rating": "shanghaIRking",
+    "year": 2022
+  }
+]

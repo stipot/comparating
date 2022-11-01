@@ -1,0 +1,3502 @@
+[
+ {
+   "rank": "1",
+   "title": "Harvard University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "2",
+   "title": "Massachusetts Institute of Technology",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "3",
+   "title": "University of Cambridge",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "4",
+   "title": "University of Oxford",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "5",
+   "title": "University College London",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "6",
+   "title": "Stanford University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "7",
+   "title": "Columbia University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "8",
+   "title": "University of Pennsylvania",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "9",
+   "title": "University of Chicago",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "10",
+   "title": "Yale University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "11",
+   "title": "ETH Zurich - Swiss Federal Institute of Technology Zurich",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "12",
+   "title": "University of Tokyo",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "13",
+   "title": "University of Michigan",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "14",
+   "title": "Peking University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "15",
+   "title": "Johns Hopkins University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "16",
+   "title": "Duke University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "17",
+   "title": "University of Edinburgh",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "18",
+   "title": "Lomonosov Moscow State University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "19",
+   "title": "New York University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "20",
+   "title": "University of Washington",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "21",
+   "title": "Cornell University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "22",
+   "title": "Technical University of Munich",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "23",
+   "title": "University of California, Berkeley",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "24",
+   "title": "Imperial College London",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "25",
+   "title": "Northwestern University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "26",
+   "title": "University of Zurich",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "27",
+   "title": "University of California, San Diego",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "28",
+   "title": "The Chinese University of Hong Kong",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "29",
+   "title": "University of Geneva",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "30",
+   "title": "University of Maryland, College Park",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "31",
+   "title": "Princeton University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "32",
+   "title": "Carnegie Mellon University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "33",
+   "title": "University of Manchester",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "34",
+   "title": "National University of Singapore (NUS)",
+   "country": "Singapore",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "35",
+   "title": "Saint Petersburg State University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "36",
+   "title": "California Institute of Technology",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "37",
+   "title": "Washington University in St Louis",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "38",
+   "title": "Pennsylvania State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "39",
+   "title": "Shanghai Jiao Tong University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "40",
+   "title": "Brown University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "41",
+   "title": "University of Warwick",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "42",
+   "title": "KU Leuven",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "43",
+   "title": "The University of Melbourne",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "44",
+   "title": "Moscow Institute of Physics and Technology",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "45",
+   "title": "University of Amsterdam",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "46",
+   "title": "University of California, Davis",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "47",
+   "title": "University of Toronto",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "48",
+   "title": "École polytechnique fédérale de Lausanne (EPFL)",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "49",
+   "title": "University of Glasgow",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "50",
+   "title": "University of Wisconsin-Madison",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "51",
+   "title": "Emory University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "52",
+   "title": "Tsinghua University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "53",
+   "title": "University of Colorado Boulder",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "54",
+   "title": "University of Rochester",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "55",
+   "title": "Delft University of Technology",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "56",
+   "title": "KTH Royal Institute of Technology",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "57",
+   "title": "King's College London",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "58",
+   "title": "Kyoto University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "59",
+   "title": "University of California, Los Angeles",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "60",
+   "title": "University of Oslo",
+   "country": "Norway",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "61",
+   "title": "University of Copenhagen",
+   "country": "Denmark",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "62",
+   "title": "The University of Queensland",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "63",
+   "title": "The University of Hong Kong",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "64",
+   "title": "University of Bristol",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "65",
+   "title": "University of Minnesota, Twin Cities",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "66",
+   "title": "University of Illinois at Urbana-Champaign",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "67",
+   "title": "University of Alberta",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "68",
+   "title": "University of Sydney",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "69",
+   "title": "École normale supérieure, Paris",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "70",
+   "title": "University of Virginia",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "71",
+   "title": "University of Leeds",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "72",
+   "title": "University of Florida",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "73",
+   "title": "University of North Carolina at Chapel Hill",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "74",
+   "title": "University of Pittsburgh",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "75",
+   "title": "University of British Columbia",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "76",
+   "title": "Nanyang Technological University, Singapore (NTU)",
+   "country": "Singapore",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "77",
+   "title": "Vanderbilt University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "78",
+   "title": "Boston University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "79",
+   "title": "Rice University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "80",
+   "title": "Utrecht University",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "81",
+   "title": "Tongji University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "82",
+   "title": "Seoul National University",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "83",
+   "title": "The Australian National University",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "84",
+   "title": "Ludwig-Maximilian University of Munich",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "85",
+   "title": "Case Western Reserve University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "86",
+   "title": "Fudan University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "87",
+   "title": "University of Sheffield",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "88",
+   "title": "Uppsala University",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "89",
+   "title": "Ohio State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "90",
+   "title": "University of Bonn",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "91",
+   "title": "University of California, Irvine",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "92",
+   "title": "London School of Economics and Political Science",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "93",
+   "title": "National Taiwan University",
+   "country": "Taiwan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "94",
+   "title": "Dartmouth College",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "95",
+   "title": "École Polytechnique",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "96",
+   "title": "Heidelberg University",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "97",
+   "title": "University of Basel",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "98",
+   "title": "Karolinska Institute",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "99",
+   "title": "McGill University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "100",
+   "title": "University of Birmingham",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "101",
+   "title": "Zhejiang University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "102",
+   "title": "Tokyo Institute of Technology",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "103",
+   "title": "Michigan State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "104",
+   "title": "University of Freiburg",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "105",
+   "title": "University of Warsaw",
+   "country": "Poland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "106",
+   "title": "National Autonomous University of Mexico (UNAM)",
+   "country": "Mexico",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "107",
+   "title": "Queen Mary University of London",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "108",
+   "title": "Leiden University",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "109",
+   "title": "RWTH Aachen University",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "110",
+   "title": "University of Utah",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "111",
+   "title": "University of Göttingen",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "112",
+   "title": "Tufts University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "113",
+   "title": "Nanjing University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "114",
+   "title": "Osaka University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "115",
+   "title": "Hong Kong Polytechnic University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "116",
+   "title": "University of Nottingham",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "117",
+   "title": "Norwegian University of Science & Technology (NTNU)",
+   "country": "Norway",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "118",
+   "title": "Xian Jiao Tong University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "119",
+   "title": "Lund University",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "120",
+   "title": "Tohoku University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "121",
+   "title": "Technical University of Denmark",
+   "country": "Denmark",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "122",
+   "title": "University of Groningen",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "123",
+   "title": "University of Helsinki",
+   "country": "Finland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "124",
+   "title": "Aarhus University",
+   "country": "Denmark",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "125",
+   "title": "University of Notre Dame",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "126",
+   "title": "University of Gothenburg",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "127",
+   "title": "University of Bern",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "128",
+   "title": "Purdue University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "129",
+   "title": "University of Texas at Austin",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "130",
+   "title": "Harbin Institute of Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "131",
+   "title": "Queen's University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "132",
+   "title": "Georgia Institute of Technology",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "133",
+   "title": "University of Southern California",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "134",
+   "title": "University of Liverpool",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "135",
+   "title": "Beijing Normal University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "136",
+   "title": "Georgetown University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "137",
+   "title": "Eindhoven University of Technology",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "138",
+   "title": "Nagoya University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "139",
+   "title": "Monash University",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "140",
+   "title": "Wageningen University & Research",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "141",
+   "title": "University of Barcelona",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "142",
+   "title": "National Research University Higher School of Economics (HSE)",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "143",
+   "title": "Chalmers University of Technology",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "144",
+   "title": "University of York",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "145",
+   "title": "University of Southampton",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "146",
+   "title": "Karlsruhe Institute of Technology (KIT)",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "147",
+   "title": "Aalto University",
+   "country": "Finland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "148",
+   "title": "University of Connecticut",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "149",
+   "title": "The University of New South Wales (UNSW Sydney)",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "150",
+   "title": "Cardiff University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "151",
+   "title": "Lancaster University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "152",
+   "title": "Charles University",
+   "country": "Czech Republic",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "153",
+   "title": "University of Arizona",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "154",
+   "title": "Rutgers University-New Brunswick",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "155",
+   "title": "University of Science and Technology of China",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "156",
+   "title": "University of Hamburg",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "157",
+   "title": "University of Cape Town",
+   "country": "South Africa",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "158",
+   "title": "University of Tartu",
+   "country": "Estonia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "159",
+   "title": "Wuhan University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "160",
+   "title": "University of Tübingen",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "161",
+   "title": "Arizona State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "162",
+   "title": "National Research Nuclear University MEPhI",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "163",
+   "title": "Sorbonne Université",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "164",
+   "title": "Free University of Berlin",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "165",
+   "title": "University of Missouri, Columbia",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "166",
+   "title": "Radboud University Nijmegen",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "167",
+   "title": "Autonomous University of Barcelona (UAB)",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "168",
+   "title": "Indiana University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "169",
+   "title": "Scuola Normale Superiore di Pisa",
+   "country": "Italy",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "170",
+   "title": "American University of Beirut",
+   "country": "Lebanon",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "171",
+   "title": "University of New Mexico",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "172",
+   "title": "Beihang University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "173",
+   "title": "Pontifical University of Chile (PUC)",
+   "country": "Chile",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "174",
+   "title": "University of Adelaide",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "175",
+   "title": "Yonsei University",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "176",
+   "title": "Colorado State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "177",
+   "title": "Southeast University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "178",
+   "title": "George Washington University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "179",
+   "title": "University at Buffalo",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "180",
+   "title": "University of East Anglia",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "181",
+   "title": "Humboldt University of Berlin",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "182",
+   "title": "University of Twente",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "183",
+   "title": "Brandeis University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "184",
+   "title": "Newcastle University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "185",
+   "title": "Huazhong University of Science and Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "186",
+   "title": "Virginia Polytechnic Institute and State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "187",
+   "title": "University of Exeter",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "188",
+   "title": "University of Stuttgart",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "189",
+   "title": "Trinity College Dublin",
+   "country": "Ireland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "190",
+   "title": "The University of Auckland",
+   "country": "New Zealand",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "191",
+   "title": "University of California, Santa Barbara",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "192",
+   "title": "University of Lausanne",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "193",
+   "title": "Hong Kong University of Science and Technology (HKUST)",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "194",
+   "title": "Stony Brook University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "195",
+   "title": "University of Kansas",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "196",
+   "title": "Tomsk State University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "197",
+   "title": "Xiamen University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "198",
+   "title": "Sichuan University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "199",
+   "title": "Kyushu University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "200",
+   "title": "The Hebrew University of Jerusalem",
+   "country": "Israel",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "201",
+   "title": "Oregon State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "202",
+   "title": "The University of Western Australia",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "203",
+   "title": "Universidad Complutense de Madrid (UCM)",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "204",
+   "title": "Tulane University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "205",
+   "title": "Novosibirsk State University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "206",
+   "title": "Indian Institute of Science, Bangalore",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "207",
+   "title": "University of Navarra",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "208",
+   "title": "University of Ottawa",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "209",
+   "title": "University of Bergen",
+   "country": "Norway",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "210",
+   "title": "The University of Texas Southwestern Medical Center at Dallas",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "211",
+   "title": "Korea University",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "212",
+   "title": "Vrije Universiteit Brussel",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "213",
+   "title": "Sun Yat-sen University (SYSU)",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "214",
+   "title": "Tianjin University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "215",
+   "title": "Université de Liège",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "216",
+   "title": "University of Tsukuba",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "217",
+   "title": "Ghent University",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "218",
+   "title": "Rensselaer Polytechnic Institute",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "219",
+   "title": "University of Miami",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "220",
+   "title": "Autonomous University of Madrid",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "221",
+   "title": "North Carolina State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "222",
+   "title": "Universiti Malaya",
+   "country": "Malaysia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "223",
+   "title": "University of Cincinnati",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "224",
+   "title": "Central South University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "225",
+   "title": "Korea Advanced Institute of Science and Technology (KAIST)",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "226",
+   "title": "Durham University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "227",
+   "title": "McMaster University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "228",
+   "title": "Indian Institute of Technology Madras",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "229",
+   "title": "Hokkaido University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "230",
+   "title": "École normale supérieure de Lyon",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "231",
+   "title": "University of Münster",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "232",
+   "title": "University of Reading",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "233",
+   "title": "University of Iowa",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "234",
+   "title": "Northeastern University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "235",
+   "title": "University of Illinois at Chicago",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "236",
+   "title": "University of Leicester",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "237",
+   "title": "Ural Federal University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "238",
+   "title": "University of Electronic Science and Technology of China",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "239",
+   "title": "Beijing Institute of Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "240",
+   "title": "University of Kentucky",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "241",
+   "title": "Technion Israel Institute of Technology",
+   "country": "Israel",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "242",
+   "title": "University of Konstanz",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "243",
+   "title": "Medical University of Vienna",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "244",
+   "title": "Lehigh University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "245",
+   "title": "University of Oregon",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "246",
+   "title": "University of Sussex",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "247",
+   "title": "Goethe University Frankfurt",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "248",
+   "title": "Wayne State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "249",
+   "title": "University of Nebraska, Lincoln",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "250",
+   "title": "University of St Andrews",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "251",
+   "title": "Keio University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "252",
+   "title": "ITMO University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "253",
+   "title": "Erasmus University Rotterdam",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "254",
+   "title": "Baylor College of Medicine",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "255",
+   "title": "Icahn School of Medicine at Mount Sinai",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "256",
+   "title": "Université catholique de Louvain",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "257",
+   "title": "Czech Technical University in Prague",
+   "country": "Czech Republic",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "258",
+   "title": "Tomsk Polytechnic University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "259",
+   "title": "Jagiellonian University in Krakow",
+   "country": "Poland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "260",
+   "title": "Pompeu Fabra University",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "261",
+   "title": "Technical University of Darmstadt",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "262",
+   "title": "Bauman Moscow State Technical University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "263",
+   "title": "University of Dundee",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "264",
+   "title": "East China Normal University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "265",
+   "title": "University of Massachusetts Amherst",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "266",
+   "title": "VU University Amsterdam",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "267",
+   "title": "TU Dresden",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "268",
+   "title": "Iowa State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "269",
+   "title": "York University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "270",
+   "title": "Masaryk University",
+   "country": "Czech Republic",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "271",
+   "title": "University of Delaware",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "272",
+   "title": "Wake Forest University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "273",
+   "title": "University of Aberdeen",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "274",
+   "title": "Waseda University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "275",
+   "title": "Chongqing University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "276",
+   "title": "Sungkyunkwan University (SKKU)",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "277",
+   "title": "University of Hawaii at Manoa",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "278",
+   "title": "Mahidol University",
+   "country": "Thailand",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "279",
+   "title": "Maastricht University",
+   "country": "Netherlands",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "280",
+   "title": "University of Colorado Denver",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "281",
+   "title": "Technical University of Berlin",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "282",
+   "title": "University of Manitoba",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "283",
+   "title": "Hanyang University",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "284",
+   "title": "Comenius University Bratislava",
+   "country": "Slovakia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "285",
+   "title": "RUDN University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "286",
+   "title": "University of Luxembourg",
+   "country": "Luxembourg",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "287",
+   "title": "Saarland University",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "288",
+   "title": "Shenzhen University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "289",
+   "title": "University of Valencia",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "290",
+   "title": "Graz University of Technology",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "291",
+   "title": "University of Maryland, Baltimore",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "292",
+   "title": "Swedish University of Agricultural Sciences",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "293",
+   "title": "Université Paris-Saclay",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "294",
+   "title": "University of Witwatersrand",
+   "country": "South Africa",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "295",
+   "title": "University of Erlangen-Nuremberg",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "296",
+   "title": "Queen's University Belfast",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "297",
+   "title": "National University of Science and Technology (MISiS)",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "298",
+   "title": "Indian Institute of Technology, Kharagpur",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "299",
+   "title": "Jilin University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "300",
+   "title": "University of South Florida",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Aalborg University",
+   "country": "Denmark",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "American University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Boston College",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "City University of Hong Kong",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Dalhousie University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Drexel University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Friedrich Schiller University of Jena",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Hunan University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Illinois Institute of Technology",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Jinan University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Johannes Gutenberg University of Mainz",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Kobe University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Leibniz University of Hanover",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Linköping University",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Loughborough University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Nankai University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Polytechnic University of Catalonia",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Polytechnic University of Valencia",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Pontifical Catholic University of Peru",
+   "country": "Peru",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Rochester Institute of Technology",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Sciences Po",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Sechenov University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "South China University of Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Southern Methodist University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Stockholm University",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "SUNY State University of New York Albany",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Temple University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "The New School",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "The University of Chile",
+   "country": "Chile",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Universidade do Porto",
+   "country": "Portugal",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Université de Montréal",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Université libre de Bruxelles",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Alabama at Birmingham",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Alaska Fairbanks",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Antwerp",
+   "country": "Belgium",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Bath",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Ljubljana",
+   "country": "Slovenia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Mississippi",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Otago",
+   "country": "New Zealand",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Sao Paulo",
+   "country": "Brazil",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Saskatchewan",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Science and Technology Beijing",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Strathclyde",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Tennessee, Knoxville",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Vermont",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "University of Vienna",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Vienna University of Technology",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Vilnius University",
+   "country": "Lithuania",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Virginia Commonwealth University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "301-350",
+   "title": "Williams College",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Belarusian State University",
+   "country": "Belarus",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "China Agricultural University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "College of William & Mary",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Cranfield University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "George Mason University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Hannover Medical School",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Hong Kong Baptist University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Indian Institute of Technology Bombay",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Indian Institute of Technology Kanpur",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Indiana University - Purdue University Indianapolis",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Jacobs University",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Lanzhou University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Laval University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Lulea University of Technology",
+   "country": "Sweden",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Moscow State Institute of International Relations",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "National Taiwan Normal University",
+   "country": "Taiwan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Northeastern University (China)",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Notre Dame University",
+   "country": "Lebanon",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Peter the Great St. Petersburg Polytechnic University",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Renmin University of China",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Ruhr University Bochum",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Russian Presidential Academy of National Economy and Public Administration (RANEPA)",
+   "country": "Russia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Savitribai Phule Pune University",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Scuola Superiore Sant'Anna",
+   "country": "Italy",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Shandong University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Shanghai University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Southern University of Science and Technology (SUSTech)",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Stellenbosch University",
+   "country": "South Africa",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Syracuse University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Taipei Medical University",
+   "country": "Taiwan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Technical University of Braunschweig",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Technical University of Madrid",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "The American University in Cairo",
+   "country": "Egypt",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Basque Country",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Bremen",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Calgary",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of California, Riverside",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of California, Santa Cruz",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Cantabria",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Georgia",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Macau",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Oklahoma",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Southern Denmark",
+   "country": "Denmark",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of the Andes Colombia",
+   "country": "Colombia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Turku",
+   "country": "Finland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Victoria",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Waterloo",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Wurzburg",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "University of Zaragoza",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "351-400",
+   "title": "Yeshiva University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "All India Institute of Medical Sciences, New Delhi (AIIMS)",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Beijing Foreign Studies University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Chemnitz University of Technology",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Dalian University of Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "East China University of Science and Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Florida State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Fordham University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Heriot-Watt University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Hiroshima University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Howard University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Indian Institute of Technology, Delhi",
+   "country": "India",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Memorial University of Newfoundland",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Nanjing Agricultural University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Nanjing University of Science and Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "National Tsing Hua University",
+   "country": "Taiwan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "National University of Ireland, Galway (NUI Galway)",
+   "country": "Ireland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Oregon Health and Science University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Palacky University Olomouc",
+   "country": "Czech Republic",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Paris Dauphine University (Paris 9)",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Pohang University of Science and Technology (POSTECH)",
+   "country": "South Korea",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Polytechnic University of Milan",
+   "country": "Italy",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Saint Louis University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Sapienza University Rome",
+   "country": "Italy",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Semmelweis University",
+   "country": "Hungary",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Smith College",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "SOAS, University of London",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Thomas Jefferson University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Tokyo Medical & Dental University (TMDU)",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Ulm University",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Universidad Nacional de Colombia",
+   "country": "Colombia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Università della Svizzera italiana",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Université de Paris",
+   "country": "France",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University College Dublin",
+   "country": "Ireland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Bayreuth",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Canterbury",
+   "country": "New Zealand",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Chemistry and Technology, Prague",
+   "country": "Czech Republic",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Cologne",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Denver",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Essex",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Houston",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Innsbruck",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Kent",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Louisville",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Marburg",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Natural Resources and Life Sciences, Vienna",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Surrey",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Texas at Dallas",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "University of Tromso (UiT) - The Arctic University of Norway",
+   "country": "Norway",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "Washington State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "401-450",
+   "title": "West Virginia University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Auburn University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Beijing Jiaotong University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Beijing University of Chemical Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Beijing University of Technology",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Bond University",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Brno University of Technology",
+   "country": "Czech Republic",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Capital Medical University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Central European University",
+   "country": "Hungary",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Chulalongkorn University",
+   "country": "Thailand",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Clark University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Clemson University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Concordia University",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "CUNY City College",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Eotvos Lorand University",
+   "country": "Hungary",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Gadjah Mada University",
+   "country": "Indonesia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Kanazawa University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Kansas State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Koc University",
+   "country": "Turkey",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Macquarie University",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Medical College of Wisconsin",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Monterrey Institute of Technology and Higher Education (ITESM)",
+   "country": "Mexico",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Nanjing University of Aeronautics and Astronautics",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "North Dakota State University",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Northwest University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Northwestern Polytechnical University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Osaka City University",
+   "country": "Japan",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Pontifical Javeriana University",
+   "country": "Colombia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Queensland University of Technology",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Royal Holloway, University of London",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Southern Illinois University Carbondale",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Swansea University",
+   "country": "United Kingdom",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Taras Shevchenko National University of Kyiv",
+   "country": "Ukraine",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Technical University Freiberg",
+   "country": "Germany",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Tel Aviv University",
+   "country": "Israel",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "United Arab Emirates University",
+   "country": "United Arab Emirates",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Universidad Pontificia Comillas",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Université de Sherbrooke",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Universiti Teknologi Malaysia",
+   "country": "Malaysia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University College Cork",
+   "country": "Ireland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Buenos Aires (UBA)",
+   "country": "Argentina",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Oulu",
+   "country": "Finland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Padua",
+   "country": "Italy",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Salamanca",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Sevilla",
+   "country": "Spain",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of St Gallen",
+   "country": "Switzerland",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Tasmania",
+   "country": "Australia",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Veterinary Medicine Vienna",
+   "country": "Austria",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "University of Windsor",
+   "country": "Canada",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Worcester Polytechnic Institute",
+   "country": "United States",
+   "rating": "mosiur",
+   "year": 2022
+ },
+ {
+   "rank": "451-500",
+   "title": "Xidian University",
+   "country": "China",
+   "rating": "mosiur",
+   "year": 2022
+ }
+]
