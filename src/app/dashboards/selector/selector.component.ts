@@ -98,7 +98,8 @@ export class SelectorComponent implements OnInit {
       "Serbia": "RS",
       "Iran": "IR",
       "Macau": "CN",
-      "Vietnam": "VN" 
+      "Vietnam": "VN",
+      "Tanzania": "TZ"
     })
     console.log(countryMap)
     this.selection.selected.forEach(rank => {
