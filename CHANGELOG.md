@@ -6,10 +6,10 @@
 * Танзания
 * Разбиение рейтингов на годичные выпуски
 * авторские права на Comparanking
-* Comparanking создан при поддержке ФГБУ "Интеробразование"
 
 
 # DONE
+* Comparanking создан при поддержке ФГБУ "Интеробразование"
 * выбор страны не работает
 * undefined countries, :undefined
 * Firebase install
