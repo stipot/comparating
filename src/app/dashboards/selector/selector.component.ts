@@ -98,7 +98,8 @@ export class SelectorComponent implements OnInit {
       "Serbia": "RS",
       "Iran": "IR",
       "Macau": "CN",
-      "Vietnam": "VN" 
+      "Vietnam": "VN",
+      "Tanzania": "TZ"
     })
     console.log(countryMap)
     this.selection.selected.forEach(rank => {
@@ -118,7 +119,7 @@ export class SelectorComponent implements OnInit {
         console.log(rank.rating, data)
         data.forEach(record => {
           if (!record.country || !record.orgName)
-          console.log(record)
+            console.log(record)
           const key = CountriesList.plain[record.country.trim()] + ' ' + record.orgName.trim()
           if (this.udm[key]) {
             this.udm[key].ranks[record.rating.trim()] = typeof record.rank == "string" ? record.rank.trim() : record.rank
@@ -146,23 +147,5 @@ export class SelectorComponent implements OnInit {
         }
       })
     })
-    /**
-     * TODO
-     * Add stepper component
-     * + Для каждого университета в рейтинге ищем приведенное имя, добавляем данные в приведую модель данных Udm
-     * + Ключем является hash имени университета.
-     * + Таким образом у нас проиндексированная унифицированная информация. Возможно стоит при формировании хэша 
-     * + добавлять название страны для исключения неопреденности.
-     * Список сохраняем именным образом, чтобы потом сравнивать перечни по годам. (Add to comparision)
-     * Котвертируем объект в массив и отображаем.
-     * Реализуем поиск по названию университета, фильтрацию по стране, вхождение минимум в три рейтинга, 
-     * Сохраняем коллекции (набор рейтингов. Коллекция по умолчанию - нынешний список). Отображаем таблицы, но вместо рейтингов - коллекции.
-     * страны с соглашением и Россию.
-     * Сверка с представленным списком.
-     * Описание подробнее
-     * Copyrights
-     * Благодарности.
-     * 
-    */
   }
 }

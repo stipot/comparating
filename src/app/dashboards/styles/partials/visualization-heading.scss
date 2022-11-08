@@ -1,4 +1,4 @@
-@import 'shared';
+@import '../../../../theme/main.scss';
 
 /*
   Responsive styles
@@ -112,7 +112,7 @@
       height: inherit;
 
       .period-dropdown-toggle {
-        @include button();
+        //@include button();
 
         display: flex;
         align-items: baseline;

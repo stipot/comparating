@@ -1,4 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { RouterTestingModule } from "@angular/router/testing";
 
 import { DescriptionComponent } from './description.component';
 
@@ -12,6 +13,13 @@ describe('DescriptionComponent', () => {
     })
     .compileComponents();
   });
+  beforeEach(() => {
+    TestBed.configureTestingModule({
+    imports: [RouterTestingModule],
+    providers: [DescriptionComponent]
+  });
+ });
+
 
   beforeEach(() => {
     fixture = TestBed.createComponent(DescriptionComponent);
@@ -19,7 +27,7 @@ describe('DescriptionComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('DescriptionComponent should create', () => {
     expect(component).toBeTruthy();
   });
 });

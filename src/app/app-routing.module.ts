@@ -25,7 +25,7 @@ const routes: Routes = [
   /*
     Undefined routes (should redirect to a 404 page)
   */
-  { path: '**', redirectTo: '/comparator' }
+  { path: '**', redirectTo: '/comparator', pathMatch: 'full' }
 ];
 
 @NgModule({
@@ -36,9 +36,6 @@ const routes: Routes = [
     // If you want to preload all lazy routes when the app loads, uncomment the following line
     // preloadingStrategy: PreloadAllModules,
     onSameUrlNavigation: 'reload',
-    // This value is required for server-side rendering to work.
-    initialNavigation: 'enabledNonBlocking',
-    relativeLinkResolution: 'legacy'
 })
   ],
   exports: [RouterModule]

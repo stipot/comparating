@@ -1,4 +1,5 @@
-@import "shared";
+@import '../../../../theme/shared';
+
 :host {
   --highlighted-background: transparent;
   --page-title-color: #{palette-color("primary")};

@@ -11,7 +11,7 @@ import { subscribeOn } from 'rxjs/operators';
   templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
-  title = 'comparanking-template';
+  title = 'Comparanking';
 
   constructor(
     @Inject(PLATFORM_ID) private platformId: object,

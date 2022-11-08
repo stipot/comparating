@@ -1,43 +1,44 @@
 [
   {
-    "year": 2021,
+    "year": 2022,
     "count": 500,
-    "rating": "Moscow International University Ranking",
+    "rating": " 2022 Moscow International University Ranking",
     "ratingId": "mosiur",
-    "fname": "mosiur_2021.json",
+    "type": 2,
+    "fname": "mosiur_2022.json",
     "url": "https://mosiur.org/ranking/"
   },
   {
-    "year": 2022,
+    "year": 2023,
     "count": 500,
-    "rating": "QS World University Rankings",
+    "rating": "2023 QS World University Rankings",
     "ratingId": "qs",
-    "fname": "qs_2022.json",
-    "url": "https://www.topuniversities.com/university-rankings/world-university-rankings/2022"
+    "fname": "qs_2023.json",
+    "url": "https://www.topuniversities.com/university-rankings/world-university-rankings/2023"
   },
   {
-    "year": 2021,
-    "count": 500,
-    "rating": "Shanhhai Academic Ranking of World Universities",
-    "ratingId": "shanghaIRking",
-    "fname": "shanghaIRking_2021.json",
-    "url": "https://www.shanghairanking.com/rankings/arwu/2021"
-  },{
     "year": 2022,
     "count": 500,
+    "rating": "2022 Shanhhai Academic Ranking of World Universities",
+    "ratingId": "shanghaIRking",
+    "fname": "shanghaIRking_2022.json",
+    "url": "https://www.shanghairanking.com/rankings/arwu/2022"
+  },{
+    "year": 2023,
+    "count": 500,
     "type": 2,
-    "rating": "US.NEWS Best Global Universities - SRC",
+    "rating": "2023 US.NEWS Best Global Universities - SRC",
     "ratingId": "usnews",
-    "fname": "usnews_src_2022.json",
+    "fname": "usnews_src_2023.json",
     "url": "https://www.usnews.com/education/best-global-universities/rankings"
   },
   {
-    "year": 2022,
+    "year": 2023,
     "count": 500,
     "type": 2,
-    "rating": "Times Higher Education - SRC",
+    "rating": "2023 Times Higher Education",
     "ratingId": "timeshighereducation",
-    "fname": "timeshighereducation_src_2022.json",
-    "url": "https://www.timeshighereducation.com/world-university-rankings/2022/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats"
+    "fname": "timeshighereducation_2023.json",
+    "url": "https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats"
   }
 ]

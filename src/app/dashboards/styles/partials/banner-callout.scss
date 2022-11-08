@@ -1,4 +1,4 @@
-@import 'shared';
+@import '../../../../theme/shared';
 
 :host {
   --visualization-heading-line-height: 40px;
@@ -80,7 +80,7 @@
     }
 
     .callout-btn {
-      @include button();
+      //@include button();
       padding: 8px 34px;
     }
   } // .banner-callout
