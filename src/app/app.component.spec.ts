@@ -13,7 +13,7 @@ describe('AppComponent', () => {
     const app = fixture.debugElement.componentInstance;
     expect(app).toBeTruthy();
   });
-  it(`should have as title 'Comparanking - review universities worldwide by ratings comparison'`, () => {
+  it(`should have as title 'Comparanking'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
     expect(app.title).toContain('Comparanking');
