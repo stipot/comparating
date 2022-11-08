@@ -1606,24 +1606,22 @@
   },
   {
     "country": "MX",
-    "orgName": "National Autonomous University of Mexico - Wikipedia",
+    "orgName": "National Autonomous University of Mexico",
     "ranks": {
-      "mosiur": "220",
-      "shanghaIRking": "301-400",
-      "usnews": "405",
-      "timeshighereducation": "301–350",
-      "QS": "363"
+      "mosiur": "106",
+      "QS": "104",
+      "shanghaIRking": "201-300",
+      "usnews": "405"
     },
-    "rcount": 8,
-    "url": "en.wikipedia.org",
+    "rcount": 4,
+    "url": "www.unam.mx",
     "syns": [
       "Mexico National Autonomous University of Mexico (UNAM)",
-      "Spain Autonomous University of Madrid",
-      "Brazil Universidade de São Paulo",
-      "Peru Pontificia Universidad Católica del Perú",
+      "Universidad Nacional Autónoma de México (UNAM)",
+      "National Autonomous University of Mexico",
       "Universidad Nacional Autonoma de Mexico"
     ],
-    "synsJoin": "Mexico National Autonomous University of Mexico (UNAM) || Spain Autonomous University of Madrid || Brazil Universidade de São Paulo || Peru Pontificia Universidad Católica del Perú || Universidad Nacional Autonoma de Mexico"
+    "synsJoin": "Mexico National Autonomous University of Mexico (UNAM) || Universidad Nacional Autónoma de México (UNAM) || National Autonomous University of Mexico || Universidad Nacional Autonoma de Mexico"
   },
   {
     "country": "GB",
@@ -3215,6 +3213,24 @@
     "synsJoin": "University of Miami"
   },
   {
+    "country": "ES",
+    "orgName": "Autonomous University of Madrid",
+    "ranks": {
+      "mosiur": "220",
+      "shanghaIRking": "301-400",
+      "usnews": "231",
+      "timeshighereducation": "301–350",
+      "QS": "215"
+    },
+    "rcount": 5,
+    "url": "www.uam.es",
+    "syns": [
+      "Autonomous University of Madrid",
+      "Universidad Autónoma de Madrid"
+    ],
+    "synsJoin": "Autonomous University of Madrid || Universidad Autónoma de Madrid"
+  },
+  {
     "country": "US",
     "orgName": "NC State University",
     "ranks": {
@@ -3994,6 +4010,20 @@
     "synsJoin": "University of Hawaii at Manoa || University of Hawaiʻi at Mānoa || University of Hawaii Manoa || University of Hawai’i at Mānoa"
   },
   {
+    "country": "TH",
+    "orgName": "Mahidol University",
+    "ranks": {
+      "mosiur": "278",
+      "QS": "256"
+    },
+    "rcount": 2,
+    "url": "mahidol.ac.th",
+    "syns": [
+      "Mahidol University"
+    ],
+    "synsJoin": "Mahidol University"
+  },
+  {
     "country": "NL",
     "orgName": "Maastricht University",
     "ranks": {
@@ -4470,14 +4500,16 @@
     "country": "PE",
     "orgName": "Pontificia Universidad Católica del Perú (PUCP)",
     "ranks": {
-      "mosiur": "301-350"
+      "mosiur": "301-350",
+      "QS": "363"
     },
-    "rcount": 1,
+    "rcount": 2,
     "url": "www.pucp.edu.pe",
     "syns": [
-      "Pontifical Catholic University of Peru"
+      "Pontifical Catholic University of Peru",
+      "Pontificia Universidad Católica del Perú"
     ],
-    "synsJoin": "Pontifical Catholic University of Peru"
+    "synsJoin": "Pontifical Catholic University of Peru || Pontificia Universidad Católica del Perú"
   },
   {
     "country": "US",
@@ -5111,6 +5143,20 @@
     "synsJoin": "Technical University of Madrid || Universidad Politécnica de Madrid (UPM)"
   },
   {
+    "country": "EG",
+    "orgName": "The American University in Cairo",
+    "ranks": {
+      "mosiur": "351-400",
+      "QS": "416"
+    },
+    "rcount": 2,
+    "url": "www.aucegypt.edu",
+    "syns": [
+      "The American University in Cairo"
+    ],
+    "synsJoin": "The American University in Cairo"
+  },
+  {
     "country": "ES",
     "orgName": "University of the Basque Country - UPV/EHU",
     "ranks": {
@@ -5212,14 +5258,16 @@
     "orgName": "University of Georgia",
     "ranks": {
       "mosiur": "351-400",
-      "usnews": "324"
+      "usnews": "324",
+      "shanghaIRking": "301-400"
     },
-    "rcount": 2,
+    "rcount": 3,
     "url": "www.uga.edu",
     "syns": [
-      "University of Georgia"
+      "University of Georgia",
+      "The University of Georgia"
     ],
-    "synsJoin": "University of Georgia"
+    "synsJoin": "University of Georgia || The University of Georgia"
   },
   {
     "country": "US",
@@ -6036,6 +6084,20 @@
     "synsJoin": "Central European University"
   },
   {
+    "country": "TH",
+    "orgName": "Chulalongkorn University",
+    "ranks": {
+      "mosiur": "451-500",
+      "QS": "224"
+    },
+    "rcount": 2,
+    "url": "www.chula.ac.th",
+    "syns": [
+      "Chulalongkorn University"
+    ],
+    "synsJoin": "Chulalongkorn University"
+  },
+  {
     "country": "US",
     "orgName": "Clark University | Challenge Convention. Change Our World.",
     "ranks": {
@@ -6104,6 +6166,20 @@
     "synsJoin": "Eotvos Lorand University"
   },
   {
+    "country": "ID",
+    "orgName": "Universitas Gadjah Mada",
+    "ranks": {
+      "mosiur": "451-500",
+      "QS": "231"
+    },
+    "rcount": 2,
+    "url": "ugm.ac.id",
+    "syns": [
+      "Gadjah Mada University"
+    ],
+    "synsJoin": "Gadjah Mada University"
+  },
+  {
     "country": "JP",
     "orgName": "Kanazawa University",
     "ranks": {
@@ -6128,6 +6204,22 @@
       "Kansas State University"
     ],
     "synsJoin": "Kansas State University"
+  },
+  {
+    "country": "TR",
+    "orgName": "Koç University - International Admissions",
+    "ranks": {
+      "mosiur": "451-500",
+      "QS": "477",
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 3,
+    "url": "international.ku.edu.tr",
+    "syns": [
+      "Koc University",
+      "Koç University"
+    ],
+    "synsJoin": "Koc University || Koç University"
   },
   {
     "country": "AU",
@@ -6318,6 +6410,21 @@
       "Tel Aviv University"
     ],
     "synsJoin": "Tel Aviv University"
+  },
+  {
+    "country": "AE",
+    "orgName": "United Arab Emirates University (UAEU) - Top Universities in Abu ...",
+    "ranks": {
+      "mosiur": "451-500",
+      "QS": "296",
+      "timeshighereducation": "251–300"
+    },
+    "rcount": 3,
+    "url": "www.uaeu.ac.ae",
+    "syns": [
+      "United Arab Emirates United Arab Emirates University"
+    ],
+    "synsJoin": "United Arab Emirates United Arab Emirates University"
   },
   {
     "country": "ES",
@@ -6527,6 +6634,74 @@
     "synsJoin": "Worcester Polytechnic Institute"
   },
   {
+    "country": "HK",
+    "orgName": "The University of Hong Kong (HKU)",
+    "ranks": {
+      "QS": "21",
+      "shanghaIRking": "96",
+      "usnews": "55",
+      "timeshighereducation": "31"
+    },
+    "rcount": 4,
+    "url": "www.hku.hk",
+    "syns": [
+      "The University of Hong Kong",
+      "University of Hong Kong"
+    ],
+    "synsJoin": "The University of Hong Kong || University of Hong Kong"
+  },
+  {
+    "country": "HK",
+    "orgName": "The Chinese University of Hong Kong",
+    "ranks": {
+      "QS": "38",
+      "shanghaIRking": "101-150",
+      "usnews": "53",
+      "timeshighereducation": "45"
+    },
+    "rcount": 4,
+    "url": "www.cuhk.edu.hk",
+    "syns": [
+      "Hong Kong The Chinese University of Hong Kong (CUHK)",
+      "The Chinese University of Hong Kong",
+      "Chinese University of Hong Kong"
+    ],
+    "synsJoin": "Hong Kong The Chinese University of Hong Kong (CUHK) || The Chinese University of Hong Kong || Chinese University of Hong Kong"
+  },
+  {
+    "country": "HK",
+    "orgName": "HKUST: World-class University in Hong Kong and Asia",
+    "ranks": {
+      "QS": "40",
+      "shanghaIRking": "301-400",
+      "timeshighereducation": "58",
+      "usnews": "95"
+    },
+    "rcount": 4,
+    "url": "hkust.edu.hk",
+    "syns": [
+      "Hong Kong The Hong Kong University of Science and Technology",
+      "Hong Kong Hong Kong University of Science & Technology"
+    ],
+    "synsJoin": "Hong Kong The Hong Kong University of Science and Technology || Hong Kong Hong Kong University of Science & Technology"
+  },
+  {
+    "country": "HK",
+    "orgName": "City University of Hong Kong: Home",
+    "ranks": {
+      "QS": "54",
+      "shanghaIRking": "151-200",
+      "usnews": "120",
+      "timeshighereducation": "99"
+    },
+    "rcount": 4,
+    "url": "www.cityu.edu.hk",
+    "syns": [
+      "City University of Hong Kong"
+    ],
+    "synsJoin": "City University of Hong Kong"
+  },
+  {
     "country": "DE",
     "orgName": "Universität Heidelberg",
     "ranks": {
@@ -6542,6 +6717,23 @@
     "synsJoin": "Ruprecht-Karls-Universität Heidelberg || Ruprecht Karls University Heidelberg"
   },
   {
+    "country": "HK",
+    "orgName": "The Hong Kong Polytechnic University (PolyU)",
+    "ranks": {
+      "QS": "65",
+      "shanghaIRking": "151-200",
+      "usnews": "100",
+      "timeshighereducation": "79"
+    },
+    "rcount": 4,
+    "url": "www.polyu.edu.hk",
+    "syns": [
+      "Hong Kong The Hong Kong Polytechnic University",
+      "Hong Kong Hong Kong Polytechnic University"
+    ],
+    "synsJoin": "Hong Kong The Hong Kong Polytechnic University || Hong Kong Hong Kong Polytechnic University"
+  },
+  {
     "country": "AR",
     "orgName": "Departamento de Matemática | Exactas | UBA",
     "ranks": {
@@ -6553,23 +6745,6 @@
       "Universidad de Buenos Aires (UBA)"
     ],
     "synsJoin": "Universidad de Buenos Aires (UBA)"
-  },
-  {
-    "country": "MX",
-    "orgName": "Universidad Nacional Autónoma de México (UNAM) : Rankings ...",
-    "ranks": {
-      "QS": "467"
-    },
-    "rcount": 5,
-    "url": "www.topuniversities.com",
-    "syns": [
-      "Universidad Nacional Autónoma de México (UNAM)",
-      "Spain Universidad Autónoma de Madrid",
-      "Argentina Pontificia Universidad Católica Argentina",
-      "Chile Universidad de Santiago de Chile (USACH)",
-      "Cuba Universidad de La Habana"
-    ],
-    "synsJoin": "Universidad Nacional Autónoma de México (UNAM) || Spain Universidad Autónoma de Madrid || Argentina Pontificia Universidad Católica Argentina || Chile Universidad de Santiago de Chile (USACH) || Cuba Universidad de La Habana"
   },
   {
     "country": "SA",
@@ -6587,6 +6762,21 @@
       "King Abdulaziz University"
     ],
     "synsJoin": "King Abdulaziz University (KAU) || King Abdulaziz University"
+  },
+  {
+    "country": "BR",
+    "orgName": "University of São Paulo",
+    "ranks": {
+      "QS": "115",
+      "usnews": "120"
+    },
+    "rcount": 2,
+    "url": "www5.usp.br",
+    "syns": [
+      "Universidade de São Paulo",
+      "Universidade de Sao Paulo"
+    ],
+    "synsJoin": "Universidade de São Paulo || Universidade de Sao Paulo"
   },
   {
     "country": "MY",
@@ -6714,6 +6904,21 @@
     "synsJoin": "Western University || Western University (University of Western Ontario)"
   },
   {
+    "country": "AE",
+    "orgName": "Khalifa University: Top Ranked, Research-Intensive University in UAE",
+    "ranks": {
+      "QS": "181",
+      "timeshighereducation": "351–400"
+    },
+    "rcount": 2,
+    "url": "www.ku.ac.ae",
+    "syns": [
+      "Khalifa University of Science and Technology",
+      "Khalifa University"
+    ],
+    "synsJoin": "Khalifa University of Science and Technology || Khalifa University"
+  },
+  {
     "country": "AU",
     "orgName": "UOW: Home - University of Wollongong",
     "ranks": {
@@ -6794,6 +6999,21 @@
     "synsJoin": "Ulsan National Institute of Science and Technology (UNIST)"
   },
   {
+    "country": "QA",
+    "orgName": "Qatar University: Home",
+    "ranks": {
+      "QS": "208",
+      "usnews": "478",
+      "timeshighereducation": "201–250"
+    },
+    "rcount": 3,
+    "url": "www.qu.edu.qa",
+    "syns": [
+      "Qatar Qatar University"
+    ],
+    "synsJoin": "Qatar Qatar University"
+  },
+  {
     "country": "BR",
     "orgName": "Home Inglês | Unicamp",
     "ranks": {
@@ -6812,6 +7032,19 @@
     "synsJoin": "Universidade Estadual de Campinas (Unicamp) || University of Campinas || Universidade Estadual de Campinas"
   },
   {
+    "country": "ID",
+    "orgName": "Faculties and Schools - Institut Teknologi Bandung",
+    "ranks": {
+      "QS": "235"
+    },
+    "rcount": 1,
+    "url": "www.itb.ac.id",
+    "syns": [
+      "Bandung Institute of Technology (ITB)"
+    ],
+    "synsJoin": "Bandung Institute of Technology (ITB)"
+  },
+  {
     "country": "SA",
     "orgName": "King Saud University",
     "ranks": {
@@ -6826,6 +7059,34 @@
       "King Saud University"
     ],
     "synsJoin": "King Saud University"
+  },
+  {
+    "country": "ID",
+    "orgName": "Homepage - Universitas Indonesia",
+    "ranks": {
+      "QS": "248"
+    },
+    "rcount": 1,
+    "url": "www.ui.ac.id",
+    "syns": [
+      "Universitas Indonesia"
+    ],
+    "synsJoin": "Universitas Indonesia"
+  },
+  {
+    "country": "BN",
+    "orgName": "Universiti Brunei Darussalam",
+    "ranks": {
+      "QS": "256",
+      "timeshighereducation": "301–350"
+    },
+    "rcount": 2,
+    "url": "ubd.edu.bn",
+    "syns": [
+      "Brunei Darussalam Universiti Brunei Darussalam (UBD)",
+      "Universiti Brunei Darussalam"
+    ],
+    "synsJoin": "Brunei Darussalam Universiti Brunei Darussalam (UBD) || Universiti Brunei Darussalam"
   },
   {
     "country": "AU",
@@ -6887,6 +7148,19 @@
       "Victoria University Wellington"
     ],
     "synsJoin": "Victoria University of Wellington || Victoria University Wellington"
+  },
+  {
+    "country": "HK",
+    "orgName": "HKBU: Hong Kong Baptist University",
+    "ranks": {
+      "QS": "281"
+    },
+    "rcount": 1,
+    "url": "www.hkbu.edu.hk",
+    "syns": [
+      "Hong Kong Hong Kong Baptist University"
+    ],
+    "synsJoin": "Hong Kong Hong Kong Baptist University"
   },
   {
     "country": "MY",
@@ -7002,6 +7276,19 @@
     "synsJoin": "Universidad Carlos III de Madrid (UC3M)"
   },
   {
+    "country": "AR",
+    "orgName": "Pontificia Universidad Católica Argentina",
+    "ranks": {
+      "QS": "323"
+    },
+    "rcount": 1,
+    "url": "uca.edu.ar",
+    "syns": [
+      "Pontificia Universidad Católica Argentina"
+    ],
+    "synsJoin": "Pontificia Universidad Católica Argentina"
+  },
+  {
     "country": "IT",
     "orgName": "home | Università degli Studi di Milano Statale",
     "ranks": {
@@ -7091,6 +7378,19 @@
       "Universidade de Lisboa"
     ],
     "synsJoin": "University of Lisbon || Universidade de Lisboa"
+  },
+  {
+    "country": "BN",
+    "orgName": "Universiti Teknologi Brunei",
+    "ranks": {
+      "QS": "340"
+    },
+    "rcount": 1,
+    "url": "www.utb.edu.bn",
+    "syns": [
+      "Universiti Teknologi Brunei"
+    ],
+    "synsJoin": "Universiti Teknologi Brunei"
   },
   {
     "country": "GB",
@@ -7218,6 +7518,32 @@
     "synsJoin": "Lincoln University"
   },
   {
+    "country": "ID",
+    "orgName": "Airlangga University",
+    "ranks": {
+      "QS": "369"
+    },
+    "rcount": 1,
+    "url": "www.unair.ac.id",
+    "syns": [
+      "Airlangga University"
+    ],
+    "synsJoin": "Airlangga University"
+  },
+  {
+    "country": "AE",
+    "orgName": "American University of Sharjah",
+    "ranks": {
+      "QS": "369"
+    },
+    "rcount": 1,
+    "url": "www.aus.edu",
+    "syns": [
+      "American University of Sharjah"
+    ],
+    "synsJoin": "American University of Sharjah"
+  },
+  {
     "country": "SE",
     "orgName": "Umeå University",
     "ranks": {
@@ -7246,6 +7572,20 @@
       "Universidade Nova de Lisboa"
     ],
     "synsJoin": "Universidade Nova de Lisboa"
+  },
+  {
+    "country": "IR",
+    "orgName": "Home - Sharif University of Technology - پورتال دانشگاه شریف",
+    "ranks": {
+      "QS": "380",
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 2,
+    "url": "en.sharif.edu",
+    "syns": [
+      "Sharif University of Technology"
+    ],
+    "synsJoin": "Sharif University of Technology"
   },
   {
     "country": "CO",
@@ -7462,6 +7802,20 @@
     "synsJoin": "Universität Leipzig || University of Leipzig || Leipzig University"
   },
   {
+    "country": "GR",
+    "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS",
+    "ranks": {
+      "QS": "422",
+      "usnews": "441"
+    },
+    "rcount": 2,
+    "url": "www.ntua.gr",
+    "syns": [
+      "National Technical University of Athens"
+    ],
+    "synsJoin": "National Technical University of Athens"
+  },
+  {
     "country": "AU",
     "orgName": "Flinders University - Adelaide, South Australia - Flinders University",
     "ranks": {
@@ -7546,6 +7900,32 @@
       "Universidade Federal de São Paulo"
     ],
     "synsJoin": "Universidade Federal de São Paulo"
+  },
+  {
+    "country": "IR",
+    "orgName": "Amirkabir University of Technology",
+    "ranks": {
+      "QS": "443"
+    },
+    "rcount": 1,
+    "url": "aut.ac.ir",
+    "syns": [
+      "Amirkabir University of Technology"
+    ],
+    "synsJoin": "Amirkabir University of Technology"
+  },
+  {
+    "country": "ID",
+    "orgName": "Faculty of Agriculture | IPB University",
+    "ranks": {
+      "QS": "449"
+    },
+    "rcount": 1,
+    "url": "ipb.ac.id",
+    "syns": [
+      "Bogor Agricultural University"
+    ],
+    "synsJoin": "Bogor Agricultural University"
   },
   {
     "country": "BE",
@@ -7660,6 +8040,32 @@
       "Universidad de Belgrano"
     ],
     "synsJoin": "Universidad de Belgrano"
+  },
+  {
+    "country": "CL",
+    "orgName": "Universidad de Santiago de Chile (USACH) : Rankings, Fees ...",
+    "ranks": {
+      "QS": "465"
+    },
+    "rcount": 1,
+    "url": "www.usach.cl",
+    "syns": [
+      "Chile Universidad de Santiago de Chile (USACH)"
+    ],
+    "synsJoin": "Chile Universidad de Santiago de Chile (USACH)"
+  },
+  {
+    "country": "CU",
+    "orgName": "Universidad de La Habana : Rankings, Fees & Courses Details ...",
+    "ranks": {
+      "QS": "467"
+    },
+    "rcount": 1,
+    "url": "www.uh.cu",
+    "syns": [
+      "Universidad de La Habana"
+    ],
+    "synsJoin": "Universidad de La Habana"
   },
   {
     "country": "IE",
@@ -8035,19 +8441,6 @@
     "synsJoin": "King Abdullah University of Science and Technology || King Abdullah University of Science & Technology"
   },
   {
-    "country": "MX",
-    "orgName": "National Autonomous University of Mexico",
-    "ranks": {
-      "shanghaIRking": "201-300"
-    },
-    "rcount": 1,
-    "url": "www.unam.mx",
-    "syns": [
-      "National Autonomous University of Mexico"
-    ],
-    "synsJoin": "National Autonomous University of Mexico"
-  },
-  {
     "country": "KR",
     "orgName": "UNIST",
     "ranks": {
@@ -8119,6 +8512,20 @@
     "synsJoin": "Bar-Ilan University"
   },
   {
+    "country": "EG",
+    "orgName": "Cairo University",
+    "ranks": {
+      "shanghaIRking": "301-400",
+      "usnews": "363"
+    },
+    "rcount": 2,
+    "url": "cu.edu.eg",
+    "syns": [
+      "Cairo University"
+    ],
+    "synsJoin": "Cairo University"
+  },
+  {
     "country": "IT",
     "orgName": "Università Cattolica del Sacro Cuore",
     "ranks": {
@@ -8150,19 +8557,20 @@
     "synsJoin": "Heinrich Heine University Duesseldorf || Heinrich Heine University Dusseldorf || Heinrich Heine University Düsseldorf"
   },
   {
-    "country": "US",
-    "orgName": "Georgia State University",
+    "country": "GR",
+    "orgName": "National and Kapodistrian University of Athens: Home",
     "ranks": {
       "shanghaIRking": "301-400",
-      "timeshighereducation": "401–500"
+      "timeshighereducation": "401–500",
+      "usnews": "250"
     },
-    "rcount": 2,
-    "url": "www.gsu.edu",
+    "rcount": 3,
+    "url": "en.uoa.gr",
     "syns": [
-      "The University of Georgia",
-      "Georgia State University"
+      "National and Kapodistrian University of Athens",
+      "National & Kapodistrian University of Athens"
     ],
-    "synsJoin": "The University of Georgia || Georgia State University"
+    "synsJoin": "National and Kapodistrian University of Athens || National & Kapodistrian University of Athens"
   },
   {
     "country": "US",
@@ -8224,6 +8632,20 @@
       "University of Milan-Bicocca"
     ],
     "synsJoin": "University of Milano-Bicocca || University of Milan-Bicocca"
+  },
+  {
+    "country": "IR",
+    "orgName": "Journal of Sciences, Islamic Republic of Iran",
+    "ranks": {
+      "shanghaIRking": "301-400",
+      "usnews": "329"
+    },
+    "rcount": 2,
+    "url": "jsciences.ut.ac.ir",
+    "syns": [
+      "University of Tehran"
+    ],
+    "synsJoin": "University of Tehran"
   },
   {
     "country": "AU",
@@ -8324,6 +8746,19 @@
       "Humanitas University"
     ],
     "synsJoin": "Humanitas University"
+  },
+  {
+    "country": "TR",
+    "orgName": "İstanbul University | Bridge Of The Science From History To The ...",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "www.istanbul.edu.tr",
+    "syns": [
+      "Istanbul University"
+    ],
+    "synsJoin": "Istanbul University"
   },
   {
     "country": "KR",
@@ -8449,6 +8884,19 @@
       "Taif University"
     ],
     "synsJoin": "Taif University"
+  },
+  {
+    "country": "IR",
+    "orgName": "Tehran University of Medical Sciences",
+    "ranks": {
+      "shanghaIRking": "401-500"
+    },
+    "rcount": 1,
+    "url": "en.tums.ac.ir",
+    "syns": [
+      "Tehran University of Medical Sciences"
+    ],
+    "synsJoin": "Tehran University of Medical Sciences"
   },
   {
     "country": "US",
@@ -8739,17 +9187,18 @@
     "synsJoin": "University of California San Diego"
   },
   {
-    "country": "BR",
-    "orgName": "University of São Paulo",
+    "country": "TR",
+    "orgName": "Çankaya University",
     "ranks": {
-      "usnews": "120"
+      "usnews": "173",
+      "timeshighereducation": "401–500"
     },
-    "rcount": 1,
-    "url": "www5.usp.br",
+    "rcount": 2,
+    "url": "www.cankaya.edu.tr",
     "syns": [
-      "Universidade de Sao Paulo"
+      "Cankaya University"
     ],
-    "synsJoin": "Universidade de Sao Paulo"
+    "synsJoin": "Cankaya University"
   },
   {
     "country": "US",
@@ -8820,6 +9269,19 @@
     "synsJoin": "University of Ibadan"
   },
   {
+    "country": "GR",
+    "orgName": "Aristotle University of Thessaloniki",
+    "ranks": {
+      "usnews": "363"
+    },
+    "rcount": 1,
+    "url": "www.auth.gr",
+    "syns": [
+      "Aristotle University of Thessaloniki"
+    ],
+    "synsJoin": "Aristotle University of Thessaloniki"
+  },
+  {
     "country": "US",
     "orgName": "Baylor University | A Nationally Ranked Christian University ...",
     "ranks": {
@@ -8831,6 +9293,32 @@
       "Baylor University"
     ],
     "synsJoin": "Baylor University"
+  },
+  {
+    "country": "TR",
+    "orgName": "Boğaziçi University - Home",
+    "ranks": {
+      "usnews": "377"
+    },
+    "rcount": 1,
+    "url": "www.boun.edu.tr",
+    "syns": [
+      "Bogazici University"
+    ],
+    "synsJoin": "Bogazici University"
+  },
+  {
+    "country": "IR",
+    "orgName": "Islamic Azad University, Yazd Branch",
+    "ranks": {
+      "usnews": "394"
+    },
+    "rcount": 1,
+    "url": "yazd.iau.ir",
+    "syns": [
+      "Islamic Azad University"
+    ],
+    "synsJoin": "Islamic Azad University"
   },
   {
     "country": "KR",
@@ -8925,6 +9413,19 @@
       "University of Massachusetts Worcester"
     ],
     "synsJoin": "University of Massachusetts Worcester"
+  },
+  {
+    "country": "EG",
+    "orgName": "Mansoura University, Egypt - Mansoura University, Egypt",
+    "ranks": {
+      "usnews": "447"
+    },
+    "rcount": 1,
+    "url": "www.mans.edu.eg",
+    "syns": [
+      "Mansoura University"
+    ],
+    "synsJoin": "Mansoura University"
   },
   {
     "country": "IS",
@@ -9223,6 +9724,32 @@
     "synsJoin": "Copenhagen Business School"
   },
   {
+    "country": "AE",
+    "orgName": "University of Sharjah -UAE",
+    "ranks": {
+      "timeshighereducation": "251–300"
+    },
+    "rcount": 1,
+    "url": "www.sharjah.ac.ae",
+    "syns": [
+      "University of Sharjah"
+    ],
+    "synsJoin": "University of Sharjah"
+  },
+  {
+    "country": "AE",
+    "orgName": "Abu Dhabi University: One of the Best Universities in the UAE",
+    "ranks": {
+      "timeshighereducation": "301–350"
+    },
+    "rcount": 1,
+    "url": "www.adu.ac.ae",
+    "syns": [
+      "Abu Dhabi University"
+    ],
+    "synsJoin": "Abu Dhabi University"
+  },
+  {
     "country": "SA",
     "orgName": "Alfaisal University | Riyadh. Kingdom of Saudi Arabia",
     "ranks": {
@@ -9340,6 +9867,19 @@
     "synsJoin": "Charles Darwin University"
   },
   {
+    "country": "IR",
+    "orgName": "- Golestan University of Medical Sciences",
+    "ranks": {
+      "timeshighereducation": "351–400"
+    },
+    "rcount": 1,
+    "url": "goums.ac.ir",
+    "syns": [
+      "Golestan University of Medical Sciences"
+    ],
+    "synsJoin": "Golestan University of Medical Sciences"
+  },
+  {
     "country": "DE",
     "orgName": "University of Greifswald: Home",
     "ranks": {
@@ -9379,6 +9919,19 @@
     "synsJoin": "Imam Mohammad Ibn Saud Islamic University"
   },
   {
+    "country": "IR",
+    "orgName": "Kurdistan University of Medical Sciences",
+    "ranks": {
+      "timeshighereducation": "351–400"
+    },
+    "rcount": 1,
+    "url": "www.muk.ac.ir",
+    "syns": [
+      "Kurdistan University of Medical Sciences"
+    ],
+    "synsJoin": "Kurdistan University of Medical Sciences"
+  },
+  {
     "country": "DE",
     "orgName": "Leuphana University",
     "ranks": {
@@ -9390,6 +9943,20 @@
       "Leuphana University of Lüneburg"
     ],
     "synsJoin": "Leuphana University of Lüneburg"
+  },
+  {
+    "country": "IR",
+    "orgName": "Journal of Mazandaran University of Medical Sciences – DOAJ",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 2,
+    "url": "doaj.org",
+    "syns": [
+      "Mazandaran University of Medical Sciences",
+      "Qazvin University of Medical Sciences"
+    ],
+    "synsJoin": "Mazandaran University of Medical Sciences || Qazvin University of Medical Sciences"
   },
   {
     "country": "GB",
@@ -9444,6 +10011,19 @@
     "synsJoin": "Wroclaw Medical University"
   },
   {
+    "country": "IR",
+    "orgName": "Arak University of Medical Sciences",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "www.arakmu.ac.ir",
+    "syns": [
+      "Arak University of Medical Sciences"
+    ],
+    "synsJoin": "Arak University of Medical Sciences"
+  },
+  {
     "country": "GB",
     "orgName": "Aston University: Home",
     "ranks": {
@@ -9455,6 +10035,45 @@
       "Aston University"
     ],
     "synsJoin": "Aston University"
+  },
+  {
+    "country": "EG",
+    "orgName": "Aswan University",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "aswu.edu.eg",
+    "syns": [
+      "Aswan University"
+    ],
+    "synsJoin": "Aswan University"
+  },
+  {
+    "country": "IR",
+    "orgName": "Cohort profile: the Amirkola Health and Ageing Project (AHAP)",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "pubmed.ncbi.nlm.nih.gov",
+    "syns": [
+      "Babol University of Medical Sciences"
+    ],
+    "synsJoin": "Babol University of Medical Sciences"
+  },
+  {
+    "country": "IR",
+    "orgName": "Babol Noshirvani University of Technology",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "nit.ac.ir",
+    "syns": [
+      "Babol Noshirvani University of Technology"
+    ],
+    "synsJoin": "Babol Noshirvani University of Technology"
   },
   {
     "country": "GB",
@@ -9481,6 +10100,19 @@
       "Colorado School of Mines"
     ],
     "synsJoin": "Colorado School of Mines"
+  },
+  {
+    "country": "GR",
+    "orgName": "University of Crete",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "en.uoc.gr",
+    "syns": [
+      "University of Crete"
+    ],
+    "synsJoin": "University of Crete"
   },
   {
     "country": "GB",
@@ -9533,6 +10165,19 @@
       "Free University of Bozen-Bolzano"
     ],
     "synsJoin": "Free University of Bozen-Bolzano"
+  },
+  {
+    "country": "US",
+    "orgName": "Georgia State University",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "www.gsu.edu",
+    "syns": [
+      "Georgia State University"
+    ],
+    "synsJoin": "Georgia State University"
   },
   {
     "country": "SA",
@@ -9613,6 +10258,19 @@
     "synsJoin": "University of Modena and Reggio Emilia"
   },
   {
+    "country": "TZ",
+    "orgName": "Muhimbili University of Health and Allied Sciences",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "www.muhas.ac.tz",
+    "syns": [
+      "Muhimbili University of Health and Allied Sciences"
+    ],
+    "synsJoin": "Muhimbili University of Health and Allied Sciences"
+  },
+  {
     "country": "US",
     "orgName": "University of Nebraska Medical Center: Home",
     "ranks": {
@@ -9691,6 +10349,32 @@
     "synsJoin": "University of Portsmouth"
   },
   {
+    "country": "IR",
+    "orgName": "https://ismj.bpums.ac.ir/files/site1/files/Abbrevi...",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "ismj.bpums.ac.ir",
+    "syns": [
+      "Qom University of Medical Sciences"
+    ],
+    "synsJoin": "Qom University of Medical Sciences"
+  },
+  {
+    "country": "TR",
+    "orgName": "Sabancı University",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "www.sabanciuniv.edu",
+    "syns": [
+      "Sabancı University"
+    ],
+    "synsJoin": "Sabancı University"
+  },
+  {
     "country": "GB",
     "orgName": "SRUC: Home",
     "ranks": {
@@ -9728,6 +10412,19 @@
       "The University of Tulsa"
     ],
     "synsJoin": "The University of Tulsa"
+  },
+  {
+    "country": "IR",
+    "orgName": "International Branch of UMSU - urmia university of medical sciences",
+    "ranks": {
+      "timeshighereducation": "401–500"
+    },
+    "rcount": 1,
+    "url": "english.umsu.ac.ir",
+    "syns": [
+      "Urmia University of Medical Sciences"
+    ],
+    "synsJoin": "Urmia University of Medical Sciences"
   },
   {
     "country": "GB",
