@@ -25,7 +25,7 @@ const routes: Routes = [
   /*
     Undefined routes (should redirect to a 404 page)
   */
-  { path: '**', redirectTo: '/comparator' }
+  { path: '**', redirectTo: '/comparator', pathMatch: 'full' }
 ];
 
 @NgModule({
