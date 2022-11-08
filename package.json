@@ -1,6 +1,6 @@
 {
-  "name": "comparating-template",
-  "version": "0.8.0",
+  "name": "comparating",
+  "version": "2.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,9 +8,6 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "dev:ssr": "ng run comparating-template:serve-ssr",
-    "serve:ssr": "node dist/server/main.js",
-    "build:ssr": "ng build --prod && ng run comparating-template:server:production",
     "prerender": "ng run comparating-template:prerender",
     "deploy": "ng build --configuration production && firebase deploy"
   },
@@ -31,5 +28,16 @@
     "firebase": "^9.13.0",
     "firebase-tools": "^11.15.0",
     "ngx-echarts": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^4.3.0",
+    "@types/jasminewd2": "^2.0.10",
+    "jasmine-core": "^4.5.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage-istanbul-reporter": "^3.0.3",
+    "karma-jasmine": "^5.1.0",
+    "karma-jasmine-html-reporter": "^2.0.0"
   }
 }
