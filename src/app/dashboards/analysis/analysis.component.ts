@@ -46,8 +46,10 @@ export class AnalysisComponent implements OnInit {
   udm: Udm = {}
   //Filter
   selectedCountryFilter: string
+  selectedListFilter: string
   moreThen3
   countriesList = []
+  listsList = []
   getCountry = {}
   palette = ['#d5f4e6', '#80ced6', '#fefbd8', '#ffef96', '#deeaee']
 
@@ -62,7 +64,9 @@ export class AnalysisComponent implements OnInit {
   ) {
     this.getCountry = CountriesList.plain
     // tslint:disable-next-line:no-string-literal
-    this.originalData = route.snapshot.data['tableData'];
+    this.selectedListFilter = "defaultList"
+    this.originalData = route.snapshot.data['tableData'][this.selectedListFilter];
+    this.listsList = Object.keys(route.snapshot.data['tableData'])
     this.dataSource = new MatTableDataSource(this.originalData);
     this.filtersForm = new UntypedFormGroup({
       search: new UntypedFormControl(''),
@@ -98,9 +102,16 @@ export class AnalysisComponent implements OnInit {
     });
     this.dataSource.data = results;
   }
+
   countryChange() {
     this.applyFilters(this.filtersForm.value);
   }
+
+  listChange() {
+    this.originalData = this.route.snapshot.data['tableData'][this.selectedListFilter]
+    this.applyFilters(this.filtersForm.value);
+  }
+
   filterby3(event) {
     this.moreThen3 = event
     this.applyFilters(this.filtersForm.value);

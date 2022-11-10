@@ -33,5 +33,8 @@
    "Disamb.CopyDataToFile": "Prepared data for the analysis of the selected ratings. For permanent use, save the data to a file",
    "Disamb.PreparationFinished": "Data preparation completed",
    "Disamb.Set": "Set",
-   "Disamb.NoAmb": "No ambiguities were found"
+   "Disamb.NoAmb": "No ambiguities were found",
+   "ListsOption": "List",
+   "defaultList": "Final",
+   "SelectList": "Selected"
 }

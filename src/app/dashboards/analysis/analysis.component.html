@@ -4,11 +4,23 @@
   <div class="row">
     <div class="col-12">
       <div>
-        <form [formGroup]="filtersForm" class="filters-form">
+        
+        <form [formGroup]="filtersForm" class="filters-form container">
           <div class="row">
-            <div class="col-sm-5">
+            <div class="col-sm">
               <div class="form-group categories">
-                {{'' |transloco}}
+                <label class="col-form-label">{{'ListsOption' |transloco}}</label>
+                <mat-form-field appearance="fill">
+                  <mat-label>{{'SelectList' |transloco}}</mat-label>
+                  <mat-select [(value)]="selectedListFilter" (valueChange)="listChange()">
+                    <mat-option value="{{item}}" *ngFor="let item of listsList"> {{item |transloco}}
+                    </mat-option>
+                  </mat-select>
+                </mat-form-field>
+              </div>
+            </div>
+            <div class="col-sm">
+              <div class="form-group categories">
                 <label class="col-form-label">{{'Countries' |transloco}}</label>
                 <mat-form-field appearance="fill">
                   <mat-label>{{'SelectCountry' |transloco}}</mat-label>
@@ -20,14 +32,7 @@
                 </mat-form-field>
               </div>
             </div>
-            <div class="col-sm-4">
-              <div class="form-group">
-                <label class="col-form-label">{{'Search' |transloco}}</label>
-                <input class="form-control" type="text" (keyup)="search($event.target.value)" formControlName="search"
-                  placeholder="{{'UniversityName'|transloco}}...">
-              </div>
-            </div>
-            <div class="col-sm-3">
+            <div class="col-sm">
               <div class="form-group">
                 <label class="col-form-label">{{'AtLeastIn3' |transloco}}</label>
                 <div class="input-group">
@@ -35,6 +40,15 @@
                     {{'Belongs' | transloco}}
                   </mat-checkbox>
                 </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm">
+              <div class="form-group">
+                <label class="col-form-label">{{'Search' |transloco}}</label>
+                <input class="form-control" type="text" (keyup)="search($event.target.value)" formControlName="search"
+                  placeholder="{{'UniversityName'|transloco}}...">
               </div>
             </div>
           </div>

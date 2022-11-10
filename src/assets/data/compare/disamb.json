@@ -7888,5 +7888,107 @@
     "uName": "American University of Sharjah",
     "site": "www.aus.edu",
     "destUrl": "https://www.aus.edu/"
+  },
+  "Hong Kong The University of HK": {
+    "origName": "Hong Kong The University of HK",
+    "uName": "The University of Hong Kong (HKU)",
+    "site": "www.hku.hk",
+    "destUrl": "https://www.hku.hk/"
+  },
+  "Greece Harokopio University": {
+    "origName": "Greece Harokopio University",
+    "uName": "Harokopio University",
+    "site": "www.hua.gr",
+    "destUrl": "https://www.hua.gr/index.php/en/"
+  },
+  "Brunei Darussalam Universiti BN (UBD)": {
+    "origName": "Brunei Darussalam Universiti BN (UBD)",
+    "uName": "Universiti Brunei Darussalam",
+    "site": "ubd.edu.bn",
+    "destUrl": "https://ubd.edu.bn/"
+  },
+  "United Arab Emirates AE University": {
+    "origName": "United Arab Emirates AE University",
+    "uName": "United Arab Emirates University (UAEU) - Top Universities in Abu ...",
+    "site": "www.uaeu.ac.ae",
+    "destUrl": "https://www.uaeu.ac.ae/en/"
+  },
+  "Hong Kong The Chinese University of HK": {
+    "origName": "Hong Kong The Chinese University of HK",
+    "uName": "The Chinese University of Hong Kong",
+    "site": "www.cuhk.edu.hk",
+    "destUrl": "https://www.cuhk.edu.hk/"
+  },
+  "Qatar QA University": {
+    "origName": "Qatar QA University",
+    "uName": "Qatar University: Home",
+    "site": "www.qu.edu.qa",
+    "destUrl": "http://www.qu.edu.qa/"
+  },
+  "Qatar University of Qatar": {
+    "origName": "Qatar University of Qatar",
+    "uName": "Qatar University: Home",
+    "site": "www.qu.edu.qa",
+    "destUrl": "http://www.qu.edu.qa/"
+  },
+  "Hong Kong The Chinese University of HK (CUHK)": {
+    "origName": "Hong Kong The Chinese University of HK (CUHK)",
+    "uName": "The Chinese University of Hong Kong",
+    "site": "www.cuhk.edu.hk",
+    "destUrl": "https://www.cuhk.edu.hk/"
+  },
+  "Hong Kong Hong Kong University of Science and Technology": {
+    "origName": "Hong Kong Hong Kong University of Science and Technology",
+    "uName": "HKUST: World-class University in Hong Kong and Asia",
+    "site": "hkust.edu.hk",
+    "destUrl": "https://hkust.edu.hk/"
+  },
+  "Hong Kong HK Baptist University": {
+    "origName": "Hong Kong HK Baptist University",
+    "uName": "HKBU: Hong Kong Baptist University",
+    "site": "www.hkbu.edu.hk",
+    "destUrl": "https://www.hkbu.edu.hk/"
+  },
+  "Turkey Istanbul Bilgi University": {
+    "origName": "Turkey Istanbul Bilgi University",
+    "uName": "Istanbul Bilgi University: Home",
+    "site": "www.bilgi.edu.tr",
+    "destUrl": "https://www.bilgi.edu.tr/en/"
+  },
+  "Turkey Middle East Technical University": {
+    "origName": "Turkey Middle East Technical University",
+    "uName": "METU - Middle East Technical University | WE CAN CHANGE THE ...",
+    "site": "www.metu.edu.tr",
+    "destUrl": "https://www.metu.edu.tr/"
+  },
+  "Hong Kong Chinese University Hong Kong": {
+    "origName": "Hong Kong Chinese University Hong Kong",
+    "uName": "The Chinese University of Hong Kong",
+    "site": "www.cuhk.edu.hk",
+    "destUrl": "https://www.cuhk.edu.hk/"
+  },
+  "Hong Kong City University of HK": {
+    "origName": "Hong Kong City University of HK",
+    "uName": "City University of Hong Kong: Home",
+    "site": "www.cityu.edu.hk",
+    "destUrl": "https://www.cityu.edu.hk/"
+  },
+  "Hong Kong City University Hong Kong": {
+    "origName": "Hong Kong City University Hong Kong",
+    "uName": "City University of Hong Kong: Home",
+    "site": "www.cityu.edu.hk",
+    "destUrl": "https://www.cityu.edu.hk/"
+  },
+  "Hong Kong The HK Polytechnic University": {
+    "origName": "Hong Kong The HK Polytechnic University",
+    "uName": "Main Page | Pao Yue-kong Library, The Hong Kong Polytechnic ...",
+    "site": "www.lib.polyu.edu.hk",
+    "destUrl": "https://www.lib.polyu.edu.hk/"
+  },
+  "Hong Kong The HK University of Science and Technology": {
+    "origName": "Hong Kong The HK University of Science and Technology",
+    "uName": "HKUST: World-class University in Hong Kong and Asia",
+    "site": "hkust.edu.hk",
+    "destUrl": "https://hkust.edu.hk/"
   }
 }
