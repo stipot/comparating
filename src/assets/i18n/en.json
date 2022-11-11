@@ -30,7 +30,7 @@
    "Disamb.AddToFile": "Add the received data to the file",
    "Disamb.UnifyOrgInfo": "Unify information about organizations",
    "Disamb.UnifyData": "Unify data",
-   "Disamb.CopyDataToFile": "Prepared data for the analysis of the selected ratings. For permanent use, save the data to a file",
+   "Disamb.CopyDataToFile": "Prepared data for the analysis of the selected ratings. For permanent use, save the data with the key of the corresponding sampling year to a file",
    "Disamb.PreparationFinished": "Data preparation completed",
    "Disamb.Set": "Set",
    "Disamb.NoAmb": "No ambiguities were found",

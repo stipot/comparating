@@ -1,8 +1,30 @@
 # Comprating is an application to compare International University rankings
 
+# Description
+
+Decree of the Government of the Russian Federation from April 25, 2012 No. 389 for the first time criteria have been introduced formation of a list of foreign educational and scientific organizations in the list of foreign educational and scientific organizations, received education and (or) qualifications, academic degrees and academic titles in which are recognized in the Russian Federation.
+
+This list was revised by the Government of the Russian Federation, taking into account the current data of the Academic rating Academic Ranking of World Universities, QS World University Rankings) and the Times Higher Education World University Ranking). At the same time, universities are selected that occupy the first three hundred positions simultaneously in all three ratings. The list was formed on a cumulative basis. If the university is in some year did not make it into the selection, he nevertheless remained on the list.
+
+Starting in 2021 Government Decree Russian Federation dated March 5, 2021 N 326 new criteria for the formation of the list of foreign educational and scientific organizations in the list of foreign educational and scientific organizations, received education and (or) qualifications, academic degrees and academic titles in which are recognized in the Russian Federation
+
+The new criteria establish that a foreign educational organization and a foreign scientific the organization is included in the current year in one of the first 500 positions in at least 3 out of 5 international ratings at the same time: Academic Ranking of World Universities, world QS World University Rankings, The Times Higher Education World University Rankings), the world ranking of universities (U.S. News Best Global Universities) and Moscow International University Ranking "Three University Missions".
+
+The wording of the new criteria ("included in the current year") does not exclude the possibility of losing legal status foreign level education and (or) qualifications, academic degree and academic title of university graduates who have dropped out of the list. V In this case, the educational organization can expel and the employer can dismiss the employee if there is qualification requirements for the position.
+
+Taking this feature into account, the Comparanking program was developed, which allows you to analyze ratings and conformity organization according to established criteria.
+
+When developing the program, it was taken into account that ratings do not provide data in a machine-readable format. Their comparison does not exclude uncertainty due to the fact that the names of the university in different rankings can differ.
+
+Comparanking allows you to evaluate a university by its rank in 5 world rankings, entering at the same time in the aggregate of rankings. Select rated universities for each country. Go to the official website of the university.
+
+Then you can go directly to the section Analysis comparison of ratings in the context of new criteria.
+
 # Demo
 
-Demo version of the application is accessible on https://istool.ru, https://comparating-9fc94.firebaseapp.com/
+Demo version of the application is accessible on https://comparating.stipot.com
+
+
 
 # Development
 
@@ -11,6 +33,17 @@ Demo version of the application is accessible on https://istool.ru, https://comp
 1. clone https://github.com/stipot/comparating.git
 2. npm install
 3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+4. Deployment
+```
+npm install -g firebase-tools
+powershell Set-ExecutionPolicy unrestricted
+firebase login
+```
+
+# Troubleshooting
+## Cache issue
+After Firebase deployment could be cache issues. Please, clear the browser cache. 
+Ctrl+shift+J. Network tab. Check Disable cache. Refresh page. Uncheck Disable cache option. Ctrl+shift+J - to hide Dev Tools.
 
 ## Project data structure
 
