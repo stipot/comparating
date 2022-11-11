@@ -81,6 +81,7 @@
                 <div *ngIf="element.ranks?.timeshighereducation">Times:
                   {{element.ranks?.timeshighereducation}}<br></div>
                 <div *ngIf="element.ranks?.shanghaIRking">ARWU: {{element.ranks?.shanghaIRking}}<br></div>
+                <div *ngFor="let item of element.years">{{item[0]}}:{{item[1]}}<br></div>
               </td>
             </ng-container>
             <ng-container matColumnDef="rcount">

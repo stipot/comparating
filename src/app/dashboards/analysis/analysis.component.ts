@@ -47,7 +47,7 @@ export class AnalysisComponent implements OnInit {
   //Filter
   selectedCountryFilter: string
   selectedListFilter: string
-  moreThen3
+  moreThen3 = true
   countriesList = []
   listsList = []
   getCountry = {}
@@ -65,8 +65,36 @@ export class AnalysisComponent implements OnInit {
     this.getCountry = CountriesList.plain
     // tslint:disable-next-line:no-string-literal
     this.selectedListFilter = "defaultList"
-    this.originalData = route.snapshot.data['tableData'][this.selectedListFilter];
+
     this.listsList = Object.keys(route.snapshot.data['tableData'])
+    // index by url
+    var uniList = {}
+    this.listsList.forEach(key => {
+      if (key != "defaultList") {
+        uniList[key] = {}
+        route.snapshot.data['tableData'][key].forEach(el => uniList[key][el.url] = el)
+      }
+    })
+    // result hash
+    var resultList = {}
+    Object.entries(uniList).forEach(([key, list]) => {
+      Object.entries(list).forEach(([url, el]) => {
+        if (el.rcount > 2) {
+          resultList[url] = {
+            country: el.country,
+            orgName: el.orgName,
+            ranks: {},
+            years: resultList[url] ? [[key, el.rcount], ...resultList[url]['years']] : [[key, el.rcount]],
+            rcount: Math.max(el.rcount, resultList[url] ? resultList[url]['rcount'] : 0),
+            syns: el.syns,
+            sysnsJoin: el.synsJoin,
+            url: el.url
+          }
+        }
+      })
+    })
+    route.snapshot.data['tableData']["defaultList"] = Object.entries(resultList).map(([key, val]) => val)
+    this.originalData = route.snapshot.data['tableData'][this.selectedListFilter];
     this.dataSource = new MatTableDataSource(this.originalData);
     this.filtersForm = new UntypedFormGroup({
       search: new UntypedFormControl(''),
@@ -110,6 +138,8 @@ export class AnalysisComponent implements OnInit {
   listChange() {
     this.originalData = this.route.snapshot.data['tableData'][this.selectedListFilter]
     this.applyFilters(this.filtersForm.value);
+    if (this.selectedListFilter == "defaultList")
+      this.moreThen3 = true
   }
 
   filterby3(event) {
