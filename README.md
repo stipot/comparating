@@ -49,7 +49,7 @@ Ctrl+shift+J. Network tab. Check Disable cache. Refresh page. Uncheck Disable ca
 
 /assets/config/data
   ./compare/
-    ./analyse.json - data prepared by the programme to show final data on Analyse page.
+    ./analyse.json - data prepared by the programme to show final data on Analysis page.
     ./exclude.json - list of countries excluded from the analyses due to international agreements https://nic.gov.ru/ru/docs/foreign/confirmation
     ./dbindex.json - list of ratings data files from ../ratings/ folder.
     ./disamb.json - data for organization's name disambiguation. If the programme on the page Sources found organization's name which doesn't mentioned in the file so the programme propose to get disambiguation data using Google search API. Append the disamb.json data after you get it on the Unification page.
